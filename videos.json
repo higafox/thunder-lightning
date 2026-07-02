@@ -1,0 +1,5515 @@
+{
+  "meta": {
+    "title": "Thunder/Lightning",
+    "subtitle": "A Love Letter to Music Videos",
+    "totalVideos": 169,
+    "totalArtists": 133,
+    "totalDirectors": 138,
+    "totalTags": 88
+  },
+  "videos": {
+    "mette-van-gogh": {
+      "id": "mette-van-gogh",
+      "artist": "Mette",
+      "song": "VAN GOGH",
+      "director": "Camille Summers-Valli",
+      "directors": [
+        "Camille Summers-Valli"
+      ],
+      "dateDisplay": "August 2023",
+      "sortDate": "2023-08-10",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "AprFIej9Cho",
+      "vimeoId": "852661771",
+      "thumbnailUrl": "https://img.youtube.com/vi/AprFIej9Cho/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "d&ad",
+        "dance",
+        "editing",
+        "match cut",
+        "ukmva",
+        "womxn director"
+      ]
+    },
+    "mette-mamas-eyes": {
+      "id": "mette-mamas-eyes",
+      "artist": "Mette",
+      "song": "MAMA’S EYES",
+      "director": "Camille Summers-Valli",
+      "directors": [
+        "Camille Summers-Valli"
+      ],
+      "dateDisplay": "May 2023",
+      "sortDate": "2023-05-03",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "gi9OBRzbMNI",
+      "vimeoId": "857398835",
+      "thumbnailUrl": "https://img.youtube.com/vi/gi9OBRzbMNI/hqdefault.jpg",
+      "tags": [
+        "butts",
+        "confidence",
+        "d&ad",
+        "dance",
+        "editing",
+        "match cut",
+        "ukmva",
+        "womxn director"
+      ]
+    },
+    "mette-bet": {
+      "id": "mette-bet",
+      "artist": "Mette",
+      "song": "BET",
+      "director": "C Prinz",
+      "directors": [
+        "C Prinz"
+      ],
+      "dateDisplay": "May 2024",
+      "sortDate": "2024-05-20",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "3DnDPArgl_I",
+      "vimeoId": "952394749",
+      "thumbnailUrl": "https://img.youtube.com/vi/3DnDPArgl_I/hqdefault.jpg",
+      "tags": [
+        "match cut",
+        "orbiting",
+        "womxn director"
+      ]
+    },
+    "feist-i-feel-it-all": {
+      "id": "feist-i-feel-it-all",
+      "artist": "Feist",
+      "song": "I Feel It All",
+      "director": "Patrick Daughters",
+      "directors": [
+        "Patrick Daughters"
+      ],
+      "dateDisplay": "January 2008",
+      "sortDate": "2008-01-23",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "l-iAS18rv68",
+      "vimeoId": "17779218",
+      "thumbnailUrl": "https://img.youtube.com/vi/l-iAS18rv68/hqdefault.jpg",
+      "tags": [
+        "explosions",
+        "long take",
+        "soundsync"
+      ]
+    },
+    "talking-heads-and-she-was": {
+      "id": "talking-heads-and-she-was",
+      "artist": "Talking Heads",
+      "song": "And She Was",
+      "director": "Jim Blashfield",
+      "directors": [
+        "Jim Blashfield"
+      ],
+      "dateDisplay": "January 1985",
+      "sortDate": "1985-01-01",
+      "year": 1985,
+      "provider": "youtube",
+      "youtubeId": "cl3B_FTDKD0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/cl3B_FTDKD0/hqdefault.jpg",
+      "tags": [
+        "collage",
+        "lofi brilliance",
+        "stop motion"
+      ]
+    },
+    "r2j2-work-it-out": {
+      "id": "r2j2-work-it-out",
+      "artist": "R2J2",
+      "song": "Work It Out",
+      "director": "Joey Garfield",
+      "directors": [
+        "Joey Garfield"
+      ],
+      "dateDisplay": "July 2007",
+      "sortDate": "2007-07-12",
+      "year": 2007,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "90803904",
+      "thumbnailUrl": null,
+      "tags": [
+        "dance",
+        "long take"
+      ]
+    },
+    "bomba-est-reo-soy-yo": {
+      "id": "bomba-est-reo-soy-yo",
+      "artist": "Bomba Estéreo",
+      "song": "Soy Yo",
+      "director": "Torben Kjelstrup",
+      "directors": [
+        "Torben Kjelstrup"
+      ],
+      "dateDisplay": "September 2016",
+      "sortDate": "2016-09-07",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "bxWxXncl53U",
+      "vimeoId": "1069316804",
+      "thumbnailUrl": "https://img.youtube.com/vi/bxWxXncl53U/hqdefault.jpg",
+      "tags": [
+        "bike",
+        "brooklyn",
+        "confidence",
+        "dance",
+        "flute",
+        "kids"
+      ]
+    },
+    "psy-gangnam-style": {
+      "id": "psy-gangnam-style",
+      "artist": "PSY",
+      "song": "GANGNAM STYLE (강남스타일)",
+      "director": "Cho Soo-hyun",
+      "directors": [
+        "Cho Soo-hyun"
+      ],
+      "dateDisplay": "July 2012",
+      "sortDate": "2012-07-15",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "9bZkp7q19f0",
+      "vimeoId": "474153803",
+      "thumbnailUrl": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "editing",
+        "explosions",
+        "lasers",
+        "poc director",
+        "wut"
+      ]
+    },
+    "vial-of-sound-a-lifetime-passed": {
+      "id": "vial-of-sound-a-lifetime-passed",
+      "artist": "Vial of Sound",
+      "song": "A Lifetime Passed",
+      "director": "Ori Toor",
+      "directors": [
+        "Ori Toor"
+      ],
+      "dateDisplay": "June 2013",
+      "sortDate": "2013-06-19",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "pD0Ioz8IqIQ",
+      "vimeoId": "68721490",
+      "thumbnailUrl": "https://img.youtube.com/vi/pD0Ioz8IqIQ/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "loops",
+        "psychedelic",
+        "repeat"
+      ]
+    },
+    "light-light-kilo-do-not-touch": {
+      "id": "light-light-kilo-do-not-touch",
+      "artist": "Light Light",
+      "song": "Kilo (Do Not Touch)",
+      "director": "Moniker",
+      "directors": [
+        "Moniker"
+      ],
+      "dateDisplay": "April 2013",
+      "sortDate": "2013-04-16",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "W3ZjY8YD_NY",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/W3ZjY8YD_NY/hqdefault.jpg",
+      "tags": [
+        "interactive",
+        "ukmva"
+      ]
+    },
+    "the-darkness-i-believe-in-a-thing-called-love": {
+      "id": "the-darkness-i-believe-in-a-thing-called-love",
+      "artist": "The Darkness",
+      "song": "I Believe in a Thing Called Love",
+      "director": "Alex Smith",
+      "directors": [
+        "Alex Smith"
+      ],
+      "dateDisplay": "September 2003",
+      "sortDate": "2003-09-22",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "tKjZuykKY1I",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/tKjZuykKY1I/hqdefault.jpg",
+      "tags": [
+        "guitar solo",
+        "kaiju",
+        "space",
+        "wut"
+      ]
+    },
+    "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas": {
+      "id": "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+      "artist": "Pharrell Williams ft. 21 Savage, Tyler, The Creator",
+      "song": "Cash In Cash Out",
+      "director": "François Rousselet",
+      "directors": [
+        "François Rousselet"
+      ],
+      "dateDisplay": "June 2022",
+      "sortDate": "2022-06-10",
+      "year": 2022,
+      "provider": "youtube",
+      "youtubeId": "cKEwnhc8ItY",
+      "vimeoId": "728420012",
+      "thumbnailUrl": "https://img.youtube.com/vi/cKEwnhc8ItY/hqdefault.jpg",
+      "tags": [
+        "3D printing",
+        "stop motion",
+        "ukmva",
+        "zoetrope"
+      ]
+    },
+    "jungle-back-on-74": {
+      "id": "jungle-back-on-74",
+      "artist": "Jungle",
+      "song": "Back on 74",
+      "director": "J Lloyd & Charlie Di Placido",
+      "directors": [
+        "J Lloyd & Charlie Di Placido"
+      ],
+      "dateDisplay": "August 2023",
+      "sortDate": "2023-08-11",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "q3lX2p_Uy9I",
+      "vimeoId": "850231443",
+      "thumbnailUrl": "https://img.youtube.com/vi/q3lX2p_Uy9I/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance",
+        "long take",
+        "ukmva"
+      ]
+    },
+    "harold-faltermeyer-steve-stevens-top-gun-anthem": {
+      "id": "harold-faltermeyer-steve-stevens-top-gun-anthem",
+      "artist": "Harold Faltermeyer & Steve Stevens",
+      "song": "Top Gun Anthem",
+      "director": "Dominic Sena",
+      "directors": [
+        "Dominic Sena"
+      ],
+      "dateDisplay": "March 1986",
+      "sortDate": "1986-03-01",
+      "year": 1986,
+      "provider": "youtube",
+      "youtubeId": "wpvAKF00VNI",
+      "vimeoId": "73499734",
+      "thumbnailUrl": "https://img.youtube.com/vi/wpvAKF00VNI/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "guitar solo",
+        "hair",
+        "wut"
+      ]
+    },
+    "michael-jackson-billie-jean": {
+      "id": "michael-jackson-billie-jean",
+      "artist": "Michael Jackson",
+      "song": "Billie Jean",
+      "director": "Steve Barron",
+      "directors": [
+        "Steve Barron"
+      ],
+      "dateDisplay": "March 1983",
+      "sortDate": "1983-03-10",
+      "year": 1983,
+      "provider": "youtube",
+      "youtubeId": "Zi_XLOBDo_Y",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Zi_XLOBDo_Y/hqdefault.jpg",
+      "tags": [
+        "dance"
+      ]
+    },
+    "modest-mouse-dashboard": {
+      "id": "modest-mouse-dashboard",
+      "artist": "Modest Mouse",
+      "song": "Dashboard",
+      "director": "Matthew Cullen & Grady Hall",
+      "directors": [
+        "Matthew Cullen & Grady Hall"
+      ],
+      "dateDisplay": "February 2007",
+      "sortDate": "2007-02-27",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "penvn9VL32Y",
+      "vimeoId": "15073200",
+      "thumbnailUrl": "https://img.youtube.com/vi/penvn9VL32Y/hqdefault.jpg",
+      "tags": [
+        "mixed media"
+      ]
+    },
+    "blur-song-2": {
+      "id": "blur-song-2",
+      "artist": "Blur",
+      "song": "Song 2",
+      "director": "Sophie Muller",
+      "directors": [
+        "Sophie Muller"
+      ],
+      "dateDisplay": "April 1997",
+      "sortDate": "1997-04-07",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "SSbBvKaM6sk",
+      "vimeoId": "22918403",
+      "thumbnailUrl": "https://img.youtube.com/vi/SSbBvKaM6sk/hqdefault.jpg",
+      "tags": [
+        "womxn director"
+      ]
+    },
+    "feist-1234": {
+      "id": "feist-1234",
+      "artist": "Feist",
+      "song": "1234",
+      "director": "Patrick Daughters",
+      "directors": [
+        "Patrick Daughters"
+      ],
+      "dateDisplay": "April 2007",
+      "sortDate": "2007-04-13",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "ABYnqp-bxvg",
+      "vimeoId": "17777371",
+      "thumbnailUrl": "https://img.youtube.com/vi/ABYnqp-bxvg/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "dance"
+      ]
+    },
+    "gnarls-barkley-crazy": {
+      "id": "gnarls-barkley-crazy",
+      "artist": "Gnarls Barkley",
+      "song": "Crazy",
+      "director": "Robert Hales",
+      "directors": [
+        "Robert Hales"
+      ],
+      "dateDisplay": "March 2006",
+      "sortDate": "2006-03-13",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "-N4jf6rtyuw",
+      "vimeoId": "149637214",
+      "thumbnailUrl": "https://img.youtube.com/vi/-N4jf6rtyuw/hqdefault.jpg",
+      "tags": [
+        "psychedelic"
+      ]
+    },
+    "blur-no-distance-left-to-run": {
+      "id": "blur-no-distance-left-to-run",
+      "artist": "Blur",
+      "song": "No Distance Left to Run",
+      "director": "Thomas Vinterberg",
+      "directors": [
+        "Thomas Vinterberg"
+      ],
+      "dateDisplay": "November 1999",
+      "sortDate": "1999-11-15",
+      "year": 1999,
+      "provider": "youtube",
+      "youtubeId": "dgA_DlR8WsM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/dgA_DlR8WsM/hqdefault.jpg",
+      "tags": [
+        "night vision"
+      ]
+    },
+    "bellx1-rocky-took-a-lover": {
+      "id": "bellx1-rocky-took-a-lover",
+      "artist": "BellX1",
+      "song": "Rocky Took A Lover",
+      "director": "SSSR",
+      "directors": [
+        "SSSR"
+      ],
+      "dateDisplay": "January 2008",
+      "sortDate": "2008-01-16",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "XjtCsrEz0XY",
+      "vimeoId": "180696369",
+      "thumbnailUrl": "https://img.youtube.com/vi/XjtCsrEz0XY/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "lofi brilliance",
+        "mixed media",
+        "puppets"
+      ]
+    },
+    "ok-go-here-it-goes-again": {
+      "id": "ok-go-here-it-goes-again",
+      "artist": "OK GO",
+      "song": "Here It Goes Again",
+      "director": "Trish Sie",
+      "directors": [
+        "Trish Sie"
+      ],
+      "dateDisplay": "July 2006",
+      "sortDate": "2006-07-31",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "dTAAsCNK7RA",
+      "vimeoId": "8267567",
+      "thumbnailUrl": "https://img.youtube.com/vi/dTAAsCNK7RA/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "treadmill/escalator",
+        "womxn director"
+      ]
+    },
+    "blur-coffee-tv": {
+      "id": "blur-coffee-tv",
+      "artist": "Blur",
+      "song": "Coffee & TV",
+      "director": "Garth Jennings",
+      "directors": [
+        "Garth Jennings"
+      ],
+      "dateDisplay": "March 1999",
+      "sortDate": "1999-03-23",
+      "year": 1999,
+      "provider": "youtube",
+      "youtubeId": "6oqXVx3sBOk",
+      "vimeoId": "16342611",
+      "thumbnailUrl": "https://img.youtube.com/vi/6oqXVx3sBOk/hqdefault.jpg",
+      "tags": [
+        "puppets"
+      ]
+    },
+    "muse-knights-of-cydonia": {
+      "id": "muse-knights-of-cydonia",
+      "artist": "Muse",
+      "song": "Knights of Cydonia",
+      "director": "Joseph Kahn",
+      "directors": [
+        "Joseph Kahn"
+      ],
+      "dateDisplay": "July 2006",
+      "sortDate": "2006-07-11",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "G_sBOsh-vyI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/G_sBOsh-vyI/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "horses",
+        "poc director",
+        "retro",
+        "space"
+      ]
+    },
+    "smashing-pumpkins-tonight-tonight": {
+      "id": "smashing-pumpkins-tonight-tonight",
+      "artist": "Smashing Pumpkins",
+      "song": "Tonight Tonight",
+      "director": "Jonathan Dayton & Valerie Farris",
+      "directors": [
+        "Jonathan Dayton & Valerie Farris"
+      ],
+      "dateDisplay": "May 1996",
+      "sortDate": "1996-05-06",
+      "year": 1996,
+      "provider": "youtube",
+      "youtubeId": "NOG3eus4ZSo",
+      "vimeoId": "10226003",
+      "thumbnailUrl": "https://img.youtube.com/vi/NOG3eus4ZSo/hqdefault.jpg",
+      "tags": [
+        "gothy",
+        "womxn director"
+      ]
+    },
+    "bj-rk-bachelorette": {
+      "id": "bj-rk-bachelorette",
+      "artist": "Björk",
+      "song": "Bachelorette",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "December 1997",
+      "sortDate": "1997-12-01",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "BUxdcwao0bE",
+      "vimeoId": "19846387",
+      "thumbnailUrl": "https://img.youtube.com/vi/BUxdcwao0bE/hqdefault.jpg",
+      "tags": [
+        "surreal"
+      ]
+    },
+    "fatboy-slim-praise-you": {
+      "id": "fatboy-slim-praise-you",
+      "artist": "Fatboy Slim",
+      "song": "Praise You",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "dateDisplay": "January 1999",
+      "sortDate": "1999-01-04",
+      "year": 1999,
+      "provider": "youtube",
+      "youtubeId": "ruAi4VBoBSM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/ruAi4VBoBSM/hqdefault.jpg",
+      "tags": [
+        "dance"
+      ]
+    },
+    "junior-senior-move-your-feet": {
+      "id": "junior-senior-move-your-feet",
+      "artist": "Junior Senior",
+      "song": "Move Your Feet",
+      "director": "Shynola",
+      "directors": [
+        "Shynola"
+      ],
+      "dateDisplay": "January 2003",
+      "sortDate": "2003-01-01",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "SPlQpGeTbIE",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/SPlQpGeTbIE/hqdefault.jpg",
+      "tags": [
+        "pixel"
+      ]
+    },
+    "kylie-minogue-come-into-my-world": {
+      "id": "kylie-minogue-come-into-my-world",
+      "artist": "Kylie Minogue",
+      "song": "Come Into My World",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "September 2002",
+      "sortDate": "2002-09-08",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "63vqob-MljQ",
+      "vimeoId": "49559279",
+      "thumbnailUrl": "https://img.youtube.com/vi/63vqob-MljQ/hqdefault.jpg",
+      "tags": [
+        "orbiting",
+        "repeat",
+        "vfx"
+      ]
+    },
+    "mickey-3d-respire": {
+      "id": "mickey-3d-respire",
+      "artist": "Mickey 3D",
+      "song": "Respire",
+      "director": "Bessy & Combe",
+      "directors": [
+        "Bessy & Combe"
+      ],
+      "dateDisplay": "March 2003",
+      "sortDate": "2003-03-01",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "Iwb6u1Jo1Mc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Iwb6u1Jo1Mc/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "kids"
+      ]
+    },
+    "the-white-stripes-dead-leaves-and-the-dirty-ground": {
+      "id": "the-white-stripes-dead-leaves-and-the-dirty-ground",
+      "artist": "The White Stripes",
+      "song": "Dead Leaves and the Dirty Ground",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "July 2002",
+      "sortDate": "2002-07-29",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "7OyytKqYjkE",
+      "vimeoId": "58384291",
+      "thumbnailUrl": "https://img.youtube.com/vi/7OyytKqYjkE/hqdefault.jpg",
+      "tags": [
+        "projection mapping"
+      ]
+    },
+    "cornelius-fit-song": {
+      "id": "cornelius-fit-song",
+      "artist": "Cornelius",
+      "song": "Fit Song",
+      "director": "Koichiro Tsujikawa",
+      "directors": [
+        "Koichiro Tsujikawa"
+      ],
+      "dateDisplay": "January 2006",
+      "sortDate": "2006-01-01",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "6etMwoSx6J0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/6etMwoSx6J0/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "stop motion",
+        "surreal"
+      ]
+    },
+    "r-kelly-trapped-in-the-closet": {
+      "id": "r-kelly-trapped-in-the-closet",
+      "artist": "R. Kelly",
+      "song": "Trapped in the Closet",
+      "director": "R. Kelly & Jim Swaffield",
+      "directors": [
+        "R. Kelly & Jim Swaffield"
+      ],
+      "dateDisplay": "November 2005",
+      "sortDate": "2005-11-01",
+      "year": 2005,
+      "provider": "youtube",
+      "youtubeId": "9mAyscj-NcU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9mAyscj-NcU/hqdefault.jpg",
+      "tags": [
+        "wut"
+      ]
+    },
+    "fatboy-slim-weapon-of-choice": {
+      "id": "fatboy-slim-weapon-of-choice",
+      "artist": "Fatboy Slim",
+      "song": "Weapon of Choice",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "dateDisplay": "April 2001",
+      "sortDate": "2001-04-23",
+      "year": 2001,
+      "provider": "youtube",
+      "youtubeId": "XQ7z57qrZU8",
+      "vimeoId": "396912819",
+      "thumbnailUrl": "https://img.youtube.com/vi/XQ7z57qrZU8/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance"
+      ]
+    },
+    "blur-the-universal": {
+      "id": "blur-the-universal",
+      "artist": "Blur",
+      "song": "The Universal",
+      "director": "Jonathan Glazer",
+      "directors": [
+        "Jonathan Glazer"
+      ],
+      "dateDisplay": "November 1995",
+      "sortDate": "1995-11-13",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "BrbxWOMpwfs",
+      "vimeoId": "77343537",
+      "thumbnailUrl": "https://img.youtube.com/vi/BrbxWOMpwfs/hqdefault.jpg",
+      "tags": [
+        "monochrome"
+      ]
+    },
+    "autechre-gantz-graf": {
+      "id": "autechre-gantz-graf",
+      "artist": "Autechre",
+      "song": "Gantz Graf",
+      "director": "Alex Rutterford",
+      "directors": [
+        "Alex Rutterford"
+      ],
+      "dateDisplay": "July 2002",
+      "sortDate": "2002-07-01",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "ev3vENli7wQ",
+      "vimeoId": "118261577",
+      "thumbnailUrl": "https://img.youtube.com/vi/ev3vENli7wQ/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "abstract"
+      ]
+    },
+    "twerk-from-brown-to-green": {
+      "id": "twerk-from-brown-to-green",
+      "artist": "Twerk",
+      "song": "From Brown to Green",
+      "director": "Scott Pagano",
+      "directors": [
+        "Scott Pagano"
+      ],
+      "dateDisplay": "January 2003",
+      "sortDate": "2003-01-01",
+      "year": 2003,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "716180774",
+      "thumbnailUrl": null,
+      "tags": [
+        "3D animation",
+        "abstract"
+      ]
+    },
+    "peter-gabriel-sledgehammer": {
+      "id": "peter-gabriel-sledgehammer",
+      "artist": "Peter Gabriel",
+      "song": "Sledgehammer",
+      "director": "Stephen R. Johnson",
+      "directors": [
+        "Stephen R. Johnson"
+      ],
+      "dateDisplay": "April 1986",
+      "sortDate": "1986-04-21",
+      "year": 1986,
+      "provider": "youtube",
+      "youtubeId": "g93mz_eZ5N4",
+      "vimeoId": "118573473",
+      "thumbnailUrl": "https://img.youtube.com/vi/g93mz_eZ5N4/hqdefault.jpg",
+      "tags": [
+        "lofi brilliance",
+        "stop motion"
+      ]
+    },
+    "air-kelly-watch-the-stars": {
+      "id": "air-kelly-watch-the-stars",
+      "artist": "Air",
+      "song": "Kelly Watch the Stars",
+      "director": "Mike Mills",
+      "directors": [
+        "Mike Mills"
+      ],
+      "dateDisplay": "May 1998",
+      "sortDate": "1998-05-04",
+      "year": 1998,
+      "provider": "youtube",
+      "youtubeId": "Rui0hzN-EFE",
+      "vimeoId": "60104343",
+      "thumbnailUrl": "https://img.youtube.com/vi/Rui0hzN-EFE/hqdefault.jpg",
+      "tags": [
+        "slowmo",
+        "sports"
+      ]
+    },
+    "regina-spektor-samson": {
+      "id": "regina-spektor-samson",
+      "artist": "Regina Spektor",
+      "song": "Samson",
+      "director": "Peter Sluzka",
+      "directors": [
+        "Peter Sluzka"
+      ],
+      "dateDisplay": "November 2006",
+      "sortDate": "2006-11-13",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "p62rfWxs6a8",
+      "vimeoId": "33242069",
+      "thumbnailUrl": "https://img.youtube.com/vi/p62rfWxs6a8/hqdefault.jpg",
+      "tags": [
+        "monochrome",
+        "stop motion"
+      ]
+    },
+    "kid-koala-basin-street-blues": {
+      "id": "kid-koala-basin-street-blues",
+      "artist": "Kid Koala",
+      "song": "Basin Street Blues",
+      "director": "Monkmus",
+      "directors": [
+        "Monkmus"
+      ],
+      "dateDisplay": "August 2003",
+      "sortDate": "2003-08-18",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "r8ys3B2q_2k",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/r8ys3B2q_2k/hqdefault.jpg",
+      "tags": []
+    },
+    "beastie-boys-sabotage": {
+      "id": "beastie-boys-sabotage",
+      "artist": "Beastie Boys",
+      "song": "Sabotage",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "dateDisplay": "January 1994",
+      "sortDate": "1994-01-28",
+      "year": 1994,
+      "provider": "youtube",
+      "youtubeId": "z5rRZdiu1UE",
+      "vimeoId": "900683274",
+      "thumbnailUrl": "https://img.youtube.com/vi/z5rRZdiu1UE/hqdefault.jpg",
+      "tags": [
+        "confidence"
+      ]
+    },
+    "outkast-hey-ya": {
+      "id": "outkast-hey-ya",
+      "artist": "Outkast",
+      "song": "Hey Ya!",
+      "director": "Bryan Barber",
+      "directors": [
+        "Bryan Barber"
+      ],
+      "dateDisplay": "September 2003",
+      "sortDate": "2003-09-29",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "PWgvGjAhvIw",
+      "vimeoId": "543036850",
+      "thumbnailUrl": "https://img.youtube.com/vi/PWgvGjAhvIw/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "retro"
+      ]
+    },
+    "nine-inch-nails-closer": {
+      "id": "nine-inch-nails-closer",
+      "artist": "Nine Inch Nails",
+      "song": "Closer",
+      "director": "Mark Romanek",
+      "directors": [
+        "Mark Romanek"
+      ],
+      "dateDisplay": "May 1994",
+      "sortDate": "1994-05-12",
+      "year": 1994,
+      "provider": "youtube",
+      "youtubeId": "PTFwQP86BRs",
+      "vimeoId": "155721977",
+      "thumbnailUrl": "https://img.youtube.com/vi/PTFwQP86BRs/hqdefault.jpg",
+      "tags": [
+        "gothy"
+      ]
+    },
+    "feist-my-moon-my-man": {
+      "id": "feist-my-moon-my-man",
+      "artist": "Feist",
+      "song": "My Moon My Man",
+      "director": "Patrick Daughters",
+      "directors": [
+        "Patrick Daughters"
+      ],
+      "dateDisplay": "May 2007",
+      "sortDate": "2007-05-22",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "ltYq-jalYm0",
+      "vimeoId": "18549826",
+      "thumbnailUrl": "https://img.youtube.com/vi/ltYq-jalYm0/hqdefault.jpg",
+      "tags": [
+        "treadmill/escalator"
+      ]
+    },
+    "yuki-sentimental-journey": {
+      "id": "yuki-sentimental-journey",
+      "artist": "Yuki",
+      "song": "Sentimental Journey",
+      "director": "Nagi Noda",
+      "directors": [
+        "Nagi Noda"
+      ],
+      "dateDisplay": "February 2003",
+      "sortDate": "2003-02-19",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "qZEi2fpl1bs",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/qZEi2fpl1bs/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "repeat",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "michael-jackson-thriller": {
+      "id": "michael-jackson-thriller",
+      "artist": "Michael Jackson",
+      "song": "Thriller",
+      "director": "John Landis",
+      "directors": [
+        "John Landis"
+      ],
+      "dateDisplay": "December 1983",
+      "sortDate": "1983-12-02",
+      "year": 1983,
+      "provider": "youtube",
+      "youtubeId": "sOnqjkJTMaA",
+      "vimeoId": "155035278",
+      "thumbnailUrl": "https://img.youtube.com/vi/sOnqjkJTMaA/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "prosthetics"
+      ]
+    },
+    "michael-jackson-smooth-criminal": {
+      "id": "michael-jackson-smooth-criminal",
+      "artist": "Michael Jackson",
+      "song": "Smooth Criminal",
+      "director": "Colin Chilvers",
+      "directors": [
+        "Colin Chilvers"
+      ],
+      "dateDisplay": "October 1988",
+      "sortDate": "1988-10-13",
+      "year": 1988,
+      "provider": "youtube",
+      "youtubeId": "h_D3VFfhvs4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/h_D3VFfhvs4/hqdefault.jpg",
+      "tags": [
+        "dance"
+      ]
+    },
+    "snoop-dogg-sensual-seduction": {
+      "id": "snoop-dogg-sensual-seduction",
+      "artist": "Snoop Dogg",
+      "song": "Sensual Seduction",
+      "director": "Melina",
+      "directors": [
+        "Melina"
+      ],
+      "dateDisplay": "November 2007",
+      "sortDate": "2007-11-28",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "Y1PVmANeyAg",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Y1PVmANeyAg/hqdefault.jpg",
+      "tags": [
+        "keytar",
+        "poc director",
+        "retro",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "devendra-banhart-a-ribbon": {
+      "id": "devendra-banhart-a-ribbon",
+      "artist": "Devendra Banhart",
+      "song": "A Ribbon",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "June 2004",
+      "sortDate": "2004-06-01",
+      "year": 2004,
+      "provider": "youtube",
+      "youtubeId": "ORRIsrnA7Sw",
+      "vimeoId": "38096492",
+      "thumbnailUrl": "https://img.youtube.com/vi/ORRIsrnA7Sw/hqdefault.jpg",
+      "tags": [
+        "stop motion"
+      ]
+    },
+    "the-chemical-brothers-star-guitar": {
+      "id": "the-chemical-brothers-star-guitar",
+      "artist": "The Chemical Brothers",
+      "song": "Star Guitar",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "December 2001",
+      "sortDate": "2001-12-03",
+      "year": 2001,
+      "provider": "youtube",
+      "youtubeId": "0S43IwBF0uM",
+      "vimeoId": "504364021",
+      "thumbnailUrl": "https://img.youtube.com/vi/0S43IwBF0uM/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "soundsync"
+      ]
+    },
+    "the-presets-girl-and-the-sea": {
+      "id": "the-presets-girl-and-the-sea",
+      "artist": "The Presets",
+      "song": "Girl and the Sea",
+      "director": "Lee Lennox",
+      "directors": [
+        "Lee Lennox"
+      ],
+      "dateDisplay": "December 2009",
+      "sortDate": "2009-12-01",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "KVvzBvjEz6s",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/KVvzBvjEz6s/hqdefault.jpg",
+      "tags": [
+        "yuri norstein-esque"
+      ]
+    },
+    "the-pharcyde-drop": {
+      "id": "the-pharcyde-drop",
+      "artist": "The Pharcyde",
+      "song": "Drop",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "dateDisplay": "August 1995",
+      "sortDate": "1995-08-10",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "wqVsfGQ_1SU",
+      "vimeoId": "65856694",
+      "thumbnailUrl": "https://img.youtube.com/vi/wqVsfGQ_1SU/hqdefault.jpg",
+      "tags": [
+        "reverse"
+      ]
+    },
+    "the-horrors-sheena-is-a-parasite": {
+      "id": "the-horrors-sheena-is-a-parasite",
+      "artist": "The Horrors",
+      "song": "Sheena is a Parasite",
+      "director": "Chris Cunningham",
+      "directors": [
+        "Chris Cunningham"
+      ],
+      "dateDisplay": "August 2006",
+      "sortDate": "2006-08-01",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "fgTJQWwGhCM",
+      "vimeoId": "426335041",
+      "thumbnailUrl": "https://img.youtube.com/vi/fgTJQWwGhCM/hqdefault.jpg",
+      "tags": [
+        "gothy"
+      ]
+    },
+    "grizzly-bear-knife": {
+      "id": "grizzly-bear-knife",
+      "artist": "Grizzly Bear",
+      "song": "Knife",
+      "director": "Encyclopedia Pictura",
+      "directors": [
+        "Encyclopedia Pictura"
+      ],
+      "dateDisplay": "May 2007",
+      "sortDate": "2007-05-21",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "PVdGjSSarIQ",
+      "vimeoId": "48810242",
+      "thumbnailUrl": "https://img.youtube.com/vi/PVdGjSSarIQ/hqdefault.jpg",
+      "tags": [
+        "mixed media",
+        "prosthetics",
+        "surreal",
+        "tableau"
+      ]
+    },
+    "the-rapture-whoo-alright-yeah-uh-huh": {
+      "id": "the-rapture-whoo-alright-yeah-uh-huh",
+      "artist": "The Rapture",
+      "song": "Whoo! Alright - Yeah... Uh Huh",
+      "director": "Ben Dickinson",
+      "directors": [
+        "Ben Dickinson"
+      ],
+      "dateDisplay": "January 2006",
+      "sortDate": "2006-01-01",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "ux0ijnseN-Y",
+      "vimeoId": "221693",
+      "thumbnailUrl": "https://img.youtube.com/vi/ux0ijnseN-Y/hqdefault.jpg",
+      "tags": [
+        "brooklyn",
+        "cel animation",
+        "matchmove"
+      ]
+    },
+    "janelle-mon-e-make-me-feel": {
+      "id": "janelle-mon-e-make-me-feel",
+      "artist": "Janelle Monáe",
+      "song": "Make Me Feel",
+      "director": "Alan Ferguson",
+      "directors": [
+        "Alan Ferguson"
+      ],
+      "dateDisplay": "February 2018",
+      "sortDate": "2018-02-22",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "tGRzz0oqgUE",
+      "vimeoId": "269878992",
+      "thumbnailUrl": "https://img.youtube.com/vi/tGRzz0oqgUE/hqdefault.jpg",
+      "tags": [
+        "lighting",
+        "poc director"
+      ]
+    },
+    "janelle-mon-e-tightrope": {
+      "id": "janelle-mon-e-tightrope",
+      "artist": "Janelle Monáe",
+      "song": "Tightrope",
+      "director": "Wendy Morgan",
+      "directors": [
+        "Wendy Morgan"
+      ],
+      "dateDisplay": "March 2010",
+      "sortDate": "2010-03-31",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "pwnefUaKCbc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/pwnefUaKCbc/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "janelle-mon-e-pynk": {
+      "id": "janelle-mon-e-pynk",
+      "artist": "Janelle Monáe",
+      "song": "PYNK",
+      "director": "Emma Westenberg",
+      "directors": [
+        "Emma Westenberg"
+      ],
+      "dateDisplay": "April 2018",
+      "sortDate": "2018-04-10",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "PaYvlVR_BEc",
+      "vimeoId": "264161860",
+      "thumbnailUrl": "https://img.youtube.com/vi/PaYvlVR_BEc/hqdefault.jpg",
+      "tags": [
+        "womxn director"
+      ]
+    },
+    "janelle-mon-e-i-like-that": {
+      "id": "janelle-mon-e-i-like-that",
+      "artist": "Janelle Monáe",
+      "song": "I Like That",
+      "director": "Lacey Duke",
+      "directors": [
+        "Lacey Duke"
+      ],
+      "dateDisplay": "April 2018",
+      "sortDate": "2018-04-23",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "uovntV3ZMDc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/uovntV3ZMDc/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "tableau",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "janelle-mon-e-lipstick-lover": {
+      "id": "janelle-mon-e-lipstick-lover",
+      "artist": "Janelle Monáe",
+      "song": "Lipstick Lover",
+      "director": "Janelle Monáe and Alan Ferguson",
+      "directors": [
+        "Janelle Monáe and Alan Ferguson"
+      ],
+      "dateDisplay": "May 2023",
+      "sortDate": "2023-05-11",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "Y7S6wLP_vsY",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Y7S6wLP_vsY/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "styling",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "childish-gambino-this-is-america": {
+      "id": "childish-gambino-this-is-america",
+      "artist": "Childish Gambino",
+      "song": "This Is America",
+      "director": "Hiro Murai",
+      "directors": [
+        "Hiro Murai"
+      ],
+      "dateDisplay": "May 2018",
+      "sortDate": "2018-05-06",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "VYOjWnS4cMY",
+      "vimeoId": "276794240",
+      "thumbnailUrl": "https://img.youtube.com/vi/VYOjWnS4cMY/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance",
+        "long take",
+        "poc director",
+        "ukmva"
+      ]
+    },
+    "battles-atlas": {
+      "id": "battles-atlas",
+      "artist": "Battles",
+      "song": "Atlas",
+      "director": "Timothy Saccenti",
+      "directors": [
+        "Timothy Saccenti"
+      ],
+      "dateDisplay": "February 2007",
+      "sortDate": "2007-02-28",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "IpGp-22t0lU",
+      "vimeoId": "141922873",
+      "thumbnailUrl": "https://img.youtube.com/vi/IpGp-22t0lU/hqdefault.jpg",
+      "tags": [
+        "orbiting"
+      ]
+    },
+    "goldfrapp-happiness": {
+      "id": "goldfrapp-happiness",
+      "artist": "Goldfrapp",
+      "song": "Happiness",
+      "director": "Dougal Wilson",
+      "directors": [
+        "Dougal Wilson"
+      ],
+      "dateDisplay": "April 2008",
+      "sortDate": "2008-04-01",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "mnHlGONToIc",
+      "vimeoId": "28302606",
+      "thumbnailUrl": "https://img.youtube.com/vi/mnHlGONToIc/hqdefault.jpg",
+      "tags": [
+        "jump"
+      ]
+    },
+    "vitalic-poney-part-1-birds": {
+      "id": "vitalic-poney-part-1-birds",
+      "artist": "Vitalic",
+      "song": "Poney Part 1 (Birds)",
+      "director": "Pleix",
+      "directors": [
+        "Pleix"
+      ],
+      "dateDisplay": "January 2006",
+      "sortDate": "2006-01-01",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "Jm2tv0n9wIk",
+      "vimeoId": "42286041",
+      "thumbnailUrl": "https://img.youtube.com/vi/Jm2tv0n9wIk/hqdefault.jpg",
+      "tags": [
+        "dogs",
+        "hair",
+        "jump",
+        "lasers",
+        "slowmo",
+        "wut"
+      ]
+    },
+    "bj-rk-wanderlust": {
+      "id": "bj-rk-wanderlust",
+      "artist": "Björk",
+      "song": "Wanderlust",
+      "director": "Encyclopedia Pictura",
+      "directors": [
+        "Encyclopedia Pictura"
+      ],
+      "dateDisplay": "April 2008",
+      "sortDate": "2008-04-08",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "KJRiBDMfrTU",
+      "vimeoId": "19767341",
+      "thumbnailUrl": "https://img.youtube.com/vi/KJRiBDMfrTU/hqdefault.jpg",
+      "tags": [
+        "d&ad",
+        "mixed media",
+        "prosthetics",
+        "puppets",
+        "surreal",
+        "ukmva",
+        "vfx"
+      ]
+    },
+    "dangelo-untitled-how-does-it-feel": {
+      "id": "dangelo-untitled-how-does-it-feel",
+      "artist": "D’Angelo",
+      "song": "Untitled (How Does It Feel)",
+      "director": "Paul Hunter",
+      "directors": [
+        "Paul Hunter"
+      ],
+      "dateDisplay": "January 2000",
+      "sortDate": "2000-01-01",
+      "year": 2000,
+      "provider": "youtube",
+      "youtubeId": "SxVNOnPyvIU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/SxVNOnPyvIU/hqdefault.jpg",
+      "tags": [
+        "long take"
+      ]
+    },
+    "the-avalanches-frontier-psychiatrist": {
+      "id": "the-avalanches-frontier-psychiatrist",
+      "artist": "The Avalanches",
+      "song": "Frontier Psychiatrist",
+      "director": "Mike Maguire",
+      "directors": [
+        "Mike Maguire"
+      ],
+      "dateDisplay": "August 2000",
+      "sortDate": "2000-08-21",
+      "year": 2000,
+      "provider": "youtube",
+      "youtubeId": "qLrnkK2YEcE",
+      "vimeoId": "25256215",
+      "thumbnailUrl": "https://img.youtube.com/vi/qLrnkK2YEcE/hqdefault.jpg",
+      "tags": [
+        "soundsync"
+      ]
+    },
+    "r-yksopp-remind-me": {
+      "id": "r-yksopp-remind-me",
+      "artist": "Röyksopp",
+      "song": "Remind Me",
+      "director": "H5",
+      "directors": [
+        "H5"
+      ],
+      "dateDisplay": "July 2002",
+      "sortDate": "2002-07-15",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "dF-7TRy7Ylg",
+      "vimeoId": "2285902",
+      "thumbnailUrl": "https://img.youtube.com/vi/dF-7TRy7Ylg/hqdefault.jpg",
+      "tags": [
+        "isometric"
+      ]
+    },
+    "beyonc-single-ladies-put-a-ring-on-it": {
+      "id": "beyonc-single-ladies-put-a-ring-on-it",
+      "artist": "Beyoncé",
+      "song": "Single Ladies (Put a Ring on It)",
+      "director": "Jake Nava",
+      "directors": [
+        "Jake Nava"
+      ],
+      "dateDisplay": "October 2008",
+      "sortDate": "2008-10-13",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "4m1EFMoRFvY",
+      "vimeoId": "900679493",
+      "thumbnailUrl": "https://img.youtube.com/vi/4m1EFMoRFvY/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance"
+      ]
+    },
+    "bat-for-lashes-whats-a-girl-to-do": {
+      "id": "bat-for-lashes-whats-a-girl-to-do",
+      "artist": "Bat for Lashes",
+      "song": "What’s A Girl To Do",
+      "director": "Dougal Wilson",
+      "directors": [
+        "Dougal Wilson"
+      ],
+      "dateDisplay": "July 2007",
+      "sortDate": "2007-07-09",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "lxOlrei0U3M",
+      "vimeoId": "85406749",
+      "thumbnailUrl": "https://img.youtube.com/vi/lxOlrei0U3M/hqdefault.jpg",
+      "tags": [
+        "bike",
+        "long take",
+        "surreal"
+      ]
+    },
+    "the-white-stripes-fell-in-love-with-a-girl": {
+      "id": "the-white-stripes-fell-in-love-with-a-girl",
+      "artist": "The White Stripes",
+      "song": "Fell In Love With A Girl",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "January 2002",
+      "sortDate": "2002-01-01",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "fTH71AAxXmM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/fTH71AAxXmM/hqdefault.jpg",
+      "tags": [
+        "lego",
+        "pixel",
+        "stop motion"
+      ]
+    },
+    "the-white-stripes-the-hardest-button-to-button": {
+      "id": "the-white-stripes-the-hardest-button-to-button",
+      "artist": "The White Stripes",
+      "song": "The Hardest Button To Button",
+      "director": "Michel Gondy",
+      "directors": [
+        "Michel Gondy"
+      ],
+      "dateDisplay": "September 2003",
+      "sortDate": "2003-09-11",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "K4dx42YzQCE",
+      "vimeoId": "7442369",
+      "thumbnailUrl": "https://img.youtube.com/vi/K4dx42YzQCE/hqdefault.jpg",
+      "tags": [
+        "brooklyn",
+        "pixilation",
+        "soundsync",
+        "stop motion"
+      ]
+    },
+    "queen-bohemian-rhapsody": {
+      "id": "queen-bohemian-rhapsody",
+      "artist": "Queen",
+      "song": "Bohemian Rhapsody",
+      "director": "Bruce Gowers",
+      "directors": [
+        "Bruce Gowers"
+      ],
+      "dateDisplay": "November 1975",
+      "sortDate": "1975-11-20",
+      "year": 1975,
+      "provider": "youtube",
+      "youtubeId": "fJ9rUzIMcZQ",
+      "vimeoId": "91039686",
+      "thumbnailUrl": "https://img.youtube.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+      "tags": [
+        "confidence"
+      ]
+    },
+    "r-e-m-losing-my-religion": {
+      "id": "r-e-m-losing-my-religion",
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "director": "Tarsem Singh",
+      "directors": [
+        "Tarsem Singh"
+      ],
+      "dateDisplay": "February 1991",
+      "sortDate": "1991-02-19",
+      "year": 1991,
+      "provider": "youtube",
+      "youtubeId": "xwtdhWltSIg",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/xwtdhWltSIg/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "tableau"
+      ]
+    },
+    "radiohead-just": {
+      "id": "radiohead-just",
+      "artist": "Radiohead",
+      "song": "Just",
+      "director": "Jamie Thraves",
+      "directors": [
+        "Jamie Thraves"
+      ],
+      "dateDisplay": "September 1995",
+      "sortDate": "1995-09-01",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "oIFLtNYI3Ls",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/oIFLtNYI3Ls/hqdefault.jpg",
+      "tags": [
+        "narrative",
+        "surreal"
+      ]
+    },
+    "janet-jackson-rhythm-nation": {
+      "id": "janet-jackson-rhythm-nation",
+      "artist": "Janet Jackson",
+      "song": "Rhythm Nation",
+      "director": "Dominic Sena",
+      "directors": [
+        "Dominic Sena"
+      ],
+      "dateDisplay": "September 1989",
+      "sortDate": "1989-09-16",
+      "year": 1989,
+      "provider": "youtube",
+      "youtubeId": "OAwaNWGLM0c",
+      "vimeoId": "177506514",
+      "thumbnailUrl": "https://img.youtube.com/vi/OAwaNWGLM0c/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "monochrome"
+      ]
+    },
+    "ogiyahagi-i-love-your-face": {
+      "id": "ogiyahagi-i-love-your-face",
+      "artist": "Ogiyahagi",
+      "song": "I Love Your Face",
+      "director": "Nagi Noda",
+      "directors": [
+        "Nagi Noda"
+      ],
+      "dateDisplay": "August 2006",
+      "sortDate": "2006-08-02",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "9Nj7hHdg-kc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9Nj7hHdg-kc/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "surreal",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "bj-rk-its-oh-so-quiet": {
+      "id": "bj-rk-its-oh-so-quiet",
+      "artist": "Björk",
+      "song": "It’s Oh So Quiet",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "dateDisplay": "January 1995",
+      "sortDate": "1995-01-01",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "htobTBlCvUU",
+      "vimeoId": "1177744866",
+      "thumbnailUrl": "https://img.youtube.com/vi/htobTBlCvUU/hqdefault.jpg",
+      "tags": [
+        "busby berkeley",
+        "crowd",
+        "dance"
+      ]
+    },
+    "lady-gaga-bad-romance": {
+      "id": "lady-gaga-bad-romance",
+      "artist": "Lady Gaga",
+      "song": "Bad Romance",
+      "director": "Francis Lawrence",
+      "directors": [
+        "Francis Lawrence"
+      ],
+      "dateDisplay": "November 2009",
+      "sortDate": "2009-11-24",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "qrO4YZeyl0I",
+      "vimeoId": "339705948",
+      "thumbnailUrl": "https://img.youtube.com/vi/qrO4YZeyl0I/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance",
+        "gothy",
+        "styling",
+        "tableau"
+      ]
+    },
+    "drake-hotline-bling": {
+      "id": "drake-hotline-bling",
+      "artist": "Drake",
+      "song": "Hotline Bling",
+      "director": "Director X",
+      "directors": [
+        "Director X"
+      ],
+      "dateDisplay": "October 2015",
+      "sortDate": "2015-10-04",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "d0XEvGF7sb0",
+      "vimeoId": "213042027",
+      "thumbnailUrl": "https://img.youtube.com/vi/d0XEvGF7sb0/hqdefault.jpg",
+      "tags": [
+        "architecture",
+        "lighting",
+        "poc director"
+      ]
+    },
+    "missy-elliott-the-rain-supa-dupa-fly": {
+      "id": "missy-elliott-the-rain-supa-dupa-fly",
+      "artist": "Missy Elliott",
+      "song": "The Rain (Supa Dupa Fly)",
+      "director": "Hype Williams",
+      "directors": [
+        "Hype Williams"
+      ],
+      "dateDisplay": "June 1997",
+      "sortDate": "1997-06-03",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "hHcyJPTTn9w",
+      "vimeoId": "905236117",
+      "thumbnailUrl": "https://img.youtube.com/vi/hHcyJPTTn9w/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "fisheye",
+        "poc director"
+      ]
+    },
+    "george-michael-freedom-90": {
+      "id": "george-michael-freedom-90",
+      "artist": "George Michael",
+      "song": "Freedom! ‘90",
+      "director": "David Fincher",
+      "directors": [
+        "David Fincher"
+      ],
+      "dateDisplay": "November 1990",
+      "sortDate": "1990-11-01",
+      "year": 1990,
+      "provider": "youtube",
+      "youtubeId": "diYAc7gB-0A",
+      "vimeoId": "277532502",
+      "thumbnailUrl": "https://img.youtube.com/vi/diYAc7gB-0A/hqdefault.jpg",
+      "tags": [
+        "confidence"
+      ]
+    },
+    "madonna-vogue": {
+      "id": "madonna-vogue",
+      "artist": "Madonna",
+      "song": "Vogue",
+      "director": "David Fincher",
+      "directors": [
+        "David Fincher"
+      ],
+      "dateDisplay": "March 1990",
+      "sortDate": "1990-03-29",
+      "year": 1990,
+      "provider": "youtube",
+      "youtubeId": "GuJQSAiODqI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/GuJQSAiODqI/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "monochrome"
+      ]
+    },
+    "beyonc-formation": {
+      "id": "beyonc-formation",
+      "artist": "Beyoncé",
+      "song": "Formation",
+      "director": "Melina Matsoukas",
+      "directors": [
+        "Melina Matsoukas"
+      ],
+      "dateDisplay": "February 2016",
+      "sortDate": "2016-02-06",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "WDZJPJV__bQ",
+      "vimeoId": "174251667",
+      "thumbnailUrl": "https://img.youtube.com/vi/WDZJPJV__bQ/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "dance",
+        "poc director",
+        "tableau",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "the-smile-friend-of-a-friend": {
+      "id": "the-smile-friend-of-a-friend",
+      "artist": "The Smile",
+      "song": "Friend of a Friend",
+      "director": "Paul Thomas Anderson",
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "dateDisplay": "January 2024",
+      "sortDate": "2024-01-25",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "WhivN4GJQCQ",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/WhivN4GJQCQ/hqdefault.jpg",
+      "tags": [
+        "kids",
+        "meta"
+      ]
+    },
+    "unknown-t-featuring-loyle-carner-hocus-pocus": {
+      "id": "unknown-t-featuring-loyle-carner-hocus-pocus",
+      "artist": "Unknown T, featuring Loyle Carner",
+      "song": "Hocus Pocus",
+      "director": "Felix Brady",
+      "directors": [
+        "Felix Brady"
+      ],
+      "dateDisplay": "January 2024",
+      "sortDate": "2024-01-11",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "bU-fzbrvfAw",
+      "vimeoId": "903023269",
+      "thumbnailUrl": "https://img.youtube.com/vi/bU-fzbrvfAw/hqdefault.jpg",
+      "tags": [
+        "hydraulics",
+        "surreal",
+        "tableau"
+      ]
+    },
+    "kings-of-leon-mustang": {
+      "id": "kings-of-leon-mustang",
+      "artist": "Kings Of Leon",
+      "song": "Mustang",
+      "director": "Brook Linder",
+      "directors": [
+        "Brook Linder"
+      ],
+      "dateDisplay": "May 2024",
+      "sortDate": "2024-05-25",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "wMJyD23nKrk",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/wMJyD23nKrk/hqdefault.jpg",
+      "tags": [
+        "surveillance",
+        "whip pan"
+      ]
+    },
+    "duck-sauce-mesmerize": {
+      "id": "duck-sauce-mesmerize",
+      "artist": "Duck Sauce",
+      "song": "Mesmerize",
+      "director": "Keith Schofield",
+      "directors": [
+        "Keith Schofield"
+      ],
+      "dateDisplay": "October 2020",
+      "sortDate": "2020-10-16",
+      "year": 2020,
+      "provider": "youtube",
+      "youtubeId": "_gduUeX0N4Q",
+      "vimeoId": "470561603",
+      "thumbnailUrl": "https://img.youtube.com/vi/_gduUeX0N4Q/hqdefault.jpg",
+      "tags": [
+        "meta",
+        "ukmva",
+        "wut"
+      ]
+    },
+    "coldplay-strawberry-swing": {
+      "id": "coldplay-strawberry-swing",
+      "artist": "Coldplay",
+      "song": "Strawberry Swing",
+      "director": "Shynola",
+      "directors": [
+        "Shynola"
+      ],
+      "dateDisplay": "July 2009",
+      "sortDate": "2009-07-29",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "h3pJZSTQqIg",
+      "vimeoId": "9832057",
+      "thumbnailUrl": "https://img.youtube.com/vi/h3pJZSTQqIg/hqdefault.jpg",
+      "tags": [
+        "pixilation",
+        "stop motion",
+        "ukmva"
+      ]
+    },
+    "fred-again-lil-yachty-and-overmono-stayinit": {
+      "id": "fred-again-lil-yachty-and-overmono-stayinit",
+      "artist": "Fred Again, Lil Yachty, and Overmono",
+      "song": "Stayinit",
+      "director": "LOOSE & UNCANNY",
+      "directors": [
+        "LOOSE & UNCANNY"
+      ],
+      "dateDisplay": "February 2024",
+      "sortDate": "2024-02-28",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "sQRfp2Xp6U0",
+      "vimeoId": "943287044",
+      "thumbnailUrl": "https://img.youtube.com/vi/sQRfp2Xp6U0/hqdefault.jpg",
+      "tags": [
+        "lasers",
+        "lighting"
+      ]
+    },
+    "tierra-whack-shower-song": {
+      "id": "tierra-whack-shower-song",
+      "artist": "Tierra Whack",
+      "song": "SHOWER SONG",
+      "director": "Alex Da Corte",
+      "directors": [
+        "Alex Da Corte"
+      ],
+      "dateDisplay": "January 2024",
+      "sortDate": "2024-01-26",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "WZMkwpO4Ji8",
+      "vimeoId": "906721732",
+      "thumbnailUrl": "https://img.youtube.com/vi/WZMkwpO4Ji8/hqdefault.jpg",
+      "tags": [
+        "mixed media",
+        "poc director",
+        "stop motion",
+        "styling",
+        "tableau"
+      ]
+    },
+    "tourist-valentine": {
+      "id": "tourist-valentine",
+      "artist": "Tourist",
+      "song": "Valentine",
+      "director": "Ozzie Pullin",
+      "directors": [
+        "Ozzie Pullin"
+      ],
+      "dateDisplay": "May 2024",
+      "sortDate": "2024-05-26",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "aQIvnMxmVk4",
+      "vimeoId": "906334008",
+      "thumbnailUrl": "https://img.youtube.com/vi/aQIvnMxmVk4/hqdefault.jpg",
+      "tags": [
+        "busby berkeley",
+        "dance",
+        "swimming"
+      ]
+    },
+    "dua-lipa-illusion": {
+      "id": "dua-lipa-illusion",
+      "artist": "Dua Lipa",
+      "song": "Illusion",
+      "director": "Tanu Muiño",
+      "directors": [
+        "Tanu Muiño"
+      ],
+      "dateDisplay": "April 2024",
+      "sortDate": "2024-04-11",
+      "year": 2024,
+      "provider": "youtube",
+      "youtubeId": "a9cyG_yfh1k",
+      "vimeoId": "935073717",
+      "thumbnailUrl": "https://img.youtube.com/vi/a9cyG_yfh1k/hqdefault.jpg",
+      "tags": [
+        "architecture",
+        "dance",
+        "poc director",
+        "swimming",
+        "woc director",
+        "womxn director"
+      ]
+    },
+    "jacques-absolve": {
+      "id": "jacques-absolve",
+      "artist": "Jacques",
+      "song": "Absolve",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "October 2023",
+      "sortDate": "2023-10-16",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "BwZkIEQDj10",
+      "vimeoId": "874986396",
+      "thumbnailUrl": "https://img.youtube.com/vi/BwZkIEQDj10/hqdefault.jpg",
+      "tags": [
+        "ai",
+        "surreal"
+      ]
+    },
+    "sarh-u-and-i": {
+      "id": "sarh-u-and-i",
+      "artist": "SARH",
+      "song": "U and I",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "September 2014",
+      "sortDate": "2014-09-17",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "ymyQU2i37GU",
+      "vimeoId": "106451918",
+      "thumbnailUrl": "https://img.youtube.com/vi/ymyQU2i37GU/hqdefault.jpg",
+      "tags": [
+        "chronophotography",
+        "dance",
+        "long exposure",
+        "repeat"
+      ]
+    },
+    "bas-ft-correy-c-fragrance": {
+      "id": "bas-ft-correy-c-fragrance",
+      "artist": "Bas (ft. Correy C)",
+      "song": "Fragrance",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "October 2018",
+      "sortDate": "2018-10-26",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "dwz9DYpsCcA",
+      "vimeoId": "297309123",
+      "thumbnailUrl": "https://img.youtube.com/vi/dwz9DYpsCcA/hqdefault.jpg",
+      "tags": [
+        "hockney",
+        "repeat"
+      ]
+    },
+    "the-peach-kings-without-you": {
+      "id": "the-peach-kings-without-you",
+      "artist": "The Peach Kings",
+      "song": "Without You",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "September 2019",
+      "sortDate": "2019-09-22",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "U_gPZtXL9og",
+      "vimeoId": "361712435",
+      "thumbnailUrl": "https://img.youtube.com/vi/U_gPZtXL9og/hqdefault.jpg",
+      "tags": [
+        "soundsync",
+        "surreal"
+      ]
+    },
+    "young-thug-wyclef-jean": {
+      "id": "young-thug-wyclef-jean",
+      "artist": "Young Thug",
+      "song": "Wyclef Jean",
+      "director": "Ryan Staake & Young Thug",
+      "directors": [
+        "Ryan Staake & Young Thug"
+      ],
+      "dateDisplay": "January 2017",
+      "sortDate": "2017-01-16",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "_9L3j-lVLwk",
+      "vimeoId": "198763338",
+      "thumbnailUrl": "https://img.youtube.com/vi/_9L3j-lVLwk/hqdefault.jpg",
+      "tags": [
+        "kids",
+        "meta"
+      ]
+    },
+    "balming-tiger-oui": {
+      "id": "balming-tiger-oui",
+      "artist": "Balming Tiger",
+      "song": "Oui",
+      "director": "Lee Suho",
+      "directors": [
+        "Lee Suho"
+      ],
+      "dateDisplay": "June 2026",
+      "sortDate": "2026-06-12",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "WKZXRgQ7_uw",
+      "vimeoId": "1202127936",
+      "thumbnailUrl": "https://img.youtube.com/vi/WKZXRgQ7_uw/hqdefault.jpg",
+      "tags": [
+        "surreal"
+      ]
+    },
+    "the-chemical-brothers-wide-open": {
+      "id": "the-chemical-brothers-wide-open",
+      "artist": "The Chemical Brothers",
+      "song": "Wide Open",
+      "director": "Dom & Nic",
+      "directors": [
+        "Dom & Nic"
+      ],
+      "dateDisplay": "January 2016",
+      "sortDate": "2016-01-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "BC2dRkm8ATU",
+      "vimeoId": "152452551",
+      "thumbnailUrl": "https://img.youtube.com/vi/BC2dRkm8ATU/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "long take",
+        "vfx"
+      ]
+    },
+    "ok-go-upside-down-inside-out": {
+      "id": "ok-go-upside-down-inside-out",
+      "artist": "OK GO",
+      "song": "Upside Down & Inside Out",
+      "director": "Damian Kulash, Jr. & Trish Sie",
+      "directors": [
+        "Damian Kulash, Jr. & Trish Sie"
+      ],
+      "dateDisplay": "January 2016",
+      "sortDate": "2016-01-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "LWGJA9i18Co",
+      "vimeoId": "155213717",
+      "thumbnailUrl": "https://img.youtube.com/vi/LWGJA9i18Co/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "long take",
+        "womxn director"
+      ]
+    },
+    "jane-bordeaux-maagalim": {
+      "id": "jane-bordeaux-maagalim",
+      "artist": "Jane Bordeaux",
+      "song": "Ma'agalim",
+      "director": "Uri Lotan",
+      "directors": [
+        "Uri Lotan"
+      ],
+      "dateDisplay": "January 2016",
+      "sortDate": "2016-01-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "zgHHph-CrC8",
+      "vimeoId": "162052542",
+      "thumbnailUrl": "https://img.youtube.com/vi/zgHHph-CrC8/hqdefault.jpg",
+      "tags": [
+        "3D animation"
+      ]
+    },
+    "los-misterios-m-talos-y-vuelve": {
+      "id": "los-misterios-m-talos-y-vuelve",
+      "artist": "Los Misterios",
+      "song": "Mátalos y vuelve",
+      "director": "Xabier Mendibe",
+      "directors": [
+        "Xabier Mendibe"
+      ],
+      "dateDisplay": "November 2020",
+      "sortDate": "2020-11-27",
+      "year": 2020,
+      "provider": "youtube",
+      "youtubeId": "vF2Wjmv6yPo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/vF2Wjmv6yPo/hqdefault.jpg",
+      "tags": [
+        "collage",
+        "long take"
+      ]
+    },
+    "dayglow-something": {
+      "id": "dayglow-something",
+      "artist": "Dayglow",
+      "song": "Something",
+      "director": "Drew Tyndell",
+      "directors": [
+        "Drew Tyndell"
+      ],
+      "dateDisplay": "January 2021",
+      "sortDate": "2021-01-01",
+      "year": 2021,
+      "provider": "youtube",
+      "youtubeId": "SOKjY_tH1d4",
+      "vimeoId": "515362672",
+      "thumbnailUrl": "https://img.youtube.com/vi/SOKjY_tH1d4/hqdefault.jpg",
+      "tags": [
+        "cel animation"
+      ]
+    },
+    "coldplay-up-up": {
+      "id": "coldplay-up-up",
+      "artist": "Coldplay",
+      "song": "Up&Up",
+      "director": "Gal Muggia and Vania Heymann",
+      "directors": [
+        "Gal Muggia and Vania Heymann"
+      ],
+      "dateDisplay": "May 2016",
+      "sortDate": "2016-05-17",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "BPNTC7uZYrI",
+      "vimeoId": "167023867",
+      "thumbnailUrl": "https://img.youtube.com/vi/BPNTC7uZYrI/hqdefault.jpg",
+      "tags": [
+        "surreal",
+        "vfx"
+      ]
+    },
+    "luc-glow": {
+      "id": "luc-glow",
+      "artist": "LUC",
+      "song": "Glow",
+      "director": "Vincenzo Lodigiani",
+      "directors": [
+        "Vincenzo Lodigiani"
+      ],
+      "dateDisplay": "May 2018",
+      "sortDate": "2018-05-30",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "LXVFucfXdqQ",
+      "vimeoId": "273678494",
+      "thumbnailUrl": "https://img.youtube.com/vi/LXVFucfXdqQ/hqdefault.jpg",
+      "tags": [
+        "soundsync"
+      ]
+    },
+    "mastadon-clandestiny": {
+      "id": "mastadon-clandestiny",
+      "artist": "Mastadon",
+      "song": "Clandestiny",
+      "director": "Arielle Costa",
+      "directors": [
+        "Arielle Costa"
+      ],
+      "dateDisplay": "January 2018",
+      "sortDate": "2018-01-01",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "5a8442i-X6A",
+      "vimeoId": "259634725",
+      "thumbnailUrl": "https://img.youtube.com/vi/5a8442i-X6A/hqdefault.jpg",
+      "tags": [
+        "collage"
+      ]
+    },
+    "mitski-a-pearl": {
+      "id": "mitski-a-pearl",
+      "artist": "Mitski",
+      "song": "A Pearl",
+      "director": "Saad Moosajee, Danae Gosset and Art Camp",
+      "directors": [
+        "Saad Moosajee, Danae Gosset and Art Camp"
+      ],
+      "dateDisplay": "January 2019",
+      "sortDate": "2019-01-01",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "p8FDl_tMs4Y",
+      "vimeoId": "313084145",
+      "thumbnailUrl": "https://img.youtube.com/vi/p8FDl_tMs4Y/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "womxn director"
+      ]
+    },
+    "battles-ice-cream": {
+      "id": "battles-ice-cream",
+      "artist": "Battles",
+      "song": "Ice Cream",
+      "director": "Luis Cerveró",
+      "directors": [
+        "Luis Cerveró"
+      ],
+      "dateDisplay": "May 2011",
+      "sortDate": "2011-05-09",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "dFggLJxv9zA",
+      "vimeoId": "65737797",
+      "thumbnailUrl": "https://img.youtube.com/vi/dFggLJxv9zA/hqdefault.jpg",
+      "tags": [
+        "editing",
+        "surreal"
+      ]
+    },
+    "charles-x-can-you-do-it": {
+      "id": "charles-x-can-you-do-it",
+      "artist": "Charles X",
+      "song": "Can You Do It?",
+      "director": "Parallel",
+      "directors": [
+        "Parallel"
+      ],
+      "dateDisplay": "March 2016",
+      "sortDate": "2016-03-25",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "NuRcLv2EzwA",
+      "vimeoId": "160720205",
+      "thumbnailUrl": "https://img.youtube.com/vi/NuRcLv2EzwA/hqdefault.jpg",
+      "tags": [
+        "horses",
+        "illustration"
+      ]
+    },
+    "thunder-tillman-alignments": {
+      "id": "thunder-tillman-alignments",
+      "artist": "Thunder Tillman",
+      "song": "Alignments",
+      "director": "Hugo & Marie",
+      "directors": [
+        "Hugo & Marie"
+      ],
+      "dateDisplay": "October 2017",
+      "sortDate": "2017-10-12",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "7IxUFYmkk2I",
+      "vimeoId": "938815320",
+      "thumbnailUrl": "https://img.youtube.com/vi/7IxUFYmkk2I/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "monochrome",
+        "soundsync"
+      ]
+    },
+    "washed-out-floating-by": {
+      "id": "washed-out-floating-by",
+      "artist": "Washed Out",
+      "song": "Floating By",
+      "director": "Drew Tyndell",
+      "directors": [
+        "Drew Tyndell"
+      ],
+      "dateDisplay": "June 2017",
+      "sortDate": "2017-06-30",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "MvJfiuvDfeo",
+      "vimeoId": "223810249",
+      "thumbnailUrl": "https://img.youtube.com/vi/MvJfiuvDfeo/hqdefault.jpg",
+      "tags": [
+        "psychedelic"
+      ]
+    },
+    "yeasayer-wait-for-the-summer": {
+      "id": "yeasayer-wait-for-the-summer",
+      "artist": "Yeasayer",
+      "song": "Wait for the Summer",
+      "director": "Mixtape Club",
+      "directors": [
+        "Mixtape Club"
+      ],
+      "dateDisplay": "April 2009",
+      "sortDate": "2009-04-19",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "IzrMeG1ibuM",
+      "vimeoId": "4225809",
+      "thumbnailUrl": "https://img.youtube.com/vi/IzrMeG1ibuM/hqdefault.jpg",
+      "tags": [
+        "collage",
+        "psychedelic",
+        "stop motion"
+      ]
+    },
+    "blonde-redhead-golden-light": {
+      "id": "blonde-redhead-golden-light",
+      "artist": "Blonde Redhead",
+      "song": "Golden Light",
+      "director": "Virgilio Villoresi",
+      "directors": [
+        "Virgilio Villoresi"
+      ],
+      "dateDisplay": "January 2017",
+      "sortDate": "2017-01-01",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "SptdUuiKzOw",
+      "vimeoId": "207818010",
+      "thumbnailUrl": "https://img.youtube.com/vi/SptdUuiKzOw/hqdefault.jpg",
+      "tags": [
+        "lighting",
+        "surreal"
+      ]
+    },
+    "jmii-bailar": {
+      "id": "jmii-bailar",
+      "artist": "JMII",
+      "song": "Bailar",
+      "director": "DEDO CIEGO",
+      "directors": [
+        "DEDO CIEGO"
+      ],
+      "dateDisplay": "January 2017",
+      "sortDate": "2017-01-01",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "o-itqilqHSs",
+      "vimeoId": "176513811",
+      "thumbnailUrl": "https://img.youtube.com/vi/o-itqilqHSs/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "monochrome",
+        "soundsync"
+      ]
+    },
+    "violet-sands-no-matter-what": {
+      "id": "violet-sands-no-matter-what",
+      "artist": "Violet Sands",
+      "song": "No Matter What",
+      "director": "Dress Code",
+      "directors": [
+        "Dress Code"
+      ],
+      "dateDisplay": "January 2016",
+      "sortDate": "2016-01-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "HL0K6LfJM1s",
+      "vimeoId": "185412081",
+      "thumbnailUrl": "https://img.youtube.com/vi/HL0K6LfJM1s/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "slitscan"
+      ]
+    },
+    "de-staat-witch-doctor": {
+      "id": "de-staat-witch-doctor",
+      "artist": "De Staat",
+      "song": "Witch Doctor",
+      "director": "Floris Kaayk & Torre Florim",
+      "directors": [
+        "Floris Kaayk & Torre Florim"
+      ],
+      "dateDisplay": "January 2014",
+      "sortDate": "2014-01-01",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "0ttGgIQpAUc",
+      "vimeoId": "140161428",
+      "thumbnailUrl": "https://img.youtube.com/vi/0ttGgIQpAUc/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "vfx"
+      ]
+    },
+    "panda-bear-boys-latin": {
+      "id": "panda-bear-boys-latin",
+      "artist": "Panda Bear",
+      "song": "Boys Latin",
+      "director": "Isaiah Saxon & Sean Hellfritsch",
+      "directors": [
+        "Isaiah Saxon & Sean Hellfritsch"
+      ],
+      "dateDisplay": "December 2014",
+      "sortDate": "2014-12-15",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "prBaZzYmQrI",
+      "vimeoId": "113544877",
+      "thumbnailUrl": "https://img.youtube.com/vi/prBaZzYmQrI/hqdefault.jpg",
+      "tags": [
+        "psychedelic"
+      ]
+    },
+    "ok-go-i-wont-let-you-down": {
+      "id": "ok-go-i-wont-let-you-down",
+      "artist": "OK GO",
+      "song": "I Won't Let You Down",
+      "director": "Kazuaki Seki and Damian Kulash Jr.",
+      "directors": [
+        "Kazuaki Seki and Damian Kulash Jr."
+      ],
+      "dateDisplay": "October 2014",
+      "sortDate": "2014-10-27",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "u1ZB_rGFyeU",
+      "vimeoId": "294757371",
+      "thumbnailUrl": "https://img.youtube.com/vi/u1ZB_rGFyeU/hqdefault.jpg",
+      "tags": [
+        "busby berkeley",
+        "crowd",
+        "drone",
+        "long take",
+        "poc director"
+      ]
+    },
+    "ok-go-the-writings-on-the-wall": {
+      "id": "ok-go-the-writings-on-the-wall",
+      "artist": "OK GO",
+      "song": "The Writing's On the Wall",
+      "director": "Aaron Duffy Damian Kulash Jr. & Bob Partington",
+      "directors": [
+        "Aaron Duffy Damian Kulash Jr. & Bob Partington"
+      ],
+      "dateDisplay": "July 2014",
+      "sortDate": "2014-07-02",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "m86ae_e_ptU",
+      "vimeoId": "98471805",
+      "thumbnailUrl": "https://img.youtube.com/vi/m86ae_e_ptU/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "optical illusion"
+      ]
+    },
+    "hundred-waters-cavity": {
+      "id": "hundred-waters-cavity",
+      "artist": "Hundred Waters",
+      "song": "Cavity",
+      "director": "Michael Langan",
+      "directors": [
+        "Michael Langan"
+      ],
+      "dateDisplay": "May 2014",
+      "sortDate": "2014-05-20",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "3Ph13QzfQHU",
+      "vimeoId": "90878238",
+      "thumbnailUrl": "https://img.youtube.com/vi/3Ph13QzfQHU/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "lighting",
+        "projection mapping",
+        "surreal",
+        "vfx"
+      ]
+    },
+    "dj-snake-lil-jon-turn-down-for-what": {
+      "id": "dj-snake-lil-jon-turn-down-for-what",
+      "artist": "DJ Snake & Lil Jon",
+      "song": "Turn Down for What",
+      "director": "Daniels",
+      "directors": [
+        "Daniels"
+      ],
+      "dateDisplay": "March 2014",
+      "sortDate": "2014-03-13",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "HMUDVMiITOU",
+      "vimeoId": "88415705",
+      "thumbnailUrl": "https://img.youtube.com/vi/HMUDVMiITOU/hqdefault.jpg",
+      "tags": [
+        "poc director"
+      ]
+    },
+    "boozoo-bajou-jan-mayen": {
+      "id": "boozoo-bajou-jan-mayen",
+      "artist": "Boozoo Bajou",
+      "song": "Jan Mayen",
+      "director": "Michael Fragstein",
+      "directors": [
+        "Michael Fragstein"
+      ],
+      "dateDisplay": "December 2013",
+      "sortDate": "2013-12-05",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "R-RZfLG7XdY",
+      "vimeoId": "59911840",
+      "thumbnailUrl": "https://img.youtube.com/vi/R-RZfLG7XdY/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "loops",
+        "psychedelic",
+        "repeat",
+        "timeslice"
+      ]
+    },
+    "iron-wine-joy": {
+      "id": "iron-wine-joy",
+      "artist": "Iron & Wine",
+      "song": "Joy",
+      "director": "Hayley Morris",
+      "directors": [
+        "Hayley Morris"
+      ],
+      "dateDisplay": "April 2013",
+      "sortDate": "2013-04-15",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "gjgdmmpFeu8",
+      "vimeoId": "63977758",
+      "thumbnailUrl": "https://img.youtube.com/vi/gjgdmmpFeu8/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "projection mapping",
+        "stop motion",
+        "womxn director"
+      ]
+    },
+    "bonobo-cirrus": {
+      "id": "bonobo-cirrus",
+      "artist": "Bonobo",
+      "song": "Cirrus",
+      "director": "Cyriak",
+      "directors": [
+        "Cyriak"
+      ],
+      "dateDisplay": "January 2013",
+      "sortDate": "2013-01-28",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "WF34N4gJAKE",
+      "vimeoId": "58115286",
+      "thumbnailUrl": "https://img.youtube.com/vi/WF34N4gJAKE/hqdefault.jpg",
+      "tags": [
+        "psychedelic",
+        "repeat"
+      ]
+    },
+    "bj-rk-mutual-core": {
+      "id": "bj-rk-mutual-core",
+      "artist": "Björk",
+      "song": "Mutual Core",
+      "director": "Andrew Thomas Huang",
+      "directors": [
+        "Andrew Thomas Huang"
+      ],
+      "dateDisplay": "November 2012",
+      "sortDate": "2012-11-13",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "ZM80F_J-QHE",
+      "vimeoId": "1068988624",
+      "thumbnailUrl": "https://img.youtube.com/vi/ZM80F_J-QHE/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "mixed media",
+        "poc director",
+        "puppets",
+        "surreal",
+        "vfx"
+      ]
+    },
+    "royksopp-so-easy-unofficial-video": {
+      "id": "royksopp-so-easy-unofficial-video",
+      "artist": "Royksopp",
+      "song": "So Easy (unofficial video)",
+      "director": "Emmanuelle Walker",
+      "directors": [
+        "Emmanuelle Walker"
+      ],
+      "dateDisplay": "April 2012",
+      "sortDate": "2012-04-27",
+      "year": 2012,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "39152971",
+      "thumbnailUrl": null,
+      "tags": [
+        "cel animation",
+        "illustration",
+        "womxn director"
+      ]
+    },
+    "the-shins-simple-song": {
+      "id": "the-shins-simple-song",
+      "artist": "The Shins",
+      "song": "Simple Song",
+      "director": "DANIELS",
+      "directors": [
+        "DANIELS"
+      ],
+      "dateDisplay": "February 2012",
+      "sortDate": "2012-02-21",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "RoLTPcD1S4Q",
+      "vimeoId": "37323332",
+      "thumbnailUrl": "https://img.youtube.com/vi/RoLTPcD1S4Q/hqdefault.jpg",
+      "tags": [
+        "narrative",
+        "poc director"
+      ]
+    },
+    "danger-mouse-daniele-luppi-feat-jack-white-two-against-one": {
+      "id": "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+      "artist": "Danger Mouse & Daniele Luppi feat. Jack White",
+      "song": "Two Against One",
+      "director": "Anthony Francisco Schepperd & Chris Milk",
+      "directors": [
+        "Anthony Francisco Schepperd & Chris Milk"
+      ],
+      "dateDisplay": "January 2012",
+      "sortDate": "2012-01-10",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "lF_C7BvAf_A",
+      "vimeoId": "34706361",
+      "thumbnailUrl": "https://img.youtube.com/vi/lF_C7BvAf_A/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "monochrome"
+      ]
+    },
+    "fleet-foxes-the-shrine-an-argument": {
+      "id": "fleet-foxes-the-shrine-an-argument",
+      "artist": "Fleet Foxes",
+      "song": "The Shrine / An Argument",
+      "director": "Sean Pecknold",
+      "directors": [
+        "Sean Pecknold"
+      ],
+      "dateDisplay": "November 2011",
+      "sortDate": "2011-11-21",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "9yAxIdkF2Qo",
+      "vimeoId": "31464974",
+      "thumbnailUrl": "https://img.youtube.com/vi/9yAxIdkF2Qo/hqdefault.jpg",
+      "tags": [
+        "stop motion"
+      ]
+    },
+    "villagers-cecelia-her-selfhood": {
+      "id": "villagers-cecelia-her-selfhood",
+      "artist": "Villagers",
+      "song": "Cecelia & Her Selfhood",
+      "director": "Adrien Merigeau",
+      "directors": [
+        "Adrien Merigeau"
+      ],
+      "dateDisplay": "September 2011",
+      "sortDate": "2011-09-19",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "XR-Kox34wgk",
+      "vimeoId": "28610762",
+      "thumbnailUrl": "https://img.youtube.com/vi/XR-Kox34wgk/hqdefault.jpg",
+      "tags": [
+        "cel animation"
+      ]
+    },
+    "friendly-fires-hurting": {
+      "id": "friendly-fires-hurting",
+      "artist": "Friendly Fires",
+      "song": "Hurting",
+      "director": "David Lewandowski",
+      "directors": [
+        "David Lewandowski"
+      ],
+      "dateDisplay": "November 2011",
+      "sortDate": "2011-11-10",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "bhdVV58l0vA",
+      "vimeoId": "33056810",
+      "thumbnailUrl": "https://img.youtube.com/vi/bhdVV58l0vA/hqdefault.jpg",
+      "tags": [
+        "heels",
+        "surreal",
+        "vfx"
+      ]
+    },
+    "we-cut-corners-pirates-life": {
+      "id": "we-cut-corners-pirates-life",
+      "artist": "We Cut Corners",
+      "song": "Pirate's Life",
+      "director": "Kijek/Adamski",
+      "directors": [
+        "Kijek/Adamski"
+      ],
+      "dateDisplay": "October 2011",
+      "sortDate": "2011-10-19",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "mtCGhJ5rvBk",
+      "vimeoId": "30719106",
+      "thumbnailUrl": "https://img.youtube.com/vi/mtCGhJ5rvBk/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "monochrome",
+        "psychedelic",
+        "womxn director"
+      ]
+    },
+    "marian-ruzzi-y-sr-amable-una-pieza-mas": {
+      "id": "marian-ruzzi-y-sr-amable-una-pieza-mas",
+      "artist": "Marian Ruzzi y Sr. Amable",
+      "song": "Una pieza mas",
+      "director": "Luis Safa & BASA Studio",
+      "directors": [
+        "Luis Safa & BASA Studio"
+      ],
+      "dateDisplay": "November 2011",
+      "sortDate": "2011-11-15",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "JL13mEbnSv8",
+      "vimeoId": "32025586",
+      "thumbnailUrl": "https://img.youtube.com/vi/JL13mEbnSv8/hqdefault.jpg",
+      "tags": [
+        "yuri norstein-esque"
+      ]
+    },
+    "ok-go-all-is-not-lost": {
+      "id": "ok-go-all-is-not-lost",
+      "artist": "OK GO",
+      "song": "All Is Not Lost",
+      "director": "Trish Sie & Pilobolus",
+      "directors": [
+        "Trish Sie & Pilobolus"
+      ],
+      "dateDisplay": "July 2011",
+      "sortDate": "2011-07-27",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "ur-y7oOto14",
+      "vimeoId": "73838982",
+      "thumbnailUrl": "https://img.youtube.com/vi/ur-y7oOto14/hqdefault.jpg",
+      "tags": [
+        "kaleidoscope",
+        "repeat",
+        "womxn director"
+      ]
+    },
+    "hooray-for-earth-true-loves-cereal-spiller-remix": {
+      "id": "hooray-for-earth-true-loves-cereal-spiller-remix",
+      "artist": "Hooray For Earth",
+      "song": "True Loves (Cereal Spiller Remix)",
+      "director": "Cyriak",
+      "directors": [
+        "Cyriak"
+      ],
+      "dateDisplay": "June 2011",
+      "sortDate": "2011-06-09",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "Mf6JCpJjdiY",
+      "vimeoId": "24064252",
+      "thumbnailUrl": "https://img.youtube.com/vi/Mf6JCpJjdiY/hqdefault.jpg",
+      "tags": [
+        "isometric",
+        "psychedelic"
+      ]
+    },
+    "danger-beach-apache": {
+      "id": "danger-beach-apache",
+      "artist": "Danger Beach",
+      "song": "Apache",
+      "director": "Ned Wenlock",
+      "directors": [
+        "Ned Wenlock"
+      ],
+      "dateDisplay": "April 2011",
+      "sortDate": "2011-04-29",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "bRO7fCgHSyY",
+      "vimeoId": "22679618",
+      "thumbnailUrl": "https://img.youtube.com/vi/bRO7fCgHSyY/hqdefault.jpg",
+      "tags": [
+        "illustration",
+        "loops"
+      ]
+    },
+    "scissor-sisters-invisible-light": {
+      "id": "scissor-sisters-invisible-light",
+      "artist": "Scissor Sisters",
+      "song": "Invisible Light",
+      "director": "Nicolas Mendez",
+      "directors": [
+        "Nicolas Mendez"
+      ],
+      "dateDisplay": "December 2010",
+      "sortDate": "2010-12-16",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "SG4cec5cR78",
+      "vimeoId": "17871386",
+      "thumbnailUrl": "https://img.youtube.com/vi/SG4cec5cR78/hqdefault.jpg",
+      "tags": [
+        "surreal",
+        "tableau"
+      ]
+    },
+    "uffie-difficult": {
+      "id": "uffie-difficult",
+      "artist": "Uffie",
+      "song": "Difficult",
+      "director": "AB/CD/CD",
+      "directors": [
+        "AB/CD/CD"
+      ],
+      "dateDisplay": "October 2010",
+      "sortDate": "2010-10-09",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "hnzS5QxbzPU",
+      "vimeoId": "16030993",
+      "thumbnailUrl": "https://img.youtube.com/vi/hnzS5QxbzPU/hqdefault.jpg",
+      "tags": [
+        "long take"
+      ]
+    },
+    "blockhead-the-music-scene": {
+      "id": "blockhead-the-music-scene",
+      "artist": "Blockhead",
+      "song": "The Music Scene",
+      "director": "A.F. Schepperd",
+      "directors": [
+        "A.F. Schepperd"
+      ],
+      "dateDisplay": "June 2010",
+      "sortDate": "2010-06-17",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "NhheiPTdZCw",
+      "vimeoId": "12622016",
+      "thumbnailUrl": "https://img.youtube.com/vi/NhheiPTdZCw/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "psychedelic"
+      ]
+    },
+    "sebastien-tellier-look": {
+      "id": "sebastien-tellier-look",
+      "artist": "Sebastien Tellier",
+      "song": "Look",
+      "director": "Mrzyk & Moriceau",
+      "directors": [
+        "Mrzyk & Moriceau"
+      ],
+      "dateDisplay": "March 2010",
+      "sortDate": "2010-03-09",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "8jL0vy2YaDg",
+      "vimeoId": "9943586",
+      "thumbnailUrl": "https://img.youtube.com/vi/8jL0vy2YaDg/hqdefault.jpg",
+      "tags": [
+        "butts",
+        "cel animation",
+        "monochrome"
+      ]
+    },
+    "kumisolo-cheap-pop-song": {
+      "id": "kumisolo-cheap-pop-song",
+      "artist": "Kumisolo",
+      "song": "Cheap Pop Song",
+      "director": "Rhett Dashwood",
+      "directors": [
+        "Rhett Dashwood"
+      ],
+      "dateDisplay": "March 2010",
+      "sortDate": "2010-03-01",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "EM9Fpg9TL9s",
+      "vimeoId": "9515506",
+      "thumbnailUrl": "https://img.youtube.com/vi/EM9Fpg9TL9s/hqdefault.jpg",
+      "tags": [
+        "lofi brilliance"
+      ]
+    },
+    "ok-go-this-too-shall-pass": {
+      "id": "ok-go-this-too-shall-pass",
+      "artist": "OK GO",
+      "song": "This Too Shall Pass",
+      "director": "Damian Kulash and Brian L. Perkins",
+      "directors": [
+        "Damian Kulash and Brian L. Perkins"
+      ],
+      "dateDisplay": "January 2010",
+      "sortDate": "2010-01-08",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "UJKythlXAIY",
+      "vimeoId": "8718627",
+      "thumbnailUrl": "https://img.youtube.com/vi/UJKythlXAIY/hqdefault.jpg",
+      "tags": [
+        "busby berkeley",
+        "crowd",
+        "long take",
+        "marching band"
+      ]
+    },
+    "paul-dempsey-bats": {
+      "id": "paul-dempsey-bats",
+      "artist": "Paul Dempsey",
+      "song": "Bats",
+      "director": "We Buy Your Kids",
+      "directors": [
+        "We Buy Your Kids"
+      ],
+      "dateDisplay": "February 2010",
+      "sortDate": "2010-02-09",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "9M5XXCja5KQ",
+      "vimeoId": "9146267",
+      "thumbnailUrl": "https://img.youtube.com/vi/9M5XXCja5KQ/hqdefault.jpg",
+      "tags": [
+        "illustration",
+        "long take",
+        "psychedelic"
+      ]
+    },
+    "grizzly-bear-while-you-wait-for-the-others": {
+      "id": "grizzly-bear-while-you-wait-for-the-others",
+      "artist": "Grizzly Bear",
+      "song": "While You Wait for the Others",
+      "director": "Sean Pecknold",
+      "directors": [
+        "Sean Pecknold"
+      ],
+      "dateDisplay": "September 2009",
+      "sortDate": "2009-09-14",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "mQ4jZeGUFzI",
+      "vimeoId": "6528299",
+      "thumbnailUrl": "https://img.youtube.com/vi/mQ4jZeGUFzI/hqdefault.jpg",
+      "tags": [
+        "stop motion"
+      ]
+    },
+    "boys-noize-jeffer": {
+      "id": "boys-noize-jeffer",
+      "artist": "Boys Noize",
+      "song": "Jeffer",
+      "director": "Pomp&Clout",
+      "directors": [
+        "Pomp&Clout"
+      ],
+      "dateDisplay": "September 2009",
+      "sortDate": "2009-09-09",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "mwSiprSJ52k",
+      "vimeoId": "5604759",
+      "thumbnailUrl": "https://img.youtube.com/vi/mwSiprSJ52k/hqdefault.jpg",
+      "tags": [
+        "lofi brilliance"
+      ]
+    },
+    "mgmt-kids": {
+      "id": "mgmt-kids",
+      "artist": "MGMT",
+      "song": "Kids",
+      "director": "Ray Tintori",
+      "directors": [
+        "Ray Tintori"
+      ],
+      "dateDisplay": "June 2009",
+      "sortDate": "2009-06-03",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "fe4EK4HSPkI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/fe4EK4HSPkI/hqdefault.jpg",
+      "tags": [
+        "poc director"
+      ]
+    },
+    "birdy-nam-nam-the-parachute-ending": {
+      "id": "birdy-nam-nam-the-parachute-ending",
+      "artist": "Birdy Nam Nam",
+      "song": "The Parachute Ending",
+      "director": "Will Sweeney & Steve Scott",
+      "directors": [
+        "Will Sweeney & Steve Scott"
+      ],
+      "dateDisplay": "June 2009",
+      "sortDate": "2009-06-03",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "3JJsq0GbpPg",
+      "vimeoId": "5003279",
+      "thumbnailUrl": "https://img.youtube.com/vi/3JJsq0GbpPg/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "space"
+      ]
+    },
+    "dominik-eulberg-sansula-oder-der-letzte-grund": {
+      "id": "dominik-eulberg-sansula-oder-der-letzte-grund",
+      "artist": "Dominik Eulberg",
+      "song": "Sansula (oder der letzte Grund)",
+      "director": "Dirk Rauscher",
+      "directors": [
+        "Dirk Rauscher"
+      ],
+      "dateDisplay": "May 2009",
+      "sortDate": "2009-05-26",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "21sjK_0jqOQ",
+      "vimeoId": "4417741",
+      "thumbnailUrl": "https://img.youtube.com/vi/21sjK_0jqOQ/hqdefault.jpg",
+      "tags": [
+        "projection mapping"
+      ]
+    },
+    "labuat-soy-tu-aire": {
+      "id": "labuat-soy-tu-aire",
+      "artist": "Labuat",
+      "song": "Soy Tu Aire",
+      "director": "Herraiz Soto & Co.",
+      "directors": [
+        "Herraiz Soto & Co."
+      ],
+      "dateDisplay": "May 2009",
+      "sortDate": "2009-05-18",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "vSqGU3CSbdc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/vSqGU3CSbdc/hqdefault.jpg",
+      "tags": [
+        "interactive"
+      ]
+    },
+    "la-roux-bulletproof": {
+      "id": "la-roux-bulletproof",
+      "artist": "La Roux",
+      "song": "Bulletproof",
+      "director": "Mathematic",
+      "directors": [
+        "Mathematic"
+      ],
+      "dateDisplay": "May 2009",
+      "sortDate": "2009-05-19",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "Kk8eJh4i8Lo",
+      "vimeoId": "13133379",
+      "thumbnailUrl": "https://img.youtube.com/vi/Kk8eJh4i8Lo/hqdefault.jpg",
+      "tags": [
+        "3D animation"
+      ]
+    },
+    "moray-mclaren-we-got-time": {
+      "id": "moray-mclaren-we-got-time",
+      "artist": "Moray McLaren",
+      "song": "We Got Time",
+      "director": "David Wilson",
+      "directors": [
+        "David Wilson"
+      ],
+      "dateDisplay": "April 2009",
+      "sortDate": "2009-04-22",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "j9e38cuhnaU",
+      "vimeoId": "891221746",
+      "thumbnailUrl": "https://img.youtube.com/vi/j9e38cuhnaU/hqdefault.jpg",
+      "tags": [
+        "loops",
+        "zoetrope"
+      ]
+    },
+    "chairlift-evident-utensil": {
+      "id": "chairlift-evident-utensil",
+      "artist": "Chairlift",
+      "song": "Evident Utensil",
+      "director": "Ray Tintori",
+      "directors": [
+        "Ray Tintori"
+      ],
+      "dateDisplay": "February 2009",
+      "sortDate": "2009-02-19",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "6LG39Wp7OzQ",
+      "vimeoId": "3139412",
+      "thumbnailUrl": "https://img.youtube.com/vi/6LG39Wp7OzQ/hqdefault.jpg",
+      "tags": [
+        "datamoshing",
+        "poc director",
+        "psychedelic"
+      ]
+    },
+    "kanye-west-feat-kid-cudi-welcome-to-heartbreak": {
+      "id": "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
+      "artist": "Kanye West feat. Kid Cudi",
+      "song": "Welcome to Heartbreak",
+      "director": "NABIL",
+      "directors": [
+        "NABIL"
+      ],
+      "dateDisplay": "February 2009",
+      "sortDate": "2009-02-19",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "HkGi4EjxpuI",
+      "vimeoId": "4578366",
+      "thumbnailUrl": "https://img.youtube.com/vi/HkGi4EjxpuI/hqdefault.jpg",
+      "tags": [
+        "datamoshing",
+        "poc director",
+        "psychedelic"
+      ]
+    },
+    "friendly-fires-skeleton-boy": {
+      "id": "friendly-fires-skeleton-boy",
+      "artist": "Friendly Fires",
+      "song": "Skeleton Boy",
+      "director": "Clemens Habicht",
+      "directors": [
+        "Clemens Habicht"
+      ],
+      "dateDisplay": "January 2009",
+      "sortDate": "2009-01-22",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "GyA8zfouG4Y",
+      "vimeoId": "27301918",
+      "thumbnailUrl": "https://img.youtube.com/vi/GyA8zfouG4Y/hqdefault.jpg",
+      "tags": [
+        "lofi brilliance",
+        "monochrome"
+      ]
+    },
+    "dick-annegarn-soleil-du-soir": {
+      "id": "dick-annegarn-soleil-du-soir",
+      "artist": "Dick Annegarn",
+      "song": "Soleil du soir",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "December 2008",
+      "sortDate": "2008-12-07",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "H-9DaehwAGI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/H-9DaehwAGI/hqdefault.jpg",
+      "tags": [
+        "brooklyn",
+        "pixilation",
+        "stop motion"
+      ]
+    },
+    "the-white-stripes-seven-nation-army": {
+      "id": "the-white-stripes-seven-nation-army",
+      "artist": "The White Stripes",
+      "song": "Seven Nation Army",
+      "director": "Alex & Martin",
+      "directors": [
+        "Alex & Martin"
+      ],
+      "dateDisplay": "February 2003",
+      "sortDate": "2003-02-17",
+      "year": 2003,
+      "provider": "youtube",
+      "youtubeId": "0J2QdDbelmY",
+      "vimeoId": "900679426",
+      "thumbnailUrl": "https://img.youtube.com/vi/0J2QdDbelmY/hqdefault.jpg",
+      "tags": [
+        "kaleidoscope",
+        "long take",
+        "loops",
+        "soundsync"
+      ]
+    },
+    "ok-go-this-too-shall-pass-rube-goldberg": {
+      "id": "ok-go-this-too-shall-pass-rube-goldberg",
+      "artist": "OK GO",
+      "song": "This Too Shall Pass (Rube Goldberg)",
+      "director": "James Frost",
+      "directors": [
+        "James Frost"
+      ],
+      "dateDisplay": "March 2010",
+      "sortDate": "2010-03-02",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "qybUFnY7Y8w",
+      "vimeoId": "10977948",
+      "thumbnailUrl": "https://img.youtube.com/vi/qybUFnY7Y8w/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "rube goldberg"
+      ]
+    },
+    "battles-my-machines": {
+      "id": "battles-my-machines",
+      "artist": "Battles",
+      "song": "My Machines",
+      "director": "Daniels",
+      "directors": [
+        "Daniels"
+      ],
+      "dateDisplay": "September 2011",
+      "sortDate": "2011-09-06",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "pkgQ88G8Hj8",
+      "vimeoId": "28997568",
+      "thumbnailUrl": "https://img.youtube.com/vi/pkgQ88G8Hj8/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "surreal",
+        "treadmill/escalator"
+      ]
+    },
+    "the-peach-kings-dirty-secret": {
+      "id": "the-peach-kings-dirty-secret",
+      "artist": "The Peach Kings",
+      "song": "Dirty Secret",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "June 2018",
+      "sortDate": "2018-06-08",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "pSpW2fMsS-g",
+      "vimeoId": "274098534",
+      "thumbnailUrl": "https://img.youtube.com/vi/pSpW2fMsS-g/hqdefault.jpg",
+      "tags": [
+        "brooklyn",
+        "dance",
+        "surreal"
+      ]
+    },
+    "b-o-b-back-and-forth": {
+      "id": "b-o-b-back-and-forth",
+      "artist": "B.o.B",
+      "song": "Back and Forth",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "dateDisplay": "January 28, 2016 12:50 PM (EST)",
+      "sortDate": "9999-99-99",
+      "year": null,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "153396635",
+      "thumbnailUrl": null,
+      "tags": [
+        "loops",
+        "optical illusion",
+        "repeat",
+        "zoetrope"
+      ]
+    },
+    "n-lannon-another-love": {
+      "id": "n-lannon-another-love",
+      "artist": "N. Lannon",
+      "song": "Another Love",
+      "director": "Michael Langan and Najeeb Tarazi",
+      "directors": [
+        "Michael Langan and Najeeb Tarazi"
+      ],
+      "dateDisplay": null,
+      "sortDate": "9999-99-99",
+      "year": null,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "145706460",
+      "thumbnailUrl": null,
+      "tags": [
+        "3D animation",
+        "dance",
+        "surreal"
+      ]
+    },
+    "mette-coming-of-age": {
+      "id": "mette-coming-of-age",
+      "artist": "METTE",
+      "song": "COMING OF AGE",
+      "director": "Helen Morales & METTE",
+      "directors": [
+        "Helen Morales & METTE"
+      ],
+      "dateDisplay": "April 2026",
+      "sortDate": "2026-04-08",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "9YYMZa5rImQ",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9YYMZa5rImQ/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "mirrors"
+      ]
+    },
+    "ok-go-a-stone-only-rolls-downhill": {
+      "id": "ok-go-a-stone-only-rolls-downhill",
+      "artist": "OK Go",
+      "song": "A Stone Only Rolls Downhill",
+      "director": "Damian Kulash, Chris Buongiorno",
+      "directors": [
+        "Damian Kulash, Chris Buongiorno"
+      ],
+      "dateDisplay": "January 2025",
+      "sortDate": "2025-01-27",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "MOEULOSVNK4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/MOEULOSVNK4/hqdefault.jpg",
+      "tags": [
+        "editing",
+        "interactive",
+        "lofi brilliance",
+        "meta",
+        "repeat"
+      ]
+    },
+    "ok-go-love": {
+      "id": "ok-go-love",
+      "artist": "OK Go",
+      "song": "Love",
+      "director": "Damian Kulash, Aaron Duffy, Miguel Espada",
+      "directors": [
+        "Damian Kulash, Aaron Duffy, Miguel Espada"
+      ],
+      "dateDisplay": "April 2025",
+      "sortDate": "2025-04-17",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "gz9BRl7DVSM",
+      "vimeoId": "1093974063",
+      "thumbnailUrl": "https://img.youtube.com/vi/gz9BRl7DVSM/hqdefault.jpg",
+      "tags": [
+        "kaleidoscope",
+        "long take",
+        "mirrors",
+        "optical illusion"
+      ]
+    },
+    "bonobo-me-and-you": {
+      "id": "bonobo-me-and-you",
+      "artist": "Bonobo",
+      "song": "Me And You",
+      "director": "in/out",
+      "directors": [
+        "in/out"
+      ],
+      "dateDisplay": "June 2026",
+      "sortDate": "2026-06-09",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "asYhvTfUaXI",
+      "vimeoId": "1199880146",
+      "thumbnailUrl": "https://img.youtube.com/vi/asYhvTfUaXI/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "surreal"
+      ]
+    },
+    "fm-belfast-underwear": {
+      "id": "fm-belfast-underwear",
+      "artist": "FM Belfast",
+      "song": "Underwear",
+      "director": "Daniels",
+      "directors": [
+        "Daniels"
+      ],
+      "dateDisplay": "April 2010",
+      "sortDate": "2010-04-01",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "DUWVCEVv7oE",
+      "vimeoId": "58574055",
+      "thumbnailUrl": "https://img.youtube.com/vi/DUWVCEVv7oE/hqdefault.jpg",
+      "tags": [
+        "slitscan",
+        "slowmo",
+        "vfx",
+        "wut"
+      ]
+    },
+    "the-hundred-in-the-hands-pigeons": {
+      "id": "the-hundred-in-the-hands-pigeons",
+      "artist": "The Hundred in the Hands",
+      "song": "Pigeons",
+      "director": "Daniels",
+      "directors": [
+        "Daniels"
+      ],
+      "dateDisplay": "July 2010",
+      "sortDate": "2010-07-01",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "zAfEvvnzlwQ",
+      "vimeoId": "13561592",
+      "thumbnailUrl": "https://img.youtube.com/vi/zAfEvvnzlwQ/hqdefault.jpg",
+      "tags": [
+        "explosions",
+        "surreal",
+        "vfx"
+      ]
+    }
+  },
+  "playlists": {
+    "timeline": [
+      "queen-bohemian-rhapsody",
+      "michael-jackson-billie-jean",
+      "michael-jackson-thriller",
+      "talking-heads-and-she-was",
+      "harold-faltermeyer-steve-stevens-top-gun-anthem",
+      "peter-gabriel-sledgehammer",
+      "michael-jackson-smooth-criminal",
+      "janet-jackson-rhythm-nation",
+      "madonna-vogue",
+      "george-michael-freedom-90",
+      "r-e-m-losing-my-religion",
+      "beastie-boys-sabotage",
+      "nine-inch-nails-closer",
+      "bj-rk-its-oh-so-quiet",
+      "the-pharcyde-drop",
+      "radiohead-just",
+      "blur-the-universal",
+      "smashing-pumpkins-tonight-tonight",
+      "blur-song-2",
+      "missy-elliott-the-rain-supa-dupa-fly",
+      "bj-rk-bachelorette",
+      "air-kelly-watch-the-stars",
+      "fatboy-slim-praise-you",
+      "blur-coffee-tv",
+      "blur-no-distance-left-to-run",
+      "dangelo-untitled-how-does-it-feel",
+      "the-avalanches-frontier-psychiatrist",
+      "fatboy-slim-weapon-of-choice",
+      "the-chemical-brothers-star-guitar",
+      "the-white-stripes-fell-in-love-with-a-girl",
+      "autechre-gantz-graf",
+      "r-yksopp-remind-me",
+      "the-white-stripes-dead-leaves-and-the-dirty-ground",
+      "kylie-minogue-come-into-my-world",
+      "junior-senior-move-your-feet",
+      "twerk-from-brown-to-green",
+      "the-white-stripes-seven-nation-army",
+      "yuki-sentimental-journey",
+      "mickey-3d-respire",
+      "kid-koala-basin-street-blues",
+      "the-white-stripes-the-hardest-button-to-button",
+      "the-darkness-i-believe-in-a-thing-called-love",
+      "outkast-hey-ya",
+      "devendra-banhart-a-ribbon",
+      "r-kelly-trapped-in-the-closet",
+      "cornelius-fit-song",
+      "the-rapture-whoo-alright-yeah-uh-huh",
+      "vitalic-poney-part-1-birds",
+      "gnarls-barkley-crazy",
+      "muse-knights-of-cydonia",
+      "ok-go-here-it-goes-again",
+      "the-horrors-sheena-is-a-parasite",
+      "ogiyahagi-i-love-your-face",
+      "regina-spektor-samson",
+      "modest-mouse-dashboard",
+      "battles-atlas",
+      "feist-1234",
+      "grizzly-bear-knife",
+      "feist-my-moon-my-man",
+      "bat-for-lashes-whats-a-girl-to-do",
+      "r2j2-work-it-out",
+      "snoop-dogg-sensual-seduction",
+      "bellx1-rocky-took-a-lover",
+      "feist-i-feel-it-all",
+      "goldfrapp-happiness",
+      "bj-rk-wanderlust",
+      "beyonc-single-ladies-put-a-ring-on-it",
+      "dick-annegarn-soleil-du-soir",
+      "friendly-fires-skeleton-boy",
+      "chairlift-evident-utensil",
+      "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
+      "yeasayer-wait-for-the-summer",
+      "moray-mclaren-we-got-time",
+      "labuat-soy-tu-aire",
+      "la-roux-bulletproof",
+      "dominik-eulberg-sansula-oder-der-letzte-grund",
+      "birdy-nam-nam-the-parachute-ending",
+      "mgmt-kids",
+      "coldplay-strawberry-swing",
+      "boys-noize-jeffer",
+      "grizzly-bear-while-you-wait-for-the-others",
+      "lady-gaga-bad-romance",
+      "the-presets-girl-and-the-sea",
+      "ok-go-this-too-shall-pass",
+      "paul-dempsey-bats",
+      "kumisolo-cheap-pop-song",
+      "ok-go-this-too-shall-pass-rube-goldberg",
+      "sebastien-tellier-look",
+      "janelle-mon-e-tightrope",
+      "fm-belfast-underwear",
+      "blockhead-the-music-scene",
+      "the-hundred-in-the-hands-pigeons",
+      "uffie-difficult",
+      "scissor-sisters-invisible-light",
+      "danger-beach-apache",
+      "battles-ice-cream",
+      "hooray-for-earth-true-loves-cereal-spiller-remix",
+      "ok-go-all-is-not-lost",
+      "battles-my-machines",
+      "villagers-cecelia-her-selfhood",
+      "we-cut-corners-pirates-life",
+      "friendly-fires-hurting",
+      "marian-ruzzi-y-sr-amable-una-pieza-mas",
+      "fleet-foxes-the-shrine-an-argument",
+      "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+      "the-shins-simple-song",
+      "royksopp-so-easy-unofficial-video",
+      "psy-gangnam-style",
+      "bj-rk-mutual-core",
+      "bonobo-cirrus",
+      "iron-wine-joy",
+      "light-light-kilo-do-not-touch",
+      "vial-of-sound-a-lifetime-passed",
+      "boozoo-bajou-jan-mayen",
+      "de-staat-witch-doctor",
+      "dj-snake-lil-jon-turn-down-for-what",
+      "hundred-waters-cavity",
+      "ok-go-the-writings-on-the-wall",
+      "sarh-u-and-i",
+      "ok-go-i-wont-let-you-down",
+      "panda-bear-boys-latin",
+      "drake-hotline-bling",
+      "jane-bordeaux-maagalim",
+      "ok-go-upside-down-inside-out",
+      "the-chemical-brothers-wide-open",
+      "violet-sands-no-matter-what",
+      "beyonc-formation",
+      "charles-x-can-you-do-it",
+      "coldplay-up-up",
+      "bomba-est-reo-soy-yo",
+      "blonde-redhead-golden-light",
+      "jmii-bailar",
+      "young-thug-wyclef-jean",
+      "washed-out-floating-by",
+      "thunder-tillman-alignments",
+      "mastadon-clandestiny",
+      "janelle-mon-e-make-me-feel",
+      "janelle-mon-e-pynk",
+      "janelle-mon-e-i-like-that",
+      "childish-gambino-this-is-america",
+      "luc-glow",
+      "the-peach-kings-dirty-secret",
+      "bas-ft-correy-c-fragrance",
+      "mitski-a-pearl",
+      "the-peach-kings-without-you",
+      "duck-sauce-mesmerize",
+      "los-misterios-m-talos-y-vuelve",
+      "dayglow-something",
+      "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+      "mette-mamas-eyes",
+      "janelle-mon-e-lipstick-lover",
+      "mette-van-gogh",
+      "jungle-back-on-74",
+      "jacques-absolve",
+      "unknown-t-featuring-loyle-carner-hocus-pocus",
+      "the-smile-friend-of-a-friend",
+      "tierra-whack-shower-song",
+      "fred-again-lil-yachty-and-overmono-stayinit",
+      "dua-lipa-illusion",
+      "mette-bet",
+      "kings-of-leon-mustang",
+      "tourist-valentine",
+      "ok-go-a-stone-only-rolls-downhill",
+      "ok-go-love",
+      "mette-coming-of-age",
+      "bonobo-me-and-you",
+      "balming-tiger-oui",
+      "b-o-b-back-and-forth",
+      "n-lannon-another-love"
+    ],
+    "tags": {
+      "confidence": [
+        "queen-bohemian-rhapsody",
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "george-michael-freedom-90",
+        "beastie-boys-sabotage",
+        "missy-elliott-the-rain-supa-dupa-fly",
+        "fatboy-slim-weapon-of-choice",
+        "outkast-hey-ya",
+        "muse-knights-of-cydonia",
+        "beyonc-single-ladies-put-a-ring-on-it",
+        "lady-gaga-bad-romance",
+        "beyonc-formation",
+        "bomba-est-reo-soy-yo",
+        "childish-gambino-this-is-america",
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "jungle-back-on-74"
+      ],
+      "dance": [
+        "michael-jackson-billie-jean",
+        "michael-jackson-thriller",
+        "michael-jackson-smooth-criminal",
+        "janet-jackson-rhythm-nation",
+        "madonna-vogue",
+        "bj-rk-its-oh-so-quiet",
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice",
+        "ok-go-here-it-goes-again",
+        "feist-1234",
+        "r2j2-work-it-out",
+        "beyonc-single-ladies-put-a-ring-on-it",
+        "lady-gaga-bad-romance",
+        "psy-gangnam-style",
+        "sarh-u-and-i",
+        "ok-go-upside-down-inside-out",
+        "the-chemical-brothers-wide-open",
+        "violet-sands-no-matter-what",
+        "beyonc-formation",
+        "bomba-est-reo-soy-yo",
+        "childish-gambino-this-is-america",
+        "the-peach-kings-dirty-secret",
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "jungle-back-on-74",
+        "dua-lipa-illusion",
+        "tourist-valentine",
+        "mette-coming-of-age",
+        "n-lannon-another-love"
+      ],
+      "prosthetics": [
+        "michael-jackson-thriller",
+        "grizzly-bear-knife",
+        "bj-rk-wanderlust"
+      ],
+      "collage": [
+        "talking-heads-and-she-was",
+        "yeasayer-wait-for-the-summer",
+        "mastadon-clandestiny",
+        "los-misterios-m-talos-y-vuelve"
+      ],
+      "lofi brilliance": [
+        "talking-heads-and-she-was",
+        "peter-gabriel-sledgehammer",
+        "bellx1-rocky-took-a-lover",
+        "friendly-fires-skeleton-boy",
+        "boys-noize-jeffer",
+        "kumisolo-cheap-pop-song",
+        "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "stop motion": [
+        "talking-heads-and-she-was",
+        "peter-gabriel-sledgehammer",
+        "the-white-stripes-fell-in-love-with-a-girl",
+        "the-white-stripes-the-hardest-button-to-button",
+        "devendra-banhart-a-ribbon",
+        "cornelius-fit-song",
+        "regina-spektor-samson",
+        "dick-annegarn-soleil-du-soir",
+        "yeasayer-wait-for-the-summer",
+        "coldplay-strawberry-swing",
+        "grizzly-bear-while-you-wait-for-the-others",
+        "fleet-foxes-the-shrine-an-argument",
+        "iron-wine-joy",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "tierra-whack-shower-song"
+      ],
+      "guitar solo": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "the-darkness-i-believe-in-a-thing-called-love"
+      ],
+      "hair": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "vitalic-poney-part-1-birds"
+      ],
+      "wut": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "r-kelly-trapped-in-the-closet",
+        "vitalic-poney-part-1-birds",
+        "fm-belfast-underwear",
+        "psy-gangnam-style",
+        "duck-sauce-mesmerize"
+      ],
+      "monochrome": [
+        "janet-jackson-rhythm-nation",
+        "madonna-vogue",
+        "blur-the-universal",
+        "regina-spektor-samson",
+        "friendly-fires-skeleton-boy",
+        "sebastien-tellier-look",
+        "we-cut-corners-pirates-life",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "jmii-bailar",
+        "thunder-tillman-alignments"
+      ],
+      "poc director": [
+        "r-e-m-losing-my-religion",
+        "missy-elliott-the-rain-supa-dupa-fly",
+        "yuki-sentimental-journey",
+        "cornelius-fit-song",
+        "muse-knights-of-cydonia",
+        "ogiyahagi-i-love-your-face",
+        "snoop-dogg-sensual-seduction",
+        "chairlift-evident-utensil",
+        "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
+        "mgmt-kids",
+        "janelle-mon-e-tightrope",
+        "the-shins-simple-song",
+        "psy-gangnam-style",
+        "bj-rk-mutual-core",
+        "dj-snake-lil-jon-turn-down-for-what",
+        "ok-go-i-wont-let-you-down",
+        "drake-hotline-bling",
+        "beyonc-formation",
+        "janelle-mon-e-make-me-feel",
+        "janelle-mon-e-i-like-that",
+        "childish-gambino-this-is-america",
+        "mitski-a-pearl",
+        "janelle-mon-e-lipstick-lover",
+        "tierra-whack-shower-song",
+        "dua-lipa-illusion"
+      ],
+      "tableau": [
+        "r-e-m-losing-my-religion",
+        "grizzly-bear-knife",
+        "lady-gaga-bad-romance",
+        "scissor-sisters-invisible-light",
+        "beyonc-formation",
+        "janelle-mon-e-i-like-that",
+        "unknown-t-featuring-loyle-carner-hocus-pocus",
+        "tierra-whack-shower-song"
+      ],
+      "gothy": [
+        "nine-inch-nails-closer",
+        "smashing-pumpkins-tonight-tonight",
+        "the-horrors-sheena-is-a-parasite",
+        "lady-gaga-bad-romance"
+      ],
+      "busby berkeley": [
+        "bj-rk-its-oh-so-quiet",
+        "ok-go-this-too-shall-pass",
+        "ok-go-i-wont-let-you-down",
+        "tourist-valentine"
+      ],
+      "crowd": [
+        "bj-rk-its-oh-so-quiet",
+        "feist-1234",
+        "ok-go-this-too-shall-pass",
+        "de-staat-witch-doctor",
+        "ok-go-i-wont-let-you-down"
+      ],
+      "reverse": [
+        "the-pharcyde-drop"
+      ],
+      "narrative": [
+        "radiohead-just",
+        "the-shins-simple-song"
+      ],
+      "surreal": [
+        "radiohead-just",
+        "bj-rk-bachelorette",
+        "cornelius-fit-song",
+        "ogiyahagi-i-love-your-face",
+        "grizzly-bear-knife",
+        "bat-for-lashes-whats-a-girl-to-do",
+        "bj-rk-wanderlust",
+        "the-hundred-in-the-hands-pigeons",
+        "scissor-sisters-invisible-light",
+        "battles-ice-cream",
+        "battles-my-machines",
+        "friendly-fires-hurting",
+        "bj-rk-mutual-core",
+        "hundred-waters-cavity",
+        "coldplay-up-up",
+        "blonde-redhead-golden-light",
+        "the-peach-kings-dirty-secret",
+        "the-peach-kings-without-you",
+        "jacques-absolve",
+        "unknown-t-featuring-loyle-carner-hocus-pocus",
+        "bonobo-me-and-you",
+        "balming-tiger-oui",
+        "n-lannon-another-love"
+      ],
+      "womxn director": [
+        "smashing-pumpkins-tonight-tonight",
+        "blur-song-2",
+        "yuki-sentimental-journey",
+        "ok-go-here-it-goes-again",
+        "ogiyahagi-i-love-your-face",
+        "snoop-dogg-sensual-seduction",
+        "janelle-mon-e-tightrope",
+        "ok-go-all-is-not-lost",
+        "we-cut-corners-pirates-life",
+        "royksopp-so-easy-unofficial-video",
+        "iron-wine-joy",
+        "ok-go-upside-down-inside-out",
+        "beyonc-formation",
+        "janelle-mon-e-pynk",
+        "janelle-mon-e-i-like-that",
+        "mitski-a-pearl",
+        "mette-mamas-eyes",
+        "janelle-mon-e-lipstick-lover",
+        "mette-van-gogh",
+        "dua-lipa-illusion",
+        "mette-bet"
+      ],
+      "fisheye": [
+        "missy-elliott-the-rain-supa-dupa-fly"
+      ],
+      "slowmo": [
+        "air-kelly-watch-the-stars",
+        "vitalic-poney-part-1-birds",
+        "fm-belfast-underwear"
+      ],
+      "sports": [
+        "air-kelly-watch-the-stars"
+      ],
+      "puppets": [
+        "blur-coffee-tv",
+        "bellx1-rocky-took-a-lover",
+        "bj-rk-wanderlust",
+        "bj-rk-mutual-core"
+      ],
+      "night vision": [
+        "blur-no-distance-left-to-run"
+      ],
+      "long take": [
+        "dangelo-untitled-how-does-it-feel",
+        "the-chemical-brothers-star-guitar",
+        "the-white-stripes-seven-nation-army",
+        "bat-for-lashes-whats-a-girl-to-do",
+        "r2j2-work-it-out",
+        "feist-i-feel-it-all",
+        "ok-go-this-too-shall-pass",
+        "paul-dempsey-bats",
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "uffie-difficult",
+        "battles-my-machines",
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-i-wont-let-you-down",
+        "ok-go-upside-down-inside-out",
+        "the-chemical-brothers-wide-open",
+        "childish-gambino-this-is-america",
+        "los-misterios-m-talos-y-vuelve",
+        "jungle-back-on-74",
+        "ok-go-love"
+      ],
+      "soundsync": [
+        "the-avalanches-frontier-psychiatrist",
+        "the-chemical-brothers-star-guitar",
+        "the-white-stripes-seven-nation-army",
+        "the-white-stripes-the-hardest-button-to-button",
+        "feist-i-feel-it-all",
+        "jmii-bailar",
+        "thunder-tillman-alignments",
+        "luc-glow",
+        "the-peach-kings-without-you"
+      ],
+      "lego": [
+        "the-white-stripes-fell-in-love-with-a-girl"
+      ],
+      "pixel": [
+        "the-white-stripes-fell-in-love-with-a-girl",
+        "junior-senior-move-your-feet"
+      ],
+      "3D animation": [
+        "autechre-gantz-graf",
+        "twerk-from-brown-to-green",
+        "mickey-3d-respire",
+        "la-roux-bulletproof",
+        "bj-rk-mutual-core",
+        "jane-bordeaux-maagalim",
+        "n-lannon-another-love"
+      ],
+      "abstract": [
+        "autechre-gantz-graf",
+        "twerk-from-brown-to-green",
+        "boozoo-bajou-jan-mayen",
+        "hundred-waters-cavity",
+        "jmii-bailar",
+        "thunder-tillman-alignments",
+        "bonobo-me-and-you"
+      ],
+      "isometric": [
+        "r-yksopp-remind-me",
+        "hooray-for-earth-true-loves-cereal-spiller-remix"
+      ],
+      "projection mapping": [
+        "the-white-stripes-dead-leaves-and-the-dirty-ground",
+        "dominik-eulberg-sansula-oder-der-letzte-grund",
+        "iron-wine-joy",
+        "hundred-waters-cavity"
+      ],
+      "orbiting": [
+        "kylie-minogue-come-into-my-world",
+        "battles-atlas",
+        "mette-bet"
+      ],
+      "repeat": [
+        "kylie-minogue-come-into-my-world",
+        "yuki-sentimental-journey",
+        "ok-go-all-is-not-lost",
+        "bonobo-cirrus",
+        "vial-of-sound-a-lifetime-passed",
+        "boozoo-bajou-jan-mayen",
+        "sarh-u-and-i",
+        "bas-ft-correy-c-fragrance",
+        "ok-go-a-stone-only-rolls-downhill",
+        "b-o-b-back-and-forth"
+      ],
+      "vfx": [
+        "kylie-minogue-come-into-my-world",
+        "bj-rk-wanderlust",
+        "fm-belfast-underwear",
+        "the-hundred-in-the-hands-pigeons",
+        "friendly-fires-hurting",
+        "bj-rk-mutual-core",
+        "de-staat-witch-doctor",
+        "hundred-waters-cavity",
+        "the-chemical-brothers-wide-open",
+        "coldplay-up-up"
+      ],
+      "kaleidoscope": [
+        "the-white-stripes-seven-nation-army",
+        "ok-go-all-is-not-lost",
+        "ok-go-love"
+      ],
+      "loops": [
+        "the-white-stripes-seven-nation-army",
+        "moray-mclaren-we-got-time",
+        "danger-beach-apache",
+        "vial-of-sound-a-lifetime-passed",
+        "boozoo-bajou-jan-mayen",
+        "b-o-b-back-and-forth"
+      ],
+      "woc director": [
+        "yuki-sentimental-journey",
+        "ogiyahagi-i-love-your-face",
+        "snoop-dogg-sensual-seduction",
+        "janelle-mon-e-tightrope",
+        "beyonc-formation",
+        "janelle-mon-e-i-like-that",
+        "janelle-mon-e-lipstick-lover",
+        "dua-lipa-illusion"
+      ],
+      "kids": [
+        "mickey-3d-respire",
+        "bomba-est-reo-soy-yo",
+        "young-thug-wyclef-jean",
+        "the-smile-friend-of-a-friend"
+      ],
+      "brooklyn": [
+        "the-white-stripes-the-hardest-button-to-button",
+        "the-rapture-whoo-alright-yeah-uh-huh",
+        "dick-annegarn-soleil-du-soir",
+        "bomba-est-reo-soy-yo",
+        "the-peach-kings-dirty-secret"
+      ],
+      "pixilation": [
+        "the-white-stripes-the-hardest-button-to-button",
+        "dick-annegarn-soleil-du-soir",
+        "coldplay-strawberry-swing"
+      ],
+      "kaiju": [
+        "the-darkness-i-believe-in-a-thing-called-love"
+      ],
+      "space": [
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "muse-knights-of-cydonia",
+        "birdy-nam-nam-the-parachute-ending"
+      ],
+      "retro": [
+        "outkast-hey-ya",
+        "muse-knights-of-cydonia",
+        "snoop-dogg-sensual-seduction"
+      ],
+      "cel animation": [
+        "the-rapture-whoo-alright-yeah-uh-huh",
+        "bellx1-rocky-took-a-lover",
+        "birdy-nam-nam-the-parachute-ending",
+        "sebastien-tellier-look",
+        "blockhead-the-music-scene",
+        "villagers-cecelia-her-selfhood",
+        "we-cut-corners-pirates-life",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "royksopp-so-easy-unofficial-video",
+        "iron-wine-joy",
+        "vial-of-sound-a-lifetime-passed",
+        "dayglow-something"
+      ],
+      "matchmove": [
+        "the-rapture-whoo-alright-yeah-uh-huh"
+      ],
+      "dogs": [
+        "vitalic-poney-part-1-birds"
+      ],
+      "jump": [
+        "vitalic-poney-part-1-birds",
+        "goldfrapp-happiness"
+      ],
+      "lasers": [
+        "vitalic-poney-part-1-birds",
+        "psy-gangnam-style",
+        "fred-again-lil-yachty-and-overmono-stayinit"
+      ],
+      "psychedelic": [
+        "gnarls-barkley-crazy",
+        "chairlift-evident-utensil",
+        "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
+        "yeasayer-wait-for-the-summer",
+        "paul-dempsey-bats",
+        "blockhead-the-music-scene",
+        "hooray-for-earth-true-loves-cereal-spiller-remix",
+        "we-cut-corners-pirates-life",
+        "bonobo-cirrus",
+        "vial-of-sound-a-lifetime-passed",
+        "boozoo-bajou-jan-mayen",
+        "panda-bear-boys-latin",
+        "washed-out-floating-by"
+      ],
+      "horses": [
+        "muse-knights-of-cydonia",
+        "charles-x-can-you-do-it"
+      ],
+      "treadmill/escalator": [
+        "ok-go-here-it-goes-again",
+        "feist-my-moon-my-man",
+        "battles-my-machines"
+      ],
+      "mixed media": [
+        "modest-mouse-dashboard",
+        "grizzly-bear-knife",
+        "bellx1-rocky-took-a-lover",
+        "bj-rk-wanderlust",
+        "bj-rk-mutual-core",
+        "tierra-whack-shower-song"
+      ],
+      "bike": [
+        "bat-for-lashes-whats-a-girl-to-do",
+        "bomba-est-reo-soy-yo"
+      ],
+      "keytar": [
+        "snoop-dogg-sensual-seduction"
+      ],
+      "explosions": [
+        "feist-i-feel-it-all",
+        "the-hundred-in-the-hands-pigeons",
+        "psy-gangnam-style"
+      ],
+      "d&ad": [
+        "bj-rk-wanderlust",
+        "mette-mamas-eyes",
+        "mette-van-gogh"
+      ],
+      "ukmva": [
+        "bj-rk-wanderlust",
+        "coldplay-strawberry-swing",
+        "light-light-kilo-do-not-touch",
+        "childish-gambino-this-is-america",
+        "duck-sauce-mesmerize",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "jungle-back-on-74"
+      ],
+      "datamoshing": [
+        "chairlift-evident-utensil",
+        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
+      ],
+      "zoetrope": [
+        "moray-mclaren-we-got-time",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "b-o-b-back-and-forth"
+      ],
+      "interactive": [
+        "labuat-soy-tu-aire",
+        "light-light-kilo-do-not-touch",
+        "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "styling": [
+        "lady-gaga-bad-romance",
+        "janelle-mon-e-lipstick-lover",
+        "tierra-whack-shower-song"
+      ],
+      "yuri norstein-esque": [
+        "the-presets-girl-and-the-sea",
+        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      ],
+      "marching band": [
+        "ok-go-this-too-shall-pass"
+      ],
+      "illustration": [
+        "paul-dempsey-bats",
+        "danger-beach-apache",
+        "royksopp-so-easy-unofficial-video",
+        "charles-x-can-you-do-it"
+      ],
+      "rube goldberg": [
+        "ok-go-this-too-shall-pass-rube-goldberg"
+      ],
+      "butts": [
+        "sebastien-tellier-look",
+        "mette-mamas-eyes"
+      ],
+      "slitscan": [
+        "fm-belfast-underwear",
+        "violet-sands-no-matter-what"
+      ],
+      "editing": [
+        "battles-ice-cream",
+        "psy-gangnam-style",
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "heels": [
+        "friendly-fires-hurting"
+      ],
+      "timeslice": [
+        "boozoo-bajou-jan-mayen"
+      ],
+      "lighting": [
+        "hundred-waters-cavity",
+        "drake-hotline-bling",
+        "blonde-redhead-golden-light",
+        "janelle-mon-e-make-me-feel",
+        "fred-again-lil-yachty-and-overmono-stayinit"
+      ],
+      "optical illusion": [
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-love",
+        "b-o-b-back-and-forth"
+      ],
+      "chronophotography": [
+        "sarh-u-and-i"
+      ],
+      "long exposure": [
+        "sarh-u-and-i"
+      ],
+      "drone": [
+        "ok-go-i-wont-let-you-down"
+      ],
+      "architecture": [
+        "drake-hotline-bling",
+        "dua-lipa-illusion"
+      ],
+      "flute": [
+        "bomba-est-reo-soy-yo"
+      ],
+      "meta": [
+        "young-thug-wyclef-jean",
+        "duck-sauce-mesmerize",
+        "the-smile-friend-of-a-friend",
+        "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "hockney": [
+        "bas-ft-correy-c-fragrance"
+      ],
+      "3D printing": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "match cut": [
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "mette-bet"
+      ],
+      "ai": [
+        "jacques-absolve"
+      ],
+      "hydraulics": [
+        "unknown-t-featuring-loyle-carner-hocus-pocus"
+      ],
+      "swimming": [
+        "dua-lipa-illusion",
+        "tourist-valentine"
+      ],
+      "surveillance": [
+        "kings-of-leon-mustang"
+      ],
+      "whip pan": [
+        "kings-of-leon-mustang"
+      ],
+      "mirrors": [
+        "ok-go-love",
+        "mette-coming-of-age"
+      ]
+    },
+    "artists": {
+      "Queen": [
+        "queen-bohemian-rhapsody"
+      ],
+      "Michael Jackson": [
+        "michael-jackson-billie-jean",
+        "michael-jackson-thriller",
+        "michael-jackson-smooth-criminal"
+      ],
+      "Talking Heads": [
+        "talking-heads-and-she-was"
+      ],
+      "Harold Faltermeyer & Steve Stevens": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem"
+      ],
+      "Peter Gabriel": [
+        "peter-gabriel-sledgehammer"
+      ],
+      "Janet Jackson": [
+        "janet-jackson-rhythm-nation"
+      ],
+      "Madonna": [
+        "madonna-vogue"
+      ],
+      "George Michael": [
+        "george-michael-freedom-90"
+      ],
+      "R.E.M.": [
+        "r-e-m-losing-my-religion"
+      ],
+      "Beastie Boys": [
+        "beastie-boys-sabotage"
+      ],
+      "Nine Inch Nails": [
+        "nine-inch-nails-closer"
+      ],
+      "Björk": [
+        "bj-rk-its-oh-so-quiet",
+        "bj-rk-bachelorette",
+        "bj-rk-wanderlust",
+        "bj-rk-mutual-core"
+      ],
+      "The Pharcyde": [
+        "the-pharcyde-drop"
+      ],
+      "Radiohead": [
+        "radiohead-just"
+      ],
+      "Blur": [
+        "blur-the-universal",
+        "blur-song-2",
+        "blur-coffee-tv",
+        "blur-no-distance-left-to-run"
+      ],
+      "Smashing Pumpkins": [
+        "smashing-pumpkins-tonight-tonight"
+      ],
+      "Missy Elliott": [
+        "missy-elliott-the-rain-supa-dupa-fly"
+      ],
+      "Air": [
+        "air-kelly-watch-the-stars"
+      ],
+      "Fatboy Slim": [
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice"
+      ],
+      "D’Angelo": [
+        "dangelo-untitled-how-does-it-feel"
+      ],
+      "The Avalanches": [
+        "the-avalanches-frontier-psychiatrist"
+      ],
+      "The Chemical Brothers": [
+        "the-chemical-brothers-star-guitar",
+        "the-chemical-brothers-wide-open"
+      ],
+      "The White Stripes": [
+        "the-white-stripes-fell-in-love-with-a-girl",
+        "the-white-stripes-dead-leaves-and-the-dirty-ground",
+        "the-white-stripes-seven-nation-army",
+        "the-white-stripes-the-hardest-button-to-button"
+      ],
+      "Autechre": [
+        "autechre-gantz-graf"
+      ],
+      "Röyksopp": [
+        "r-yksopp-remind-me"
+      ],
+      "Kylie Minogue": [
+        "kylie-minogue-come-into-my-world"
+      ],
+      "Junior Senior": [
+        "junior-senior-move-your-feet"
+      ],
+      "Twerk": [
+        "twerk-from-brown-to-green"
+      ],
+      "Yuki": [
+        "yuki-sentimental-journey"
+      ],
+      "Mickey 3D": [
+        "mickey-3d-respire"
+      ],
+      "Kid Koala": [
+        "kid-koala-basin-street-blues"
+      ],
+      "The Darkness": [
+        "the-darkness-i-believe-in-a-thing-called-love"
+      ],
+      "Outkast": [
+        "outkast-hey-ya"
+      ],
+      "Devendra Banhart": [
+        "devendra-banhart-a-ribbon"
+      ],
+      "R. Kelly": [
+        "r-kelly-trapped-in-the-closet"
+      ],
+      "Cornelius": [
+        "cornelius-fit-song"
+      ],
+      "The Rapture": [
+        "the-rapture-whoo-alright-yeah-uh-huh"
+      ],
+      "Vitalic": [
+        "vitalic-poney-part-1-birds"
+      ],
+      "Gnarls Barkley": [
+        "gnarls-barkley-crazy"
+      ],
+      "Muse": [
+        "muse-knights-of-cydonia"
+      ],
+      "OK GO": [
+        "ok-go-here-it-goes-again",
+        "ok-go-this-too-shall-pass",
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-all-is-not-lost",
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-i-wont-let-you-down",
+        "ok-go-upside-down-inside-out"
+      ],
+      "The Horrors": [
+        "the-horrors-sheena-is-a-parasite"
+      ],
+      "Ogiyahagi": [
+        "ogiyahagi-i-love-your-face"
+      ],
+      "Regina Spektor": [
+        "regina-spektor-samson"
+      ],
+      "Modest Mouse": [
+        "modest-mouse-dashboard"
+      ],
+      "Battles": [
+        "battles-atlas",
+        "battles-ice-cream",
+        "battles-my-machines"
+      ],
+      "Feist": [
+        "feist-1234",
+        "feist-my-moon-my-man",
+        "feist-i-feel-it-all"
+      ],
+      "Grizzly Bear": [
+        "grizzly-bear-knife",
+        "grizzly-bear-while-you-wait-for-the-others"
+      ],
+      "Bat for Lashes": [
+        "bat-for-lashes-whats-a-girl-to-do"
+      ],
+      "R2J2": [
+        "r2j2-work-it-out"
+      ],
+      "Snoop Dogg": [
+        "snoop-dogg-sensual-seduction"
+      ],
+      "BellX1": [
+        "bellx1-rocky-took-a-lover"
+      ],
+      "Goldfrapp": [
+        "goldfrapp-happiness"
+      ],
+      "Beyoncé": [
+        "beyonc-single-ladies-put-a-ring-on-it",
+        "beyonc-formation"
+      ],
+      "Dick Annegarn": [
+        "dick-annegarn-soleil-du-soir"
+      ],
+      "Friendly Fires": [
+        "friendly-fires-skeleton-boy",
+        "friendly-fires-hurting"
+      ],
+      "Chairlift": [
+        "chairlift-evident-utensil"
+      ],
+      "Kanye West feat. Kid Cudi": [
+        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
+      ],
+      "Yeasayer": [
+        "yeasayer-wait-for-the-summer"
+      ],
+      "Moray McLaren": [
+        "moray-mclaren-we-got-time"
+      ],
+      "Labuat": [
+        "labuat-soy-tu-aire"
+      ],
+      "La Roux": [
+        "la-roux-bulletproof"
+      ],
+      "Dominik Eulberg": [
+        "dominik-eulberg-sansula-oder-der-letzte-grund"
+      ],
+      "Birdy Nam Nam": [
+        "birdy-nam-nam-the-parachute-ending"
+      ],
+      "MGMT": [
+        "mgmt-kids"
+      ],
+      "Coldplay": [
+        "coldplay-strawberry-swing",
+        "coldplay-up-up"
+      ],
+      "Boys Noize": [
+        "boys-noize-jeffer"
+      ],
+      "Lady Gaga": [
+        "lady-gaga-bad-romance"
+      ],
+      "The Presets": [
+        "the-presets-girl-and-the-sea"
+      ],
+      "Paul Dempsey": [
+        "paul-dempsey-bats"
+      ],
+      "Kumisolo": [
+        "kumisolo-cheap-pop-song"
+      ],
+      "Sebastien Tellier": [
+        "sebastien-tellier-look"
+      ],
+      "Janelle Monáe": [
+        "janelle-mon-e-tightrope",
+        "janelle-mon-e-make-me-feel",
+        "janelle-mon-e-pynk",
+        "janelle-mon-e-i-like-that",
+        "janelle-mon-e-lipstick-lover"
+      ],
+      "FM Belfast": [
+        "fm-belfast-underwear"
+      ],
+      "Blockhead": [
+        "blockhead-the-music-scene"
+      ],
+      "The Hundred in the Hands": [
+        "the-hundred-in-the-hands-pigeons"
+      ],
+      "Uffie": [
+        "uffie-difficult"
+      ],
+      "Scissor Sisters": [
+        "scissor-sisters-invisible-light"
+      ],
+      "Danger Beach": [
+        "danger-beach-apache"
+      ],
+      "Hooray For Earth": [
+        "hooray-for-earth-true-loves-cereal-spiller-remix"
+      ],
+      "Villagers": [
+        "villagers-cecelia-her-selfhood"
+      ],
+      "We Cut Corners": [
+        "we-cut-corners-pirates-life"
+      ],
+      "Marian Ruzzi y Sr. Amable": [
+        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      ],
+      "Fleet Foxes": [
+        "fleet-foxes-the-shrine-an-argument"
+      ],
+      "Danger Mouse & Daniele Luppi feat. Jack White": [
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+      ],
+      "The Shins": [
+        "the-shins-simple-song"
+      ],
+      "Royksopp": [
+        "royksopp-so-easy-unofficial-video"
+      ],
+      "PSY": [
+        "psy-gangnam-style"
+      ],
+      "Bonobo": [
+        "bonobo-cirrus",
+        "bonobo-me-and-you"
+      ],
+      "Iron & Wine": [
+        "iron-wine-joy"
+      ],
+      "Light Light": [
+        "light-light-kilo-do-not-touch"
+      ],
+      "Vial of Sound": [
+        "vial-of-sound-a-lifetime-passed"
+      ],
+      "Boozoo Bajou": [
+        "boozoo-bajou-jan-mayen"
+      ],
+      "De Staat": [
+        "de-staat-witch-doctor"
+      ],
+      "DJ Snake & Lil Jon": [
+        "dj-snake-lil-jon-turn-down-for-what"
+      ],
+      "Hundred Waters": [
+        "hundred-waters-cavity"
+      ],
+      "SARH": [
+        "sarh-u-and-i"
+      ],
+      "Panda Bear": [
+        "panda-bear-boys-latin"
+      ],
+      "Drake": [
+        "drake-hotline-bling"
+      ],
+      "Jane Bordeaux": [
+        "jane-bordeaux-maagalim"
+      ],
+      "Violet Sands": [
+        "violet-sands-no-matter-what"
+      ],
+      "Charles X": [
+        "charles-x-can-you-do-it"
+      ],
+      "Bomba Estéreo": [
+        "bomba-est-reo-soy-yo"
+      ],
+      "Blonde Redhead": [
+        "blonde-redhead-golden-light"
+      ],
+      "JMII": [
+        "jmii-bailar"
+      ],
+      "Young Thug": [
+        "young-thug-wyclef-jean"
+      ],
+      "Washed Out": [
+        "washed-out-floating-by"
+      ],
+      "Thunder Tillman": [
+        "thunder-tillman-alignments"
+      ],
+      "Mastadon": [
+        "mastadon-clandestiny"
+      ],
+      "Childish Gambino": [
+        "childish-gambino-this-is-america"
+      ],
+      "LUC": [
+        "luc-glow"
+      ],
+      "The Peach Kings": [
+        "the-peach-kings-dirty-secret",
+        "the-peach-kings-without-you"
+      ],
+      "Bas (ft. Correy C)": [
+        "bas-ft-correy-c-fragrance"
+      ],
+      "Mitski": [
+        "mitski-a-pearl"
+      ],
+      "Duck Sauce": [
+        "duck-sauce-mesmerize"
+      ],
+      "Los Misterios": [
+        "los-misterios-m-talos-y-vuelve"
+      ],
+      "Dayglow": [
+        "dayglow-something"
+      ],
+      "Pharrell Williams ft. 21 Savage, Tyler, The Creator": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "Mette": [
+        "mette-mamas-eyes",
+        "mette-van-gogh",
+        "mette-bet"
+      ],
+      "Jungle": [
+        "jungle-back-on-74"
+      ],
+      "Jacques": [
+        "jacques-absolve"
+      ],
+      "Unknown T, featuring Loyle Carner": [
+        "unknown-t-featuring-loyle-carner-hocus-pocus"
+      ],
+      "The Smile": [
+        "the-smile-friend-of-a-friend"
+      ],
+      "Tierra Whack": [
+        "tierra-whack-shower-song"
+      ],
+      "Fred Again, Lil Yachty, and Overmono": [
+        "fred-again-lil-yachty-and-overmono-stayinit"
+      ],
+      "Dua Lipa": [
+        "dua-lipa-illusion"
+      ],
+      "Kings Of Leon": [
+        "kings-of-leon-mustang"
+      ],
+      "Tourist": [
+        "tourist-valentine"
+      ],
+      "OK Go": [
+        "ok-go-a-stone-only-rolls-downhill",
+        "ok-go-love"
+      ],
+      "METTE": [
+        "mette-coming-of-age"
+      ],
+      "Balming Tiger": [
+        "balming-tiger-oui"
+      ],
+      "B.o.B": [
+        "b-o-b-back-and-forth"
+      ],
+      "N. Lannon": [
+        "n-lannon-another-love"
+      ]
+    },
+    "directors": {
+      "Bruce Gowers": [
+        "queen-bohemian-rhapsody"
+      ],
+      "Steve Barron": [
+        "michael-jackson-billie-jean"
+      ],
+      "John Landis": [
+        "michael-jackson-thriller"
+      ],
+      "Jim Blashfield": [
+        "talking-heads-and-she-was"
+      ],
+      "Dominic Sena": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "janet-jackson-rhythm-nation"
+      ],
+      "Stephen R. Johnson": [
+        "peter-gabriel-sledgehammer"
+      ],
+      "Colin Chilvers": [
+        "michael-jackson-smooth-criminal"
+      ],
+      "David Fincher": [
+        "madonna-vogue",
+        "george-michael-freedom-90"
+      ],
+      "Tarsem Singh": [
+        "r-e-m-losing-my-religion"
+      ],
+      "Spike Jonze": [
+        "beastie-boys-sabotage",
+        "bj-rk-its-oh-so-quiet",
+        "the-pharcyde-drop",
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice"
+      ],
+      "Mark Romanek": [
+        "nine-inch-nails-closer"
+      ],
+      "Jamie Thraves": [
+        "radiohead-just"
+      ],
+      "Jonathan Glazer": [
+        "blur-the-universal"
+      ],
+      "Jonathan Dayton & Valerie Farris": [
+        "smashing-pumpkins-tonight-tonight"
+      ],
+      "Sophie Muller": [
+        "blur-song-2"
+      ],
+      "Hype Williams": [
+        "missy-elliott-the-rain-supa-dupa-fly"
+      ],
+      "Michel Gondry": [
+        "bj-rk-bachelorette",
+        "the-chemical-brothers-star-guitar",
+        "the-white-stripes-fell-in-love-with-a-girl",
+        "the-white-stripes-dead-leaves-and-the-dirty-ground",
+        "kylie-minogue-come-into-my-world",
+        "devendra-banhart-a-ribbon",
+        "dick-annegarn-soleil-du-soir"
+      ],
+      "Mike Mills": [
+        "air-kelly-watch-the-stars"
+      ],
+      "Garth Jennings": [
+        "blur-coffee-tv"
+      ],
+      "Thomas Vinterberg": [
+        "blur-no-distance-left-to-run"
+      ],
+      "Paul Hunter": [
+        "dangelo-untitled-how-does-it-feel"
+      ],
+      "Mike Maguire": [
+        "the-avalanches-frontier-psychiatrist"
+      ],
+      "Alex Rutterford": [
+        "autechre-gantz-graf"
+      ],
+      "H5": [
+        "r-yksopp-remind-me"
+      ],
+      "Shynola": [
+        "junior-senior-move-your-feet",
+        "coldplay-strawberry-swing"
+      ],
+      "Scott Pagano": [
+        "twerk-from-brown-to-green"
+      ],
+      "Alex & Martin": [
+        "the-white-stripes-seven-nation-army"
+      ],
+      "Nagi Noda": [
+        "yuki-sentimental-journey",
+        "ogiyahagi-i-love-your-face"
+      ],
+      "Bessy & Combe": [
+        "mickey-3d-respire"
+      ],
+      "Monkmus": [
+        "kid-koala-basin-street-blues"
+      ],
+      "Michel Gondy": [
+        "the-white-stripes-the-hardest-button-to-button"
+      ],
+      "Alex Smith": [
+        "the-darkness-i-believe-in-a-thing-called-love"
+      ],
+      "Bryan Barber": [
+        "outkast-hey-ya"
+      ],
+      "R. Kelly & Jim Swaffield": [
+        "r-kelly-trapped-in-the-closet"
+      ],
+      "Koichiro Tsujikawa": [
+        "cornelius-fit-song"
+      ],
+      "Ben Dickinson": [
+        "the-rapture-whoo-alright-yeah-uh-huh"
+      ],
+      "Pleix": [
+        "vitalic-poney-part-1-birds"
+      ],
+      "Robert Hales": [
+        "gnarls-barkley-crazy"
+      ],
+      "Joseph Kahn": [
+        "muse-knights-of-cydonia"
+      ],
+      "Trish Sie": [
+        "ok-go-here-it-goes-again"
+      ],
+      "Chris Cunningham": [
+        "the-horrors-sheena-is-a-parasite"
+      ],
+      "Peter Sluzka": [
+        "regina-spektor-samson"
+      ],
+      "Matthew Cullen & Grady Hall": [
+        "modest-mouse-dashboard"
+      ],
+      "Timothy Saccenti": [
+        "battles-atlas"
+      ],
+      "Patrick Daughters": [
+        "feist-1234",
+        "feist-my-moon-my-man",
+        "feist-i-feel-it-all"
+      ],
+      "Encyclopedia Pictura": [
+        "grizzly-bear-knife",
+        "bj-rk-wanderlust"
+      ],
+      "Dougal Wilson": [
+        "bat-for-lashes-whats-a-girl-to-do",
+        "goldfrapp-happiness"
+      ],
+      "Joey Garfield": [
+        "r2j2-work-it-out"
+      ],
+      "Melina": [
+        "snoop-dogg-sensual-seduction"
+      ],
+      "SSSR": [
+        "bellx1-rocky-took-a-lover"
+      ],
+      "Jake Nava": [
+        "beyonc-single-ladies-put-a-ring-on-it"
+      ],
+      "Clemens Habicht": [
+        "friendly-fires-skeleton-boy"
+      ],
+      "Ray Tintori": [
+        "chairlift-evident-utensil",
+        "mgmt-kids"
+      ],
+      "NABIL": [
+        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
+      ],
+      "Mixtape Club": [
+        "yeasayer-wait-for-the-summer"
+      ],
+      "David Wilson": [
+        "moray-mclaren-we-got-time"
+      ],
+      "Herraiz Soto & Co.": [
+        "labuat-soy-tu-aire"
+      ],
+      "Mathematic": [
+        "la-roux-bulletproof"
+      ],
+      "Dirk Rauscher": [
+        "dominik-eulberg-sansula-oder-der-letzte-grund"
+      ],
+      "Will Sweeney & Steve Scott": [
+        "birdy-nam-nam-the-parachute-ending"
+      ],
+      "Pomp&Clout": [
+        "boys-noize-jeffer"
+      ],
+      "Sean Pecknold": [
+        "grizzly-bear-while-you-wait-for-the-others",
+        "fleet-foxes-the-shrine-an-argument"
+      ],
+      "Francis Lawrence": [
+        "lady-gaga-bad-romance"
+      ],
+      "Lee Lennox": [
+        "the-presets-girl-and-the-sea"
+      ],
+      "Damian Kulash and Brian L. Perkins": [
+        "ok-go-this-too-shall-pass"
+      ],
+      "We Buy Your Kids": [
+        "paul-dempsey-bats"
+      ],
+      "Rhett Dashwood": [
+        "kumisolo-cheap-pop-song"
+      ],
+      "James Frost": [
+        "ok-go-this-too-shall-pass-rube-goldberg"
+      ],
+      "Mrzyk & Moriceau": [
+        "sebastien-tellier-look"
+      ],
+      "Wendy Morgan": [
+        "janelle-mon-e-tightrope"
+      ],
+      "Daniels": [
+        "fm-belfast-underwear",
+        "the-hundred-in-the-hands-pigeons",
+        "battles-my-machines",
+        "dj-snake-lil-jon-turn-down-for-what"
+      ],
+      "A.F. Schepperd": [
+        "blockhead-the-music-scene"
+      ],
+      "AB/CD/CD": [
+        "uffie-difficult"
+      ],
+      "Nicolas Mendez": [
+        "scissor-sisters-invisible-light"
+      ],
+      "Ned Wenlock": [
+        "danger-beach-apache"
+      ],
+      "Luis Cerveró": [
+        "battles-ice-cream"
+      ],
+      "Cyriak": [
+        "hooray-for-earth-true-loves-cereal-spiller-remix",
+        "bonobo-cirrus"
+      ],
+      "Trish Sie & Pilobolus": [
+        "ok-go-all-is-not-lost"
+      ],
+      "Adrien Merigeau": [
+        "villagers-cecelia-her-selfhood"
+      ],
+      "Kijek/Adamski": [
+        "we-cut-corners-pirates-life"
+      ],
+      "David Lewandowski": [
+        "friendly-fires-hurting"
+      ],
+      "Luis Safa & BASA Studio": [
+        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      ],
+      "Anthony Francisco Schepperd & Chris Milk": [
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+      ],
+      "DANIELS": [
+        "the-shins-simple-song"
+      ],
+      "Emmanuelle Walker": [
+        "royksopp-so-easy-unofficial-video"
+      ],
+      "Cho Soo-hyun": [
+        "psy-gangnam-style"
+      ],
+      "Andrew Thomas Huang": [
+        "bj-rk-mutual-core"
+      ],
+      "Hayley Morris": [
+        "iron-wine-joy"
+      ],
+      "Moniker": [
+        "light-light-kilo-do-not-touch"
+      ],
+      "Ori Toor": [
+        "vial-of-sound-a-lifetime-passed"
+      ],
+      "Michael Fragstein": [
+        "boozoo-bajou-jan-mayen"
+      ],
+      "Floris Kaayk & Torre Florim": [
+        "de-staat-witch-doctor"
+      ],
+      "Michael Langan": [
+        "hundred-waters-cavity"
+      ],
+      "Aaron Duffy Damian Kulash Jr. & Bob Partington": [
+        "ok-go-the-writings-on-the-wall"
+      ],
+      "Paul Trillo": [
+        "sarh-u-and-i",
+        "the-peach-kings-dirty-secret",
+        "bas-ft-correy-c-fragrance",
+        "the-peach-kings-without-you",
+        "jacques-absolve",
+        "b-o-b-back-and-forth"
+      ],
+      "Kazuaki Seki and Damian Kulash Jr.": [
+        "ok-go-i-wont-let-you-down"
+      ],
+      "Isaiah Saxon & Sean Hellfritsch": [
+        "panda-bear-boys-latin"
+      ],
+      "Director X": [
+        "drake-hotline-bling"
+      ],
+      "Uri Lotan": [
+        "jane-bordeaux-maagalim"
+      ],
+      "Damian Kulash, Jr. & Trish Sie": [
+        "ok-go-upside-down-inside-out"
+      ],
+      "Dom & Nic": [
+        "the-chemical-brothers-wide-open"
+      ],
+      "Dress Code": [
+        "violet-sands-no-matter-what"
+      ],
+      "Melina Matsoukas": [
+        "beyonc-formation"
+      ],
+      "Parallel": [
+        "charles-x-can-you-do-it"
+      ],
+      "Gal Muggia and Vania Heymann": [
+        "coldplay-up-up"
+      ],
+      "Torben Kjelstrup": [
+        "bomba-est-reo-soy-yo"
+      ],
+      "Virgilio Villoresi": [
+        "blonde-redhead-golden-light"
+      ],
+      "DEDO CIEGO": [
+        "jmii-bailar"
+      ],
+      "Ryan Staake & Young Thug": [
+        "young-thug-wyclef-jean"
+      ],
+      "Drew Tyndell": [
+        "washed-out-floating-by",
+        "dayglow-something"
+      ],
+      "Hugo & Marie": [
+        "thunder-tillman-alignments"
+      ],
+      "Arielle Costa": [
+        "mastadon-clandestiny"
+      ],
+      "Alan Ferguson": [
+        "janelle-mon-e-make-me-feel"
+      ],
+      "Emma Westenberg": [
+        "janelle-mon-e-pynk"
+      ],
+      "Lacey Duke": [
+        "janelle-mon-e-i-like-that"
+      ],
+      "Hiro Murai": [
+        "childish-gambino-this-is-america"
+      ],
+      "Vincenzo Lodigiani": [
+        "luc-glow"
+      ],
+      "Saad Moosajee, Danae Gosset and Art Camp": [
+        "mitski-a-pearl"
+      ],
+      "Keith Schofield": [
+        "duck-sauce-mesmerize"
+      ],
+      "Xabier Mendibe": [
+        "los-misterios-m-talos-y-vuelve"
+      ],
+      "François Rousselet": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "Camille Summers-Valli": [
+        "mette-mamas-eyes",
+        "mette-van-gogh"
+      ],
+      "Janelle Monáe and Alan Ferguson": [
+        "janelle-mon-e-lipstick-lover"
+      ],
+      "J Lloyd & Charlie Di Placido": [
+        "jungle-back-on-74"
+      ],
+      "Felix Brady": [
+        "unknown-t-featuring-loyle-carner-hocus-pocus"
+      ],
+      "Paul Thomas Anderson": [
+        "the-smile-friend-of-a-friend"
+      ],
+      "Alex Da Corte": [
+        "tierra-whack-shower-song"
+      ],
+      "LOOSE & UNCANNY": [
+        "fred-again-lil-yachty-and-overmono-stayinit"
+      ],
+      "Tanu Muiño": [
+        "dua-lipa-illusion"
+      ],
+      "C Prinz": [
+        "mette-bet"
+      ],
+      "Brook Linder": [
+        "kings-of-leon-mustang"
+      ],
+      "Ozzie Pullin": [
+        "tourist-valentine"
+      ],
+      "Damian Kulash, Chris Buongiorno": [
+        "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "Damian Kulash, Aaron Duffy, Miguel Espada": [
+        "ok-go-love"
+      ],
+      "Helen Morales & METTE": [
+        "mette-coming-of-age"
+      ],
+      "in/out": [
+        "bonobo-me-and-you"
+      ],
+      "Lee Suho": [
+        "balming-tiger-oui"
+      ],
+      "Michael Langan and Najeeb Tarazi": [
+        "n-lannon-another-love"
+      ]
+    }
+  },
+  "counts": {
+    "tags": {
+      "confidence": 16,
+      "dance": 29,
+      "prosthetics": 3,
+      "collage": 4,
+      "lofi brilliance": 7,
+      "stop motion": 15,
+      "guitar solo": 2,
+      "hair": 2,
+      "wut": 7,
+      "monochrome": 10,
+      "poc director": 25,
+      "tableau": 8,
+      "gothy": 4,
+      "busby berkeley": 4,
+      "crowd": 5,
+      "reverse": 1,
+      "narrative": 2,
+      "surreal": 23,
+      "womxn director": 21,
+      "fisheye": 1,
+      "slowmo": 3,
+      "sports": 1,
+      "puppets": 4,
+      "night vision": 1,
+      "long take": 19,
+      "soundsync": 9,
+      "lego": 1,
+      "pixel": 2,
+      "3D animation": 7,
+      "abstract": 7,
+      "isometric": 2,
+      "projection mapping": 4,
+      "orbiting": 3,
+      "repeat": 10,
+      "vfx": 10,
+      "kaleidoscope": 3,
+      "loops": 6,
+      "woc director": 8,
+      "kids": 4,
+      "brooklyn": 5,
+      "pixilation": 3,
+      "kaiju": 1,
+      "space": 3,
+      "retro": 3,
+      "cel animation": 12,
+      "matchmove": 1,
+      "dogs": 1,
+      "jump": 2,
+      "lasers": 3,
+      "psychedelic": 13,
+      "horses": 2,
+      "treadmill/escalator": 3,
+      "mixed media": 6,
+      "bike": 2,
+      "keytar": 1,
+      "explosions": 3,
+      "d&ad": 3,
+      "ukmva": 9,
+      "datamoshing": 2,
+      "zoetrope": 3,
+      "interactive": 3,
+      "styling": 3,
+      "yuri norstein-esque": 2,
+      "marching band": 1,
+      "illustration": 4,
+      "rube goldberg": 1,
+      "butts": 2,
+      "slitscan": 2,
+      "editing": 5,
+      "heels": 1,
+      "timeslice": 1,
+      "lighting": 5,
+      "optical illusion": 3,
+      "chronophotography": 1,
+      "long exposure": 1,
+      "drone": 1,
+      "architecture": 2,
+      "flute": 1,
+      "meta": 4,
+      "hockney": 1,
+      "3D printing": 1,
+      "match cut": 3,
+      "ai": 1,
+      "hydraulics": 1,
+      "swimming": 2,
+      "surveillance": 1,
+      "whip pan": 1,
+      "mirrors": 2
+    },
+    "artists": {
+      "Queen": 1,
+      "Michael Jackson": 3,
+      "Talking Heads": 1,
+      "Harold Faltermeyer & Steve Stevens": 1,
+      "Peter Gabriel": 1,
+      "Janet Jackson": 1,
+      "Madonna": 1,
+      "George Michael": 1,
+      "R.E.M.": 1,
+      "Beastie Boys": 1,
+      "Nine Inch Nails": 1,
+      "Björk": 4,
+      "The Pharcyde": 1,
+      "Radiohead": 1,
+      "Blur": 4,
+      "Smashing Pumpkins": 1,
+      "Missy Elliott": 1,
+      "Air": 1,
+      "Fatboy Slim": 2,
+      "D’Angelo": 1,
+      "The Avalanches": 1,
+      "The Chemical Brothers": 2,
+      "The White Stripes": 4,
+      "Autechre": 1,
+      "Röyksopp": 1,
+      "Kylie Minogue": 1,
+      "Junior Senior": 1,
+      "Twerk": 1,
+      "Yuki": 1,
+      "Mickey 3D": 1,
+      "Kid Koala": 1,
+      "The Darkness": 1,
+      "Outkast": 1,
+      "Devendra Banhart": 1,
+      "R. Kelly": 1,
+      "Cornelius": 1,
+      "The Rapture": 1,
+      "Vitalic": 1,
+      "Gnarls Barkley": 1,
+      "Muse": 1,
+      "OK GO": 7,
+      "The Horrors": 1,
+      "Ogiyahagi": 1,
+      "Regina Spektor": 1,
+      "Modest Mouse": 1,
+      "Battles": 3,
+      "Feist": 3,
+      "Grizzly Bear": 2,
+      "Bat for Lashes": 1,
+      "R2J2": 1,
+      "Snoop Dogg": 1,
+      "BellX1": 1,
+      "Goldfrapp": 1,
+      "Beyoncé": 2,
+      "Dick Annegarn": 1,
+      "Friendly Fires": 2,
+      "Chairlift": 1,
+      "Kanye West feat. Kid Cudi": 1,
+      "Yeasayer": 1,
+      "Moray McLaren": 1,
+      "Labuat": 1,
+      "La Roux": 1,
+      "Dominik Eulberg": 1,
+      "Birdy Nam Nam": 1,
+      "MGMT": 1,
+      "Coldplay": 2,
+      "Boys Noize": 1,
+      "Lady Gaga": 1,
+      "The Presets": 1,
+      "Paul Dempsey": 1,
+      "Kumisolo": 1,
+      "Sebastien Tellier": 1,
+      "Janelle Monáe": 5,
+      "FM Belfast": 1,
+      "Blockhead": 1,
+      "The Hundred in the Hands": 1,
+      "Uffie": 1,
+      "Scissor Sisters": 1,
+      "Danger Beach": 1,
+      "Hooray For Earth": 1,
+      "Villagers": 1,
+      "We Cut Corners": 1,
+      "Marian Ruzzi y Sr. Amable": 1,
+      "Fleet Foxes": 1,
+      "Danger Mouse & Daniele Luppi feat. Jack White": 1,
+      "The Shins": 1,
+      "Royksopp": 1,
+      "PSY": 1,
+      "Bonobo": 2,
+      "Iron & Wine": 1,
+      "Light Light": 1,
+      "Vial of Sound": 1,
+      "Boozoo Bajou": 1,
+      "De Staat": 1,
+      "DJ Snake & Lil Jon": 1,
+      "Hundred Waters": 1,
+      "SARH": 1,
+      "Panda Bear": 1,
+      "Drake": 1,
+      "Jane Bordeaux": 1,
+      "Violet Sands": 1,
+      "Charles X": 1,
+      "Bomba Estéreo": 1,
+      "Blonde Redhead": 1,
+      "JMII": 1,
+      "Young Thug": 1,
+      "Washed Out": 1,
+      "Thunder Tillman": 1,
+      "Mastadon": 1,
+      "Childish Gambino": 1,
+      "LUC": 1,
+      "The Peach Kings": 2,
+      "Bas (ft. Correy C)": 1,
+      "Mitski": 1,
+      "Duck Sauce": 1,
+      "Los Misterios": 1,
+      "Dayglow": 1,
+      "Pharrell Williams ft. 21 Savage, Tyler, The Creator": 1,
+      "Mette": 3,
+      "Jungle": 1,
+      "Jacques": 1,
+      "Unknown T, featuring Loyle Carner": 1,
+      "The Smile": 1,
+      "Tierra Whack": 1,
+      "Fred Again, Lil Yachty, and Overmono": 1,
+      "Dua Lipa": 1,
+      "Kings Of Leon": 1,
+      "Tourist": 1,
+      "OK Go": 2,
+      "METTE": 1,
+      "Balming Tiger": 1,
+      "B.o.B": 1,
+      "N. Lannon": 1
+    },
+    "directors": {
+      "Bruce Gowers": 1,
+      "Steve Barron": 1,
+      "John Landis": 1,
+      "Jim Blashfield": 1,
+      "Dominic Sena": 2,
+      "Stephen R. Johnson": 1,
+      "Colin Chilvers": 1,
+      "David Fincher": 2,
+      "Tarsem Singh": 1,
+      "Spike Jonze": 5,
+      "Mark Romanek": 1,
+      "Jamie Thraves": 1,
+      "Jonathan Glazer": 1,
+      "Jonathan Dayton & Valerie Farris": 1,
+      "Sophie Muller": 1,
+      "Hype Williams": 1,
+      "Michel Gondry": 7,
+      "Mike Mills": 1,
+      "Garth Jennings": 1,
+      "Thomas Vinterberg": 1,
+      "Paul Hunter": 1,
+      "Mike Maguire": 1,
+      "Alex Rutterford": 1,
+      "H5": 1,
+      "Shynola": 2,
+      "Scott Pagano": 1,
+      "Alex & Martin": 1,
+      "Nagi Noda": 2,
+      "Bessy & Combe": 1,
+      "Monkmus": 1,
+      "Michel Gondy": 1,
+      "Alex Smith": 1,
+      "Bryan Barber": 1,
+      "R. Kelly & Jim Swaffield": 1,
+      "Koichiro Tsujikawa": 1,
+      "Ben Dickinson": 1,
+      "Pleix": 1,
+      "Robert Hales": 1,
+      "Joseph Kahn": 1,
+      "Trish Sie": 1,
+      "Chris Cunningham": 1,
+      "Peter Sluzka": 1,
+      "Matthew Cullen & Grady Hall": 1,
+      "Timothy Saccenti": 1,
+      "Patrick Daughters": 3,
+      "Encyclopedia Pictura": 2,
+      "Dougal Wilson": 2,
+      "Joey Garfield": 1,
+      "Melina": 1,
+      "SSSR": 1,
+      "Jake Nava": 1,
+      "Clemens Habicht": 1,
+      "Ray Tintori": 2,
+      "NABIL": 1,
+      "Mixtape Club": 1,
+      "David Wilson": 1,
+      "Herraiz Soto & Co.": 1,
+      "Mathematic": 1,
+      "Dirk Rauscher": 1,
+      "Will Sweeney & Steve Scott": 1,
+      "Pomp&Clout": 1,
+      "Sean Pecknold": 2,
+      "Francis Lawrence": 1,
+      "Lee Lennox": 1,
+      "Damian Kulash and Brian L. Perkins": 1,
+      "We Buy Your Kids": 1,
+      "Rhett Dashwood": 1,
+      "James Frost": 1,
+      "Mrzyk & Moriceau": 1,
+      "Wendy Morgan": 1,
+      "Daniels": 4,
+      "A.F. Schepperd": 1,
+      "AB/CD/CD": 1,
+      "Nicolas Mendez": 1,
+      "Ned Wenlock": 1,
+      "Luis Cerveró": 1,
+      "Cyriak": 2,
+      "Trish Sie & Pilobolus": 1,
+      "Adrien Merigeau": 1,
+      "Kijek/Adamski": 1,
+      "David Lewandowski": 1,
+      "Luis Safa & BASA Studio": 1,
+      "Anthony Francisco Schepperd & Chris Milk": 1,
+      "DANIELS": 1,
+      "Emmanuelle Walker": 1,
+      "Cho Soo-hyun": 1,
+      "Andrew Thomas Huang": 1,
+      "Hayley Morris": 1,
+      "Moniker": 1,
+      "Ori Toor": 1,
+      "Michael Fragstein": 1,
+      "Floris Kaayk & Torre Florim": 1,
+      "Michael Langan": 1,
+      "Aaron Duffy Damian Kulash Jr. & Bob Partington": 1,
+      "Paul Trillo": 6,
+      "Kazuaki Seki and Damian Kulash Jr.": 1,
+      "Isaiah Saxon & Sean Hellfritsch": 1,
+      "Director X": 1,
+      "Uri Lotan": 1,
+      "Damian Kulash, Jr. & Trish Sie": 1,
+      "Dom & Nic": 1,
+      "Dress Code": 1,
+      "Melina Matsoukas": 1,
+      "Parallel": 1,
+      "Gal Muggia and Vania Heymann": 1,
+      "Torben Kjelstrup": 1,
+      "Virgilio Villoresi": 1,
+      "DEDO CIEGO": 1,
+      "Ryan Staake & Young Thug": 1,
+      "Drew Tyndell": 2,
+      "Hugo & Marie": 1,
+      "Arielle Costa": 1,
+      "Alan Ferguson": 1,
+      "Emma Westenberg": 1,
+      "Lacey Duke": 1,
+      "Hiro Murai": 1,
+      "Vincenzo Lodigiani": 1,
+      "Saad Moosajee, Danae Gosset and Art Camp": 1,
+      "Keith Schofield": 1,
+      "Xabier Mendibe": 1,
+      "François Rousselet": 1,
+      "Camille Summers-Valli": 2,
+      "Janelle Monáe and Alan Ferguson": 1,
+      "J Lloyd & Charlie Di Placido": 1,
+      "Felix Brady": 1,
+      "Paul Thomas Anderson": 1,
+      "Alex Da Corte": 1,
+      "LOOSE & UNCANNY": 1,
+      "Tanu Muiño": 1,
+      "C Prinz": 1,
+      "Brook Linder": 1,
+      "Ozzie Pullin": 1,
+      "Damian Kulash, Chris Buongiorno": 1,
+      "Damian Kulash, Aaron Duffy, Miguel Espada": 1,
+      "Helen Morales & METTE": 1,
+      "in/out": 1,
+      "Lee Suho": 1,
+      "Michael Langan and Najeeb Tarazi": 1
+    }
+  }
+}

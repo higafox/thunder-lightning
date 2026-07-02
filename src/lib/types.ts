@@ -1,0 +1,55 @@
+export type Provider = "youtube" | "vimeo";
+
+export interface Video {
+  id: string;
+  artist: string;
+  song: string;
+  director: string;
+  directors: string[];
+  dateDisplay: string | null;
+  sortDate: string;
+  year: number | null;
+  provider: Provider;
+  youtubeId: string | null;
+  vimeoId: string | null;
+  thumbnailUrl: string | null;
+  tags: string[];
+}
+
+export interface Meta {
+  title: string;
+  subtitle: string;
+  totalVideos: number;
+  totalArtists: number;
+  totalDirectors: number;
+  totalTags: number;
+}
+
+export interface Playlists {
+  timeline: string[];
+  tags: Record<string, string[]>;
+  artists: Record<string, string[]>;
+  directors: Record<string, string[]>;
+}
+
+export interface Counts {
+  tags: Record<string, number>;
+  artists: Record<string, number>;
+  directors: Record<string, number>;
+}
+
+export interface VideoData {
+  meta: Meta;
+  videos: Record<string, Video>;
+  playlists: Playlists;
+  counts: Counts;
+}
+
+export type StreamType = "shuffle" | "timeline" | "tag" | "artist" | "director";
+
+export interface StreamState {
+  type: StreamType;
+  key: string | null;
+  list: string[] | null;
+  dir?: -1 | 1;
+}

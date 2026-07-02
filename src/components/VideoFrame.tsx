@@ -1,0 +1,165 @@
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+import type { Video } from "@/lib/types";
+
+declare global {
+  interface Window {
+    YT?: {
+      Player: new (
+        el: string | HTMLElement,
+        opts: {
+          videoId: string;
+          playerVars?: Record<string, unknown>;
+          events?: {
+            onStateChange?: (e: { data: number }) => void;
+            onError?: (e: { data: number }) => void;
+          };
+        }
+      ) => { destroy: () => void; pauseVideo?: () => void };
+      PlayerState: { ENDED: number };
+    };
+    onYouTubeIframeAPIReady?: () => void;
+  }
+}
+
+type Mode = "youtube" | "vimeo" | "blocked";
+
+// Playback waterfall (HANDOFF.md): YouTube first (end-detection), fall back to
+// Vimeo on embed error (101/150/153 = embedding disabled), else a blocked card
+// with the one remaining "watch on source" link.
+//
+// The caller mounts this with `key={video.id}` so a new video means a fresh
+// component instance (mode re-derives from props at mount); within one mounted
+// instance `mode` only ever moves forward through the waterfall on error.
+export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => void }) {
+  const [mode, setMode] = useState<Mode>(() => (video.youtubeId ? "youtube" : video.vimeoId ? "vimeo" : "blocked"));
+  const mountRef = useRef<HTMLDivElement>(null);
+  const onEndedRef = useRef(onEnded);
+  useEffect(() => {
+    onEndedRef.current = onEnded;
+  });
+
+  // The YouTube IFrame API takes a DOM node and replaces it with its own
+  // <iframe>, mutating the tree behind React's back. If React owned that node
+  // via JSX it would crash on unmount (removeChild on a node React no longer
+  // recognizes). So `mountRef` is a plain wrapper React renders once and never
+  // touches again; the actual mount point is an imperatively-created child
+  // that only YT's API and this effect ever manipulate.
+  useEffect(() => {
+    if (mode !== "youtube" || !video.youtubeId) return;
+    const wrapper = mountRef.current;
+    if (!wrapper) return;
+    const mountPoint = document.createElement("div");
+    wrapper.appendChild(mountPoint);
+
+    let player: { destroy: () => void } | null = null;
+    let cancelled = false;
+
+    const build = () => {
+      if (cancelled) return;
+      if (!window.YT) return;
+      player = new window.YT.Player(mountPoint, {
+        videoId: video.youtubeId!,
+        playerVars: { autoplay: 1, rel: 0, modestbranding: 1 },
+        events: {
+          onStateChange: (e) => {
+            if (cancelled) return;
+            if (e.data === window.YT!.PlayerState.ENDED) onEndedRef.current();
+          },
+          // 2=bad param, 5=html5 error, 100=removed, 101/150=embed disabled, 153=config error
+          onError: () => {
+            if (cancelled) return;
+            if (video.vimeoId) setMode("vimeo");
+            else setMode("blocked");
+          },
+        },
+      });
+    };
+
+    if (window.YT && window.YT.Player) {
+      build();
+    } else {
+      if (!document.getElementById("ytapi")) {
+        const s = document.createElement("script");
+        s.id = "ytapi";
+        s.src = "https://www.youtube.com/iframe_api";
+        document.head.appendChild(s);
+      }
+      const prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => {
+        prev?.();
+        build();
+      };
+    }
+
+    return () => {
+      cancelled = true;
+      if (player) {
+        try {
+          player.destroy();
+        } catch {
+          /* noop */
+        }
+      }
+      // belt-and-suspenders: whatever YT left behind, clear it ourselves so
+      // this wrapper is guaranteed empty before React reuses/removes it.
+      wrapper.innerHTML = "";
+    };
+  }, [mode, video.id, video.youtubeId, video.vimeoId]);
+
+  useEffect(() => {
+    if (mode !== "vimeo" || !video.vimeoId) return;
+    const iframe = mountRef.current?.querySelector("iframe");
+    if (!iframe) return;
+    let vimeoPlayer: import("@vimeo/player").default | null = null;
+    let cancelled = false;
+
+    import("@vimeo/player").then(({ default: Player }) => {
+      if (cancelled || !iframe) return;
+      vimeoPlayer = new Player(iframe);
+      vimeoPlayer.on("ended", () => {
+        if (!cancelled) onEndedRef.current();
+      });
+    });
+
+    return () => {
+      cancelled = true;
+      try {
+        vimeoPlayer?.unload();
+      } catch {
+        /* noop */
+      }
+    };
+  }, [mode, video.id, video.vimeoId]);
+
+  if (mode === "youtube" && video.youtubeId) {
+    return <div ref={mountRef} style={{ position: "absolute", inset: 0 }} />;
+  }
+
+  if (mode === "vimeo" && video.vimeoId) {
+    return (
+      <div ref={mountRef} style={{ position: "absolute", inset: 0 }}>
+        <iframe
+          src={`https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&title=0&byline=0`}
+          allow="autoplay; fullscreen"
+          allowFullScreen
+        />
+      </div>
+    );
+  }
+
+  // blocked card: shown when a video refuses to embed and there's no Vimeo fallback.
+  // Only reachable when a youtubeId exists (data excludes videos with no link at all).
+  if (!video.youtubeId) return null;
+  const url = `https://www.youtube.com/watch?v=${video.youtubeId}`;
+  const thumb = `https://img.youtube.com/vi/${video.youtubeId}/hqdefault.jpg`;
+  return (
+    <a className="blocked" href={url} target="_blank" rel="noopener" style={{ backgroundImage: `url('${thumb}')` }}>
+      <div className="blockedInner">
+        <div className="blockedCta">Watch on YouTube ↗</div>
+        <div className="blockedLabel">Embedding disabled</div>
+      </div>
+    </a>
+  );
+}
