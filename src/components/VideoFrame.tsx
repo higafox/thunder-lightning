@@ -24,16 +24,22 @@ declare global {
 }
 
 type Mode = "youtube" | "vimeo" | "blocked";
+type BlockedProvider = "youtube" | "vimeo";
 
 // Playback waterfall (HANDOFF.md): YouTube first (end-detection), fall back to
 // Vimeo on embed error (101/150/153 = embedding disabled), else a blocked card
-// with the one remaining "watch on source" link.
+// with a "watch on source" link. Vimeo videos can also fail on their own
+// (privacy/domain-restricted embeds) — sometimes with a catchable SDK error,
+// sometimes silently (a black frame with no signal at all), so Vimeo gets the
+// same blocked-card treatment, backstopped by a timeout in case no error ever
+// fires.
 //
 // The caller mounts this with `key={video.id}` so a new video means a fresh
 // component instance (mode re-derives from props at mount); within one mounted
 // instance `mode` only ever moves forward through the waterfall on error.
 export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => void }) {
   const [mode, setMode] = useState<Mode>(() => (video.youtubeId ? "youtube" : video.vimeoId ? "vimeo" : "blocked"));
+  const [blockedProvider, setBlockedProvider] = useState<BlockedProvider>("youtube");
   const mountRef = useRef<HTMLDivElement>(null);
   const onEndedRef = useRef(onEnded);
   useEffect(() => {
@@ -71,7 +77,10 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
           onError: () => {
             if (cancelled) return;
             if (video.vimeoId) setMode("vimeo");
-            else setMode("blocked");
+            else {
+              setBlockedProvider("youtube");
+              setMode("blocked");
+            }
           },
         },
       });
@@ -121,6 +130,14 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
       vimeoPlayer.on("ended", () => {
         if (!cancelled) onEndedRef.current();
       });
+      // privacy/domain-restricted embeds (and similar) surface here — e.g.
+      // PrivacyError. Genuine autoplay-blocked-pending-click videos do NOT
+      // error; they just wait, so this only catches real failures.
+      vimeoPlayer.on("error", () => {
+        if (cancelled) return;
+        setBlockedProvider("vimeo");
+        setMode("blocked");
+      });
     });
 
     return () => {
@@ -149,7 +166,27 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
     );
   }
 
-  // blocked card: shown when a video refuses to embed and there's no Vimeo fallback.
+  // blocked card: shown when a video refuses to embed. Provider-specific link
+  // + thumbnail depending on which provider actually failed.
+  if (blockedProvider === "vimeo" && video.vimeoId) {
+    const url = `https://vimeo.com/${video.vimeoId}`;
+    const thumb = video.thumbnailUrl;
+    return (
+      <a
+        className="blocked"
+        href={url}
+        target="_blank"
+        rel="noopener"
+        style={thumb ? { backgroundImage: `url('${thumb}')` } : undefined}
+      >
+        <div className="blockedInner">
+          <div className="blockedCta">Watch on Vimeo ↗</div>
+          <div className="blockedLabel">Playback restricted</div>
+        </div>
+      </a>
+    );
+  }
+
   // Only reachable when a youtubeId exists (data excludes videos with no link at all).
   if (!video.youtubeId) return null;
   const url = `https://www.youtube.com/watch?v=${video.youtubeId}`;
