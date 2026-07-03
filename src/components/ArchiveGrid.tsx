@@ -24,6 +24,9 @@ export function ArchiveGrid({ data }: { data: VideoData }) {
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      const target = e.target as HTMLElement | null;
+      const isTyping = target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable);
+      if (isTyping) return;
       if (e.key === "a" || e.key === "A") router.push("/");
     };
     document.addEventListener("keydown", onKey);

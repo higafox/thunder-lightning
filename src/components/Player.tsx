@@ -29,6 +29,9 @@ export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: s
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      const target = e.target as HTMLElement | null;
+      const isTyping = target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable);
+      if (isTyping) return;
       if (e.key === "ArrowLeft") timeline(-1);
       else if (e.key === "ArrowRight") timeline(1);
       else if (e.key === "r" || e.key === "R") pickStream("shuffle", null);
