@@ -5,11 +5,28 @@ import { useRouter } from "next/navigation";
 import type { VideoData } from "@/lib/types";
 import type { NodeAction } from "@/lib/constellation";
 import { usePlayer } from "@/lib/useStream";
+import { useVideoData } from "@/lib/useVideoData";
 import { VideoFrame } from "./VideoFrame";
 import { Constellation } from "./Constellation";
 import { MobilePlayer } from "./MobilePlayer";
 
-export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: string | null }) {
+export function Player({ initialSlug }: { initialSlug?: string | null }) {
+  const data = useVideoData();
+  if (!data) {
+    return (
+      <div id="player">
+        <div className="stage">
+          <div className="frame" id="frame">
+            <div className="placeholder">loading</div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+  return <PlayerReady data={data} initialSlug={initialSlug} />;
+}
+
+function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: string | null }) {
   const router = useRouter();
   const { cur, stream, pickStream, timeline, advance } = usePlayer(data, initialSlug ?? null);
   const frameRef = useRef<HTMLDivElement>(null);

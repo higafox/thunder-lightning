@@ -3,7 +3,8 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
-import type { VideoData } from "@/lib/types";
+import type { Video, VideoData } from "@/lib/types";
+import { useVideoData } from "@/lib/useVideoData";
 
 function shuffleArray<T>(arr: T[]): T[] {
   const a = arr.slice();
@@ -14,13 +15,32 @@ function shuffleArray<T>(arr: T[]): T[] {
   return a;
 }
 
-export function ArchiveGrid({ data }: { data: VideoData }) {
+export function ArchiveGrid() {
+  const data = useVideoData();
+  if (!data) return <div id="archive" />;
+  return <ArchiveGridReady data={data} />;
+}
+
+function ArchiveGridReady({ data }: { data: VideoData }) {
   const router = useRouter();
   const { videos: V, playlists: PL, counts: CT, meta: META } = data;
 
   const [search, setSearch] = useState("");
-  const [selTags, setSelTags] = useState<Set<string>>(new Set());
+  const [selTag, setSelTag] = useState<string | null>(null);
   const [shuffled, setShuffled] = useState<string[] | null>(null);
+
+  // CSS multi-column (columns:3) balances items across declared columns by
+  // its own heuristics; with a small filtered result set it can leave a
+  // whole column empty even though there's plenty of horizontal room (looks
+  // like "2 columns" on a wide screen). Assigning items to columns explicitly
+  // guarantees every column gets used whenever there are enough items.
+  const [numCols, setNumCols] = useState(3);
+  useEffect(() => {
+    const update = () => setNumCols(window.innerWidth <= 820 ? 2 : 3);
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -40,16 +60,20 @@ export function ArchiveGrid({ data }: { data: VideoData }) {
     const q = search.toLowerCase().trim();
     return base.filter((id) => {
       const v = V[id];
-      if (selTags.size) {
-        for (const t of selTags) if (!v.tags.includes(t)) return false;
-      }
+      if (selTag && !v.tags.includes(selTag)) return false;
       if (q) {
         const hay = `${v.artist} ${v.song} ${v.director} ${v.tags.join(" ")}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
-  }, [shuffled, PL.timeline, search, selTags, V]);
+  }, [shuffled, PL.timeline, search, selTag, V]);
+
+  const columns = useMemo(() => {
+    const cols: string[][] = Array.from({ length: numCols }, () => []);
+    list.forEach((id, i) => cols[i % numCols].push(id));
+    return cols;
+  }, [list, numCols]);
 
   return (
     <div id="archive">
@@ -73,54 +97,54 @@ export function ArchiveGrid({ data }: { data: VideoData }) {
           </button>
         </div>
         <div className="tagbar">
-          <button className={`tg${selTags.size === 0 ? " sel" : ""}`} onClick={() => setSelTags(new Set())}>
+          <button className={`tg${selTag === null ? " sel" : ""}`} onClick={() => setSelTag(null)}>
             All
           </button>
           {allTags.map((t) => (
             <button
               key={t}
-              className={`tg${selTags.has(t) ? " sel" : ""}`}
-              onClick={() =>
-                setSelTags((prev) => {
-                  const next = new Set(prev);
-                  if (next.has(t)) next.delete(t);
-                  else next.add(t);
-                  return next;
-                })
-              }
+              className={`tg${selTag === t ? " sel" : ""}`}
+              onClick={() => setSelTag((prev) => (prev === t ? null : t))}
             >
               {t}
             </button>
           ))}
         </div>
       </div>
-      <div className="archiveGrid">
-        {list.length === 0 ? (
-          <div className="empty">Nothing matches that thread.</div>
-        ) : (
-          list.map((id) => {
-            const v = V[id];
-            return (
-              <Link key={id} href={`/video/${id}`} className="cell">
-                {v.thumbnailUrl ? (
-                  <img src={v.thumbnailUrl} loading="lazy" alt="" />
-                ) : (
-                  <div className="ph">{v.provider.toUpperCase()}</div>
-                )}
-                <div className="ov">
-                  <div className="a">{v.artist}</div>
-                  <div className="s">{v.song}</div>
-                  <div className="d">
-                    {v.director}
-                    {v.dateDisplay ? ` · ${v.dateDisplay}` : ""}
-                  </div>
-                  <div className="tgs">{v.tags.join("  ·  ")}</div>
-                </div>
-              </Link>
-            );
-          })
-        )}
-      </div>
+      {list.length === 0 ? (
+        <div className="empty">Nothing matches that thread.</div>
+      ) : (
+        <div className="archiveGrid">
+          {columns.map((col, i) => (
+            <div className="archiveCol" key={i}>
+              {col.map((id) => (
+                <Cell key={id} video={V[id]} />
+              ))}
+            </div>
+          ))}
+        </div>
+      )}
     </div>
+  );
+}
+
+function Cell({ video: v }: { video: Video }) {
+  return (
+    <Link href={`/video/${v.id}`} className="cell">
+      {v.thumbnailUrl ? (
+        <img src={v.thumbnailUrl} loading="lazy" alt="" />
+      ) : (
+        <div className="ph">{v.provider.toUpperCase()}</div>
+      )}
+      <div className="ov">
+        <div className="a">{v.artist}</div>
+        <div className="s">{v.song}</div>
+        <div className="d">
+          {v.director}
+          {v.dateDisplay ? ` · ${v.dateDisplay}` : ""}
+        </div>
+        <div className="tgs">{v.tags.join("  ·  ")}</div>
+      </div>
+    </Link>
   );
 }

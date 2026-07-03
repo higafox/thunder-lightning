@@ -11,5 +11,5 @@ export default async function VideoPage({ params }: { params: Promise<{ slug: st
   const { slug } = await params;
   const data = getVideoData();
   if (!data.videos[slug]) notFound();
-  return <Player data={data} initialSlug={slug} />;
+  return <Player initialSlug={slug} />;
 }
