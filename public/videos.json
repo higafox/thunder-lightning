@@ -4,8 +4,8 @@
     "subtitle": "A Love Letter to Music Videos",
     "totalVideos": 190,
     "totalArtists": 153,
-    "totalDirectors": 156,
-    "totalTags": 92
+    "totalDirectors": 154,
+    "totalTags": 96
   },
   "videos": {
     "mette-van-gogh": {
@@ -133,10 +133,10 @@
       "dateDisplay": "July 2007",
       "sortDate": "2007-07-12",
       "year": 2007,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "rxjrBd4WE2U",
       "vimeoId": "90803904",
-      "thumbnailUrl": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/rxjrBd4WE2U/hqdefault.jpg",
       "tags": [
         "dance",
         "long take"
@@ -577,7 +577,8 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/ruAi4VBoBSM/hqdefault.jpg",
       "tags": [
-        "dance"
+        "dance",
+        "lofi brilliance"
       ]
     },
     "junior-senior-move-your-feet": {
@@ -1031,7 +1032,8 @@
       "vimeoId": "38096492",
       "thumbnailUrl": "https://img.youtube.com/vi/ORRIsrnA7Sw/hqdefault.jpg",
       "tags": [
-        "stop motion"
+        "stop motion",
+        "textiles"
       ]
     },
     "the-chemical-brothers-star-guitar": {
@@ -1242,9 +1244,9 @@
       "id": "janelle-mon-e-lipstick-lover",
       "artist": "Janelle Monáe",
       "song": "Lipstick Lover",
-      "director": "Janelle Monáe and Alan Ferguson",
+      "director": "Janelle Monáe & Alan Ferguson",
       "directors": [
-        "Janelle Monáe and Alan Ferguson"
+        "Janelle Monáe & Alan Ferguson"
       ],
       "dateDisplay": "May 2023",
       "sortDate": "2023-05-11",
@@ -1393,9 +1395,9 @@
       "id": "the-avalanches-frontier-psychiatrist",
       "artist": "The Avalanches",
       "song": "Frontier Psychiatrist",
-      "director": "Mike Maguire",
+      "director": "Tom Kuntz & Mike Maguire",
       "directors": [
-        "Mike Maguire"
+        "Tom Kuntz & Mike Maguire"
       ],
       "dateDisplay": "August 2000",
       "sortDate": "2000-08-21",
@@ -2099,9 +2101,9 @@
       "id": "ok-go-upside-down-inside-out",
       "artist": "OK GO",
       "song": "Upside Down & Inside Out",
-      "director": "Damian Kulash, Jr. & Trish Sie",
+      "director": "Damian Kulash & Trish Sie",
       "directors": [
-        "Damian Kulash, Jr. & Trish Sie"
+        "Damian Kulash & Trish Sie"
       ],
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-01",
@@ -2236,9 +2238,9 @@
       "id": "mitski-a-pearl",
       "artist": "Mitski",
       "song": "A Pearl",
-      "director": "Saad Moosajee, Danae Gosset and Art Camp",
+      "director": "Saad Moosajee, Danae Gosset & Art Camp",
       "directors": [
-        "Saad Moosajee, Danae Gosset and Art Camp"
+        "Saad Moosajee, Danae Gosset & Art Camp"
       ],
       "dateDisplay": "January 2019",
       "sortDate": "2019-01-01",
@@ -2438,9 +2440,9 @@
       "id": "panda-bear-boys-latin",
       "artist": "Panda Bear",
       "song": "Boys Latin",
-      "director": "Isaiah Saxon & Sean Hellfritsch",
+      "director": "Encyclopedia Pictura",
       "directors": [
-        "Isaiah Saxon & Sean Hellfritsch"
+        "Encyclopedia Pictura"
       ],
       "dateDisplay": "December 2014",
       "sortDate": "2014-12-15",
@@ -2457,9 +2459,9 @@
       "id": "ok-go-i-wont-let-you-down",
       "artist": "OK GO",
       "song": "I Won't Let You Down",
-      "director": "Kazuaki Seki and Damian Kulash Jr.",
+      "director": "Kazuaki Seki & Damian Kulash",
       "directors": [
-        "Kazuaki Seki and Damian Kulash Jr."
+        "Kazuaki Seki & Damian Kulash"
       ],
       "dateDisplay": "October 2014",
       "sortDate": "2014-10-27",
@@ -2480,9 +2482,9 @@
       "id": "ok-go-the-writings-on-the-wall",
       "artist": "OK GO",
       "song": "The Writing's On the Wall",
-      "director": "Aaron Duffy Damian Kulash Jr. & Bob Partington",
+      "director": "Damian Kulash, Aaron Duffy, & Bob Partington",
       "directors": [
-        "Aaron Duffy Damian Kulash Jr. & Bob Partington"
+        "Damian Kulash, Aaron Duffy, & Bob Partington"
       ],
       "dateDisplay": "July 2014",
       "sortDate": "2014-07-02",
@@ -2652,9 +2654,9 @@
       "id": "the-shins-simple-song",
       "artist": "The Shins",
       "song": "Simple Song",
-      "director": "DANIELS",
+      "director": "Daniels",
       "directors": [
-        "DANIELS"
+        "Daniels"
       ],
       "dateDisplay": "February 2012",
       "sortDate": "2012-02-21",
@@ -2672,9 +2674,9 @@
       "id": "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
       "artist": "Danger Mouse & Daniele Luppi feat. Jack White",
       "song": "Two Against One",
-      "director": "Anthony Francisco Schepperd & Chris Milk",
+      "director": "A.F. Schepperd & Chris Milk",
       "directors": [
-        "Anthony Francisco Schepperd & Chris Milk"
+        "A.F. Schepperd & Chris Milk"
       ],
       "dateDisplay": "January 2012",
       "sortDate": "2012-01-10",
@@ -2751,9 +2753,9 @@
       "id": "we-cut-corners-pirates-life",
       "artist": "We Cut Corners",
       "song": "Pirate's Life",
-      "director": "Kijek/Adamski",
+      "director": "Kijek / Adamski",
       "directors": [
-        "Kijek/Adamski"
+        "Kijek / Adamski"
       ],
       "dateDisplay": "October 2011",
       "sortDate": "2011-10-19",
@@ -2950,9 +2952,9 @@
       "id": "ok-go-this-too-shall-pass",
       "artist": "OK GO",
       "song": "This Too Shall Pass",
-      "director": "Damian Kulash and Brian L. Perkins",
+      "director": "Damian Kulash & Brian L. Perkins",
       "directors": [
-        "Damian Kulash and Brian L. Perkins"
+        "Damian Kulash & Brian L. Perkins"
       ],
       "dateDisplay": "January 2010",
       "sortDate": "2010-01-08",
@@ -3314,15 +3316,15 @@
       "id": "n-lannon-another-love",
       "artist": "N. Lannon",
       "song": "Another Love",
-      "director": "Michael Langan and Najeeb Tarazi",
+      "director": "Michael Langan & Najeeb Tarazi",
       "directors": [
-        "Michael Langan and Najeeb Tarazi"
+        "Michael Langan & Najeeb Tarazi"
       ],
       "dateDisplay": "December 2015",
       "sortDate": "2015-12-01",
       "year": 2015,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "tU0QRX91BmQ",
       "vimeoId": "145706460",
       "thumbnailUrl": "https://vumbnail.com/145706460.jpg",
       "tags": [
@@ -3355,9 +3357,9 @@
       "id": "ok-go-a-stone-only-rolls-downhill",
       "artist": "OK Go",
       "song": "A Stone Only Rolls Downhill",
-      "director": "Damian Kulash, Chris Buongiorno",
+      "director": "Damian Kulash & Chris Buongiorno",
       "directors": [
-        "Damian Kulash, Chris Buongiorno"
+        "Damian Kulash & Chris Buongiorno"
       ],
       "dateDisplay": "January 2025",
       "sortDate": "2025-01-27",
@@ -3375,9 +3377,9 @@
       "id": "ok-go-love",
       "artist": "OK Go",
       "song": "Love",
-      "director": "Damian Kulash, Aaron Duffy, Miguel Espada",
+      "director": "Damian Kulash, Aaron Duffy, & Miguel Espada",
       "directors": [
-        "Damian Kulash, Aaron Duffy, Miguel Espada"
+        "Damian Kulash, Aaron Duffy, & Miguel Espada"
       ],
       "dateDisplay": "April 2025",
       "sortDate": "2025-04-17",
@@ -3455,7 +3457,8 @@
       "tags": [
         "explosions",
         "surreal",
-        "vfx"
+        "vfx",
+        "whip pan"
       ]
     },
     "gener8ion-yung-lean-storm": {
@@ -3529,11 +3532,11 @@
       "directors": [
         "Lernert & Sander"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "dateDisplay": "September 2015",
+      "sortDate": "2015-09-17",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "ri1f5e8KmFE",
       "vimeoId": "139601645",
       "thumbnailUrl": "https://vumbnail.com/139601645.jpg",
       "tags": [
@@ -3549,8 +3552,8 @@
       "dateDisplay": "March 2015",
       "sortDate": "2015-03-16",
       "year": 2015,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "pQVnpeE9NHs",
       "vimeoId": "122322480",
       "thumbnailUrl": "https://vumbnail.com/122322480.jpg",
       "tags": [
@@ -3584,14 +3587,16 @@
       "directors": [
         "Hannes Knutsson"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "dateDisplay": "March 2016",
+      "sortDate": "2016-03-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "IvUU8joBb1Q",
       "vimeoId": "157743578",
       "thumbnailUrl": "https://vumbnail.com/157743578.jpg",
       "tags": [
+        "machine",
+        "marbles",
         "soundsync"
       ]
     },
@@ -3603,11 +3608,11 @@
       "directors": [
         "Hideki Inaba"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "dateDisplay": "October 2015",
+      "sortDate": "2015-10-17",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "xrZw3iaBcT8",
       "vimeoId": "142716939",
       "thumbnailUrl": "https://vumbnail.com/142716939.jpg",
       "tags": [
@@ -3619,15 +3624,17 @@
     },
     "joep-beving-max-cooper-hanging-d-max-cooper-remix": {
       "id": "joep-beving-max-cooper-hanging-d-max-cooper-remix",
-      "artist": "Joep Beving / Max Cooper",
+      "artist": "Joep Beving & Max Cooper",
       "song": "Hanging D (Max Cooper Remix)",
-      "director": "",
-      "directors": [],
+      "director": "Ksawery Kirklewski",
+      "directors": [
+        "Ksawery Kirklewski"
+      ],
       "dateDisplay": "July 2021",
       "sortDate": "2021-07-13",
       "year": 2021,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "jL2SETooWZg",
       "vimeoId": "574387889",
       "thumbnailUrl": "https://vumbnail.com/574387889.jpg",
       "tags": [
@@ -3643,11 +3650,11 @@
       "directors": [
         "Michael McAfee"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "dateDisplay": "September 2023",
+      "sortDate": "2023-09-06",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "wD76BDFgevk",
       "vimeoId": "877434575",
       "thumbnailUrl": "https://vumbnail.com/877434575.jpg",
       "tags": [
@@ -3835,15 +3842,16 @@
       "directors": [
         "CANADA"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "dateDisplay": "September 2010",
+      "sortDate": "2010-09-24",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "AIdUBVjyY5A",
       "vimeoId": "23526690",
       "thumbnailUrl": "https://vumbnail.com/23526690.jpg",
       "tags": [
-        "editing"
+        "editing",
+        "nsfw"
       ]
     },
     "battles-the-yabba": {
@@ -3907,7 +3915,9 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/I7UvbwCjXUk/hqdefault.jpg",
       "tags": [
-        "stop motion"
+        "kaiju",
+        "stop motion",
+        "textiles"
       ]
     }
   },
@@ -4006,6 +4016,7 @@
       "fm-belfast-underwear",
       "blockhead-the-music-scene",
       "the-hundred-in-the-hands-pigeons",
+      "el-guincho-bombay",
       "uffie-difficult",
       "scissor-sisters-invisible-light",
       "danger-beach-apache",
@@ -4043,7 +4054,9 @@
       "hook-n-sling-feat-far-east-movement-break-yourself",
       "jr-jr-gone",
       "battles-the-yabba",
+      "de-jeugd-van-tegenwoordig-manon",
       "drake-hotline-bling",
+      "beatsofreen-slowly-rising",
       "n-lannon-another-love",
       "jane-bordeaux-maagalim",
       "ok-go-upside-down-inside-out",
@@ -4053,6 +4066,7 @@
       "miike-snow-genghis-khan",
       "general-elektriks-angle-boogie",
       "beyonc-formation",
+      "wintergatan-marble-machine",
       "charles-x-can-you-do-it",
       "coldplay-up-up",
       "max-cooper-waves",
@@ -4083,6 +4097,7 @@
       "janelle-mon-e-lipstick-lover",
       "mette-van-gogh",
       "jungle-back-on-74",
+      "max-cooper-feat-kathrin-deboer-with-me",
       "jacques-absolve",
       "unknown-t-featuring-loyle-carner-hocus-pocus",
       "the-smile-friend-of-a-friend",
@@ -4097,12 +4112,7 @@
       "mette-coming-of-age",
       "gener8ion-yung-lean-storm",
       "bonobo-me-and-you",
-      "balming-tiger-oui",
-      "beatsofreen-slowly-rising",
-      "de-jeugd-van-tegenwoordig-manon",
-      "el-guincho-bombay",
-      "max-cooper-feat-kathrin-deboer-with-me",
-      "wintergatan-marble-machine"
+      "balming-tiger-oui"
     ],
     "tags": {
       "confidence": [
@@ -4317,11 +4327,11 @@
         "benjamin-booker-believe",
         "the-peach-kings-dirty-secret",
         "the-peach-kings-without-you",
+        "max-cooper-feat-kathrin-deboer-with-me",
         "jacques-absolve",
         "unknown-t-featuring-loyle-carner-hocus-pocus",
         "bonobo-me-and-you",
-        "balming-tiger-oui",
-        "max-cooper-feat-kathrin-deboer-with-me"
+        "balming-tiger-oui"
       ],
       "womxn director": [
         "smashing-pumpkins-tonight-tonight",
@@ -4356,6 +4366,14 @@
       ],
       "sports": [
         "air-kelly-watch-the-stars"
+      ],
+      "lofi brilliance": [
+        "fatboy-slim-praise-you",
+        "bellx1-rocky-took-a-lover",
+        "friendly-fires-skeleton-boy",
+        "boys-noize-jeffer",
+        "kumisolo-cheap-pop-song",
+        "willow-sweater"
       ],
       "puppets": [
         "blur-coffee-tv",
@@ -4404,12 +4422,12 @@
         "feist-i-feel-it-all",
         "20syl-back-forth",
         "general-elektriks-angle-boogie",
+        "wintergatan-marble-machine",
         "max-cooper-waves",
         "jmii-bailar",
         "thunder-tillman-alignments",
         "luc-glow",
-        "the-peach-kings-without-you",
-        "wintergatan-marble-machine"
+        "the-peach-kings-without-you"
       ],
       "lego": [
         "the-white-stripes-fell-in-love-with-a-girl"
@@ -4436,13 +4454,13 @@
         "boozoo-bajou-jan-mayen",
         "hundred-waters-cavity",
         "20syl-back-forth",
+        "beatsofreen-slowly-rising",
         "general-elektriks-angle-boogie",
         "max-cooper-waves",
         "jmii-bailar",
         "thunder-tillman-alignments",
         "joep-beving-max-cooper-hanging-d-max-cooper-remix",
-        "bonobo-me-and-you",
-        "beatsofreen-slowly-rising"
+        "bonobo-me-and-you"
       ],
       "isometric": [
         "r-yksopp-remind-me",
@@ -4504,8 +4522,8 @@
         "boozoo-bajou-jan-mayen",
         "20syl-back-forth",
         "alb-the-road",
-        "max-cooper-waves",
-        "beatsofreen-slowly-rising"
+        "beatsofreen-slowly-rising",
+        "max-cooper-waves"
       ],
       "woc director": [
         "yuki-sentimental-journey",
@@ -4537,12 +4555,17 @@
         "coldplay-strawberry-swing"
       ],
       "kaiju": [
-        "the-darkness-i-believe-in-a-thing-called-love"
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "stereogram-walkie-talkie-man"
       ],
       "space": [
         "the-darkness-i-believe-in-a-thing-called-love",
         "muse-knights-of-cydonia",
         "birdy-nam-nam-the-parachute-ending"
+      ],
+      "textiles": [
+        "stereogram-walkie-talkie-man",
+        "devendra-banhart-a-ribbon"
       ],
       "cel animation": [
         "the-rapture-whoo-alright-yeah-uh-huh",
@@ -4556,8 +4579,8 @@
         "royksopp-so-easy-unofficial-video",
         "iron-wine-joy",
         "vial-of-sound-a-lifetime-passed",
-        "dayglow-something",
-        "beatsofreen-slowly-rising"
+        "beatsofreen-slowly-rising",
+        "dayglow-something"
       ],
       "matchmove": [
         "the-rapture-whoo-alright-yeah-uh-huh"
@@ -4587,8 +4610,8 @@
         "vial-of-sound-a-lifetime-passed",
         "boozoo-bajou-jan-mayen",
         "panda-bear-boys-latin",
-        "washed-out-floating-by",
-        "beatsofreen-slowly-rising"
+        "beatsofreen-slowly-rising",
+        "washed-out-floating-by"
       ],
       "horses": [
         "muse-knights-of-cydonia",
@@ -4614,13 +4637,6 @@
       ],
       "keytar": [
         "snoop-dogg-sensual-seduction"
-      ],
-      "lofi brilliance": [
-        "bellx1-rocky-took-a-lover",
-        "friendly-fires-skeleton-boy",
-        "boys-noize-jeffer",
-        "kumisolo-cheap-pop-song",
-        "willow-sweater"
       ],
       "explosions": [
         "feist-i-feel-it-all",
@@ -4688,12 +4704,19 @@
         "fm-belfast-underwear",
         "violet-sands-no-matter-what"
       ],
+      "whip pan": [
+        "the-hundred-in-the-hands-pigeons",
+        "kings-of-leon-mustang"
+      ],
       "editing": [
+        "el-guincho-bombay",
         "battles-ice-cream",
         "psy-gangnam-style",
         "battles-the-yabba",
         "mette-mamas-eyes",
-        "mette-van-gogh",
+        "mette-van-gogh"
+      ],
+      "nsfw": [
         "el-guincho-bombay"
       ],
       "heels": [
@@ -4731,8 +4754,17 @@
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
+      "cats": [
+        "de-jeugd-van-tegenwoordig-manon"
+      ],
       "persistence": [
         "hi-rophante-clich-s"
+      ],
+      "machine": [
+        "wintergatan-marble-machine"
+      ],
+      "marbles": [
+        "wintergatan-marble-machine"
       ],
       "flute": [
         "bomba-est-reo-soy-yo"
@@ -4767,15 +4799,9 @@
       "surveillance": [
         "kings-of-leon-mustang"
       ],
-      "whip pan": [
-        "kings-of-leon-mustang"
-      ],
       "mirrors": [
         "ok-go-love",
         "mette-coming-of-age"
-      ],
-      "cats": [
-        "de-jeugd-van-tegenwoordig-manon"
       ]
     },
     "artists": {
@@ -5042,6 +5068,9 @@
       "The Hundred in the Hands": [
         "the-hundred-in-the-hands-pigeons"
       ],
+      "El Guincho": [
+        "el-guincho-bombay"
+      ],
       "Uffie": [
         "uffie-difficult"
       ],
@@ -5130,8 +5159,14 @@
       "JR JR": [
         "jr-jr-gone"
       ],
+      "De Jeugd Van Tegenwoordig": [
+        "de-jeugd-van-tegenwoordig-manon"
+      ],
       "Drake": [
         "drake-hotline-bling"
+      ],
+      "BEATSOFREEN": [
+        "beatsofreen-slowly-rising"
       ],
       "N. Lannon": [
         "n-lannon-another-love"
@@ -5150,6 +5185,9 @@
       ],
       "General Elektriks": [
         "general-elektriks-angle-boogie"
+      ],
+      "Wintergatan": [
+        "wintergatan-marble-machine"
       ],
       "Charles X": [
         "charles-x-can-you-do-it"
@@ -5209,7 +5247,7 @@
       "Dayglow": [
         "dayglow-something"
       ],
-      "Joep Beving / Max Cooper": [
+      "Joep Beving & Max Cooper": [
         "joep-beving-max-cooper-hanging-d-max-cooper-remix"
       ],
       "Pharrell Williams ft. 21 Savage, Tyler, The Creator": [
@@ -5222,6 +5260,9 @@
       ],
       "Jungle": [
         "jungle-back-on-74"
+      ],
+      "Max Cooper feat. Kathrin deBoer": [
+        "max-cooper-feat-kathrin-deboer-with-me"
       ],
       "Jacques": [
         "jacques-absolve"
@@ -5259,21 +5300,6 @@
       ],
       "Balming Tiger": [
         "balming-tiger-oui"
-      ],
-      "BEATSOFREEN": [
-        "beatsofreen-slowly-rising"
-      ],
-      "De Jeugd Van Tegenwoordig": [
-        "de-jeugd-van-tegenwoordig-manon"
-      ],
-      "El Guincho": [
-        "el-guincho-bombay"
-      ],
-      "Max Cooper feat. Kathrin deBoer": [
-        "max-cooper-feat-kathrin-deboer-with-me"
-      ],
-      "Wintergatan": [
-        "wintergatan-marble-machine"
       ]
     },
     "directors": {
@@ -5353,7 +5379,7 @@
       "Paul Hunter": [
         "dangelo-untitled-how-does-it-feel"
       ],
-      "Mike Maguire": [
+      "Tom Kuntz & Mike Maguire": [
         "the-avalanches-frontier-psychiatrist"
       ],
       "Alex Rutterford": [
@@ -5431,7 +5457,8 @@
       ],
       "Encyclopedia Pictura": [
         "grizzly-bear-knife",
-        "bj-rk-wanderlust"
+        "bj-rk-wanderlust",
+        "panda-bear-boys-latin"
       ],
       "Dougal Wilson": [
         "bat-for-lashes-whats-a-girl-to-do",
@@ -5490,7 +5517,7 @@
       "Lee Lennox": [
         "the-presets-girl-and-the-sea"
       ],
-      "Damian Kulash and Brian L. Perkins": [
+      "Damian Kulash & Brian L. Perkins": [
         "ok-go-this-too-shall-pass"
       ],
       "We Buy Your Kids": [
@@ -5512,10 +5539,14 @@
         "fm-belfast-underwear",
         "the-hundred-in-the-hands-pigeons",
         "battles-my-machines",
+        "the-shins-simple-song",
         "dj-snake-lil-jon-turn-down-for-what"
       ],
       "A.F. Schepperd": [
         "blockhead-the-music-scene"
+      ],
+      "CANADA": [
+        "el-guincho-bombay"
       ],
       "AB/CD/CD": [
         "uffie-difficult"
@@ -5539,8 +5570,9 @@
       "Adrien Merigeau": [
         "villagers-cecelia-her-selfhood"
       ],
-      "Kijek/Adamski": [
-        "we-cut-corners-pirates-life"
+      "Kijek / Adamski": [
+        "we-cut-corners-pirates-life",
+        "shugo-tokumaru-katachi"
       ],
       "David Lewandowski": [
         "friendly-fires-hurting"
@@ -5548,11 +5580,8 @@
       "Luis Safa & BASA Studio": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
       ],
-      "Anthony Francisco Schepperd & Chris Milk": [
+      "A.F. Schepperd & Chris Milk": [
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
-      ],
-      "DANIELS": [
-        "the-shins-simple-song"
       ],
       "Emmanuelle Walker": [
         "royksopp-so-easy-unofficial-video"
@@ -5565,9 +5594,6 @@
       ],
       "Andrew Thomas Huang": [
         "bj-rk-mutual-core"
-      ],
-      "Kijek / Adamski": [
-        "shugo-tokumaru-katachi"
       ],
       "Hayley Morris": [
         "iron-wine-joy"
@@ -5587,7 +5613,7 @@
       "Michael Langan": [
         "hundred-waters-cavity"
       ],
-      "Aaron Duffy Damian Kulash Jr. & Bob Partington": [
+      "Damian Kulash, Aaron Duffy, & Bob Partington": [
         "ok-go-the-writings-on-the-wall"
       ],
       "Paul Trillo": [
@@ -5597,11 +5623,8 @@
         "the-peach-kings-without-you",
         "jacques-absolve"
       ],
-      "Kazuaki Seki and Damian Kulash Jr.": [
+      "Kazuaki Seki & Damian Kulash": [
         "ok-go-i-wont-let-you-down"
-      ],
-      "Isaiah Saxon & Sean Hellfritsch": [
-        "panda-bear-boys-latin"
       ],
       "Thomas Porthé": [
         "20syl-back-forth"
@@ -5618,16 +5641,22 @@
       "Roger Guàrdia": [
         "battles-the-yabba"
       ],
+      "Lernert & Sander": [
+        "de-jeugd-van-tegenwoordig-manon"
+      ],
       "Director X": [
         "drake-hotline-bling"
       ],
-      "Michael Langan and Najeeb Tarazi": [
+      "Hideki Inaba": [
+        "beatsofreen-slowly-rising"
+      ],
+      "Michael Langan & Najeeb Tarazi": [
         "n-lannon-another-love"
       ],
       "Uri Lotan": [
         "jane-bordeaux-maagalim"
       ],
-      "Damian Kulash, Jr. & Trish Sie": [
+      "Damian Kulash & Trish Sie": [
         "ok-go-upside-down-inside-out"
       ],
       "Dom & Nic": [
@@ -5649,6 +5678,9 @@
       ],
       "Melina Matsoukas": [
         "beyonc-formation"
+      ],
+      "Hannes Knutsson": [
+        "wintergatan-marble-machine"
       ],
       "Parallel": [
         "charles-x-can-you-do-it"
@@ -5698,7 +5730,7 @@
       "Vincenzo Lodigiani": [
         "luc-glow"
       ],
-      "Saad Moosajee, Danae Gosset and Art Camp": [
+      "Saad Moosajee, Danae Gosset & Art Camp": [
         "mitski-a-pearl"
       ],
       "Keith Schofield": [
@@ -5707,6 +5739,9 @@
       "Xabier Mendibe": [
         "los-misterios-m-talos-y-vuelve"
       ],
+      "Ksawery Kirklewski": [
+        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
+      ],
       "François Rousselet": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
@@ -5714,11 +5749,14 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
-      "Janelle Monáe and Alan Ferguson": [
+      "Janelle Monáe & Alan Ferguson": [
         "janelle-mon-e-lipstick-lover"
       ],
       "J Lloyd & Charlie Di Placido": [
         "jungle-back-on-74"
+      ],
+      "Michael McAfee": [
+        "max-cooper-feat-kathrin-deboer-with-me"
       ],
       "Felix Brady": [
         "unknown-t-featuring-loyle-carner-hocus-pocus"
@@ -5744,10 +5782,10 @@
       "Ozzie Pullin": [
         "tourist-valentine"
       ],
-      "Damian Kulash, Chris Buongiorno": [
+      "Damian Kulash & Chris Buongiorno": [
         "ok-go-a-stone-only-rolls-downhill"
       ],
-      "Damian Kulash, Aaron Duffy, Miguel Espada": [
+      "Damian Kulash, Aaron Duffy, & Miguel Espada": [
         "ok-go-love"
       ],
       "Helen Morales & METTE": [
@@ -5761,21 +5799,6 @@
       ],
       "Lee Suho": [
         "balming-tiger-oui"
-      ],
-      "Hideki Inaba": [
-        "beatsofreen-slowly-rising"
-      ],
-      "Lernert & Sander": [
-        "de-jeugd-van-tegenwoordig-manon"
-      ],
-      "CANADA": [
-        "el-guincho-bombay"
-      ],
-      "Michael McAfee": [
-        "max-cooper-feat-kathrin-deboer-with-me"
-      ],
-      "Hannes Knutsson": [
-        "wintergatan-marble-machine"
       ]
     }
   },
@@ -5802,6 +5825,7 @@
       "fisheye": 1,
       "slowmo": 3,
       "sports": 1,
+      "lofi brilliance": 6,
       "puppets": 4,
       "night vision": 1,
       "long take": 20,
@@ -5822,8 +5846,9 @@
       "kids": 5,
       "brooklyn": 5,
       "pixilation": 3,
-      "kaiju": 1,
+      "kaiju": 2,
       "space": 3,
+      "textiles": 2,
       "cel animation": 13,
       "matchmove": 1,
       "dogs": 1,
@@ -5835,7 +5860,6 @@
       "mixed media": 6,
       "bike": 2,
       "keytar": 1,
-      "lofi brilliance": 5,
       "explosions": 3,
       "d&ad": 3,
       "ukmva": 9,
@@ -5850,7 +5874,9 @@
       "butts": 3,
       "chronophotography": 2,
       "slitscan": 2,
+      "whip pan": 2,
       "editing": 6,
+      "nsfw": 1,
       "heels": 1,
       "architecture": 3,
       "timeslice": 2,
@@ -5860,7 +5886,10 @@
       "drone": 1,
       "macro": 1,
       "bus": 1,
+      "cats": 1,
       "persistence": 1,
+      "machine": 1,
+      "marbles": 1,
       "flute": 1,
       "meta": 3,
       "hockney": 2,
@@ -5870,9 +5899,7 @@
       "hydraulics": 1,
       "swimming": 2,
       "surveillance": 1,
-      "whip pan": 1,
-      "mirrors": 2,
-      "cats": 1
+      "mirrors": 2
     },
     "artists": {
       "Queen": 1,
@@ -5952,6 +5979,7 @@
       "FM Belfast": 1,
       "Blockhead": 1,
       "The Hundred in the Hands": 1,
+      "El Guincho": 1,
       "Uffie": 1,
       "Scissor Sisters": 1,
       "Danger Beach": 1,
@@ -5981,13 +6009,16 @@
       "ALB": 1,
       "Hook N Sling feat. Far East Movement": 1,
       "JR JR": 1,
+      "De Jeugd Van Tegenwoordig": 1,
       "Drake": 1,
+      "BEATSOFREEN": 1,
       "N. Lannon": 1,
       "Jane Bordeaux": 1,
       "Violet Sands": 1,
       "Hiérophante": 1,
       "Miike Snow": 1,
       "General Elektriks": 1,
+      "Wintergatan": 1,
       "Charles X": 1,
       "Max Cooper": 1,
       "Bomba Estéreo": 1,
@@ -6007,10 +6038,11 @@
       "Duck Sauce": 1,
       "Los Misterios": 1,
       "Dayglow": 1,
-      "Joep Beving / Max Cooper": 1,
+      "Joep Beving & Max Cooper": 1,
       "Pharrell Williams ft. 21 Savage, Tyler, The Creator": 1,
       "Mette": 3,
       "Jungle": 1,
+      "Max Cooper feat. Kathrin deBoer": 1,
       "Jacques": 1,
       "Unknown T, featuring Loyle Carner": 1,
       "The Smile": 1,
@@ -6022,12 +6054,7 @@
       "OK Go": 2,
       "METTE": 1,
       "GENER8ION & Yung Lean": 1,
-      "Balming Tiger": 1,
-      "BEATSOFREEN": 1,
-      "De Jeugd Van Tegenwoordig": 1,
-      "El Guincho": 1,
-      "Max Cooper feat. Kathrin deBoer": 1,
-      "Wintergatan": 1
+      "Balming Tiger": 1
     },
     "directors": {
       "Bruce Gowers": 1,
@@ -6051,7 +6078,7 @@
       "Garth Jennings": 1,
       "Thomas Vinterberg": 1,
       "Paul Hunter": 1,
-      "Mike Maguire": 1,
+      "Tom Kuntz & Mike Maguire": 1,
       "Alex Rutterford": 1,
       "H5": 1,
       "Shynola": 2,
@@ -6075,7 +6102,7 @@
       "Matthew Cullen & Grady Hall": 1,
       "Timothy Saccenti": 1,
       "Patrick Daughters": 3,
-      "Encyclopedia Pictura": 2,
+      "Encyclopedia Pictura": 3,
       "Dougal Wilson": 2,
       "Joey Garfield": 1,
       "Melina": 1,
@@ -6094,14 +6121,15 @@
       "Sean Pecknold": 2,
       "Francis Lawrence": 1,
       "Lee Lennox": 1,
-      "Damian Kulash and Brian L. Perkins": 1,
+      "Damian Kulash & Brian L. Perkins": 1,
       "We Buy Your Kids": 1,
       "Rhett Dashwood": 1,
       "James Frost": 1,
       "Mrzyk & Moriceau": 1,
       "Wendy Morgan": 1,
-      "Daniels": 4,
+      "Daniels": 5,
       "A.F. Schepperd": 1,
+      "CANADA": 1,
       "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
       "Ned Wenlock": 1,
@@ -6109,41 +6137,41 @@
       "Cyriak": 2,
       "Trish Sie & Pilobolus": 1,
       "Adrien Merigeau": 1,
-      "Kijek/Adamski": 1,
+      "Kijek / Adamski": 2,
       "David Lewandowski": 1,
       "Luis Safa & BASA Studio": 1,
-      "Anthony Francisco Schepperd & Chris Milk": 1,
-      "DANIELS": 1,
+      "A.F. Schepperd & Chris Milk": 1,
       "Emmanuelle Walker": 1,
       "Filip Sterckx": 1,
       "Cho Soo-hyun": 1,
       "Andrew Thomas Huang": 1,
-      "Kijek / Adamski": 1,
       "Hayley Morris": 1,
       "Moniker": 1,
       "Ori Toor": 1,
       "Michael Fragstein": 1,
       "Floris Kaayk & Torre Florim": 1,
       "Michael Langan": 1,
-      "Aaron Duffy Damian Kulash Jr. & Bob Partington": 1,
+      "Damian Kulash, Aaron Duffy, & Bob Partington": 1,
       "Paul Trillo": 5,
-      "Kazuaki Seki and Damian Kulash Jr.": 1,
-      "Isaiah Saxon & Sean Hellfritsch": 1,
+      "Kazuaki Seki & Damian Kulash": 1,
       "Thomas Porthé": 1,
       "Julien Lassort": 1,
       "Nelson De Castro, Carlos López Estrada": 1,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
+      "Lernert & Sander": 1,
       "Director X": 1,
-      "Michael Langan and Najeeb Tarazi": 1,
+      "Hideki Inaba": 1,
+      "Michael Langan & Najeeb Tarazi": 1,
       "Uri Lotan": 1,
-      "Damian Kulash, Jr. & Trish Sie": 1,
+      "Damian Kulash & Trish Sie": 1,
       "Dom & Nic": 1,
       "Dress Code": 1,
       "Hiérophante": 1,
       "Ninian Doff": 1,
       "Drew Tyndell": 3,
       "Melina Matsoukas": 1,
+      "Hannes Knutsson": 1,
       "Parallel": 1,
       "Gal Muggia and Vania Heymann": 1,
       "Kevin McGloughlin": 1,
@@ -6160,13 +6188,15 @@
       "Lacey Duke": 1,
       "Hiro Murai": 1,
       "Vincenzo Lodigiani": 1,
-      "Saad Moosajee, Danae Gosset and Art Camp": 1,
+      "Saad Moosajee, Danae Gosset & Art Camp": 1,
       "Keith Schofield": 1,
       "Xabier Mendibe": 1,
+      "Ksawery Kirklewski": 1,
       "François Rousselet": 1,
       "Camille Summers-Valli": 2,
-      "Janelle Monáe and Alan Ferguson": 1,
+      "Janelle Monáe & Alan Ferguson": 1,
       "J Lloyd & Charlie Di Placido": 1,
+      "Michael McAfee": 1,
       "Felix Brady": 1,
       "Paul Thomas Anderson": 1,
       "Alex Da Corte": 1,
@@ -6175,17 +6205,12 @@
       "C Prinz": 1,
       "Brook Linder": 1,
       "Ozzie Pullin": 1,
-      "Damian Kulash, Chris Buongiorno": 1,
-      "Damian Kulash, Aaron Duffy, Miguel Espada": 1,
+      "Damian Kulash & Chris Buongiorno": 1,
+      "Damian Kulash, Aaron Duffy, & Miguel Espada": 1,
       "Helen Morales & METTE": 1,
       "Romain Gavras": 1,
       "in/out": 1,
-      "Lee Suho": 1,
-      "Hideki Inaba": 1,
-      "Lernert & Sander": 1,
-      "CANADA": 1,
-      "Michael McAfee": 1,
-      "Hannes Knutsson": 1
+      "Lee Suho": 1
     }
   }
 }
