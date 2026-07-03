@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 222,
-    "totalArtists": 182,
-    "totalDirectors": 176,
+    "totalVideos": 224,
+    "totalArtists": 184,
+    "totalDirectors": 177,
     "totalTags": 102
   },
   "videos": {
@@ -24,6 +24,7 @@
       "vimeoId": "852661771",
       "thumbnailUrl": "https://img.youtube.com/vi/AprFIej9Cho/hqdefault.jpg",
       "tags": [
+        "body-ody",
         "confidence",
         "d&ad",
         "dance",
@@ -31,7 +32,8 @@
         "match cut",
         "ukmva",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "mette-mamas-eyes": {
       "id": "mette-mamas-eyes",
@@ -58,7 +60,8 @@
         "match cut",
         "ukmva",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "mette-bet": {
       "id": "mette-bet",
@@ -83,7 +86,8 @@
         "twinsies",
         "vfx",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "feist-i-feel-it-all": {
       "id": "feist-i-feel-it-all",
@@ -104,7 +108,8 @@
         "explosions",
         "long take",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "talking-heads-and-she-was": {
       "id": "talking-heads-and-she-was",
@@ -124,7 +129,8 @@
       "tags": [
         "collage",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "r2j2-work-it-out": {
       "id": "r2j2-work-it-out",
@@ -144,7 +150,8 @@
       "tags": [
         "dance",
         "long take"
-      ]
+      ],
+      "embedBroken": false
     },
     "bomba-est-reo-soy-yo": {
       "id": "bomba-est-reo-soy-yo",
@@ -168,7 +175,8 @@
         "dance",
         "flute",
         "kids"
-      ]
+      ],
+      "embedBroken": false
     },
     "psy-gangnam-style": {
       "id": "psy-gangnam-style",
@@ -193,7 +201,8 @@
         "lasers",
         "poc director",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "vial-of-sound-a-lifetime-passed": {
       "id": "vial-of-sound-a-lifetime-passed",
@@ -215,7 +224,8 @@
         "loops",
         "psychedelic",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "light-light-kilo-do-not-touch": {
       "id": "light-light-kilo-do-not-touch",
@@ -236,7 +246,8 @@
         "interactive",
         "meta",
         "ukmva"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-darkness-i-believe-in-a-thing-called-love": {
       "id": "the-darkness-i-believe-in-a-thing-called-love",
@@ -260,7 +271,8 @@
         "lasers",
         "space",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas": {
       "id": "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
@@ -282,7 +294,8 @@
         "stop motion",
         "ukmva",
         "zoetrope"
-      ]
+      ],
+      "embedBroken": false
     },
     "jungle-back-on-74": {
       "id": "jungle-back-on-74",
@@ -304,7 +317,8 @@
         "dance",
         "long take",
         "ukmva"
-      ]
+      ],
+      "embedBroken": false
     },
     "harold-faltermeyer-steve-stevens-top-gun-anthem": {
       "id": "harold-faltermeyer-steve-stevens-top-gun-anthem",
@@ -326,7 +340,8 @@
         "guitar solo",
         "hair",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "michael-jackson-billie-jean": {
       "id": "michael-jackson-billie-jean",
@@ -345,7 +360,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Zi_XLOBDo_Y/hqdefault.jpg",
       "tags": [
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "modest-mouse-dashboard": {
       "id": "modest-mouse-dashboard",
@@ -364,7 +380,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/penvn9VL32Y/hqdefault.jpg",
       "tags": [
         "mixed media"
-      ]
+      ],
+      "embedBroken": false
     },
     "blur-song-2": {
       "id": "blur-song-2",
@@ -383,7 +400,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/SSbBvKaM6sk/hqdefault.jpg",
       "tags": [
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "feist-1234": {
       "id": "feist-1234",
@@ -403,7 +421,8 @@
       "tags": [
         "crowd",
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "gnarls-barkley-crazy": {
       "id": "gnarls-barkley-crazy",
@@ -422,7 +441,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/-N4jf6rtyuw/hqdefault.jpg",
       "tags": [
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "blur-no-distance-left-to-run": {
       "id": "blur-no-distance-left-to-run",
@@ -441,7 +461,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dgA_DlR8WsM/hqdefault.jpg",
       "tags": [
         "night vision"
-      ]
+      ],
+      "embedBroken": false
     },
     "bellx1-rocky-took-a-lover": {
       "id": "bellx1-rocky-took-a-lover",
@@ -464,7 +485,8 @@
         "mixed media",
         "puppets",
         "twinsies"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-here-it-goes-again": {
       "id": "ok-go-here-it-goes-again",
@@ -485,7 +507,8 @@
         "dance",
         "treadmill/escalator",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "blur-coffee-tv": {
       "id": "blur-coffee-tv",
@@ -504,7 +527,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6oqXVx3sBOk/hqdefault.jpg",
       "tags": [
         "puppets"
-      ]
+      ],
+      "embedBroken": false
     },
     "muse-knights-of-cydonia": {
       "id": "muse-knights-of-cydonia",
@@ -527,7 +551,8 @@
         "poc director",
         "retro",
         "space"
-      ]
+      ],
+      "embedBroken": false
     },
     "smashing-pumpkins-tonight-tonight": {
       "id": "smashing-pumpkins-tonight-tonight",
@@ -548,7 +573,8 @@
         "gothy",
         "retro",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "bj-rk-bachelorette": {
       "id": "bj-rk-bachelorette",
@@ -567,7 +593,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BUxdcwao0bE/hqdefault.jpg",
       "tags": [
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "fatboy-slim-praise-you": {
       "id": "fatboy-slim-praise-you",
@@ -587,7 +614,8 @@
       "tags": [
         "dance",
         "lofi brilliance"
-      ]
+      ],
+      "embedBroken": false
     },
     "junior-senior-move-your-feet": {
       "id": "junior-senior-move-your-feet",
@@ -606,7 +634,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/SPlQpGeTbIE/hqdefault.jpg",
       "tags": [
         "pixel"
-      ]
+      ],
+      "embedBroken": false
     },
     "kylie-minogue-come-into-my-world": {
       "id": "kylie-minogue-come-into-my-world",
@@ -627,7 +656,8 @@
         "orbiting",
         "repeat",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "mickey-3d-respire": {
       "id": "mickey-3d-respire",
@@ -647,7 +677,8 @@
       "tags": [
         "3D animation",
         "kids"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-white-stripes-dead-leaves-and-the-dirty-ground": {
       "id": "the-white-stripes-dead-leaves-and-the-dirty-ground",
@@ -666,7 +697,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/7OyytKqYjkE/hqdefault.jpg",
       "tags": [
         "projection mapping"
-      ]
+      ],
+      "embedBroken": false
     },
     "cornelius-fit-song": {
       "id": "cornelius-fit-song",
@@ -687,7 +719,8 @@
         "poc director",
         "stop motion",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "r-kelly-trapped-in-the-closet": {
       "id": "r-kelly-trapped-in-the-closet",
@@ -706,7 +739,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/9mAyscj-NcU/hqdefault.jpg",
       "tags": [
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "fatboy-slim-weapon-of-choice": {
       "id": "fatboy-slim-weapon-of-choice",
@@ -726,7 +760,8 @@
       "tags": [
         "confidence",
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "blur-the-universal": {
       "id": "blur-the-universal",
@@ -745,7 +780,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BrbxWOMpwfs/hqdefault.jpg",
       "tags": [
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "autechre-gantz-graf": {
       "id": "autechre-gantz-graf",
@@ -765,7 +801,8 @@
       "tags": [
         "3D animation",
         "abstract"
-      ]
+      ],
+      "embedBroken": false
     },
     "twerk-from-brown-to-green": {
       "id": "twerk-from-brown-to-green",
@@ -785,7 +822,8 @@
       "tags": [
         "3D animation",
         "abstract"
-      ]
+      ],
+      "embedBroken": false
     },
     "peter-gabriel-sledgehammer": {
       "id": "peter-gabriel-sledgehammer",
@@ -804,7 +842,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/g93mz_eZ5N4/hqdefault.jpg",
       "tags": [
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "air-kelly-watch-the-stars": {
       "id": "air-kelly-watch-the-stars",
@@ -824,7 +863,8 @@
       "tags": [
         "slowmo",
         "sports"
-      ]
+      ],
+      "embedBroken": false
     },
     "regina-spektor-samson": {
       "id": "regina-spektor-samson",
@@ -844,7 +884,8 @@
       "tags": [
         "monochrome",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "kid-koala-basin-street-blues": {
       "id": "kid-koala-basin-street-blues",
@@ -861,7 +902,8 @@
       "youtubeId": "r8ys3B2q_2k",
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/r8ys3B2q_2k/hqdefault.jpg",
-      "tags": []
+      "tags": [],
+      "embedBroken": false
     },
     "beastie-boys-sabotage": {
       "id": "beastie-boys-sabotage",
@@ -880,7 +922,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/z5rRZdiu1UE/hqdefault.jpg",
       "tags": [
         "confidence"
-      ]
+      ],
+      "embedBroken": false
     },
     "outkast-hey-ya": {
       "id": "outkast-hey-ya",
@@ -901,7 +944,8 @@
         "claps",
         "confidence",
         "retro"
-      ]
+      ],
+      "embedBroken": false
     },
     "nine-inch-nails-closer": {
       "id": "nine-inch-nails-closer",
@@ -921,7 +965,8 @@
       "tags": [
         "gothy",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": false
     },
     "feist-my-moon-my-man": {
       "id": "feist-my-moon-my-man",
@@ -940,7 +985,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ltYq-jalYm0/hqdefault.jpg",
       "tags": [
         "treadmill/escalator"
-      ]
+      ],
+      "embedBroken": false
     },
     "yuki-sentimental-journey": {
       "id": "yuki-sentimental-journey",
@@ -962,7 +1008,8 @@
         "repeat",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "michael-jackson-thriller": {
       "id": "michael-jackson-thriller",
@@ -982,7 +1029,8 @@
       "tags": [
         "dance",
         "prosthetics"
-      ]
+      ],
+      "embedBroken": false
     },
     "michael-jackson-smooth-criminal": {
       "id": "michael-jackson-smooth-criminal",
@@ -1001,7 +1049,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/h_D3VFfhvs4/hqdefault.jpg",
       "tags": [
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "snoop-dogg-sensual-seduction": {
       "id": "snoop-dogg-sensual-seduction",
@@ -1024,7 +1073,8 @@
         "retro",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "devendra-banhart-a-ribbon": {
       "id": "devendra-banhart-a-ribbon",
@@ -1044,7 +1094,8 @@
       "tags": [
         "stop motion",
         "textiles"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-chemical-brothers-star-guitar": {
       "id": "the-chemical-brothers-star-guitar",
@@ -1064,7 +1115,8 @@
       "tags": [
         "long take",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-presets-girl-and-the-sea": {
       "id": "the-presets-girl-and-the-sea",
@@ -1083,7 +1135,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/KVvzBvjEz6s/hqdefault.jpg",
       "tags": [
         "yuri norstein-esque"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-pharcyde-drop": {
       "id": "the-pharcyde-drop",
@@ -1102,7 +1155,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/wqVsfGQ_1SU/hqdefault.jpg",
       "tags": [
         "reverse"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-horrors-sheena-is-a-parasite": {
       "id": "the-horrors-sheena-is-a-parasite",
@@ -1121,7 +1175,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/fgTJQWwGhCM/hqdefault.jpg",
       "tags": [
         "gothy"
-      ]
+      ],
+      "embedBroken": false
     },
     "grizzly-bear-knife": {
       "id": "grizzly-bear-knife",
@@ -1143,7 +1198,8 @@
         "prosthetics",
         "surreal",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-rapture-whoo-alright-yeah-uh-huh": {
       "id": "the-rapture-whoo-alright-yeah-uh-huh",
@@ -1164,7 +1220,8 @@
         "brooklyn",
         "cel animation",
         "matchmove"
-      ]
+      ],
+      "embedBroken": false
     },
     "janelle-mon-e-make-me-feel": {
       "id": "janelle-mon-e-make-me-feel",
@@ -1186,7 +1243,8 @@
         "lighting",
         "poc director",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "janelle-mon-e-tightrope": {
       "id": "janelle-mon-e-tightrope",
@@ -1207,7 +1265,8 @@
         "poc director",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "janelle-mon-e-pynk": {
       "id": "janelle-mon-e-pynk",
@@ -1228,7 +1287,8 @@
         "potential nsfw",
         "tableau",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "janelle-mon-e-i-like-that": {
       "id": "janelle-mon-e-i-like-that",
@@ -1251,7 +1311,8 @@
         "tableau",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "janelle-mon-e-lipstick-lover": {
       "id": "janelle-mon-e-lipstick-lover",
@@ -1274,7 +1335,8 @@
         "potential nsfw",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "childish-gambino-this-is-america": {
       "id": "childish-gambino-this-is-america",
@@ -1297,7 +1359,8 @@
         "long take",
         "poc director",
         "ukmva"
-      ]
+      ],
+      "embedBroken": false
     },
     "battles-atlas": {
       "id": "battles-atlas",
@@ -1316,7 +1379,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/IpGp-22t0lU/hqdefault.jpg",
       "tags": [
         "orbiting"
-      ]
+      ],
+      "embedBroken": false
     },
     "goldfrapp-happiness": {
       "id": "goldfrapp-happiness",
@@ -1335,7 +1399,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mnHlGONToIc/hqdefault.jpg",
       "tags": [
         "jump"
-      ]
+      ],
+      "embedBroken": false
     },
     "vitalic-poney-part-1-birds": {
       "id": "vitalic-poney-part-1-birds",
@@ -1359,7 +1424,8 @@
         "lasers",
         "slowmo",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "bj-rk-wanderlust": {
       "id": "bj-rk-wanderlust",
@@ -1385,7 +1451,8 @@
         "ukmva",
         "vfx",
         "water"
-      ]
+      ],
+      "embedBroken": false
     },
     "dangelo-untitled-how-does-it-feel": {
       "id": "dangelo-untitled-how-does-it-feel",
@@ -1406,7 +1473,8 @@
         "body-ody",
         "long take",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-avalanches-frontier-psychiatrist": {
       "id": "the-avalanches-frontier-psychiatrist",
@@ -1426,7 +1494,8 @@
       "tags": [
         "retro",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "r-yksopp-remind-me": {
       "id": "r-yksopp-remind-me",
@@ -1445,7 +1514,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dF-7TRy7Ylg/hqdefault.jpg",
       "tags": [
         "isometric"
-      ]
+      ],
+      "embedBroken": false
     },
     "beyonc-single-ladies-put-a-ring-on-it": {
       "id": "beyonc-single-ladies-put-a-ring-on-it",
@@ -1465,7 +1535,8 @@
       "tags": [
         "confidence",
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "bat-for-lashes-whats-a-girl-to-do": {
       "id": "bat-for-lashes-whats-a-girl-to-do",
@@ -1487,7 +1558,8 @@
         "claps",
         "long take",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-white-stripes-fell-in-love-with-a-girl": {
       "id": "the-white-stripes-fell-in-love-with-a-girl",
@@ -1508,7 +1580,8 @@
         "lego",
         "pixel",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-white-stripes-the-hardest-button-to-button": {
       "id": "the-white-stripes-the-hardest-button-to-button",
@@ -1530,7 +1603,8 @@
         "pixilation",
         "soundsync",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "queen-bohemian-rhapsody": {
       "id": "queen-bohemian-rhapsody",
@@ -1549,7 +1623,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
       "tags": [
         "confidence"
-      ]
+      ],
+      "embedBroken": false
     },
     "r-e-m-losing-my-religion": {
       "id": "r-e-m-losing-my-religion",
@@ -1569,7 +1644,8 @@
       "tags": [
         "poc director",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "radiohead-just": {
       "id": "radiohead-just",
@@ -1589,7 +1665,8 @@
       "tags": [
         "narrative",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "janet-jackson-rhythm-nation": {
       "id": "janet-jackson-rhythm-nation",
@@ -1609,7 +1686,8 @@
       "tags": [
         "dance",
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "ogiyahagi-i-love-your-face": {
       "id": "ogiyahagi-i-love-your-face",
@@ -1631,7 +1709,8 @@
         "surreal",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "bj-rk-its-oh-so-quiet": {
       "id": "bj-rk-its-oh-so-quiet",
@@ -1647,12 +1726,13 @@
       "provider": "youtube",
       "youtubeId": "htobTBlCvUU",
       "vimeoId": "1177744866",
-      "thumbnailUrl": "https://img.youtube.com/vi/htobTBlCvUU/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/1177744866.jpg",
       "tags": [
         "busby berkeley",
         "crowd",
         "dance"
-      ]
+      ],
+      "embedBroken": true
     },
     "lady-gaga-bad-romance": {
       "id": "lady-gaga-bad-romance",
@@ -1674,7 +1754,8 @@
         "dance",
         "gothy",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "drake-hotline-bling": {
       "id": "drake-hotline-bling",
@@ -1695,7 +1776,8 @@
         "architecture",
         "lighting",
         "poc director"
-      ]
+      ],
+      "embedBroken": false
     },
     "missy-elliott-the-rain-supa-dupa-fly": {
       "id": "missy-elliott-the-rain-supa-dupa-fly",
@@ -1716,7 +1798,8 @@
         "confidence",
         "fisheye",
         "poc director"
-      ]
+      ],
+      "embedBroken": false
     },
     "george-michael-freedom-90": {
       "id": "george-michael-freedom-90",
@@ -1735,7 +1818,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/diYAc7gB-0A/hqdefault.jpg",
       "tags": [
         "confidence"
-      ]
+      ],
+      "embedBroken": false
     },
     "madonna-vogue": {
       "id": "madonna-vogue",
@@ -1755,7 +1839,8 @@
       "tags": [
         "dance",
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "beyonc-formation": {
       "id": "beyonc-formation",
@@ -1778,9 +1863,11 @@
         "marching band",
         "poc director",
         "tableau",
+        "water",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-smile-friend-of-a-friend": {
       "id": "the-smile-friend-of-a-friend",
@@ -1800,7 +1887,8 @@
       "tags": [
         "kids",
         "meta"
-      ]
+      ],
+      "embedBroken": false
     },
     "unknown-t-featuring-loyle-carner-hocus-pocus": {
       "id": "unknown-t-featuring-loyle-carner-hocus-pocus",
@@ -1821,7 +1909,8 @@
         "hydraulics",
         "surreal",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "kings-of-leon-mustang": {
       "id": "kings-of-leon-mustang",
@@ -1841,7 +1930,8 @@
       "tags": [
         "surveillance",
         "whip pan"
-      ]
+      ],
+      "embedBroken": false
     },
     "duck-sauce-mesmerize": {
       "id": "duck-sauce-mesmerize",
@@ -1863,7 +1953,8 @@
         "potential nsfw",
         "ukmva",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "coldplay-strawberry-swing": {
       "id": "coldplay-strawberry-swing",
@@ -1884,7 +1975,8 @@
         "pixilation",
         "stop motion",
         "ukmva"
-      ]
+      ],
+      "embedBroken": false
     },
     "fred-again-lil-yachty-and-overmono-stayinit": {
       "id": "fred-again-lil-yachty-and-overmono-stayinit",
@@ -1904,7 +1996,8 @@
       "tags": [
         "lasers",
         "lighting"
-      ]
+      ],
+      "embedBroken": false
     },
     "tierra-whack-shower-song": {
       "id": "tierra-whack-shower-song",
@@ -1926,7 +2019,8 @@
         "poc director",
         "stop motion",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "tourist-valentine": {
       "id": "tourist-valentine",
@@ -1947,7 +2041,8 @@
         "busby berkeley",
         "dance",
         "water"
-      ]
+      ],
+      "embedBroken": false
     },
     "dua-lipa-illusion": {
       "id": "dua-lipa-illusion",
@@ -1972,7 +2067,8 @@
         "water",
         "woc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "jacques-absolve": {
       "id": "jacques-absolve",
@@ -1992,7 +2088,8 @@
       "tags": [
         "ai",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "sarh-u-and-i": {
       "id": "sarh-u-and-i",
@@ -2014,7 +2111,8 @@
         "dance",
         "long exposure",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "bas-ft-correy-c-fragrance": {
       "id": "bas-ft-correy-c-fragrance",
@@ -2034,7 +2132,8 @@
       "tags": [
         "hockney",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-peach-kings-without-you": {
       "id": "the-peach-kings-without-you",
@@ -2054,7 +2153,8 @@
       "tags": [
         "soundsync",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "young-thug-wyclef-jean": {
       "id": "young-thug-wyclef-jean",
@@ -2074,7 +2174,8 @@
       "tags": [
         "kids",
         "meta"
-      ]
+      ],
+      "embedBroken": false
     },
     "balming-tiger-oui": {
       "id": "balming-tiger-oui",
@@ -2093,7 +2194,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/WKZXRgQ7_uw/hqdefault.jpg",
       "tags": [
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-chemical-brothers-wide-open": {
       "id": "the-chemical-brothers-wide-open",
@@ -2114,7 +2216,8 @@
         "dance",
         "long take",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-upside-down-inside-out": {
       "id": "ok-go-upside-down-inside-out",
@@ -2130,12 +2233,13 @@
       "provider": "youtube",
       "youtubeId": "LWGJA9i18Co",
       "vimeoId": "155213717",
-      "thumbnailUrl": "https://img.youtube.com/vi/LWGJA9i18Co/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/155213717.jpg",
       "tags": [
         "dance",
         "long take",
         "womxn director"
-      ]
+      ],
+      "embedBroken": true
     },
     "jane-bordeaux-maagalim": {
       "id": "jane-bordeaux-maagalim",
@@ -2154,7 +2258,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/zgHHph-CrC8/hqdefault.jpg",
       "tags": [
         "3D animation"
-      ]
+      ],
+      "embedBroken": false
     },
     "los-misterios-m-talos-y-vuelve": {
       "id": "los-misterios-m-talos-y-vuelve",
@@ -2174,7 +2279,8 @@
       "tags": [
         "collage",
         "long take"
-      ]
+      ],
+      "embedBroken": false
     },
     "dayglow-something": {
       "id": "dayglow-something",
@@ -2194,7 +2300,8 @@
       "tags": [
         "cel animation",
         "collage"
-      ]
+      ],
+      "embedBroken": false
     },
     "coldplay-up-up": {
       "id": "coldplay-up-up",
@@ -2214,7 +2321,8 @@
       "tags": [
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "luc-glow": {
       "id": "luc-glow",
@@ -2233,7 +2341,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/LXVFucfXdqQ/hqdefault.jpg",
       "tags": [
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "mastadon-clandestiny": {
       "id": "mastadon-clandestiny",
@@ -2252,7 +2361,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/5a8442i-X6A/hqdefault.jpg",
       "tags": [
         "collage"
-      ]
+      ],
+      "embedBroken": false
     },
     "mitski-a-pearl": {
       "id": "mitski-a-pearl",
@@ -2272,7 +2382,8 @@
       "tags": [
         "poc director",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "battles-ice-cream": {
       "id": "battles-ice-cream",
@@ -2288,12 +2399,13 @@
       "provider": "youtube",
       "youtubeId": "dFggLJxv9zA",
       "vimeoId": "65737797",
-      "thumbnailUrl": "https://img.youtube.com/vi/dFggLJxv9zA/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/65737797.jpg",
       "tags": [
         "chronophotography",
         "editing",
         "surreal"
-      ]
+      ],
+      "embedBroken": true
     },
     "charles-x-can-you-do-it": {
       "id": "charles-x-can-you-do-it",
@@ -2313,7 +2425,8 @@
       "tags": [
         "horses",
         "illustration"
-      ]
+      ],
+      "embedBroken": false
     },
     "thunder-tillman-alignments": {
       "id": "thunder-tillman-alignments",
@@ -2335,7 +2448,8 @@
         "monochrome",
         "shapes",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "washed-out-floating-by": {
       "id": "washed-out-floating-by",
@@ -2353,8 +2467,12 @@
       "vimeoId": "223810249",
       "thumbnailUrl": "https://img.youtube.com/vi/MvJfiuvDfeo/hqdefault.jpg",
       "tags": [
-        "psychedelic"
-      ]
+        "cel animation",
+        "chronophotography",
+        "psychedelic",
+        "slitscan"
+      ],
+      "embedBroken": false
     },
     "yeasayer-wait-for-the-summer": {
       "id": "yeasayer-wait-for-the-summer",
@@ -2375,7 +2493,8 @@
         "collage",
         "psychedelic",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "blonde-redhead-golden-light": {
       "id": "blonde-redhead-golden-light",
@@ -2395,7 +2514,8 @@
       "tags": [
         "lighting",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "jmii-bailar": {
       "id": "jmii-bailar",
@@ -2417,7 +2537,8 @@
         "monochrome",
         "shapes",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "violet-sands-no-matter-what": {
       "id": "violet-sands-no-matter-what",
@@ -2437,7 +2558,8 @@
       "tags": [
         "dance",
         "slitscan"
-      ]
+      ],
+      "embedBroken": false
     },
     "de-staat-witch-doctor": {
       "id": "de-staat-witch-doctor",
@@ -2457,7 +2579,8 @@
       "tags": [
         "crowd",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "panda-bear-boys-latin": {
       "id": "panda-bear-boys-latin",
@@ -2476,7 +2599,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/prBaZzYmQrI/hqdefault.jpg",
       "tags": [
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-i-wont-let-you-down": {
       "id": "ok-go-i-wont-let-you-down",
@@ -2499,7 +2623,8 @@
         "drone",
         "long take",
         "poc director"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-the-writings-on-the-wall": {
       "id": "ok-go-the-writings-on-the-wall",
@@ -2519,7 +2644,8 @@
       "tags": [
         "long take",
         "optical illusion"
-      ]
+      ],
+      "embedBroken": false
     },
     "hundred-waters-cavity": {
       "id": "hundred-waters-cavity",
@@ -2540,7 +2666,8 @@
         "abstract",
         "projection mapping",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "dj-snake-lil-jon-turn-down-for-what": {
       "id": "dj-snake-lil-jon-turn-down-for-what",
@@ -2560,7 +2687,8 @@
       "tags": [
         "poc director",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": false
     },
     "boozoo-bajou-jan-mayen": {
       "id": "boozoo-bajou-jan-mayen",
@@ -2583,7 +2711,8 @@
         "psychedelic",
         "repeat",
         "timeslice"
-      ]
+      ],
+      "embedBroken": false
     },
     "iron-wine-joy": {
       "id": "iron-wine-joy",
@@ -2605,7 +2734,8 @@
         "projection mapping",
         "stop motion",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "bonobo-cirrus": {
       "id": "bonobo-cirrus",
@@ -2625,7 +2755,8 @@
       "tags": [
         "psychedelic",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "bj-rk-mutual-core": {
       "id": "bj-rk-mutual-core",
@@ -2650,7 +2781,8 @@
         "puppets",
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "royksopp-so-easy-unofficial-video": {
       "id": "royksopp-so-easy-unofficial-video",
@@ -2671,7 +2803,8 @@
         "cel animation",
         "illustration",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-shins-simple-song": {
       "id": "the-shins-simple-song",
@@ -2691,7 +2824,8 @@
       "tags": [
         "narrative",
         "poc director"
-      ]
+      ],
+      "embedBroken": false
     },
     "danger-mouse-daniele-luppi-feat-jack-white-two-against-one": {
       "id": "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
@@ -2711,7 +2845,8 @@
       "tags": [
         "cel animation",
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "fleet-foxes-the-shrine-an-argument": {
       "id": "fleet-foxes-the-shrine-an-argument",
@@ -2730,7 +2865,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/9yAxIdkF2Qo/hqdefault.jpg",
       "tags": [
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "friendly-fires-hurting": {
       "id": "friendly-fires-hurting",
@@ -2746,11 +2882,12 @@
       "provider": "youtube",
       "youtubeId": "bhdVV58l0vA",
       "vimeoId": "33056810",
-      "thumbnailUrl": "https://img.youtube.com/vi/bhdVV58l0vA/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/33056810.jpg",
       "tags": [
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": true
     },
     "we-cut-corners-pirates-life": {
       "id": "we-cut-corners-pirates-life",
@@ -2772,7 +2909,8 @@
         "monochrome",
         "psychedelic",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "marian-ruzzi-y-sr-amable-una-pieza-mas": {
       "id": "marian-ruzzi-y-sr-amable-una-pieza-mas",
@@ -2789,7 +2927,8 @@
       "youtubeId": "JL13mEbnSv8",
       "vimeoId": "32025586",
       "thumbnailUrl": "https://img.youtube.com/vi/JL13mEbnSv8/hqdefault.jpg",
-      "tags": []
+      "tags": [],
+      "embedBroken": false
     },
     "ok-go-all-is-not-lost": {
       "id": "ok-go-all-is-not-lost",
@@ -2810,7 +2949,8 @@
         "kaleidoscope",
         "repeat",
         "womxn director"
-      ]
+      ],
+      "embedBroken": false
     },
     "hooray-for-earth-true-loves-cereal-spiller-remix": {
       "id": "hooray-for-earth-true-loves-cereal-spiller-remix",
@@ -2830,7 +2970,8 @@
       "tags": [
         "isometric",
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "danger-beach-apache": {
       "id": "danger-beach-apache",
@@ -2850,7 +2991,8 @@
       "tags": [
         "illustration",
         "loops"
-      ]
+      ],
+      "embedBroken": false
     },
     "scissor-sisters-invisible-light": {
       "id": "scissor-sisters-invisible-light",
@@ -2866,12 +3008,14 @@
       "provider": "vimeo",
       "youtubeId": null,
       "vimeoId": "17871386",
-      "thumbnailUrl": null,
+      "thumbnailUrl": "https://vumbnail.com/17871386.jpg",
       "tags": [
+        "editing",
         "potential nsfw",
         "surreal",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "uffie-difficult": {
       "id": "uffie-difficult",
@@ -2890,7 +3034,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/hnzS5QxbzPU/hqdefault.jpg",
       "tags": [
         "long take"
-      ]
+      ],
+      "embedBroken": false
     },
     "blockhead-the-music-scene": {
       "id": "blockhead-the-music-scene",
@@ -2910,7 +3055,8 @@
       "tags": [
         "cel animation",
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "sebastien-tellier-look": {
       "id": "sebastien-tellier-look",
@@ -2931,7 +3077,8 @@
         "cel animation",
         "monochrome",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": false
     },
     "kumisolo-cheap-pop-song": {
       "id": "kumisolo-cheap-pop-song",
@@ -2950,7 +3097,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/EM9Fpg9TL9s/hqdefault.jpg",
       "tags": [
         "lofi brilliance"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-this-too-shall-pass": {
       "id": "ok-go-this-too-shall-pass",
@@ -2972,7 +3120,8 @@
         "crowd",
         "long take",
         "marching band"
-      ]
+      ],
+      "embedBroken": false
     },
     "paul-dempsey-bats": {
       "id": "paul-dempsey-bats",
@@ -2993,7 +3142,8 @@
         "illustration",
         "long take",
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "grizzly-bear-while-you-wait-for-the-others": {
       "id": "grizzly-bear-while-you-wait-for-the-others",
@@ -3012,7 +3162,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mQ4jZeGUFzI/hqdefault.jpg",
       "tags": [
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "boys-noize-jeffer": {
       "id": "boys-noize-jeffer",
@@ -3033,7 +3184,8 @@
         "glitch",
         "lofi brilliance",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "birdy-nam-nam-the-parachute-ending": {
       "id": "birdy-nam-nam-the-parachute-ending",
@@ -3053,7 +3205,8 @@
       "tags": [
         "cel animation",
         "space"
-      ]
+      ],
+      "embedBroken": false
     },
     "dominik-eulberg-sansula-oder-der-letzte-grund": {
       "id": "dominik-eulberg-sansula-oder-der-letzte-grund",
@@ -3072,7 +3225,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/21sjK_0jqOQ/hqdefault.jpg",
       "tags": [
         "projection mapping"
-      ]
+      ],
+      "embedBroken": false
     },
     "labuat-soy-tu-aire": {
       "id": "labuat-soy-tu-aire",
@@ -3091,7 +3245,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/vSqGU3CSbdc/hqdefault.jpg",
       "tags": [
         "interactive"
-      ]
+      ],
+      "embedBroken": false
     },
     "la-roux-bulletproof": {
       "id": "la-roux-bulletproof",
@@ -3110,7 +3265,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Kk8eJh4i8Lo/hqdefault.jpg",
       "tags": [
         "3D animation"
-      ]
+      ],
+      "embedBroken": false
     },
     "moray-mclaren-we-got-time": {
       "id": "moray-mclaren-we-got-time",
@@ -3130,7 +3286,8 @@
       "tags": [
         "loops",
         "zoetrope"
-      ]
+      ],
+      "embedBroken": false
     },
     "chairlift-evident-utensil": {
       "id": "chairlift-evident-utensil",
@@ -3151,7 +3308,8 @@
         "datamoshing",
         "poc director",
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "friendly-fires-skeleton-boy": {
       "id": "friendly-fires-skeleton-boy",
@@ -3172,7 +3330,8 @@
         "fluid dynamics",
         "lofi brilliance",
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "dick-annegarn-soleil-du-soir": {
       "id": "dick-annegarn-soleil-du-soir",
@@ -3193,7 +3352,8 @@
         "brooklyn",
         "pixilation",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-white-stripes-seven-nation-army": {
       "id": "the-white-stripes-seven-nation-army",
@@ -3215,7 +3375,8 @@
         "long take",
         "loops",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-this-too-shall-pass-rube-goldberg": {
       "id": "ok-go-this-too-shall-pass-rube-goldberg",
@@ -3234,8 +3395,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/qybUFnY7Y8w/hqdefault.jpg",
       "tags": [
         "long take",
+        "machine",
         "rube goldberg"
-      ]
+      ],
+      "embedBroken": false
     },
     "battles-my-machines": {
       "id": "battles-my-machines",
@@ -3256,7 +3419,8 @@
         "long take",
         "surreal",
         "treadmill/escalator"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-peach-kings-dirty-secret": {
       "id": "the-peach-kings-dirty-secret",
@@ -3277,7 +3441,8 @@
         "brooklyn",
         "dance",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "n-lannon-another-love": {
       "id": "n-lannon-another-love",
@@ -3299,7 +3464,8 @@
         "dance",
         "surreal",
         "water"
-      ]
+      ],
+      "embedBroken": false
     },
     "mette-coming-of-age": {
       "id": "mette-coming-of-age",
@@ -3319,7 +3485,8 @@
       "tags": [
         "dance",
         "mirrors"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-a-stone-only-rolls-downhill": {
       "id": "ok-go-a-stone-only-rolls-downhill",
@@ -3339,7 +3506,8 @@
       "tags": [
         "hockney",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "ok-go-love": {
       "id": "ok-go-love",
@@ -3362,7 +3530,8 @@
         "machine",
         "mirrors",
         "optical illusion"
-      ]
+      ],
+      "embedBroken": false
     },
     "bonobo-me-and-you": {
       "id": "bonobo-me-and-you",
@@ -3382,7 +3551,8 @@
       "tags": [
         "abstract",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "fm-belfast-underwear": {
       "id": "fm-belfast-underwear",
@@ -3407,7 +3577,8 @@
         "slowmo",
         "vfx",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "the-hundred-in-the-hands-pigeons": {
       "id": "the-hundred-in-the-hands-pigeons",
@@ -3430,7 +3601,8 @@
         "surreal",
         "vfx",
         "whip pan"
-      ]
+      ],
+      "embedBroken": false
     },
     "gener8ion-yung-lean-storm": {
       "id": "gener8ion-yung-lean-storm",
@@ -3450,7 +3622,8 @@
       "tags": [
         "crowd",
         "dance"
-      ]
+      ],
+      "embedBroken": false
     },
     "shugo-tokumaru-katachi": {
       "id": "shugo-tokumaru-katachi",
@@ -3468,10 +3641,10 @@
       "vimeoId": "58022280",
       "thumbnailUrl": "https://img.youtube.com/vi/Q-WM-x__BOk/hqdefault.jpg",
       "tags": [
-        "persistence",
         "stop motion",
         "timeslice"
-      ]
+      ],
+      "embedBroken": false
     },
     "willow-sweater": {
       "id": "willow-sweater",
@@ -3491,7 +3664,8 @@
       "tags": [
         "projection mapping",
         "treadmill/escalator"
-      ]
+      ],
+      "embedBroken": false
     },
     "de-jeugd-van-tegenwoordig-manon": {
       "id": "de-jeugd-van-tegenwoordig-manon",
@@ -3510,7 +3684,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ri1f5e8KmFE/hqdefault.jpg",
       "tags": [
         "cats"
-      ]
+      ],
+      "embedBroken": false
     },
     "a-love-like-pi-jack-and-the-giant": {
       "id": "a-love-like-pi-jack-and-the-giant",
@@ -3530,7 +3705,8 @@
       "tags": [
         "fluid dynamics",
         "macro"
-      ]
+      ],
+      "embedBroken": false
     },
     "hi-rophante-clich-s": {
       "id": "hi-rophante-clich-s",
@@ -3549,7 +3725,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/XqwbqxzsA2g/hqdefault.jpg",
       "tags": [
         "persistence"
-      ]
+      ],
+      "embedBroken": false
     },
     "wintergatan-marble-machine": {
       "id": "wintergatan-marble-machine",
@@ -3570,7 +3747,8 @@
         "machine",
         "marbles",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "beatsofreen-slowly-rising": {
       "id": "beatsofreen-slowly-rising",
@@ -3592,7 +3770,8 @@
         "cel animation",
         "loops",
         "psychedelic"
-      ]
+      ],
+      "embedBroken": false
     },
     "joep-beving-max-cooper-hanging-d-max-cooper-remix": {
       "id": "joep-beving-max-cooper-hanging-d-max-cooper-remix",
@@ -3613,7 +3792,8 @@
         "abstract",
         "pixel",
         "shapes"
-      ]
+      ],
+      "embedBroken": false
     },
     "max-cooper-feat-kathrin-deboer-with-me": {
       "id": "max-cooper-feat-kathrin-deboer-with-me",
@@ -3634,7 +3814,8 @@
         "3D animation",
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "alb-the-road": {
       "id": "alb-the-road",
@@ -3655,7 +3836,8 @@
         "loops",
         "monochrome",
         "repeat"
-      ]
+      ],
+      "embedBroken": false
     },
     "polo-pan-coeur-crois": {
       "id": "polo-pan-coeur-crois",
@@ -3676,7 +3858,8 @@
         "crowd",
         "dance",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "jr-jr-gone": {
       "id": "jr-jr-gone",
@@ -3697,7 +3880,8 @@
         "dance",
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "hook-n-sling-feat-far-east-movement-break-yourself": {
       "id": "hook-n-sling-feat-far-east-movement-break-yourself",
@@ -3717,7 +3901,8 @@
       "tags": [
         "bus",
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "20syl-back-forth": {
       "id": "20syl-back-forth",
@@ -3741,7 +3926,8 @@
         "monochrome",
         "shapes",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "general-elektriks-angle-boogie": {
       "id": "general-elektriks-angle-boogie",
@@ -3762,7 +3948,8 @@
         "3D animation",
         "abstract",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "miike-snow-genghis-khan": {
       "id": "miike-snow-genghis-khan",
@@ -3780,10 +3967,12 @@
       "vimeoId": "151930811",
       "thumbnailUrl": "https://img.youtube.com/vi/P_SlAzsXa7E/hqdefault.jpg",
       "tags": [
+        "confidence",
         "dance",
         "prosthetics",
         "retro"
-      ]
+      ],
+      "embedBroken": false
     },
     "benjamin-booker-believe": {
       "id": "benjamin-booker-believe",
@@ -3799,13 +3988,14 @@
       "provider": "youtube",
       "youtubeId": "3MX7ByAbVyw",
       "vimeoId": "239029778",
-      "thumbnailUrl": "https://img.youtube.com/vi/3MX7ByAbVyw/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/239029778.jpg",
       "tags": [
         "dance",
         "kids",
         "narrative",
         "surreal"
-      ]
+      ],
+      "embedBroken": true
     },
     "el-guincho-bombay": {
       "id": "el-guincho-bombay",
@@ -3819,13 +4009,14 @@
       "sortDate": "2010-09-24",
       "year": 2010,
       "provider": "youtube",
-      "youtubeId": "AIdUBVjyY5A",
+      "youtubeId": "XjMQmXAJ3y4",
       "vimeoId": "23526690",
-      "thumbnailUrl": "https://img.youtube.com/vi/AIdUBVjyY5A/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/23526690.jpg",
       "tags": [
         "editing",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": true
     },
     "battles-the-yabba": {
       "id": "battles-the-yabba",
@@ -3841,14 +4032,15 @@
       "provider": "youtube",
       "youtubeId": "bkhLzHuUYmo",
       "vimeoId": "139338289",
-      "thumbnailUrl": "https://img.youtube.com/vi/bkhLzHuUYmo/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/139338289.jpg",
       "tags": [
         "crowd",
         "editing",
         "orbiting",
         "repeat",
         "surreal"
-      ]
+      ],
+      "embedBroken": true
     },
     "max-cooper-waves": {
       "id": "max-cooper-waves",
@@ -3871,7 +4063,8 @@
         "monochrome",
         "shapes",
         "soundsync"
-      ]
+      ],
+      "embedBroken": false
     },
     "stereogram-walkie-talkie-man": {
       "id": "stereogram-walkie-talkie-man",
@@ -3892,7 +4085,8 @@
         "kaiju",
         "stop motion",
         "textiles"
-      ]
+      ],
+      "embedBroken": false
     },
     "jamiroquai-virtual-insanity": {
       "id": "jamiroquai-virtual-insanity",
@@ -3912,7 +4106,8 @@
       "tags": [
         "dance",
         "treadmill/escalator"
-      ]
+      ],
+      "embedBroken": false
     },
     "casey-veggies-euphoria-ii": {
       "id": "casey-veggies-euphoria-ii",
@@ -3931,7 +4126,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/H9_XbRHLIKw/hqdefault.jpg",
       "tags": [
         "splitscreen"
-      ]
+      ],
+      "embedBroken": false
     },
     "son-of-kick-playing-the-villain": {
       "id": "son-of-kick-playing-the-villain",
@@ -3951,7 +4147,8 @@
       "tags": [
         "kids",
         "narrative"
-      ]
+      ],
+      "embedBroken": false
     },
     "apparat-granular-bastard": {
       "id": "apparat-granular-bastard",
@@ -3971,7 +4168,8 @@
       "tags": [
         "illustration",
         "space"
-      ]
+      ],
+      "embedBroken": false
     },
     "childish-gambino-sober": {
       "id": "childish-gambino-sober",
@@ -3987,13 +4185,14 @@
       "provider": "youtube",
       "youtubeId": "jx96Twg-Aew",
       "vimeoId": "116634367",
-      "thumbnailUrl": "https://img.youtube.com/vi/jx96Twg-Aew/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/116634367.jpg",
       "tags": [
         "confidence",
         "dance",
         "poc director",
         "surreal"
-      ]
+      ],
+      "embedBroken": true
     },
     "tigerilla-tulips": {
       "id": "tigerilla-tulips",
@@ -4014,7 +4213,8 @@
         "confidence",
         "dance",
         "kids"
-      ]
+      ],
+      "embedBroken": false
     },
     "frances-dont-worry-about-me": {
       "id": "frances-dont-worry-about-me",
@@ -4033,7 +4233,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bzWkKXuv00U/hqdefault.jpg",
       "tags": [
         "narrative"
-      ]
+      ],
+      "embedBroken": false
     },
     "massive-attack-take-it-there": {
       "id": "massive-attack-take-it-there",
@@ -4046,16 +4247,17 @@
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-28",
       "year": 2016,
-      "provider": "youtube",
-      "youtubeId": "hWSt_q7M3zI",
+      "provider": "vimeo",
+      "youtubeId": null,
       "vimeoId": "153562171",
-      "thumbnailUrl": "https://img.youtube.com/vi/hWSt_q7M3zI/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/153562171.jpg",
       "tags": [
         "dance",
         "gothy",
         "poc director",
         "surreal"
-      ]
+      ],
+      "embedBroken": true
     },
     "soupcans-siamese-brutality": {
       "id": "soupcans-siamese-brutality",
@@ -4076,7 +4278,8 @@
         "collage",
         "lofi brilliance",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "green-day-bang-bang": {
       "id": "green-day-bang-bang",
@@ -4095,7 +4298,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mg5Bp_Gzs0s/hqdefault.jpg",
       "tags": [
         "collage"
-      ]
+      ],
+      "embedBroken": false
     },
     "milk-bone-pressure": {
       "id": "milk-bone-pressure",
@@ -4116,7 +4320,8 @@
         "loops",
         "surreal",
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "darwin-deez-the-mess-she-made": {
       "id": "darwin-deez-the-mess-she-made",
@@ -4132,12 +4337,13 @@
       "provider": "youtube",
       "youtubeId": "r40tpNUQMC8",
       "vimeoId": "145304321",
-      "thumbnailUrl": "https://img.youtube.com/vi/r40tpNUQMC8/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/145304321.jpg",
       "tags": [
         "lofi brilliance",
         "optical illusion",
         "wut"
-      ]
+      ],
+      "embedBroken": true
     },
     "andy-shauf-the-worst-in-you": {
       "id": "andy-shauf-the-worst-in-you",
@@ -4156,7 +4362,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/1IN6fPFNStw/hqdefault.jpg",
       "tags": [
         "narrative"
-      ]
+      ],
+      "embedBroken": false
     },
     "son-lux-change-is-everything": {
       "id": "son-lux-change-is-everything",
@@ -4172,11 +4379,12 @@
       "provider": "youtube",
       "youtubeId": "OGtUDffAdy8",
       "vimeoId": "136249183",
-      "thumbnailUrl": "https://img.youtube.com/vi/OGtUDffAdy8/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/136249183.jpg",
       "tags": [
         "stop motion",
         "textiles"
-      ]
+      ],
+      "embedBroken": true
     },
     "5nizza-samoliot": {
       "id": "5nizza-samoliot",
@@ -4198,7 +4406,8 @@
         "surreal",
         "tableau",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "jones-melt": {
       "id": "jones-melt",
@@ -4214,12 +4423,13 @@
       "provider": "youtube",
       "youtubeId": "tx7pbLLhYoc",
       "vimeoId": "176486858",
-      "thumbnailUrl": "https://img.youtube.com/vi/tx7pbLLhYoc/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/176486858.jpg",
       "tags": [
         "dance",
         "repeat",
         "timeslice"
-      ]
+      ],
+      "embedBroken": true
     },
     "thao-the-get-down-stay-down-phenom": {
       "id": "thao-the-get-down-stay-down-phenom",
@@ -4238,7 +4448,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/DGwQZrDNLO8/hqdefault.jpg",
       "tags": [
         "splitscreen"
-      ]
+      ],
+      "embedBroken": false
     },
     "vessels-4am": {
       "id": "vessels-4am",
@@ -4254,11 +4465,12 @@
       "provider": "youtube",
       "youtubeId": "KNqM6ZLwVE0",
       "vimeoId": "157039826",
-      "thumbnailUrl": "https://img.youtube.com/vi/KNqM6ZLwVE0/hqdefault.jpg",
+      "thumbnailUrl": "https://vumbnail.com/157039826.jpg",
       "tags": [
         "drone",
         "space"
-      ]
+      ],
+      "embedBroken": true
     },
     "huma-huma-hello-i-like-you": {
       "id": "huma-huma-hello-i-like-you",
@@ -4278,7 +4490,8 @@
       "tags": [
         "joy",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "yeah-yeah-yeahs-maps": {
       "id": "yeah-yeah-yeahs-maps",
@@ -4297,7 +4510,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/oIIxlgcuQRU/hqdefault.jpg",
       "tags": [
         "confidence"
-      ]
+      ],
+      "embedBroken": false
     },
     "matt-and-kim-lessons-learned": {
       "id": "matt-and-kim-lessons-learned",
@@ -4317,7 +4531,8 @@
       "tags": [
         "lofi brilliance",
         "potential nsfw"
-      ]
+      ],
+      "embedBroken": false
     },
     "so-much-light-full-body-mirror": {
       "id": "so-much-light-full-body-mirror",
@@ -4336,7 +4551,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mAt0BAVJ68w/hqdefault.jpg",
       "tags": [
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "dralms-crushed-pleats": {
       "id": "dralms-crushed-pleats",
@@ -4355,7 +4571,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bTiqBq5Nsoc/hqdefault.jpg",
       "tags": [
         "surreal"
-      ]
+      ],
+      "embedBroken": false
     },
     "mount-moriah-precita": {
       "id": "mount-moriah-precita",
@@ -4376,7 +4593,8 @@
         "long take",
         "narrative",
         "slowmo"
-      ]
+      ],
+      "embedBroken": false
     },
     "arcade-fire-we-used-to-wait": {
       "id": "arcade-fire-we-used-to-wait",
@@ -4396,7 +4614,8 @@
       "tags": [
         "interactive",
         "meta"
-      ]
+      ],
+      "embedBroken": false
     },
     "thunderheist-jerk-it": {
       "id": "thunderheist-jerk-it",
@@ -4419,7 +4638,8 @@
         "lighting",
         "slowmo",
         "wut"
-      ]
+      ],
+      "embedBroken": false
     },
     "brite-futures-sophisticated-side-ponytail": {
       "id": "brite-futures-sophisticated-side-ponytail",
@@ -4441,7 +4661,8 @@
         "collage",
         "joy",
         "lofi brilliance"
-      ]
+      ],
+      "embedBroken": false
     },
     "olympia-smoke-signals": {
       "id": "olympia-smoke-signals",
@@ -4461,7 +4682,8 @@
       "tags": [
         "repeat",
         "retro"
-      ]
+      ],
+      "embedBroken": false
     },
     "i-love-you-but-ive-chosen-darkness-the-owl": {
       "id": "i-love-you-but-ive-chosen-darkness-the-owl",
@@ -4483,7 +4705,8 @@
         "gothy",
         "illustration",
         "monochrome"
-      ]
+      ],
+      "embedBroken": false
     },
     "fleet-foxes-white-winter-hymnal": {
       "id": "fleet-foxes-white-winter-hymnal",
@@ -4505,7 +4728,8 @@
         "stop motion",
         "textiles",
         "yuri norstein-esque"
-      ]
+      ],
+      "embedBroken": false
     },
     "fleet-foxes-mykonos": {
       "id": "fleet-foxes-mykonos",
@@ -4526,7 +4750,8 @@
         "illustration",
         "shapes",
         "stop motion"
-      ]
+      ],
+      "embedBroken": false
     },
     "peter-bjorn-and-john-young-folks": {
       "id": "peter-bjorn-and-john-young-folks",
@@ -4546,7 +4771,8 @@
       "tags": [
         "illustration",
         "retro"
-      ]
+      ],
+      "embedBroken": false
     },
     "memory-tapes-yes-i-know": {
       "id": "memory-tapes-yes-i-know",
@@ -4566,7 +4792,8 @@
       "tags": [
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
     },
     "paul-kalkbrenner-schwer": {
       "id": "paul-kalkbrenner-schwer",
@@ -4585,7 +4812,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Le5AGYxPCLI/hqdefault.jpg",
       "tags": [
         "tableau"
-      ]
+      ],
+      "embedBroken": false
     },
     "fulton-lights-staring-out-the-window": {
       "id": "fulton-lights-staring-out-the-window",
@@ -4606,7 +4834,50 @@
         "matchmove",
         "surreal",
         "vfx"
-      ]
+      ],
+      "embedBroken": false
+    },
+    "michael-langan-dahlia": {
+      "id": "michael-langan-dahlia",
+      "artist": "Michael Langan",
+      "song": "Dahlia",
+      "director": "Michael Langan",
+      "directors": [
+        "Michael Langan"
+      ],
+      "dateDisplay": "December 2010",
+      "sortDate": "2010-12-17",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "4LAffRtZG5w",
+      "vimeoId": "28460672",
+      "thumbnailUrl": "https://img.youtube.com/vi/4LAffRtZG5w/maxresdefault.jpg",
+      "tags": [
+        "editing",
+        "persistence"
+      ],
+      "embedBroken": false
+    },
+    "karl-westman-ibm-research-a-boy-and-his-atom": {
+      "id": "karl-westman-ibm-research-a-boy-and-his-atom",
+      "artist": "Karl Westman & IBM Research",
+      "song": "A Boy and His Atom",
+      "director": "Nico Casavecchia",
+      "directors": [
+        "Nico Casavecchia"
+      ],
+      "dateDisplay": "April 2013",
+      "sortDate": "2013-04-30",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "oSCX78-8-q0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/oSCX78-8-q0/maxresdefault.jpg",
+      "tags": [
+        "machine",
+        "stop motion"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -4715,6 +4986,7 @@
       "el-guincho-bombay",
       "uffie-difficult",
       "scissor-sisters-invisible-light",
+      "michael-langan-dahlia",
       "memory-tapes-yes-i-know",
       "huma-huma-hello-i-like-you",
       "son-of-kick-playing-the-villain",
@@ -4740,6 +5012,7 @@
       "bonobo-cirrus",
       "iron-wine-joy",
       "light-light-kilo-do-not-touch",
+      "karl-westman-ibm-research-a-boy-and-his-atom",
       "vial-of-sound-a-lifetime-passed",
       "boozoo-bajou-jan-mayen",
       "de-staat-witch-doctor",
@@ -4849,6 +5122,7 @@
         "beyonc-single-ladies-put-a-ring-on-it",
         "lady-gaga-bad-romance",
         "childish-gambino-sober",
+        "miike-snow-genghis-khan",
         "beyonc-formation",
         "tigerilla-tulips",
         "bomba-est-reo-soy-yo",
@@ -4933,6 +5207,7 @@
         "fleet-foxes-the-shrine-an-argument",
         "shugo-tokumaru-katachi",
         "iron-wine-joy",
+        "karl-westman-ibm-research-a-boy-and-his-atom",
         "son-lux-change-is-everything",
         "soupcans-siamese-brutality",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
@@ -5188,6 +5463,7 @@
         "janelle-mon-e-i-like-that",
         "mette-mamas-eyes",
         "janelle-mon-e-lipstick-lover",
+        "mette-van-gogh",
         "dua-lipa-illusion"
       ],
       "long take": [
@@ -5411,6 +5687,7 @@
         "iron-wine-joy",
         "vial-of-sound-a-lifetime-passed",
         "beatsofreen-slowly-rising",
+        "washed-out-floating-by",
         "dayglow-something"
       ],
       "matchmove": [
@@ -5490,6 +5767,7 @@
       "water": [
         "bj-rk-wanderlust",
         "n-lannon-another-love",
+        "beyonc-formation",
         "dua-lipa-illusion",
         "tourist-valentine"
       ],
@@ -5541,17 +5819,25 @@
         "ok-go-this-too-shall-pass",
         "beyonc-formation"
       ],
+      "machine": [
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "karl-westman-ibm-research-a-boy-and-his-atom",
+        "wintergatan-marble-machine",
+        "ok-go-love"
+      ],
       "rube goldberg": [
         "ok-go-this-too-shall-pass-rube-goldberg"
       ],
       "chronophotography": [
         "fm-belfast-underwear",
         "battles-ice-cream",
-        "sarh-u-and-i"
+        "sarh-u-and-i",
+        "washed-out-floating-by"
       ],
       "slitscan": [
         "fm-belfast-underwear",
-        "violet-sands-no-matter-what"
+        "violet-sands-no-matter-what",
+        "washed-out-floating-by"
       ],
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
@@ -5566,19 +5852,21 @@
       ],
       "editing": [
         "el-guincho-bombay",
+        "scissor-sisters-invisible-light",
+        "michael-langan-dahlia",
         "battles-ice-cream",
         "psy-gangnam-style",
         "battles-the-yabba",
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
+      "persistence": [
+        "michael-langan-dahlia",
+        "hi-rophante-clich-s"
+      ],
       "splitscreen": [
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom"
-      ],
-      "persistence": [
-        "shugo-tokumaru-katachi",
-        "hi-rophante-clich-s"
       ],
       "timeslice": [
         "shugo-tokumaru-katachi",
@@ -5609,10 +5897,6 @@
       "architecture": [
         "drake-hotline-bling",
         "dua-lipa-illusion"
-      ],
-      "machine": [
-        "wintergatan-marble-machine",
-        "ok-go-love"
       ],
       "marbles": [
         "wintergatan-marble-machine"
@@ -5942,6 +6226,9 @@
       "Scissor Sisters": [
         "scissor-sisters-invisible-light"
       ],
+      "Michael Langan": [
+        "michael-langan-dahlia"
+      ],
       "Memory Tapes": [
         "memory-tapes-yes-i-know"
       ],
@@ -5999,6 +6286,9 @@
       ],
       "Light Light": [
         "light-light-kilo-do-not-touch"
+      ],
+      "Karl Westman & IBM Research": [
+        "karl-westman-ibm-research-a-boy-and-his-atom"
       ],
       "Vial of Sound": [
         "vial-of-sound-a-lifetime-passed"
@@ -6504,6 +6794,10 @@
       "Nicolas Mendez": [
         "scissor-sisters-invisible-light"
       ],
+      "Michael Langan": [
+        "michael-langan-dahlia",
+        "hundred-waters-cavity"
+      ],
       "Eric Epstein": [
         "memory-tapes-yes-i-know"
       ],
@@ -6564,6 +6858,9 @@
       "Moniker": [
         "light-light-kilo-do-not-touch"
       ],
+      "Nico Casavecchia": [
+        "karl-westman-ibm-research-a-boy-and-his-atom"
+      ],
       "Ori Toor": [
         "vial-of-sound-a-lifetime-passed"
       ],
@@ -6572,9 +6869,6 @@
       ],
       "Floris Kaayk & Torre Florim": [
         "de-staat-witch-doctor"
-      ],
-      "Michael Langan": [
-        "hundred-waters-cavity"
       ],
       "Damian Kulash, Aaron Duffy, & Bob Partington": [
         "ok-go-the-writings-on-the-wall"
@@ -6813,11 +7107,11 @@
   },
   "counts": {
     "tags": {
-      "confidence": 20,
+      "confidence": 21,
       "dance": 39,
       "prosthetics": 4,
       "collage": 8,
-      "stop motion": 22,
+      "stop motion": 23,
       "guitar solo": 2,
       "hair": 3,
       "wut": 9,
@@ -6840,7 +7134,7 @@
       "lofi brilliance": 9,
       "puppets": 5,
       "night vision": 1,
-      "body-ody": 6,
+      "body-ody": 7,
       "long take": 21,
       "soundsync": 14,
       "lego": 1,
@@ -6864,7 +7158,7 @@
       "claps": 3,
       "textiles": 4,
       "illustration": 8,
-      "cel animation": 12,
+      "cel animation": 13,
       "matchmove": 2,
       "dogs": 1,
       "jump": 2,
@@ -6878,7 +7172,7 @@
       "explosions": 3,
       "d&ad": 3,
       "ukmva": 9,
-      "water": 4,
+      "water": 5,
       "lighting": 5,
       "yuri norstein-esque": 2,
       "joy": 3,
@@ -6889,14 +7183,15 @@
       "interactive": 3,
       "glitch": 1,
       "marching band": 2,
+      "machine": 4,
       "rube goldberg": 1,
-      "chronophotography": 3,
-      "slitscan": 2,
+      "chronophotography": 4,
+      "slitscan": 3,
       "whip pan": 2,
       "meta": 5,
-      "editing": 6,
-      "splitscreen": 2,
+      "editing": 8,
       "persistence": 2,
+      "splitscreen": 2,
       "timeslice": 3,
       "optical illusion": 3,
       "long exposure": 1,
@@ -6905,7 +7200,6 @@
       "bus": 1,
       "cats": 1,
       "architecture": 2,
-      "machine": 2,
       "marbles": 1,
       "flute": 1,
       "hockney": 2,
@@ -7004,6 +7298,7 @@
       "El Guincho": 1,
       "Uffie": 1,
       "Scissor Sisters": 1,
+      "Michael Langan": 1,
       "Memory Tapes": 1,
       "Huma-Huma": 1,
       "Son Of Kick": 1,
@@ -7023,6 +7318,7 @@
       "Bonobo": 2,
       "Iron & Wine": 1,
       "Light Light": 1,
+      "Karl Westman & IBM Research": 1,
       "Vial of Sound": 1,
       "Boozoo Bajou": 1,
       "De Staat": 1,
@@ -7180,6 +7476,7 @@
       "CANADA": 1,
       "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
+      "Michael Langan": 2,
       "Eric Epstein": 1,
       "Matt Devine / The Glue Society": 1,
       "Ned Wenlock": 1,
@@ -7199,10 +7496,10 @@
       "Andrew Thomas Huang": 1,
       "Hayley Morris": 1,
       "Moniker": 1,
+      "Nico Casavecchia": 1,
       "Ori Toor": 1,
       "Michael Fragstein": 1,
       "Floris Kaayk & Torre Florim": 1,
-      "Michael Langan": 1,
       "Damian Kulash, Aaron Duffy, & Bob Partington": 1,
       "Paul Trillo": 5,
       "Kazuaki Seki & Damian Kulash": 1,
