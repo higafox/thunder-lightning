@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 223,
-    "totalArtists": 183,
-    "totalDirectors": 175,
-    "totalTags": 104
+    "totalVideos": 222,
+    "totalArtists": 182,
+    "totalDirectors": 176,
+    "totalTags": 103
   },
   "videos": {
     "mette-van-gogh": {
@@ -1673,7 +1673,6 @@
         "confidence",
         "dance",
         "gothy",
-        "styling",
         "tableau"
       ]
     },
@@ -1926,7 +1925,6 @@
         "mixed media",
         "poc director",
         "stop motion",
-        "styling",
         "tableau"
       ]
     },
@@ -3155,27 +3153,6 @@
         "psychedelic"
       ]
     },
-    "kanye-west-feat-kid-cudi-welcome-to-heartbreak": {
-      "id": "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
-      "artist": "Kanye West feat. Kid Cudi",
-      "song": "Welcome to Heartbreak",
-      "director": "NABIL",
-      "directors": [
-        "NABIL"
-      ],
-      "dateDisplay": "February 2009",
-      "sortDate": "2009-02-19",
-      "year": 2009,
-      "provider": "youtube",
-      "youtubeId": "HkGi4EjxpuI",
-      "vimeoId": "4578366",
-      "thumbnailUrl": "https://img.youtube.com/vi/HkGi4EjxpuI/hqdefault.jpg",
-      "tags": [
-        "datamoshing",
-        "poc director",
-        "psychedelic"
-      ]
-    },
     "friendly-fires-skeleton-boy": {
       "id": "friendly-fires-skeleton-boy",
       "artist": "Friendly Fires",
@@ -3511,11 +3488,8 @@
       "vimeoId": "45569479",
       "thumbnailUrl": "https://img.youtube.com/vi/cl8ptneR1Kk/hqdefault.jpg",
       "tags": [
-        "architecture",
-        "lofi brilliance",
         "projection mapping",
-        "treadmill/escalator",
-        "vfx"
+        "treadmill/escalator"
       ]
     },
     "de-jeugd-van-tegenwoordig-manon": {
@@ -3948,9 +3922,9 @@
       "directors": [
         "John Bollozos"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "October 2011",
+      "sortDate": "2011-10-11",
+      "year": 2011,
       "provider": "youtube",
       "youtubeId": "H9_XbRHLIKw",
       "vimeoId": "36399067",
@@ -3987,9 +3961,9 @@
       "directors": [
         "Céline Desrumaux"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "September 2011",
+      "sortDate": "2011-09-01",
+      "year": 2011,
       "provider": "vimeo",
       "youtubeId": null,
       "vimeoId": "28760604",
@@ -4091,9 +4065,9 @@
       "directors": [
         "Winston Hacking"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "November 2015",
+      "sortDate": "2015-11-22",
+      "year": 2015,
       "provider": "youtube",
       "youtubeId": "cNTu1tHw7Qc",
       "vimeoId": "145149323",
@@ -4169,11 +4143,13 @@
       "id": "andy-shauf-the-worst-in-you",
       "artist": "Andy Shauf",
       "song": "The Worst In You",
-      "director": "",
-      "directors": [],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "director": "Winston Hacking",
+      "directors": [
+        "Winston Hacking"
+      ],
+      "dateDisplay": "June 2016",
+      "sortDate": "2016-06-01",
+      "year": 2016,
       "provider": "youtube",
       "youtubeId": "1IN6fPFNStw",
       "vimeoId": "168232487",
@@ -4190,15 +4166,16 @@
       "directors": [
         "Nathan Johnson"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "May 2015",
+      "sortDate": "2015-05-05",
+      "year": 2015,
       "provider": "youtube",
       "youtubeId": "OGtUDffAdy8",
       "vimeoId": "136249183",
       "thumbnailUrl": "https://img.youtube.com/vi/OGtUDffAdy8/hqdefault.jpg",
       "tags": [
-        "stop motion"
+        "stop motion",
+        "textiles"
       ]
     },
     "5nizza-samoliot": {
@@ -4209,9 +4186,9 @@
       "directors": [
         "Max Ksjonda"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "August 2017",
+      "sortDate": "2017-08-23",
+      "year": 2017,
       "provider": "youtube",
       "youtubeId": "EBf0_S9qe0s",
       "vimeoId": "211970798",
@@ -4248,11 +4225,13 @@
       "id": "thao-the-get-down-stay-down-phenom",
       "artist": "Thao & The Get Down Stay Down",
       "song": "Phenom",
-      "director": "",
-      "directors": [],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "director": "Erin S. Murray & Jeremy Schaulin-Rioux",
+      "directors": [
+        "Erin S. Murray & Jeremy Schaulin-Rioux"
+      ],
+      "dateDisplay": "April 2020",
+      "sortDate": "2020-04-03",
+      "year": 2020,
       "provider": "youtube",
       "youtubeId": "DGwQZrDNLO8",
       "vimeoId": null,
@@ -4407,9 +4386,9 @@
       "directors": [
         "Chris Milk"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "August 2010",
+      "sortDate": "2010-08-30",
+      "year": 2010,
       "provider": "youtube",
       "youtubeId": "ReIwYj7BACM",
       "vimeoId": null,
@@ -4450,9 +4429,9 @@
       "directors": [
         "that go"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "August 2008",
+      "sortDate": "2008-08-11",
+      "year": 2008,
       "provider": "youtube",
       "youtubeId": "AsgA5qxEy_Y",
       "vimeoId": "1507417",
@@ -4513,9 +4492,9 @@
       "directors": [
         "Sean Pecknold"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "July 2008",
+      "sortDate": "2008-07-07",
+      "year": 2008,
       "provider": "youtube",
       "youtubeId": "DrQRS40OKNE",
       "vimeoId": "1309452",
@@ -4523,6 +4502,7 @@
       "tags": [
         "puppets",
         "stop motion",
+        "textiles",
         "yuri norstein-esque"
       ]
     },
@@ -4534,9 +4514,9 @@
       "directors": [
         "Sean Pecknold"
       ],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "February 2009",
+      "sortDate": "2009-02-05",
+      "year": 2009,
       "provider": "youtube",
       "youtubeId": "DT-dxG4WWf4",
       "vimeoId": "3089176",
@@ -4551,11 +4531,13 @@
       "id": "peter-bjorn-and-john-young-folks",
       "artist": "Peter Bjorn and John",
       "song": "Young Folks",
-      "director": "",
-      "directors": [],
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "director": "Ted Malmros",
+      "directors": [
+        "Ted Malmros"
+      ],
+      "dateDisplay": "January 2006",
+      "sortDate": "2006-01-01",
+      "year": 2006,
       "provider": "youtube",
       "youtubeId": "iArXv64tCJA",
       "vimeoId": null,
@@ -4676,6 +4658,7 @@
       "devendra-banhart-a-ribbon",
       "r-kelly-trapped-in-the-closet",
       "cornelius-fit-song",
+      "peter-bjorn-and-john-young-folks",
       "the-rapture-whoo-alright-yeah-uh-huh",
       "vitalic-poney-part-1-birds",
       "gnarls-barkley-crazy",
@@ -4696,11 +4679,13 @@
       "feist-i-feel-it-all",
       "goldfrapp-happiness",
       "bj-rk-wanderlust",
+      "fleet-foxes-white-winter-hymnal",
+      "brite-futures-sophisticated-side-ponytail",
       "beyonc-single-ladies-put-a-ring-on-it",
       "dick-annegarn-soleil-du-soir",
       "friendly-fires-skeleton-boy",
+      "fleet-foxes-mykonos",
       "chairlift-evident-utensil",
-      "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
       "yeasayer-wait-for-the-summer",
       "moray-mclaren-we-got-time",
       "labuat-soy-tu-aire",
@@ -4721,6 +4706,7 @@
       "fm-belfast-underwear",
       "blockhead-the-music-scene",
       "the-hundred-in-the-hands-pigeons",
+      "arcade-fire-we-used-to-wait",
       "el-guincho-bombay",
       "uffie-difficult",
       "scissor-sisters-invisible-light",
@@ -4728,7 +4714,9 @@
       "battles-ice-cream",
       "hooray-for-earth-true-loves-cereal-spiller-remix",
       "ok-go-all-is-not-lost",
+      "apparat-granular-bastard",
       "battles-my-machines",
+      "casey-veggies-euphoria-ii",
       "we-cut-corners-pirates-life",
       "friendly-fires-hurting",
       "marian-ruzzi-y-sr-amable-una-pieza-mas",
@@ -4756,11 +4744,13 @@
       "20syl-back-forth",
       "alb-the-road",
       "hook-n-sling-feat-far-east-movement-break-yourself",
+      "son-lux-change-is-everything",
       "jr-jr-gone",
       "battles-the-yabba",
       "de-jeugd-van-tegenwoordig-manon",
       "drake-hotline-bling",
       "beatsofreen-slowly-rising",
+      "soupcans-siamese-brutality",
       "n-lannon-another-love",
       "jane-bordeaux-maagalim",
       "ok-go-upside-down-inside-out",
@@ -4773,6 +4763,7 @@
       "wintergatan-marble-machine",
       "charles-x-can-you-do-it",
       "coldplay-up-up",
+      "andy-shauf-the-worst-in-you",
       "max-cooper-waves",
       "bomba-est-reo-soy-yo",
       "blonde-redhead-golden-light",
@@ -4780,6 +4771,7 @@
       "young-thug-wyclef-jean",
       "polo-pan-coeur-crois",
       "washed-out-floating-by",
+      "5nizza-samoliot",
       "thunder-tillman-alignments",
       "benjamin-booker-believe",
       "mastadon-clandestiny",
@@ -4792,6 +4784,7 @@
       "bas-ft-correy-c-fragrance",
       "mitski-a-pearl",
       "the-peach-kings-without-you",
+      "thao-the-get-down-stay-down-phenom",
       "duck-sauce-mesmerize",
       "los-misterios-m-talos-y-vuelve",
       "dayglow-something",
@@ -4817,17 +4810,9 @@
       "gener8ion-yung-lean-storm",
       "bonobo-me-and-you",
       "balming-tiger-oui",
-      "5nizza-samoliot",
-      "andy-shauf-the-worst-in-you",
-      "apparat-granular-bastard",
-      "arcade-fire-we-used-to-wait",
-      "brite-futures-sophisticated-side-ponytail",
-      "casey-veggies-euphoria-ii",
       "childish-gambino-sober",
       "darwin-deez-the-mess-she-made",
       "dralms-crushed-pleats",
-      "fleet-foxes-white-winter-hymnal",
-      "fleet-foxes-mykonos",
       "frances-dont-worry-about-me",
       "fulton-lights-staring-out-the-window",
       "green-day-bang-bang",
@@ -4841,12 +4826,8 @@
       "mount-moriah-precita",
       "olympia-smoke-signals",
       "paul-kalkbrenner-schwer",
-      "peter-bjorn-and-john-young-folks",
       "so-much-light-full-body-mirror",
-      "son-lux-change-is-everything",
       "son-of-kick-playing-the-villain",
-      "soupcans-siamese-brutality",
-      "thao-the-get-down-stay-down-phenom",
       "thunderheist-jerk-it",
       "tigerilla-tulips",
       "vessels-4am",
@@ -4924,13 +4905,13 @@
       ],
       "collage": [
         "talking-heads-and-she-was",
+        "brite-futures-sophisticated-side-ponytail",
         "yeasayer-wait-for-the-summer",
+        "soupcans-siamese-brutality",
         "mastadon-clandestiny",
         "los-misterios-m-talos-y-vuelve",
         "dayglow-something",
-        "brite-futures-sophisticated-side-ponytail",
-        "green-day-bang-bang",
-        "soupcans-siamese-brutality"
+        "green-day-bang-bang"
       ],
       "stop motion": [
         "talking-heads-and-she-was",
@@ -4941,20 +4922,20 @@
         "devendra-banhart-a-ribbon",
         "cornelius-fit-song",
         "regina-spektor-samson",
+        "fleet-foxes-white-winter-hymnal",
         "dick-annegarn-soleil-du-soir",
+        "fleet-foxes-mykonos",
         "yeasayer-wait-for-the-summer",
         "coldplay-strawberry-swing",
         "grizzly-bear-while-you-wait-for-the-others",
         "fleet-foxes-the-shrine-an-argument",
         "shugo-tokumaru-katachi",
         "iron-wine-joy",
+        "son-lux-change-is-everything",
+        "soupcans-siamese-brutality",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "tierra-whack-shower-song",
-        "fleet-foxes-white-winter-hymnal",
-        "fleet-foxes-mykonos",
-        "mixtape-club-hello-i-like-you",
-        "son-lux-change-is-everything",
-        "soupcans-siamese-brutality"
+        "mixtape-club-hello-i-like-you"
       ],
       "guitar solo": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
@@ -5001,7 +4982,6 @@
         "ogiyahagi-i-love-your-face",
         "snoop-dogg-sensual-seduction",
         "chairlift-evident-utensil",
-        "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
         "janelle-mon-e-tightrope",
         "the-shins-simple-song",
         "psy-gangnam-style",
@@ -5027,12 +5007,12 @@
         "scissor-sisters-invisible-light",
         "beyonc-formation",
         "polo-pan-coeur-crois",
+        "5nizza-samoliot",
         "janelle-mon-e-make-me-feel",
         "janelle-mon-e-pynk",
         "janelle-mon-e-i-like-that",
         "unknown-t-featuring-loyle-carner-hocus-pocus",
         "tierra-whack-shower-song",
-        "5nizza-samoliot",
         "milk-bone-pressure",
         "paul-kalkbrenner-schwer",
         "so-much-light-full-body-mirror"
@@ -5082,8 +5062,8 @@
       "narrative": [
         "radiohead-just",
         "the-shins-simple-song",
-        "benjamin-booker-believe",
         "andy-shauf-the-worst-in-you",
+        "benjamin-booker-believe",
         "frances-dont-worry-about-me",
         "mount-moriah-precita",
         "son-of-kick-playing-the-villain"
@@ -5109,6 +5089,7 @@
         "n-lannon-another-love",
         "coldplay-up-up",
         "blonde-redhead-golden-light",
+        "5nizza-samoliot",
         "benjamin-booker-believe",
         "the-peach-kings-dirty-secret",
         "the-peach-kings-without-you",
@@ -5118,7 +5099,6 @@
         "mette-bet",
         "bonobo-me-and-you",
         "balming-tiger-oui",
-        "5nizza-samoliot",
         "childish-gambino-sober",
         "dralms-crushed-pleats",
         "fulton-lights-staring-out-the-window",
@@ -5130,12 +5110,12 @@
         "smashing-pumpkins-tonight-tonight",
         "the-avalanches-frontier-psychiatrist",
         "outkast-hey-ya",
+        "peter-bjorn-and-john-young-folks",
         "muse-knights-of-cydonia",
         "snoop-dogg-sensual-seduction",
         "miike-snow-genghis-khan",
         "polo-pan-coeur-crois",
-        "olympia-smoke-signals",
-        "peter-bjorn-and-john-young-folks"
+        "olympia-smoke-signals"
       ],
       "womxn director": [
         "smashing-pumpkins-tonight-tonight",
@@ -5184,21 +5164,20 @@
       "lofi brilliance": [
         "fatboy-slim-praise-you",
         "bellx1-rocky-took-a-lover",
+        "brite-futures-sophisticated-side-ponytail",
         "friendly-fires-skeleton-boy",
         "boys-noize-jeffer",
         "kumisolo-cheap-pop-song",
-        "willow-sweater",
-        "brite-futures-sophisticated-side-ponytail",
+        "soupcans-siamese-brutality",
         "darwin-deez-the-mess-she-made",
-        "matt-and-kim-lessons-learned",
-        "soupcans-siamese-brutality"
+        "matt-and-kim-lessons-learned"
       ],
       "puppets": [
         "blur-coffee-tv",
         "bellx1-rocky-took-a-lover",
         "bj-rk-wanderlust",
-        "bj-rk-mutual-core",
-        "fleet-foxes-white-winter-hymnal"
+        "fleet-foxes-white-winter-hymnal",
+        "bj-rk-mutual-core"
       ],
       "night vision": [
         "blur-no-distance-left-to-run"
@@ -5323,15 +5302,14 @@
         "fm-belfast-underwear",
         "the-hundred-in-the-hands-pigeons",
         "friendly-fires-hurting",
-        "willow-sweater",
         "bj-rk-mutual-core",
         "de-staat-witch-doctor",
         "jr-jr-gone",
         "the-chemical-brothers-wide-open",
         "coldplay-up-up",
+        "5nizza-samoliot",
         "max-cooper-feat-kathrin-deboer-with-me",
         "mette-bet",
-        "5nizza-samoliot",
         "fulton-lights-staring-out-the-window",
         "memory-tapes-yes-i-know"
       ],
@@ -5406,7 +5384,19 @@
       ],
       "textiles": [
         "stereogram-walkie-talkie-man",
-        "devendra-banhart-a-ribbon"
+        "devendra-banhart-a-ribbon",
+        "fleet-foxes-white-winter-hymnal",
+        "son-lux-change-is-everything"
+      ],
+      "illustration": [
+        "peter-bjorn-and-john-young-folks",
+        "fleet-foxes-mykonos",
+        "paul-dempsey-bats",
+        "danger-beach-apache",
+        "apparat-granular-bastard",
+        "royksopp-so-easy-unofficial-video",
+        "charles-x-can-you-do-it",
+        "i-love-you-but-ive-chosen-darkness-the-owl"
       ],
       "cel animation": [
         "the-rapture-whoo-alright-yeah-uh-huh",
@@ -5436,7 +5426,6 @@
       "psychedelic": [
         "gnarls-barkley-crazy",
         "chairlift-evident-utensil",
-        "kanye-west-feat-kid-cudi-welcome-to-heartbreak",
         "yeasayer-wait-for-the-summer",
         "paul-dempsey-bats",
         "blockhead-the-music-scene",
@@ -5499,14 +5488,30 @@
         "dua-lipa-illusion",
         "tourist-valentine"
       ],
+      "yuri norstein-esque": [
+        "fleet-foxes-white-winter-hymnal",
+        "the-presets-girl-and-the-sea"
+      ],
+      "joy": [
+        "brite-futures-sophisticated-side-ponytail",
+        "mette-mamas-eyes",
+        "mixtape-club-hello-i-like-you"
+      ],
       "fluid dynamics": [
         "friendly-fires-skeleton-boy",
         "bj-rk-mutual-core",
         "a-love-like-pi-jack-and-the-giant"
       ],
+      "shapes": [
+        "fleet-foxes-mykonos",
+        "20syl-back-forth",
+        "max-cooper-waves",
+        "jmii-bailar",
+        "thunder-tillman-alignments",
+        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
+      ],
       "datamoshing": [
-        "chairlift-evident-utensil",
-        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
+        "chairlift-evident-utensil"
       ],
       "zoetrope": [
         "moray-mclaren-we-got-time",
@@ -5514,33 +5519,15 @@
       ],
       "interactive": [
         "labuat-soy-tu-aire",
-        "light-light-kilo-do-not-touch",
-        "arcade-fire-we-used-to-wait"
+        "arcade-fire-we-used-to-wait",
+        "light-light-kilo-do-not-touch"
       ],
       "glitch": [
         "boys-noize-jeffer"
       ],
-      "styling": [
-        "lady-gaga-bad-romance",
-        "tierra-whack-shower-song"
-      ],
-      "yuri norstein-esque": [
-        "the-presets-girl-and-the-sea",
-        "fleet-foxes-white-winter-hymnal"
-      ],
       "marching band": [
         "ok-go-this-too-shall-pass",
         "beyonc-formation"
-      ],
-      "illustration": [
-        "paul-dempsey-bats",
-        "danger-beach-apache",
-        "royksopp-so-easy-unofficial-video",
-        "charles-x-can-you-do-it",
-        "apparat-granular-bastard",
-        "fleet-foxes-mykonos",
-        "i-love-you-but-ive-chosen-darkness-the-owl",
-        "peter-bjorn-and-john-young-folks"
       ],
       "rube goldberg": [
         "ok-go-this-too-shall-pass-rube-goldberg"
@@ -5560,6 +5547,13 @@
         "the-hundred-in-the-hands-pigeons",
         "kings-of-leon-mustang"
       ],
+      "meta": [
+        "arcade-fire-we-used-to-wait",
+        "light-light-kilo-do-not-touch",
+        "young-thug-wyclef-jean",
+        "duck-sauce-mesmerize",
+        "the-smile-friend-of-a-friend"
+      ],
       "editing": [
         "el-guincho-bombay",
         "battles-ice-cream",
@@ -5568,10 +5562,9 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
-      "architecture": [
-        "willow-sweater",
-        "drake-hotline-bling",
-        "dua-lipa-illusion"
+      "splitscreen": [
+        "casey-veggies-euphoria-ii",
+        "thao-the-get-down-stay-down-phenom"
       ],
       "persistence": [
         "shugo-tokumaru-katachi",
@@ -5581,13 +5574,6 @@
         "shugo-tokumaru-katachi",
         "boozoo-bajou-jan-mayen",
         "jones-melt"
-      ],
-      "meta": [
-        "light-light-kilo-do-not-touch",
-        "young-thug-wyclef-jean",
-        "duck-sauce-mesmerize",
-        "the-smile-friend-of-a-friend",
-        "arcade-fire-we-used-to-wait"
       ],
       "optical illusion": [
         "ok-go-the-writings-on-the-wall",
@@ -5604,19 +5590,15 @@
       "macro": [
         "a-love-like-pi-jack-and-the-giant"
       ],
-      "shapes": [
-        "20syl-back-forth",
-        "max-cooper-waves",
-        "jmii-bailar",
-        "thunder-tillman-alignments",
-        "joep-beving-max-cooper-hanging-d-max-cooper-remix",
-        "fleet-foxes-mykonos"
-      ],
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
       "cats": [
         "de-jeugd-van-tegenwoordig-manon"
+      ],
+      "architecture": [
+        "drake-hotline-bling",
+        "dua-lipa-illusion"
       ],
       "lighting": [
         "drake-hotline-bling",
@@ -5641,11 +5623,6 @@
       "3D printing": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
-      "joy": [
-        "mette-mamas-eyes",
-        "brite-futures-sophisticated-side-ponytail",
-        "mixtape-club-hello-i-like-you"
-      ],
       "match cut": [
         "mette-mamas-eyes",
         "mette-van-gogh",
@@ -5663,10 +5640,6 @@
       "mirrors": [
         "ok-go-love",
         "mette-coming-of-age"
-      ],
-      "splitscreen": [
-        "casey-veggies-euphoria-ii",
-        "thao-the-get-down-stay-down-phenom"
       ],
       "birds": [
         "i-love-you-but-ive-chosen-darkness-the-owl",
@@ -5801,6 +5774,9 @@
       "Cornelius": [
         "cornelius-fit-song"
       ],
+      "Peter Bjorn and John": [
+        "peter-bjorn-and-john-young-folks"
+      ],
       "The Rapture": [
         "the-rapture-whoo-alright-yeah-uh-huh"
       ],
@@ -5864,6 +5840,14 @@
       "Goldfrapp": [
         "goldfrapp-happiness"
       ],
+      "Fleet Foxes": [
+        "fleet-foxes-white-winter-hymnal",
+        "fleet-foxes-mykonos",
+        "fleet-foxes-the-shrine-an-argument"
+      ],
+      "Brite Futures": [
+        "brite-futures-sophisticated-side-ponytail"
+      ],
       "Beyoncé": [
         "beyonc-single-ladies-put-a-ring-on-it",
         "beyonc-formation"
@@ -5877,9 +5861,6 @@
       ],
       "Chairlift": [
         "chairlift-evident-utensil"
-      ],
-      "Kanye West feat. Kid Cudi": [
-        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
       ],
       "Yeasayer": [
         "yeasayer-wait-for-the-summer"
@@ -5937,6 +5918,9 @@
       "The Hundred in the Hands": [
         "the-hundred-in-the-hands-pigeons"
       ],
+      "Arcade Fire": [
+        "arcade-fire-we-used-to-wait"
+      ],
       "El Guincho": [
         "el-guincho-bombay"
       ],
@@ -5952,16 +5936,17 @@
       "Hooray For Earth": [
         "hooray-for-earth-true-loves-cereal-spiller-remix"
       ],
+      "Apparat": [
+        "apparat-granular-bastard"
+      ],
+      "Casey Veggies": [
+        "casey-veggies-euphoria-ii"
+      ],
       "We Cut Corners": [
         "we-cut-corners-pirates-life"
       ],
       "Marian Ruzzi y Sr. Amable": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
-      ],
-      "Fleet Foxes": [
-        "fleet-foxes-the-shrine-an-argument",
-        "fleet-foxes-white-winter-hymnal",
-        "fleet-foxes-mykonos"
       ],
       "Danger Mouse & Daniele Luppi feat. Jack White": [
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
@@ -6024,6 +6009,9 @@
       "Hook N Sling feat. Far East Movement": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
+      "Son Lux": [
+        "son-lux-change-is-everything"
+      ],
       "JR JR": [
         "jr-jr-gone"
       ],
@@ -6035,6 +6023,9 @@
       ],
       "BEATSOFREEN": [
         "beatsofreen-slowly-rising"
+      ],
+      "Soupcans": [
+        "soupcans-siamese-brutality"
       ],
       "N. Lannon": [
         "n-lannon-another-love"
@@ -6060,6 +6051,9 @@
       "Charles X": [
         "charles-x-can-you-do-it"
       ],
+      "Andy Shauf": [
+        "andy-shauf-the-worst-in-you"
+      ],
       "Max Cooper": [
         "max-cooper-waves"
       ],
@@ -6080,6 +6074,9 @@
       ],
       "Washed Out": [
         "washed-out-floating-by"
+      ],
+      "5’Nizza": [
+        "5nizza-samoliot"
       ],
       "Thunder Tillman": [
         "thunder-tillman-alignments"
@@ -6106,6 +6103,9 @@
       ],
       "Mitski": [
         "mitski-a-pearl"
+      ],
+      "Thao & The Get Down Stay Down": [
+        "thao-the-get-down-stay-down-phenom"
       ],
       "Duck Sauce": [
         "duck-sauce-mesmerize"
@@ -6170,24 +6170,6 @@
       "Balming Tiger": [
         "balming-tiger-oui"
       ],
-      "5’Nizza": [
-        "5nizza-samoliot"
-      ],
-      "Andy Shauf": [
-        "andy-shauf-the-worst-in-you"
-      ],
-      "Apparat": [
-        "apparat-granular-bastard"
-      ],
-      "Arcade Fire": [
-        "arcade-fire-we-used-to-wait"
-      ],
-      "Brite Futures": [
-        "brite-futures-sophisticated-side-ponytail"
-      ],
-      "Casey Veggies": [
-        "casey-veggies-euphoria-ii"
-      ],
       "Darwin Deez": [
         "darwin-deez-the-mess-she-made"
       ],
@@ -6233,23 +6215,11 @@
       "Paul Kalkbrenner": [
         "paul-kalkbrenner-schwer"
       ],
-      "Peter Bjorn and John": [
-        "peter-bjorn-and-john-young-folks"
-      ],
       "So Much Light": [
         "so-much-light-full-body-mirror"
       ],
-      "Son Lux": [
-        "son-lux-change-is-everything"
-      ],
       "Son Of Kick": [
         "son-of-kick-playing-the-villain"
-      ],
-      "Soupcans": [
-        "soupcans-siamese-brutality"
-      ],
-      "Thao & The Get Down Stay Down": [
-        "thao-the-get-down-stay-down-phenom"
       ],
       "Thunderheist": [
         "thunderheist-jerk-it"
@@ -6387,6 +6357,9 @@
       "Koichiro Tsujikawa": [
         "cornelius-fit-song"
       ],
+      "Ted Malmros": [
+        "peter-bjorn-and-john-young-folks"
+      ],
       "Ben Dickinson": [
         "the-rapture-whoo-alright-yeah-uh-huh"
       ],
@@ -6438,6 +6411,16 @@
       "SSSR": [
         "bellx1-rocky-took-a-lover"
       ],
+      "Sean Pecknold": [
+        "fleet-foxes-white-winter-hymnal",
+        "fleet-foxes-mykonos",
+        "grizzly-bear-while-you-wait-for-the-others",
+        "fleet-foxes-the-shrine-an-argument"
+      ],
+      "that go": [
+        "brite-futures-sophisticated-side-ponytail",
+        "thunderheist-jerk-it"
+      ],
       "Jake Nava": [
         "beyonc-single-ladies-put-a-ring-on-it"
       ],
@@ -6446,9 +6429,6 @@
       ],
       "Ray Tintori": [
         "chairlift-evident-utensil"
-      ],
-      "NABIL": [
-        "kanye-west-feat-kid-cudi-welcome-to-heartbreak"
       ],
       "Mixtape Club": [
         "yeasayer-wait-for-the-summer",
@@ -6471,12 +6451,6 @@
       ],
       "Pomp&Clout": [
         "boys-noize-jeffer"
-      ],
-      "Sean Pecknold": [
-        "grizzly-bear-while-you-wait-for-the-others",
-        "fleet-foxes-the-shrine-an-argument",
-        "fleet-foxes-white-winter-hymnal",
-        "fleet-foxes-mykonos"
       ],
       "Francis Lawrence": [
         "lady-gaga-bad-romance"
@@ -6512,6 +6486,9 @@
       "A.F. Schepperd": [
         "blockhead-the-music-scene"
       ],
+      "Chris Milk": [
+        "arcade-fire-we-used-to-wait"
+      ],
       "CANADA": [
         "el-guincho-bombay"
       ],
@@ -6533,6 +6510,12 @@
       ],
       "Trish Sie & Pilobolus": [
         "ok-go-all-is-not-lost"
+      ],
+      "Céline Desrumaux": [
+        "apparat-granular-bastard"
+      ],
+      "John Bollozos": [
+        "casey-veggies-euphoria-ii"
       ],
       "Kijek / Adamski": [
         "we-cut-corners-pirates-life",
@@ -6602,6 +6585,9 @@
       "Nelson De Castro, Carlos López Estrada": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
+      "Nathan Johnson": [
+        "son-lux-change-is-everything"
+      ],
       "Los Pérez": [
         "jr-jr-gone"
       ],
@@ -6616,6 +6602,10 @@
       ],
       "Hideki Inaba": [
         "beatsofreen-slowly-rising"
+      ],
+      "Winston Hacking": [
+        "soupcans-siamese-brutality",
+        "andy-shauf-the-worst-in-you"
       ],
       "Michael Langan & Najeeb Tarazi": [
         "n-lannon-another-love"
@@ -6674,6 +6664,9 @@
       "Pablo Maestres": [
         "polo-pan-coeur-crois"
       ],
+      "Max Ksjonda": [
+        "5nizza-samoliot"
+      ],
       "Hugo & Marie": [
         "thunder-tillman-alignments"
       ],
@@ -6703,6 +6696,9 @@
       ],
       "Saad Moosajee, Danae Gosset & Art Camp": [
         "mitski-a-pearl"
+      ],
+      "Erin S. Murray & Jeremy Schaulin-Rioux": [
+        "thao-the-get-down-stay-down-phenom"
       ],
       "Keith Schofield": [
         "duck-sauce-mesmerize"
@@ -6771,22 +6767,6 @@
       "Lee Suho": [
         "balming-tiger-oui"
       ],
-      "Max Ksjonda": [
-        "5nizza-samoliot"
-      ],
-      "Céline Desrumaux": [
-        "apparat-granular-bastard"
-      ],
-      "Chris Milk": [
-        "arcade-fire-we-used-to-wait"
-      ],
-      "that go": [
-        "brite-futures-sophisticated-side-ponytail",
-        "thunderheist-jerk-it"
-      ],
-      "John Bollozos": [
-        "casey-veggies-euphoria-ii"
-      ],
       "Oscar Hudson": [
         "darwin-deez-the-mess-she-made"
       ],
@@ -6820,14 +6800,8 @@
       "Jane Qian": [
         "so-much-light-full-body-mirror"
       ],
-      "Nathan Johnson": [
-        "son-lux-change-is-everything"
-      ],
       "Matt Devine / The Glue Society": [
         "son-of-kick-playing-the-villain"
-      ],
-      "Winston Hacking": [
-        "soupcans-siamese-brutality"
       ],
       "Tom Noakes": [
         "tigerilla-tulips"
@@ -6848,7 +6822,7 @@
       "hair": 3,
       "wut": 9,
       "monochrome": 14,
-      "poc director": 26,
+      "poc director": 25,
       "tableau": 15,
       "gothy": 6,
       "potential nsfw": 12,
@@ -6863,7 +6837,7 @@
       "fisheye": 1,
       "slowmo": 6,
       "sports": 1,
-      "lofi brilliance": 10,
+      "lofi brilliance": 9,
       "puppets": 5,
       "night vision": 1,
       "body-ody": 6,
@@ -6877,7 +6851,7 @@
       "projection mapping": 5,
       "orbiting": 4,
       "repeat": 14,
-      "vfx": 16,
+      "vfx": 15,
       "kaleidoscope": 3,
       "loops": 10,
       "woc director": 8,
@@ -6888,12 +6862,13 @@
       "lasers": 4,
       "space": 5,
       "claps": 2,
-      "textiles": 2,
+      "textiles": 4,
+      "illustration": 8,
       "cel animation": 12,
       "matchmove": 2,
       "dogs": 1,
       "jump": 2,
-      "psychedelic": 14,
+      "psychedelic": 13,
       "horses": 2,
       "mixed media": 6,
       "bike": 2,
@@ -6903,45 +6878,43 @@
       "d&ad": 3,
       "ukmva": 9,
       "water": 4,
+      "yuri norstein-esque": 2,
+      "joy": 3,
       "fluid dynamics": 3,
-      "datamoshing": 2,
+      "shapes": 6,
+      "datamoshing": 1,
       "zoetrope": 2,
       "interactive": 3,
       "glitch": 1,
-      "styling": 2,
-      "yuri norstein-esque": 2,
       "marching band": 2,
-      "illustration": 8,
       "rube goldberg": 1,
       "butts": 1,
       "chronophotography": 2,
       "slitscan": 2,
       "whip pan": 2,
+      "meta": 5,
       "editing": 6,
-      "architecture": 3,
+      "splitscreen": 2,
       "persistence": 2,
       "timeslice": 3,
-      "meta": 5,
       "optical illusion": 3,
       "long exposure": 1,
       "drone": 2,
       "macro": 1,
-      "shapes": 6,
       "bus": 1,
       "cats": 1,
+      "architecture": 2,
       "lighting": 5,
       "machine": 1,
       "marbles": 1,
       "flute": 1,
       "hockney": 2,
       "3D printing": 1,
-      "joy": 3,
       "match cut": 3,
       "ai": 1,
       "hydraulics": 1,
       "surveillance": 1,
       "mirrors": 2,
-      "splitscreen": 2,
       "birds": 2
     },
     "artists": {
@@ -6983,6 +6956,7 @@
       "Devendra Banhart": 1,
       "R. Kelly": 1,
       "Cornelius": 1,
+      "Peter Bjorn and John": 1,
       "The Rapture": 1,
       "Vitalic": 1,
       "Gnarls Barkley": 1,
@@ -7000,11 +6974,12 @@
       "Snoop Dogg": 1,
       "BellX1": 1,
       "Goldfrapp": 1,
+      "Fleet Foxes": 3,
+      "Brite Futures": 1,
       "Beyoncé": 2,
       "Dick Annegarn": 1,
       "Friendly Fires": 2,
       "Chairlift": 1,
-      "Kanye West feat. Kid Cudi": 1,
       "Yeasayer": 1,
       "Moray McLaren": 1,
       "Labuat": 1,
@@ -7022,14 +6997,16 @@
       "FM Belfast": 1,
       "Blockhead": 1,
       "The Hundred in the Hands": 1,
+      "Arcade Fire": 1,
       "El Guincho": 1,
       "Uffie": 1,
       "Scissor Sisters": 1,
       "Danger Beach": 1,
       "Hooray For Earth": 1,
+      "Apparat": 1,
+      "Casey Veggies": 1,
       "We Cut Corners": 1,
       "Marian Ruzzi y Sr. Amable": 1,
-      "Fleet Foxes": 3,
       "Danger Mouse & Daniele Luppi feat. Jack White": 1,
       "The Shins": 1,
       "Royksopp": 1,
@@ -7050,10 +7027,12 @@
       "20syl": 1,
       "ALB": 1,
       "Hook N Sling feat. Far East Movement": 1,
+      "Son Lux": 1,
       "JR JR": 1,
       "De Jeugd Van Tegenwoordig": 1,
       "Drake": 1,
       "BEATSOFREEN": 1,
+      "Soupcans": 1,
       "N. Lannon": 1,
       "Jane Bordeaux": 1,
       "Violet Sands": 1,
@@ -7062,6 +7041,7 @@
       "General Elektriks": 1,
       "Wintergatan": 1,
       "Charles X": 1,
+      "Andy Shauf": 1,
       "Max Cooper": 1,
       "Bomba Estéreo": 1,
       "Blonde Redhead": 1,
@@ -7069,6 +7049,7 @@
       "Young Thug": 1,
       "POLO & PAN": 1,
       "Washed Out": 1,
+      "5’Nizza": 1,
       "Thunder Tillman": 1,
       "Benjamin Booker": 1,
       "Mastadon": 1,
@@ -7077,6 +7058,7 @@
       "The Peach Kings": 2,
       "Bas (ft. Correy C)": 1,
       "Mitski": 1,
+      "Thao & The Get Down Stay Down": 1,
       "Duck Sauce": 1,
       "Los Misterios": 1,
       "Dayglow": 1,
@@ -7097,12 +7079,6 @@
       "METTE": 1,
       "GENER8ION & Yung Lean": 1,
       "Balming Tiger": 1,
-      "5’Nizza": 1,
-      "Andy Shauf": 1,
-      "Apparat": 1,
-      "Arcade Fire": 1,
-      "Brite Futures": 1,
-      "Casey Veggies": 1,
       "Darwin Deez": 1,
       "Dralms": 1,
       "Frances": 1,
@@ -7118,12 +7094,8 @@
       "Mount Moriah": 1,
       "Olympia": 1,
       "Paul Kalkbrenner": 1,
-      "Peter Bjorn and John": 1,
       "So Much Light": 1,
-      "Son Lux": 1,
       "Son Of Kick": 1,
-      "Soupcans": 1,
-      "Thao & The Get Down Stay Down": 1,
       "Thunderheist": 1,
       "Tigerilla": 1,
       "Vessels": 1,
@@ -7165,6 +7137,7 @@
       "Bryan Barber": 1,
       "R. Kelly & Jim Swaffield": 1,
       "Koichiro Tsujikawa": 1,
+      "Ted Malmros": 1,
       "Ben Dickinson": 1,
       "Pleix": 1,
       "Robert Hales": 1,
@@ -7180,10 +7153,11 @@
       "Joey Garfield": 1,
       "Melina": 1,
       "SSSR": 1,
+      "Sean Pecknold": 4,
+      "that go": 2,
       "Jake Nava": 1,
       "Clemens Habicht": 1,
       "Ray Tintori": 1,
-      "NABIL": 1,
       "Mixtape Club": 2,
       "David Wilson": 1,
       "Herraiz Soto & Co.": 1,
@@ -7191,7 +7165,6 @@
       "Dirk Rauscher": 1,
       "Will Sweeney & Steve Scott": 1,
       "Pomp&Clout": 1,
-      "Sean Pecknold": 4,
       "Francis Lawrence": 1,
       "Lee Lennox": 1,
       "Damian Kulash & Brian L. Perkins": 1,
@@ -7202,6 +7175,7 @@
       "Wendy Morgan": 1,
       "Daniels": 5,
       "A.F. Schepperd": 1,
+      "Chris Milk": 1,
       "CANADA": 1,
       "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
@@ -7209,6 +7183,8 @@
       "Luis Cerveró": 1,
       "Cyriak": 2,
       "Trish Sie & Pilobolus": 1,
+      "Céline Desrumaux": 1,
+      "John Bollozos": 1,
       "Kijek / Adamski": 2,
       "David Lewandowski": 1,
       "Luis Safa & BASA Studio": 1,
@@ -7230,11 +7206,13 @@
       "Thomas Porthé": 1,
       "Julien Lassort": 1,
       "Nelson De Castro, Carlos López Estrada": 1,
+      "Nathan Johnson": 1,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
       "Lernert & Sander": 1,
       "Director X": 1,
       "Hideki Inaba": 1,
+      "Winston Hacking": 2,
       "Michael Langan & Najeeb Tarazi": 1,
       "Uri Lotan": 1,
       "Damian Kulash & Trish Sie": 1,
@@ -7253,6 +7231,7 @@
       "DEDO CIEGO": 1,
       "Ryan Staake & Young Thug": 1,
       "Pablo Maestres": 1,
+      "Max Ksjonda": 1,
       "Hugo & Marie": 1,
       "James Lees": 1,
       "Ariel Costa": 2,
@@ -7262,6 +7241,7 @@
       "Hiro Murai": 3,
       "Vincenzo Lodigiani": 1,
       "Saad Moosajee, Danae Gosset & Art Camp": 1,
+      "Erin S. Murray & Jeremy Schaulin-Rioux": 1,
       "Keith Schofield": 1,
       "Xabier Mendibe": 1,
       "Ksawery Kirklewski": 1,
@@ -7284,11 +7264,6 @@
       "Romain Gavras": 1,
       "in/out": 1,
       "Lee Suho": 1,
-      "Max Ksjonda": 1,
-      "Céline Desrumaux": 1,
-      "Chris Milk": 1,
-      "that go": 2,
-      "John Bollozos": 1,
       "Oscar Hudson": 1,
       "Ewan Jones Morris": 1,
       "Zak Razvi": 1,
@@ -7300,9 +7275,7 @@
       "Fidel Ruiz-Healy": 1,
       "Jovan Todorović": 1,
       "Jane Qian": 1,
-      "Nathan Johnson": 1,
       "Matt Devine / The Glue Society": 1,
-      "Winston Hacking": 1,
       "Tom Noakes": 1,
       "Chloe Hayward": 1
     }

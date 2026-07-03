@@ -526,7 +526,7 @@ a {
   columns: 3;
   column-gap: 14px;
 }
-@media (max-width: 1000px) {
+@media (max-width: 820px) {
   .archiveGrid {
     columns: 2;
   }
@@ -670,7 +670,7 @@ a {
   text-align: center;
   font-family: var(--serif);
   font-style: italic;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dim);
   white-space: nowrap;
 }
@@ -678,8 +678,8 @@ a {
   color: var(--active);
 }
 #mobile .mbrandTag {
-  font-size: 12px;
-  color: var(--dimmer);
+  font-size: 15px;
+  color: var(--dim);
 }
 /* matches Player.tsx's min(width,height) check: catches phones in
    landscape too, where width alone would read as desktop-sized */

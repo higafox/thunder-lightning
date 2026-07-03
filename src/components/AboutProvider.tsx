@@ -43,6 +43,7 @@ export function AboutProvider({ children }: { children: React.ReactNode }) {
             consciousness. Follow any thread.
           </p>
           <div className="credit">
+            by{" "}
             <a href="https://higafox.com" target="_blank" rel="noopener">
               higafox.com
             </a>
