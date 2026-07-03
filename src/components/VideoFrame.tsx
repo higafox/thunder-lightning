@@ -12,12 +12,13 @@ declare global {
           videoId: string;
           playerVars?: Record<string, unknown>;
           events?: {
+            onReady?: () => void;
             onStateChange?: (e: { data: number }) => void;
             onError?: (e: { data: number }) => void;
           };
         }
       ) => { destroy: () => void; pauseVideo?: () => void };
-      PlayerState: { ENDED: number };
+      PlayerState: { ENDED: number; PLAYING: number };
     };
     onYouTubeIframeAPIReady?: () => void;
   }
@@ -61,6 +62,17 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
 
     let player: { destroy: () => void } | null = null;
     let cancelled = false;
+    let hasPlayed = false;
+    let failTimer: ReturnType<typeof setTimeout> | null = null;
+
+    const fallback = () => {
+      if (cancelled) return;
+      if (video.vimeoId) setMode("vimeo");
+      else {
+        setBlockedProvider("youtube");
+        setMode("blocked");
+      }
+    };
 
     const build = () => {
       if (cancelled) return;
@@ -69,18 +81,37 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
         videoId: video.youtubeId!,
         playerVars: { autoplay: 1, rel: 0, modestbranding: 1 },
         events: {
+          // Age-restricted videos (and some other embed refusals) don't fire
+          // onError at all -- the player just sits showing YouTube's own
+          // restriction card, forever "unstarted". If we never reach
+          // PLAYING within a generous window, treat it as blocked. The
+          // window is long enough that a real but slow-to-start video, or
+          // one merely paused waiting on an autoplay-policy click, has time
+          // to prove itself first.
+          onReady: () => {
+            if (cancelled) return;
+            failTimer = setTimeout(() => {
+              if (!hasPlayed) fallback();
+            }, 8000);
+          },
           onStateChange: (e) => {
             if (cancelled) return;
+            if (e.data === window.YT!.PlayerState.PLAYING) {
+              hasPlayed = true;
+              if (failTimer) {
+                clearTimeout(failTimer);
+                failTimer = null;
+              }
+            }
             if (e.data === window.YT!.PlayerState.ENDED) onEndedRef.current();
           },
           // 2=bad param, 5=html5 error, 100=removed, 101/150=embed disabled, 153=config error
           onError: () => {
-            if (cancelled) return;
-            if (video.vimeoId) setMode("vimeo");
-            else {
-              setBlockedProvider("youtube");
-              setMode("blocked");
+            if (failTimer) {
+              clearTimeout(failTimer);
+              failTimer = null;
             }
+            fallback();
           },
         },
       });
@@ -104,6 +135,7 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
 
     return () => {
       cancelled = true;
+      if (failTimer) clearTimeout(failTimer);
       if (player) {
         try {
           player.destroy();
@@ -195,7 +227,7 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
     <a className="blocked" href={url} target="_blank" rel="noopener" style={{ backgroundImage: `url('${thumb}')` }}>
       <div className="blockedInner">
         <div className="blockedCta">Watch on YouTube ↗</div>
-        <div className="blockedLabel">Embedding disabled</div>
+        <div className="blockedLabel">Playback restricted</div>
       </div>
     </a>
   );
