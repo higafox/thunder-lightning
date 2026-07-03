@@ -5,8 +5,9 @@
 // JSON out. See HANDOFF.md for the full behavior spec.
 //
 // Notion columns expected: Name, Artist, Song, Director, Release Date,
-// YouTube, Vimeo, Tags, Thumbnail URL (usually empty), Rating (ignored),
-// Formula (ignored, duplicate of Name).
+// YouTube, Vimeo, Tags, Thumbnail URL (usually empty), Embed Broken
+// (checkbox, manual override for embeds confirmed broken -- see HANDOFF.md),
+// Rating (ignored), Formula (ignored, duplicate of Name).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -25,6 +26,11 @@ function vimId(url: string | undefined | null): string | null {
   if (!url) return null;
   const m = url.match(/vimeo\.com\/(?:video\/)?(\d+)/);
   return m ? m[1] : null;
+}
+
+function isChecked(raw: string | undefined | null): boolean {
+  if (!raw) return false;
+  return /^(yes|true|checked|x|✓)$/i.test(raw.trim());
 }
 
 function slugify(artist: string, song: string): string {
@@ -181,6 +187,7 @@ function main() {
       : yt
       ? `https://img.youtube.com/vi/${yt}/hqdefault.jpg`
       : null;
+    const embedBroken = isChecked(r["Embed Broken"]);
 
     videos[slug] = {
       id: slug,
@@ -196,6 +203,7 @@ function main() {
       vimeoId: vm,
       thumbnailUrl,
       tags,
+      embedBroken,
     };
   }
 

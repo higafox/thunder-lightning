@@ -14,6 +14,10 @@ export interface Video {
   vimeoId: string | null;
   thumbnailUrl: string | null;
   tags: string[];
+  // manual override for embeds that are confirmed broken (e.g. Vimeo privacy
+  // restrictions that fail silently, with no error our code can detect) --
+  // skips attempting to embed entirely and shows the "watch on source" card.
+  embedBroken: boolean;
 }
 
 export interface Meta {

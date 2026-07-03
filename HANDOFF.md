@@ -44,8 +44,8 @@ either a property of the current video or a path to another one.
 ### Source
 A Notion database exported as CSV. Columns actually present:
 `Name`, `Artist`, `Song`, `Director`, `Release Date`, `YouTube`, `Vimeo`, `Tags`,
-`Thumbnail URL` (usually empty), plus a `Rating` (ignored) and `Formula` (duplicate
-of Name, ignored).
+`Thumbnail URL` (usually empty), `Embed Broken` (checkbox, manual override —
+see below), plus a `Rating` (ignored) and `Formula` (duplicate of Name, ignored).
 
 ### Conversion (`convert.py`, included)
 The included Python script is the working converter. It becomes the basis of
@@ -81,7 +81,8 @@ now, Notion API later). Key behaviors, all deliberate:
       provider,            // "youtube" | "vimeo" (primary)
       youtubeId, vimeoId,  // BOTH kept when available
       thumbnailUrl,        // YouTube hqdefault, or null for Vimeo-only
-      tags: [...]
+      tags: [...],
+      embedBroken,         // manual override: skip embedding, show watch-on-source card
     }
   },
   playlists: {
@@ -100,7 +101,8 @@ All playlists are pre-sorted by date ascending. The player relies on this.
   (`NOTION_TOKEN`, `NOTION_DATABASE_ID`), never exposed to the browser.
 - Transforms Notion rows into the exact JSON shape above (reuse convert.py's logic).
 - Writes `public/videos.json`. Commit and deploy.
-- Property names to map: Artist, Song, Director, Release Date, YouTube, Vimeo, Tags.
+- Property names to map: Artist, Song, Director, Release Date, YouTube, Vimeo, Tags,
+  Thumbnail URL, Embed Broken.
 
 ---
 
@@ -124,6 +126,13 @@ auto-advance. For the production build, consider the Vimeo Player SDK to catch t
 Note: there is NO "Vimeo mode" — we built and then removed it. A global Vimeo filter
 gutted the tag playlists (a 3-video tag with 1 on Vimeo became a dead thread), which
 felt wrong. Don't rebuild it.
+
+**Manual override (`embedBroken`)**: some Vimeo embeds fail silently — privacy/
+domain-restricted, no catchable error, just a black frame — and the YouTube waterfall's
+own error detection doesn't always fire either (age-restricted videos in particular).
+Rather than chase unreliable auto-detection, check the "Embed Broken" checkbox in
+Notion for any video confirmed broken; the player skips straight to the blocked card
+(whichever provider link is available) instead of attempting to embed at all.
 
 ---
 

@@ -31,16 +31,21 @@ type BlockedProvider = "youtube" | "vimeo";
 // Vimeo on embed error (101/150/153 = embedding disabled), else a blocked card
 // with a "watch on source" link. Vimeo videos can also fail on their own
 // (privacy/domain-restricted embeds) — sometimes with a catchable SDK error,
-// sometimes silently (a black frame with no signal at all), so Vimeo gets the
-// same blocked-card treatment, backstopped by a timeout in case no error ever
-// fires.
+// sometimes silently (a black frame with no signal at all). Since that
+// silent-failure case can't always be auto-detected, `video.embedBroken` is a
+// manual override (set via the "Embed Broken" checkbox in Notion) that skips
+// straight to the blocked card instead of attempting to embed at all.
 //
 // The caller mounts this with `key={video.id}` so a new video means a fresh
 // component instance (mode re-derives from props at mount); within one mounted
 // instance `mode` only ever moves forward through the waterfall on error.
 export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => void }) {
-  const [mode, setMode] = useState<Mode>(() => (video.youtubeId ? "youtube" : video.vimeoId ? "vimeo" : "blocked"));
-  const [blockedProvider, setBlockedProvider] = useState<BlockedProvider>("youtube");
+  const [mode, setMode] = useState<Mode>(() =>
+    video.embedBroken ? "blocked" : video.youtubeId ? "youtube" : video.vimeoId ? "vimeo" : "blocked"
+  );
+  const [blockedProvider, setBlockedProvider] = useState<BlockedProvider>(() =>
+    video.youtubeId ? "youtube" : "vimeo"
+  );
   const mountRef = useRef<HTMLDivElement>(null);
   const onEndedRef = useRef(onEnded);
   useEffect(() => {
