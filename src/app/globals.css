@@ -672,6 +672,14 @@ a {
   font-style: italic;
   font-size: 13px;
   color: var(--dim);
+  white-space: nowrap;
+}
+#mobile .mbrand:active {
+  color: var(--active);
+}
+#mobile .mbrandTag {
+  font-size: 12px;
+  color: var(--dimmer);
 }
 /* matches Player.tsx's min(width,height) check: catches phones in
    landscape too, where width alone would read as desktop-sized */
@@ -683,5 +691,58 @@ a {
   }
   #mobile {
     display: flex;
+  }
+}
+/* phone landscape: same stack and order as portrait (brand -> frame -> info
+   -> nav), just resized to fit a short viewport -- frame sizing was based
+   on width alone, so a wide-but-short landscape viewport blew the 16:9
+   frame past the available height. */
+@media (max-height: 500px) and (orientation: landscape) {
+  #mobile {
+    flex-direction: column;
+    justify-content: center;
+    padding: 8px 20px;
+    overflow-y: auto;
+  }
+  #mobile .mbrand {
+    position: static;
+    font-size: 10px;
+    margin-bottom: 6px;
+  }
+  #mobile .mbrandTag {
+    font-size: 9px;
+  }
+  #mobile .mframe {
+    width: min(88vw, calc(55vh * 16 / 9));
+    margin: 0 auto;
+  }
+  #mobile .minfo {
+    margin-top: 6px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 5px;
+    max-width: 92vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  #mobile .minfo .a,
+  #mobile .minfo .s {
+    font-size: 13px;
+  }
+  #mobile .minfo .d {
+    font-size: 11px;
+    margin-top: 0;
+  }
+  #mobile .minfo .d::before {
+    content: "· ";
+  }
+  #mobile .mnav {
+    margin-top: 8px;
+    gap: 10px;
+  }
+  #mobile .mnav button {
+    padding: 8px 16px;
   }
 }

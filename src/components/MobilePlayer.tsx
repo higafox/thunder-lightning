@@ -1,6 +1,7 @@
 "use client";
 
 import type { Video } from "@/lib/types";
+import { useOpenAbout } from "./AboutProvider";
 
 export function MobilePlayer({
   video,
@@ -13,6 +14,8 @@ export function MobilePlayer({
   onNext: () => void;
   onShuffle: () => void;
 }) {
+  const openAbout = useOpenAbout();
+
   if (!video) return <div id="mobile" />;
 
   const embed = video.youtubeId
@@ -21,7 +24,9 @@ export function MobilePlayer({
 
   return (
     <div id="mobile">
-      <div className="mbrand">Thunder/Lightning</div>
+      <button className="mbrand" onClick={openAbout}>
+        Thunder/Lightning <span className="mbrandTag">· a love letter to music videos</span>
+      </button>
       <div className="mframe">
         <iframe key={video.id} src={embed} allow="autoplay; fullscreen" allowFullScreen />
       </div>
