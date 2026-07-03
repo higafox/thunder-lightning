@@ -216,8 +216,11 @@ export function buildConstellation(params: {
         y = Math.max(20, Math.min(70, y));
       }
       const variation = [0, 3, 0.8, 3.4, 1.6, 2.4, 0.4, 2][(i * 2 + (side === "L" ? 0 : 1)) % 8];
-      const x = side === "L" ? 2 + variation : 98 - variation;
       const hw = halfW(node.label, vw2);
+      // long labels get pushed further toward the viewport edge so their
+      // inner edge doesn't creep toward center/the frame on narrow viewports
+      const extraPush = Math.min(10, Math.max(0, hw - 4) * 1.3);
+      const x = side === "L" ? Math.max(1, 2 + variation - extraPush) : Math.min(99, 98 - variation + extraPush);
       const cxPill = side === "L" ? x + hw : x - hw;
       placed.push({ x, y, anchor: side, cxPill, cyPill: y, node });
     });

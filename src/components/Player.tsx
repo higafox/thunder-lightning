@@ -91,7 +91,7 @@ export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: s
       </div>
 
       {video && (
-        <Constellation video={video} counts={CT} stream={stream} cur={cur!} frameRef={frameRef} onAction={handleAction} />
+        <Constellation key={cur} video={video} counts={CT} stream={stream} cur={cur!} frameRef={frameRef} onAction={handleAction} />
       )}
       {!video && <div className="constellation" id="constellation" />}
 
