@@ -107,7 +107,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 5vh;
+  padding-top: 8vh;
   z-index: 20;
   pointer-events: none;
 }

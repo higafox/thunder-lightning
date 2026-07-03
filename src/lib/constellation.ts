@@ -48,7 +48,7 @@ export interface ConstellationLayout {
 }
 
 const CX = 50;
-const CY = 46; // video center in viewport %, block sits slightly lower
+const CY = 47.5; // video center in viewport %, block sits slightly lower
 
 function seedRand(key: string) {
   let seed = 0;
@@ -175,7 +175,10 @@ export function buildConstellation(params: {
   const frameLeft = (frameRect.left / vw2) * 100;
   const frameRight = (frameRect.right / vw2) * 100;
   const frameTop = (frameRect.top / vh2) * 100;
-  const ctrlY = Math.max(9, frameTop - 4);
+  // frame moved down 1.5pts (padding-top 5vh -> 8vh) to open up breathing room
+  // below the controls; subtract that back out so Earlier/Later/Shuffle stay
+  // put while the frame drops further below them.
+  const ctrlY = Math.max(9, frameTop - 4 - 1.5);
 
   placed.push({
     x: frameLeft,
@@ -204,8 +207,8 @@ export function buildConstellation(params: {
         const top = 24, bottom = 68;
         y = top + ((bottom - top) / (n - 1)) * i;
       } else {
-        const deg = 20 + Math.random() * 30;
-        const up = n === 2 ? i === 0 : Math.random() < 0.5;
+        const deg = 20 + rand() * 30;
+        const up = n === 2 ? i === 0 : rand() < 0.5;
         const rad = (deg * Math.PI) / 180;
         const dxPct = 42;
         const dyPct = dxPct * Math.tan(rad) * 0.62;
