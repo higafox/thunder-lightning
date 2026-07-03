@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useRef } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { VideoData } from "@/lib/types";
 import type { NodeAction } from "@/lib/constellation";
@@ -16,6 +16,42 @@ export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: s
 
   const video = cur ? data.videos[cur] : null;
   const CT = data.counts;
+
+  // Desktop and mobile are two different embeds of the same video. If both
+  // were ever mounted at once, CSS's display:none on whichever is hidden
+  // does NOT stop that iframe from loading and autoplaying audio -- that
+  // was producing doubled-up sound. Only one is ever rendered, decided by
+  // an actual viewport check (client-only, so this starts at null to avoid
+  // a hydration mismatch and resolves right after mount).
+  //
+  // Uses the SMALLER of width/height rather than width alone, so a phone
+  // rotated to landscape (width easily 800px+) still gets the simplified
+  // mobile view instead of the cluttered desktop constellation -- a
+  // phone's short axis stays ~375-430px in either orientation, while a
+  // real desktop window has both dimensions large.
+  const [isMobile, setIsMobile] = useState<boolean | null>(null);
+  useEffect(() => {
+    const update = () => setIsMobile(Math.min(window.innerWidth, window.innerHeight) <= 720);
+    update();
+    window.addEventListener("resize", update);
+    window.addEventListener("orientationchange", update);
+    return () => {
+      window.removeEventListener("resize", update);
+      window.removeEventListener("orientationchange", update);
+    };
+  }, []);
+
+  // keep the address bar in sync with whatever's actually playing (shuffle,
+  // tag/artist/director streams, timeline) so any moment is shareable/
+  // refreshable. Uses the raw History API, not next/navigation's router, so
+  // this never triggers Next to re-render/remount the page for the new slug.
+  useEffect(() => {
+    if (!cur) return;
+    const newPath = `/video/${cur}`;
+    if (window.location.pathname !== newPath) {
+      window.history.replaceState(null, "", newPath);
+    }
+  }, [cur]);
 
   const handleAction = useCallback(
     (action: NodeAction) => {
@@ -43,6 +79,19 @@ export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: s
 
   const artistOn = video ? (CT.artists[video.artist] || 0) > 1 : false;
   const artistActive = video ? stream.type === "artist" && stream.key === video.artist : false;
+
+  if (isMobile === null) return null; // viewport not yet determined; mount neither embed
+
+  if (isMobile) {
+    return (
+      <MobilePlayer
+        video={video}
+        onPrev={() => timeline(-1)}
+        onNext={() => timeline(1)}
+        onShuffle={() => pickStream("shuffle", null)}
+      />
+    );
+  }
 
   return (
     <>
@@ -97,13 +146,6 @@ export function Player({ data, initialSlug }: { data: VideoData; initialSlug?: s
         <Constellation key={cur} video={video} counts={CT} stream={stream} cur={cur!} frameRef={frameRef} onAction={handleAction} />
       )}
       {!video && <div className="constellation" id="constellation" />}
-
-      <MobilePlayer
-        video={video}
-        onPrev={() => timeline(-1)}
-        onNext={() => timeline(1)}
-        onShuffle={() => pickStream("shuffle", null)}
-      />
     </>
   );
 }

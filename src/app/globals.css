@@ -673,7 +673,9 @@ a {
   font-size: 13px;
   color: var(--dim);
 }
-@media (max-width: 720px) {
+/* matches Player.tsx's min(width,height) check: catches phones in
+   landscape too, where width alone would read as desktop-sized */
+@media (max-width: 720px), (max-height: 720px) and (orientation: landscape) {
   #player,
   #archive,
   .topbar {
