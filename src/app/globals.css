@@ -11,7 +11,7 @@
   --active: #e8d26a;
   --activeglow: rgba(232, 210, 106, 0.22);
   --line: #1e1e21;
-  --radius: 22px;
+  --radius: 999px;
   --serif: "Times New Roman", Georgia, serif;
   --sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
 }
@@ -304,17 +304,22 @@ a {
   border: 1px solid transparent;
 }
 .node.tag .pill {
-  border: 1px solid var(--active);
-  border-color: rgba(232, 210, 106, 0.55);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+  background: var(--bg);
+  border: 1px solid rgba(232, 210, 106, 0.55);
 }
 .node.tag .pill:hover {
-  background: var(--pillhover);
   color: #fff;
   border-color: var(--active);
   transform: scale(1.05);
 }
 .node.person .pill {
-  background: var(--pill);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+  background: var(--bg);
   color: var(--ink);
   border: 1px solid rgba(232, 210, 106, 0.55);
 }
@@ -470,7 +475,7 @@ a {
   padding: 9px 16px;
   color: var(--ink);
   font-size: 13px;
-  width: 230px;
+  width: 340px;
   outline: none;
 }
 .arcTools input:focus {
