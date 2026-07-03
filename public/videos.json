@@ -249,6 +249,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/tKjZuykKY1I/hqdefault.jpg",
       "tags": [
+        "confidence",
         "guitar solo",
         "kaiju",
         "space",
@@ -1122,9 +1123,9 @@
       "sortDate": "2007-05-21",
       "year": 2007,
       "provider": "youtube",
-      "youtubeId": "PVdGjSSarIQ",
+      "youtubeId": "OJpC9JqSnJk",
       "vimeoId": "48810242",
-      "thumbnailUrl": "https://img.youtube.com/vi/PVdGjSSarIQ/hqdefault.jpg",
+      "thumbnailUrl": "https://img.youtube.com/vi/OJpC9JqSnJk/hqdefault.jpg",
       "tags": [
         "mixed media",
         "prosthetics",
@@ -3309,28 +3310,6 @@
         "surreal"
       ]
     },
-    "b-o-b-back-and-forth": {
-      "id": "b-o-b-back-and-forth",
-      "artist": "B.o.B",
-      "song": "Back and Forth",
-      "director": "Paul Trillo",
-      "directors": [
-        "Paul Trillo"
-      ],
-      "dateDisplay": "January 28, 2016 12:50 PM (EST)",
-      "sortDate": "9999-99-99",
-      "year": null,
-      "provider": "vimeo",
-      "youtubeId": null,
-      "vimeoId": "153396635",
-      "thumbnailUrl": "https://vumbnail.com/153396635.jpg",
-      "tags": [
-        "loops",
-        "optical illusion",
-        "repeat",
-        "zoetrope"
-      ]
-    },
     "n-lannon-another-love": {
       "id": "n-lannon-another-love",
       "artist": "N. Lannon",
@@ -3558,7 +3537,7 @@
       "vimeoId": "139601645",
       "thumbnailUrl": "https://vumbnail.com/139601645.jpg",
       "tags": [
-        "cat"
+        "cats"
       ]
     },
     "a-love-like-pi-jack-and-the-giant": {
@@ -3822,10 +3801,8 @@
       "thumbnailUrl": "https://vumbnail.com/151930811.jpg",
       "tags": [
         "dance",
-        "narrative",
         "prosthetics",
-        "retro",
-        "styling"
+        "retro"
       ]
     },
     "benjamin-booker-believe": {
@@ -3913,6 +3890,25 @@
         "monochrome",
         "soundsync"
       ]
+    },
+    "stereogram-walkie-talkie-man": {
+      "id": "stereogram-walkie-talkie-man",
+      "artist": "Stereogram",
+      "song": "Walkie Talkie Man",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "dateDisplay": "February 2004",
+      "sortDate": "2004-02-10",
+      "year": 2004,
+      "provider": "youtube",
+      "youtubeId": "I7UvbwCjXUk",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/I7UvbwCjXUk/hqdefault.jpg",
+      "tags": [
+        "stop motion"
+      ]
     }
   },
   "playlists": {
@@ -3960,6 +3956,7 @@
       "the-white-stripes-the-hardest-button-to-button",
       "the-darkness-i-believe-in-a-thing-called-love",
       "outkast-hey-ya",
+      "stereogram-walkie-talkie-man",
       "devendra-banhart-a-ribbon",
       "r-kelly-trapped-in-the-closet",
       "cornelius-fit-song",
@@ -4101,7 +4098,6 @@
       "gener8ion-yung-lean-storm",
       "bonobo-me-and-you",
       "balming-tiger-oui",
-      "b-o-b-back-and-forth",
       "beatsofreen-slowly-rising",
       "de-jeugd-van-tegenwoordig-manon",
       "el-guincho-bombay",
@@ -4116,6 +4112,7 @@
         "beastie-boys-sabotage",
         "missy-elliott-the-rain-supa-dupa-fly",
         "fatboy-slim-weapon-of-choice",
+        "the-darkness-i-believe-in-a-thing-called-love",
         "outkast-hey-ya",
         "muse-knights-of-cydonia",
         "beyonc-single-ladies-put-a-ring-on-it",
@@ -4180,6 +4177,7 @@
         "peter-gabriel-sledgehammer",
         "the-white-stripes-fell-in-love-with-a-girl",
         "the-white-stripes-the-hardest-button-to-button",
+        "stereogram-walkie-talkie-man",
         "devendra-banhart-a-ribbon",
         "cornelius-fit-song",
         "regina-spektor-samson",
@@ -4293,7 +4291,6 @@
       "narrative": [
         "radiohead-just",
         "the-shins-simple-song",
-        "miike-snow-genghis-khan",
         "benjamin-booker-believe"
       ],
       "surreal": [
@@ -4477,8 +4474,7 @@
         "alb-the-road",
         "battles-the-yabba",
         "bas-ft-correy-c-fragrance",
-        "ok-go-a-stone-only-rolls-downhill",
-        "b-o-b-back-and-forth"
+        "ok-go-a-stone-only-rolls-downhill"
       ],
       "vfx": [
         "kylie-minogue-come-into-my-world",
@@ -4509,7 +4505,6 @@
         "20syl-back-forth",
         "alb-the-road",
         "max-cooper-waves",
-        "b-o-b-back-and-forth",
         "beatsofreen-slowly-rising"
       ],
       "woc director": [
@@ -4654,8 +4649,7 @@
       ],
       "zoetrope": [
         "moray-mclaren-we-got-time",
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
-        "b-o-b-back-and-forth"
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "interactive": [
         "labuat-soy-tu-aire",
@@ -4663,7 +4657,6 @@
       ],
       "styling": [
         "lady-gaga-bad-romance",
-        "miike-snow-genghis-khan",
         "janelle-mon-e-lipstick-lover",
         "tierra-whack-shower-song"
       ],
@@ -4724,8 +4717,7 @@
       ],
       "optical illusion": [
         "ok-go-the-writings-on-the-wall",
-        "ok-go-love",
-        "b-o-b-back-and-forth"
+        "ok-go-love"
       ],
       "long exposure": [
         "sarh-u-and-i"
@@ -4782,7 +4774,7 @@
         "ok-go-love",
         "mette-coming-of-age"
       ],
-      "cat": [
+      "cats": [
         "de-jeugd-van-tegenwoordig-manon"
       ]
     },
@@ -4898,6 +4890,9 @@
       ],
       "Outkast": [
         "outkast-hey-ya"
+      ],
+      "Stereogram": [
+        "stereogram-walkie-talkie-man"
       ],
       "Devendra Banhart": [
         "devendra-banhart-a-ribbon"
@@ -5265,9 +5260,6 @@
       "Balming Tiger": [
         "balming-tiger-oui"
       ],
-      "B.o.B": [
-        "b-o-b-back-and-forth"
-      ],
       "BEATSOFREEN": [
         "beatsofreen-slowly-rising"
       ],
@@ -5345,6 +5337,7 @@
         "the-white-stripes-fell-in-love-with-a-girl",
         "the-white-stripes-dead-leaves-and-the-dirty-ground",
         "kylie-minogue-come-into-my-world",
+        "stereogram-walkie-talkie-man",
         "devendra-banhart-a-ribbon",
         "dick-annegarn-soleil-du-soir"
       ],
@@ -5602,8 +5595,7 @@
         "the-peach-kings-dirty-secret",
         "bas-ft-correy-c-fragrance",
         "the-peach-kings-without-you",
-        "jacques-absolve",
-        "b-o-b-back-and-forth"
+        "jacques-absolve"
       ],
       "Kazuaki Seki and Damian Kulash Jr.": [
         "ok-go-i-wont-let-you-down"
@@ -5789,11 +5781,11 @@
   },
   "counts": {
     "tags": {
-      "confidence": 16,
+      "confidence": 17,
       "dance": 34,
       "prosthetics": 4,
       "collage": 4,
-      "stop motion": 16,
+      "stop motion": 17,
       "guitar solo": 2,
       "hair": 2,
       "wut": 7,
@@ -5804,7 +5796,7 @@
       "busby berkeley": 4,
       "crowd": 9,
       "reverse": 1,
-      "narrative": 4,
+      "narrative": 3,
       "surreal": 28,
       "womxn director": 21,
       "fisheye": 1,
@@ -5822,10 +5814,10 @@
       "isometric": 3,
       "projection mapping": 5,
       "orbiting": 4,
-      "repeat": 13,
+      "repeat": 12,
       "vfx": 13,
       "kaleidoscope": 3,
-      "loops": 10,
+      "loops": 9,
       "woc director": 8,
       "kids": 5,
       "brooklyn": 5,
@@ -5848,9 +5840,9 @@
       "d&ad": 3,
       "ukmva": 9,
       "datamoshing": 2,
-      "zoetrope": 3,
+      "zoetrope": 2,
       "interactive": 2,
-      "styling": 4,
+      "styling": 3,
       "yuri norstein-esque": 1,
       "marching band": 1,
       "illustration": 4,
@@ -5863,7 +5855,7 @@
       "architecture": 3,
       "timeslice": 2,
       "lighting": 5,
-      "optical illusion": 3,
+      "optical illusion": 2,
       "long exposure": 1,
       "drone": 1,
       "macro": 1,
@@ -5880,7 +5872,7 @@
       "surveillance": 1,
       "whip pan": 1,
       "mirrors": 2,
-      "cat": 1
+      "cats": 1
     },
     "artists": {
       "Queen": 1,
@@ -5916,6 +5908,7 @@
       "Kid Koala": 1,
       "The Darkness": 1,
       "Outkast": 1,
+      "Stereogram": 1,
       "Devendra Banhart": 1,
       "R. Kelly": 1,
       "Cornelius": 1,
@@ -6030,7 +6023,6 @@
       "METTE": 1,
       "GENER8ION & Yung Lean": 1,
       "Balming Tiger": 1,
-      "B.o.B": 1,
       "BEATSOFREEN": 1,
       "De Jeugd Van Tegenwoordig": 1,
       "El Guincho": 1,
@@ -6054,7 +6046,7 @@
       "Jonathan Dayton & Valerie Farris": 1,
       "Sophie Muller": 1,
       "Hype Williams": 1,
-      "Michel Gondry": 7,
+      "Michel Gondry": 8,
       "Mike Mills": 1,
       "Garth Jennings": 1,
       "Thomas Vinterberg": 1,
@@ -6134,7 +6126,7 @@
       "Floris Kaayk & Torre Florim": 1,
       "Michael Langan": 1,
       "Aaron Duffy Damian Kulash Jr. & Bob Partington": 1,
-      "Paul Trillo": 6,
+      "Paul Trillo": 5,
       "Kazuaki Seki and Damian Kulash Jr.": 1,
       "Isaiah Saxon & Sean Hellfritsch": 1,
       "Thomas Porthé": 1,
