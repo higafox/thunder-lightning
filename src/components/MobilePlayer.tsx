@@ -20,7 +20,7 @@ export function MobilePlayer({
 
   const embed = video.youtubeId
     ? `https://www.youtube.com/embed/${video.youtubeId}?autoplay=1&rel=0&modestbranding=1`
-    : `https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&title=0&byline=0`;
+    : `https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&muted=0&title=0&byline=0`;
 
   return (
     <div id="mobile">

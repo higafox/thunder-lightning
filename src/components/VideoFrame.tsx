@@ -164,6 +164,14 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
     import("@vimeo/player").then(({ default: Player }) => {
       if (cancelled || !iframe) return;
       vimeoPlayer = new Player(iframe);
+      // Vimeo sometimes auto-mutes on load to guarantee autoplay succeeds even
+      // though the URL already asks for unmuted (muted=0) -- force it back
+      // once playback has actually started, which browsers allow since this
+      // is no longer a fresh autoplay attempt.
+      vimeoPlayer.on("play", () => {
+        if (cancelled) return;
+        vimeoPlayer?.setMuted(false).catch(() => {});
+      });
       vimeoPlayer.on("ended", () => {
         if (!cancelled) onEndedRef.current();
       });
@@ -195,7 +203,7 @@ export function VideoFrame({ video, onEnded }: { video: Video; onEnded: () => vo
     return (
       <div ref={mountRef} style={{ position: "absolute", inset: 0 }}>
         <iframe
-          src={`https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&title=0&byline=0`}
+          src={`https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&muted=0&title=0&byline=0`}
           allow="autoplay; fullscreen"
           allowFullScreen
         />

@@ -408,6 +408,7 @@ a {
   line-height: 1.62;
   color: #cdcbc4;
   margin-bottom: 14px;
+  text-wrap: pretty;
 }
 .card .credit {
   font-size: 11px;
