@@ -45,22 +45,29 @@ either a property of the current video or a path to another one.
 A Notion database exported as CSV. Columns actually present:
 `Name`, `Artist`, `Song`, `Director`, `Release Date`, `YouTube`, `Vimeo`, `Tags`,
 `Thumbnail URL` (usually empty), `Embed Broken` (checkbox, manual override —
-see below), plus a `Rating` (ignored) and `Formula` (duplicate of Name, ignored).
+see below), `One Director Entity` (checkbox, see below), plus a `Rating`
+(ignored) and `Formula` (duplicate of Name, ignored).
 
-### Conversion (`convert.py`, included)
-The included Python script is the working converter. It becomes the basis of
-`npm run sync` — the transform logic is identical, only the input changes (CSV file
-now, Notion API later). Key behaviors, all deliberate:
+### Conversion (`convert.py`, included — superseded by `scripts/sync.ts`)
+`convert.py` was the original working converter; `npm run sync` (`scripts/sync.ts`)
+is the actual pipeline now, same transform logic, reading a CSV export directly (no
+Notion API/token). Key behaviors, all deliberate:
 
 - **Exclude** rows with no YouTube AND no Vimeo link (~1 skipped in current data).
 - **Keep BOTH** youtubeId and vimeoId when present — do not collapse to one provider.
   This is required for the playback waterfall (see below).
-- **Directors are ONE name, never split.** Do not split on `/`, `&`, `and`, `+`, or
-  `,`. Names like "AB/CD/CD", "Kijek/Adamski", "Dom & Nic", "Hammer & Tongs" are
-  single entities. Splitting them fabricates directors that don't exist. The script
-  does strip URLs, parenthetical annotations `(...)`, and social `@handles` out of
-  the director field (these are data-entry errors), and cleans a dangling leading
-  "and"/"&" left after URL removal.
+- **Directors split on `/`, `&`, `and`, `+`, `,` — UNLESS `One Director Entity` is
+  checked.** "Dom & Nic", "Hammer & Tongs", "Kijek/Adamski", "AB/CD/CD" are duos/
+  groups whose own name happens to look like two names joined by a conjunction —
+  text alone can't tell that apart from "Trish Sie and Damian Kulash" (two actual
+  people). There's no reliable heuristic, so it's a manual call: check the box for
+  any director field that's a single duo/group name; leave it unchecked (default) to
+  split into individual directors. Get this wrong on an existing group and re-syncing
+  will fabricate directors that don't exist — check the box BEFORE the CSV export
+  covers a video's first sync. The script still strips URLs, parenthetical
+  annotations `(...)`, and social `@handles` out of the director field (data-entry
+  errors) before splitting, and cleans a dangling leading "and"/"&" left after URL
+  removal.
 - **Dates**: parse "May 3, 2023" / "May 2023" / "2023" formats. Use the most specific
   clean display available. Missing dates sort last.
 - **Slugs**: `artist-song`, lowercased, punctuation stripped, deduped with numeric
@@ -73,8 +80,8 @@ now, Notion API later). Key behaviors, all deliberate:
   videos: {
     "slug": {
       id, artist, song,
-      director,            // full string, one name
-      directors,           // array with a single entry (kept as array for flexibility)
+      director,            // full cleaned string, always unsplit (flat display text)
+      directors,           // one entry if "One Director Entity" was checked, else split
       dateDisplay,         // "May 2023" or "2023" or null
       sortDate,            // "2023-05-01" for sorting; "9999-99-99" if missing
       year,
@@ -96,13 +103,13 @@ now, Notion API later). Key behaviors, all deliberate:
 ```
 All playlists are pre-sorted by date ascending. The player relies on this.
 
-### Notion sync script (to build)
-- `npm run sync` reads a Notion integration token + database ID from env
-  (`NOTION_TOKEN`, `NOTION_DATABASE_ID`), never exposed to the browser.
-- Transforms Notion rows into the exact JSON shape above (reuse convert.py's logic).
-- Writes `public/videos.json`. Commit and deploy.
-- Property names to map: Artist, Song, Director, Release Date, YouTube, Vimeo, Tags,
-  Thumbnail URL, Embed Broken.
+### Notion sync script (built: `npm run sync -- path/to/export.csv`)
+- No API token/database ID — reads a CSV exported directly from Notion (Export →
+  CSV). Simpler than the original API-token plan and avoids a live Notion dependency.
+- Transforms rows into the exact JSON shape above (same logic as `convert.py`).
+- Writes `public/videos.json`. Commit and deploy (Vercel redeploys on push).
+- Property names mapped: Artist, Song, Director, Release Date, YouTube, Vimeo, Tags,
+  Thumbnail URL, Embed Broken, One Director Entity.
 
 ---
 

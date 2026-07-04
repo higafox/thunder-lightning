@@ -169,8 +169,20 @@ function main() {
       .map((t) => t.trim())
       .filter(Boolean);
     const director = cleanDirector((r["Director"] || "").trim());
-    // whole director string is ONE name. never split.
-    const directors = director ? [director] : [];
+    // "Dom & Nic" and "Trish Sie and Damian Kulash" both join names with a
+    // conjunction, but one is a duo's single name and the other is two
+    // people -- text alone can't tell them apart. "One Director Entity"
+    // checked keeps the field whole (duos/groups); unchecked (default)
+    // splits it into individual directors.
+    const oneEntity = isChecked(r["One Director Entity"]);
+    const directors = !director
+      ? []
+      : oneEntity
+      ? [director]
+      : director
+          .split(/\s*,\s*|\s+and\s+|\s*&\s*|\s*\+\s*|\s*\/\s*/i)
+          .map((d) => d.trim())
+          .filter(Boolean);
 
     let slug = slugify(artist, song);
     const orig = slug;
