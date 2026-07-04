@@ -106,7 +106,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
               setChrono((c) => (c === true ? false : true));
             }}
           >
-            {chrono === true ? "Chronological ↑" : chrono === false ? "Chronological ↓" : "Chronological"}
+            {chrono === true ? "Chronological ↓" : chrono === false ? "Chronological ↑" : "Chronological"}
           </button>
         </div>
         <div className="tagbar">
