@@ -4,10 +4,12 @@
 // public/videos.json. Port of convert.py — same transform logic, CSV in,
 // JSON out. See HANDOFF.md for the full behavior spec.
 //
-// Notion columns expected: Name, Artist, Song, Director, Release Date,
-// YouTube, Vimeo, Tags, Thumbnail URL (usually empty), Embed Broken
+// Notion columns expected: Name, Artist, Song, Director, Director Affiliate
+// (production house/collective, e.g. "CANADA" -- see HANDOFF.md), Release
+// Date, YouTube, Vimeo, Tags, Thumbnail URL (usually empty), Embed Broken
 // (checkbox, manual override for embeds confirmed broken -- see HANDOFF.md),
-// Rating (ignored), Formula (ignored, duplicate of Name).
+// One Director Entity (checkbox, see HANDOFF.md), Rating (ignored), Formula
+// (ignored, duplicate of Name).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -114,11 +116,10 @@ function cleanDirector(raw: string): string {
   return d;
 }
 
-function group(videos: Video[], field: "tags" | "artist" | "directors"): Record<string, string[]> {
+function group(videos: Video[], getValues: (v: Video) => string[]): Record<string, string[]> {
   const g: Record<string, string[]> = {};
   for (const v of videos) {
-    const vals = field === "tags" || field === "directors" ? (v[field] as string[]) : [v[field] as string];
-    for (const val of vals) {
+    for (const val of getValues(v)) {
       if (!val) continue;
       (g[val] ??= []).push(v.id);
     }
@@ -200,6 +201,7 @@ function main() {
       ? `https://img.youtube.com/vi/${yt}/hqdefault.jpg`
       : null;
     const embedBroken = isChecked(r["Embed Broken"]);
+    const directorAffiliate = (r["Director Affiliate"] || "").trim() || null;
 
     videos[slug] = {
       id: slug,
@@ -207,6 +209,7 @@ function main() {
       song,
       director,
       directors,
+      directorAffiliate,
       dateDisplay: display,
       sortDate: sortDate || "9999-99-99",
       year,
@@ -227,14 +230,16 @@ function main() {
   });
   const timeline = ordered.map((v) => v.id);
 
-  const tagsPl = group(ordered, "tags");
-  const artistsPl = group(ordered, "artist");
-  const directorsPl = group(ordered, "directors");
+  const tagsPl = group(ordered, (v) => v.tags);
+  const artistsPl = group(ordered, (v) => [v.artist]);
+  const directorsPl = group(ordered, (v) => v.directors);
+  const affiliatesPl = group(ordered, (v) => (v.directorAffiliate ? [v.directorAffiliate] : []));
 
   const counts: Counts = {
     tags: Object.fromEntries(Object.entries(tagsPl).map(([k, v]) => [k, v.length])),
     artists: Object.fromEntries(Object.entries(artistsPl).map(([k, v]) => [k, v.length])),
     directors: Object.fromEntries(Object.entries(directorsPl).map(([k, v]) => [k, v.length])),
+    directorAffiliates: Object.fromEntries(Object.entries(affiliatesPl).map(([k, v]) => [k, v.length])),
   };
 
   const meta: Meta = {
@@ -246,7 +251,13 @@ function main() {
     totalTags: Object.keys(tagsPl).length,
   };
 
-  const playlists: Playlists = { timeline, tags: tagsPl, artists: artistsPl, directors: directorsPl };
+  const playlists: Playlists = {
+    timeline,
+    tags: tagsPl,
+    artists: artistsPl,
+    directors: directorsPl,
+    directorAffiliates: affiliatesPl,
+  };
   const data: VideoData = { meta, videos, playlists, counts };
 
   const outPath = path.join(process.cwd(), "public", "videos.json");
@@ -254,7 +265,7 @@ function main() {
 
   console.log(`Playable: ${Object.keys(videos).length} | skipped: ${skipped}`);
   console.log(
-    `Artists: ${Object.keys(artistsPl).length} | Directors: ${Object.keys(directorsPl).length} | Tags: ${Object.keys(tagsPl).length}`
+    `Artists: ${Object.keys(artistsPl).length} | Directors: ${Object.keys(directorsPl).length} | Tags: ${Object.keys(tagsPl).length} | Affiliates: ${Object.keys(affiliatesPl).length}`
   );
   console.log(`Wrote ${outPath}`);
 }

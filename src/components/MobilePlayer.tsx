@@ -35,6 +35,7 @@ export function MobilePlayer({
         <div className="s">{video.song}</div>
         <div className="d">
           {video.director}
+          {video.directorAffiliate ? ` (${video.directorAffiliate})` : ""}
           {video.dateDisplay ? ` · ${video.dateDisplay}` : ""}
         </div>
       </div>

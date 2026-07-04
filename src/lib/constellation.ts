@@ -3,7 +3,7 @@ import type { Counts, StreamState, Video } from "./types";
 export type NodeKind = "tag" | "person" | "terminal" | "control" | "shuffle";
 
 export type NodeAction =
-  | { kind: "stream"; type: "tag" | "artist" | "director"; key: string }
+  | { kind: "stream"; type: "tag" | "artist" | "director" | "directorAffiliate"; key: string }
   | { kind: "shuffle" }
   | { kind: "timeline"; dir: -1 | 1 }
   | null;
@@ -149,6 +149,14 @@ export function buildConstellation(params: {
       });
     }
   });
+  if (v.directorAffiliate && (CT.directorAffiliates[v.directorAffiliate] || 0) > 1) {
+    personNodes.push({
+      kind: "person",
+      label: v.directorAffiliate.toLowerCase(),
+      active: s.type === "directorAffiliate" && s.key === v.directorAffiliate,
+      action: { kind: "stream", type: "directorAffiliate", key: v.directorAffiliate },
+    });
+  }
 
   // person pills lead (prime spots), then tags. split alternately into rails.
   const allNodes = [...personNodes, ...tagNodes];

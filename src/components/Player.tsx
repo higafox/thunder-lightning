@@ -150,6 +150,7 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
                         </span>
                       );
                     })}
+                    {video.directorAffiliate && <span> ({video.directorAffiliate})</span>}
                     {video.dateDisplay && <div>{video.dateDisplay}</div>}
                   </div>
                 </>

@@ -62,7 +62,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
       const v = V[id];
       if (selTag && !v.tags.includes(selTag)) return false;
       if (q) {
-        const hay = `${v.artist} ${v.song} ${v.director} ${v.tags.join(" ")}`.toLowerCase();
+        const hay = `${v.artist} ${v.song} ${v.director} ${v.directorAffiliate ?? ""} ${v.tags.join(" ")}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
@@ -141,6 +141,7 @@ function Cell({ video: v }: { video: Video }) {
         <div className="s">{v.song}</div>
         <div className="d">
           {v.director}
+          {v.directorAffiliate ? ` (${v.directorAffiliate})` : ""}
           {v.dateDisplay ? ` · ${v.dateDisplay}` : ""}
         </div>
         <div className="tgs">{v.tags.join("  ·  ")}</div>

@@ -10,6 +10,7 @@ function computeStream(data: VideoData, type: StreamType, key: string | null, di
   else if (type === "tag") list = key ? data.playlists.tags[key] ?? [] : [];
   else if (type === "artist") list = key ? data.playlists.artists[key] ?? [] : [];
   else if (type === "director") list = key ? data.playlists.directors[key] ?? [] : [];
+  else if (type === "directorAffiliate") list = key ? data.playlists.directorAffiliates[key] ?? [] : [];
   return { type, key, list, dir };
 }
 

@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 224,
-    "totalArtists": 184,
-    "totalDirectors": 177,
-    "totalTags": 102
+    "totalVideos": 237,
+    "totalArtists": 193,
+    "totalDirectors": 206,
+    "totalTags": 107
   },
   "videos": {
     "mette-van-gogh": {
@@ -16,6 +16,7 @@
       "directors": [
         "Camille Summers-Valli"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2023",
       "sortDate": "2023-08-10",
       "year": 2023,
@@ -43,6 +44,7 @@
       "directors": [
         "Camille Summers-Valli"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2023",
       "sortDate": "2023-05-03",
       "year": 2023,
@@ -57,7 +59,6 @@
         "dance",
         "editing",
         "joy",
-        "match cut",
         "ukmva",
         "womxn director"
       ],
@@ -71,6 +72,7 @@
       "directors": [
         "C Prinz"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2024",
       "sortDate": "2024-05-20",
       "year": 2024,
@@ -79,8 +81,8 @@
       "vimeoId": "952394749",
       "thumbnailUrl": "https://img.youtube.com/vi/3DnDPArgl_I/hqdefault.jpg",
       "tags": [
+        "car",
         "long take",
-        "match cut",
         "orbiting",
         "surreal",
         "twinsies",
@@ -97,6 +99,7 @@
       "directors": [
         "Patrick Daughters"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2008",
       "sortDate": "2008-01-23",
       "year": 2008,
@@ -119,6 +122,7 @@
       "directors": [
         "Jim Blashfield"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 1985",
       "sortDate": "1985-01-01",
       "year": 1985,
@@ -140,6 +144,7 @@
       "directors": [
         "Joey Garfield"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2007",
       "sortDate": "2007-07-12",
       "year": 2007,
@@ -161,6 +166,7 @@
       "directors": [
         "Torben Kjelstrup"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2016",
       "sortDate": "2016-09-07",
       "year": 2016,
@@ -186,6 +192,7 @@
       "directors": [
         "Cho Soo-hyun"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2012",
       "sortDate": "2012-07-15",
       "year": 2012,
@@ -212,6 +219,7 @@
       "directors": [
         "Ori Toor"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2013",
       "sortDate": "2013-06-19",
       "year": 2013,
@@ -235,6 +243,7 @@
       "directors": [
         "Moniker"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2013",
       "sortDate": "2013-04-16",
       "year": 2013,
@@ -257,6 +266,7 @@
       "directors": [
         "Alex Smith"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2003",
       "sortDate": "2003-09-22",
       "year": 2003,
@@ -282,6 +292,7 @@
       "directors": [
         "François Rousselet"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2022",
       "sortDate": "2022-06-10",
       "year": 2022,
@@ -303,8 +314,10 @@
       "song": "Back on 74",
       "director": "J Lloyd & Charlie Di Placido",
       "directors": [
-        "J Lloyd & Charlie Di Placido"
+        "J Lloyd",
+        "Charlie Di Placido"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2023",
       "sortDate": "2023-08-11",
       "year": 2023,
@@ -328,6 +341,7 @@
       "directors": [
         "Dominic Sena"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 1986",
       "sortDate": "1986-03-01",
       "year": 1986,
@@ -339,6 +353,7 @@
         "confidence",
         "guitar solo",
         "hair",
+        "jets",
         "wut"
       ],
       "embedBroken": false
@@ -351,6 +366,7 @@
       "directors": [
         "Steve Barron"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 1983",
       "sortDate": "1983-03-10",
       "year": 1983,
@@ -369,8 +385,10 @@
       "song": "Dashboard",
       "director": "Matthew Cullen & Grady Hall",
       "directors": [
-        "Matthew Cullen & Grady Hall"
+        "Matthew Cullen",
+        "Grady Hall"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2007",
       "sortDate": "2007-02-27",
       "year": 2007,
@@ -391,6 +409,7 @@
       "directors": [
         "Sophie Muller"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 1997",
       "sortDate": "1997-04-07",
       "year": 1997,
@@ -411,6 +430,7 @@
       "directors": [
         "Patrick Daughters"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2007",
       "sortDate": "2007-04-13",
       "year": 2007,
@@ -432,6 +452,7 @@
       "directors": [
         "Robert Hales"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2006",
       "sortDate": "2006-03-13",
       "year": 2006,
@@ -452,6 +473,7 @@
       "directors": [
         "Thomas Vinterberg"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 1999",
       "sortDate": "1999-11-15",
       "year": 1999,
@@ -472,6 +494,7 @@
       "directors": [
         "SSSR"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2008",
       "sortDate": "2008-01-16",
       "year": 2008,
@@ -496,6 +519,7 @@
       "directors": [
         "Trish Sie"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2006",
       "sortDate": "2006-07-31",
       "year": 2006,
@@ -518,6 +542,7 @@
       "directors": [
         "Garth Jennings"
       ],
+      "directorAffiliate": "Hammer & Tongs",
       "dateDisplay": "March 1999",
       "sortDate": "1999-03-23",
       "year": 1999,
@@ -538,6 +563,7 @@
       "directors": [
         "Joseph Kahn"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2006",
       "sortDate": "2006-07-11",
       "year": 2006,
@@ -547,6 +573,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/G_sBOsh-vyI/hqdefault.jpg",
       "tags": [
         "confidence",
+        "desert",
         "horses",
         "poc director",
         "retro",
@@ -562,6 +589,7 @@
       "directors": [
         "Jonathan Dayton & Valerie Farris"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 1996",
       "sortDate": "1996-05-06",
       "year": 1996,
@@ -584,6 +612,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 1997",
       "sortDate": "1997-12-01",
       "year": 1997,
@@ -604,6 +633,7 @@
       "directors": [
         "Spike Jonze"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 1999",
       "sortDate": "1999-01-04",
       "year": 1999,
@@ -625,6 +655,7 @@
       "directors": [
         "Shynola"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2003",
       "sortDate": "2003-01-01",
       "year": 2003,
@@ -645,6 +676,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2002",
       "sortDate": "2002-09-08",
       "year": 2002,
@@ -667,6 +699,7 @@
       "directors": [
         "Bessy & Combe"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2003",
       "sortDate": "2003-03-01",
       "year": 2003,
@@ -688,6 +721,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2002",
       "sortDate": "2002-07-29",
       "year": 2002,
@@ -708,6 +742,7 @@
       "directors": [
         "Koichiro Tsujikawa"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2006",
       "sortDate": "2006-01-01",
       "year": 2006,
@@ -728,8 +763,10 @@
       "song": "Trapped in the Closet",
       "director": "R. Kelly & Jim Swaffield",
       "directors": [
-        "R. Kelly & Jim Swaffield"
+        "R. Kelly",
+        "Jim Swaffield"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2005",
       "sortDate": "2005-11-01",
       "year": 2005,
@@ -750,6 +787,7 @@
       "directors": [
         "Spike Jonze"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2001",
       "sortDate": "2001-04-23",
       "year": 2001,
@@ -771,6 +809,7 @@
       "directors": [
         "Jonathan Glazer"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 1995",
       "sortDate": "1995-11-13",
       "year": 1995,
@@ -791,6 +830,7 @@
       "directors": [
         "Alex Rutterford"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2002",
       "sortDate": "2002-07-01",
       "year": 2002,
@@ -812,6 +852,7 @@
       "directors": [
         "Scott Pagano"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2003",
       "sortDate": "2003-01-01",
       "year": 2003,
@@ -833,6 +874,7 @@
       "directors": [
         "Stephen R. Johnson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 1986",
       "sortDate": "1986-04-21",
       "year": 1986,
@@ -853,6 +895,7 @@
       "directors": [
         "Mike Mills"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 1998",
       "sortDate": "1998-05-04",
       "year": 1998,
@@ -874,6 +917,7 @@
       "directors": [
         "Peter Sluzka"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2006",
       "sortDate": "2006-11-13",
       "year": 2006,
@@ -895,6 +939,7 @@
       "directors": [
         "Monkmus"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2003",
       "sortDate": "2003-08-18",
       "year": 2003,
@@ -913,6 +958,7 @@
       "directors": [
         "Spike Jonze"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 1994",
       "sortDate": "1994-01-28",
       "year": 1994,
@@ -933,6 +979,7 @@
       "directors": [
         "Bryan Barber"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2003",
       "sortDate": "2003-09-29",
       "year": 2003,
@@ -955,6 +1002,7 @@
       "directors": [
         "Mark Romanek"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 1994",
       "sortDate": "1994-05-12",
       "year": 1994,
@@ -976,6 +1024,7 @@
       "directors": [
         "Patrick Daughters"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2007",
       "sortDate": "2007-05-22",
       "year": 2007,
@@ -996,6 +1045,7 @@
       "directors": [
         "Nagi Noda"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2003",
       "sortDate": "2003-02-19",
       "year": 2003,
@@ -1019,6 +1069,7 @@
       "directors": [
         "John Landis"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 1983",
       "sortDate": "1983-12-02",
       "year": 1983,
@@ -1040,6 +1091,7 @@
       "directors": [
         "Colin Chilvers"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 1988",
       "sortDate": "1988-10-13",
       "year": 1988,
@@ -1060,6 +1112,7 @@
       "directors": [
         "Melina"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2007",
       "sortDate": "2007-11-28",
       "year": 2007,
@@ -1084,6 +1137,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2004",
       "sortDate": "2004-06-01",
       "year": 2004,
@@ -1105,6 +1159,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2001",
       "sortDate": "2001-12-03",
       "year": 2001,
@@ -1126,6 +1181,7 @@
       "directors": [
         "Lee Lennox"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2009",
       "sortDate": "2009-12-01",
       "year": 2009,
@@ -1146,6 +1202,7 @@
       "directors": [
         "Spike Jonze"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 1995",
       "sortDate": "1995-08-10",
       "year": 1995,
@@ -1166,6 +1223,7 @@
       "directors": [
         "Chris Cunningham"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2006",
       "sortDate": "2006-08-01",
       "year": 2006,
@@ -1186,6 +1244,7 @@
       "directors": [
         "Encyclopedia Pictura"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2007",
       "sortDate": "2007-05-21",
       "year": 2007,
@@ -1209,6 +1268,7 @@
       "directors": [
         "Ben Dickinson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2006",
       "sortDate": "2006-01-01",
       "year": 2006,
@@ -1231,6 +1291,7 @@
       "directors": [
         "Alan Ferguson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2018",
       "sortDate": "2018-02-22",
       "year": 2018,
@@ -1254,6 +1315,7 @@
       "directors": [
         "Wendy Morgan"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2010",
       "sortDate": "2010-03-31",
       "year": 2010,
@@ -1276,6 +1338,7 @@
       "directors": [
         "Emma Westenberg"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2018",
       "sortDate": "2018-04-10",
       "year": 2018,
@@ -1298,6 +1361,7 @@
       "directors": [
         "Lacey Duke"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2018",
       "sortDate": "2018-04-23",
       "year": 2018,
@@ -1320,8 +1384,10 @@
       "song": "Lipstick Lover",
       "director": "Janelle Monáe & Alan Ferguson",
       "directors": [
-        "Janelle Monáe & Alan Ferguson"
+        "Janelle Monáe",
+        "Alan Ferguson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2023",
       "sortDate": "2023-05-11",
       "year": 2023,
@@ -1346,6 +1412,7 @@
       "directors": [
         "Hiro Murai"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2018",
       "sortDate": "2018-05-06",
       "year": 2018,
@@ -1370,6 +1437,7 @@
       "directors": [
         "Timothy Saccenti"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2007",
       "sortDate": "2007-02-28",
       "year": 2007,
@@ -1390,6 +1458,7 @@
       "directors": [
         "Dougal Wilson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2008",
       "sortDate": "2008-04-01",
       "year": 2008,
@@ -1410,6 +1479,7 @@
       "directors": [
         "Pleix"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2006",
       "sortDate": "2006-01-01",
       "year": 2006,
@@ -1435,6 +1505,7 @@
       "directors": [
         "Encyclopedia Pictura"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2008",
       "sortDate": "2008-04-08",
       "year": 2008,
@@ -1462,6 +1533,7 @@
       "directors": [
         "Paul Hunter"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2000",
       "sortDate": "2000-01-01",
       "year": 2000,
@@ -1482,8 +1554,10 @@
       "song": "Frontier Psychiatrist",
       "director": "Tom Kuntz & Mike Maguire",
       "directors": [
-        "Tom Kuntz & Mike Maguire"
+        "Tom Kuntz",
+        "Mike Maguire"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2000",
       "sortDate": "2000-08-21",
       "year": 2000,
@@ -1505,6 +1579,7 @@
       "directors": [
         "H5"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2002",
       "sortDate": "2002-07-15",
       "year": 2002,
@@ -1525,6 +1600,7 @@
       "directors": [
         "Jake Nava"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2008",
       "sortDate": "2008-10-13",
       "year": 2008,
@@ -1546,6 +1622,7 @@
       "directors": [
         "Dougal Wilson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2007",
       "sortDate": "2007-07-09",
       "year": 2007,
@@ -1569,6 +1646,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2002",
       "sortDate": "2002-01-01",
       "year": 2002,
@@ -1591,6 +1669,7 @@
       "directors": [
         "Michel Gondy"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2003",
       "sortDate": "2003-09-11",
       "year": 2003,
@@ -1614,6 +1693,7 @@
       "directors": [
         "Bruce Gowers"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 1975",
       "sortDate": "1975-11-20",
       "year": 1975,
@@ -1634,6 +1714,7 @@
       "directors": [
         "Tarsem Singh"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 1991",
       "sortDate": "1991-02-19",
       "year": 1991,
@@ -1655,6 +1736,7 @@
       "directors": [
         "Jamie Thraves"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 1995",
       "sortDate": "1995-09-01",
       "year": 1995,
@@ -1676,6 +1758,7 @@
       "directors": [
         "Dominic Sena"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 1989",
       "sortDate": "1989-09-16",
       "year": 1989,
@@ -1697,6 +1780,7 @@
       "directors": [
         "Nagi Noda"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2006",
       "sortDate": "2006-08-02",
       "year": 2006,
@@ -1720,6 +1804,7 @@
       "directors": [
         "Spike Jonze"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 1995",
       "sortDate": "1995-01-01",
       "year": 1995,
@@ -1742,6 +1827,7 @@
       "directors": [
         "Francis Lawrence"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2009",
       "sortDate": "2009-11-24",
       "year": 2009,
@@ -1765,6 +1851,7 @@
       "directors": [
         "Director X"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2015",
       "sortDate": "2015-10-04",
       "year": 2015,
@@ -1787,6 +1874,7 @@
       "directors": [
         "Hype Williams"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 1997",
       "sortDate": "1997-06-03",
       "year": 1997,
@@ -1809,6 +1897,7 @@
       "directors": [
         "David Fincher"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 1990",
       "sortDate": "1990-11-01",
       "year": 1990,
@@ -1829,6 +1918,7 @@
       "directors": [
         "David Fincher"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 1990",
       "sortDate": "1990-03-29",
       "year": 1990,
@@ -1850,6 +1940,7 @@
       "directors": [
         "Melina Matsoukas"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2016",
       "sortDate": "2016-02-06",
       "year": 2016,
@@ -1877,6 +1968,7 @@
       "directors": [
         "Paul Thomas Anderson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2024",
       "sortDate": "2024-01-25",
       "year": 2024,
@@ -1890,14 +1982,15 @@
       ],
       "embedBroken": false
     },
-    "unknown-t-featuring-loyle-carner-hocus-pocus": {
-      "id": "unknown-t-featuring-loyle-carner-hocus-pocus",
-      "artist": "Unknown T, featuring Loyle Carner",
+    "unknown-t-feat-loyle-carner-hocus-pocus": {
+      "id": "unknown-t-feat-loyle-carner-hocus-pocus",
+      "artist": "Unknown T, feat. Loyle Carner",
       "song": "Hocus Pocus",
       "director": "Felix Brady",
       "directors": [
         "Felix Brady"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2024",
       "sortDate": "2024-01-11",
       "year": 2024,
@@ -1920,6 +2013,7 @@
       "directors": [
         "Brook Linder"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2024",
       "sortDate": "2024-05-25",
       "year": 2024,
@@ -1941,6 +2035,7 @@
       "directors": [
         "Keith Schofield"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2020",
       "sortDate": "2020-10-16",
       "year": 2020,
@@ -1964,6 +2059,7 @@
       "directors": [
         "Shynola"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2009",
       "sortDate": "2009-07-29",
       "year": 2009,
@@ -1986,6 +2082,7 @@
       "directors": [
         "LOOSE & UNCANNY"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2024",
       "sortDate": "2024-02-28",
       "year": 2024,
@@ -2007,6 +2104,7 @@
       "directors": [
         "Alex Da Corte"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2024",
       "sortDate": "2024-01-26",
       "year": 2024,
@@ -2030,6 +2128,7 @@
       "directors": [
         "Ozzie Pullin"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2024",
       "sortDate": "2024-05-26",
       "year": 2024,
@@ -2052,6 +2151,7 @@
       "directors": [
         "Tanu Muiño"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2024",
       "sortDate": "2024-04-11",
       "year": 2024,
@@ -2078,6 +2178,7 @@
       "directors": [
         "Paul Trillo"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2023",
       "sortDate": "2023-10-16",
       "year": 2023,
@@ -2099,6 +2200,7 @@
       "directors": [
         "Paul Trillo"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2014",
       "sortDate": "2014-09-17",
       "year": 2014,
@@ -2122,6 +2224,7 @@
       "directors": [
         "Paul Trillo"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2018",
       "sortDate": "2018-10-26",
       "year": 2018,
@@ -2143,6 +2246,7 @@
       "directors": [
         "Paul Trillo"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2019",
       "sortDate": "2019-09-22",
       "year": 2019,
@@ -2162,8 +2266,10 @@
       "song": "Wyclef Jean",
       "director": "Ryan Staake & Young Thug",
       "directors": [
-        "Ryan Staake & Young Thug"
+        "Ryan Staake",
+        "Young Thug"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2017",
       "sortDate": "2017-01-16",
       "year": 2017,
@@ -2185,6 +2291,7 @@
       "directors": [
         "Lee Suho"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2026",
       "sortDate": "2026-06-12",
       "year": 2026,
@@ -2205,6 +2312,7 @@
       "directors": [
         "Dom & Nic"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-01",
       "year": 2016,
@@ -2223,10 +2331,12 @@
       "id": "ok-go-upside-down-inside-out",
       "artist": "OK GO",
       "song": "Upside Down & Inside Out",
-      "director": "Damian Kulash & Trish Sie",
+      "director": "Trish Sie & Damian Kulash",
       "directors": [
-        "Damian Kulash & Trish Sie"
+        "Trish Sie",
+        "Damian Kulash"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-01",
       "year": 2016,
@@ -2249,6 +2359,7 @@
       "directors": [
         "Uri Lotan"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-01",
       "year": 2016,
@@ -2269,6 +2380,7 @@
       "directors": [
         "Xabier Mendibe"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2020",
       "sortDate": "2020-11-27",
       "year": 2020,
@@ -2290,6 +2402,7 @@
       "directors": [
         "Drew Tyndell"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2021",
       "sortDate": "2021-01-01",
       "year": 2021,
@@ -2307,10 +2420,12 @@
       "id": "coldplay-up-up",
       "artist": "Coldplay",
       "song": "Up&Up",
-      "director": "Gal Muggia and Vania Heymann",
+      "director": "Gal Muggia & Vania Heymann",
       "directors": [
-        "Gal Muggia and Vania Heymann"
+        "Gal Muggia",
+        "Vania Heymann"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2016",
       "sortDate": "2016-05-17",
       "year": 2016,
@@ -2332,6 +2447,7 @@
       "directors": [
         "Vincenzo Lodigiani"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2018",
       "sortDate": "2018-05-30",
       "year": 2018,
@@ -2352,6 +2468,7 @@
       "directors": [
         "Ariel Costa"
       ],
+      "directorAffiliate": "BlinkMyBrain",
       "dateDisplay": "January 2018",
       "sortDate": "2018-01-01",
       "year": 2018,
@@ -2370,8 +2487,11 @@
       "song": "A Pearl",
       "director": "Saad Moosajee, Danae Gosset & Art Camp",
       "directors": [
-        "Saad Moosajee, Danae Gosset & Art Camp"
+        "Saad Moosajee",
+        "Danae Gosset",
+        "Art Camp"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2019",
       "sortDate": "2019-01-01",
       "year": 2019,
@@ -2393,6 +2513,7 @@
       "directors": [
         "Luis Cerveró"
       ],
+      "directorAffiliate": "CANADA",
       "dateDisplay": "May 2011",
       "sortDate": "2011-05-09",
       "year": 2011,
@@ -2415,6 +2536,7 @@
       "directors": [
         "Parallel"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2016",
       "sortDate": "2016-03-25",
       "year": 2016,
@@ -2436,6 +2558,7 @@
       "directors": [
         "Hugo & Marie"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2017",
       "sortDate": "2017-10-12",
       "year": 2017,
@@ -2459,6 +2582,7 @@
       "directors": [
         "Drew Tyndell"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2017",
       "sortDate": "2017-06-30",
       "year": 2017,
@@ -2482,6 +2606,7 @@
       "directors": [
         "Mixtape Club"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2009",
       "sortDate": "2009-04-19",
       "year": 2009,
@@ -2504,6 +2629,7 @@
       "directors": [
         "Virgilio Villoresi"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2017",
       "sortDate": "2017-01-01",
       "year": 2017,
@@ -2525,6 +2651,7 @@
       "directors": [
         "DEDO CIEGO"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2017",
       "sortDate": "2017-01-01",
       "year": 2017,
@@ -2548,6 +2675,7 @@
       "directors": [
         "Dress Code"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-01",
       "year": 2016,
@@ -2565,10 +2693,13 @@
       "id": "de-staat-witch-doctor",
       "artist": "De Staat",
       "song": "Witch Doctor",
-      "director": "Floris Kaayk & Torre Florim",
+      "director": "Studio Smack, Floris Kaayk & Torre Florim",
       "directors": [
-        "Floris Kaayk & Torre Florim"
+        "Studio Smack",
+        "Floris Kaayk",
+        "Torre Florim"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2014",
       "sortDate": "2014-01-01",
       "year": 2014,
@@ -2590,6 +2721,7 @@
       "directors": [
         "Encyclopedia Pictura"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2014",
       "sortDate": "2014-12-15",
       "year": 2014,
@@ -2608,8 +2740,10 @@
       "song": "I Won't Let You Down",
       "director": "Kazuaki Seki & Damian Kulash",
       "directors": [
-        "Kazuaki Seki & Damian Kulash"
+        "Kazuaki Seki",
+        "Damian Kulash"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2014",
       "sortDate": "2014-10-27",
       "year": 2014,
@@ -2632,8 +2766,11 @@
       "song": "The Writing's On the Wall",
       "director": "Damian Kulash, Aaron Duffy, & Bob Partington",
       "directors": [
-        "Damian Kulash, Aaron Duffy, & Bob Partington"
+        "Damian Kulash",
+        "Aaron Duffy",
+        "Bob Partington"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2014",
       "sortDate": "2014-07-02",
       "year": 2014,
@@ -2655,6 +2792,7 @@
       "directors": [
         "Michael Langan"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2014",
       "sortDate": "2014-05-20",
       "year": 2014,
@@ -2677,6 +2815,7 @@
       "directors": [
         "Daniels"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2014",
       "sortDate": "2014-03-13",
       "year": 2014,
@@ -2698,6 +2837,7 @@
       "directors": [
         "Michael Fragstein"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2013",
       "sortDate": "2013-12-05",
       "year": 2013,
@@ -2722,6 +2862,7 @@
       "directors": [
         "Hayley Morris"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2013",
       "sortDate": "2013-04-15",
       "year": 2013,
@@ -2745,6 +2886,7 @@
       "directors": [
         "Cyriak"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2013",
       "sortDate": "2013-01-28",
       "year": 2013,
@@ -2766,6 +2908,7 @@
       "directors": [
         "Andrew Thomas Huang"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2012",
       "sortDate": "2012-11-13",
       "year": 2012,
@@ -2792,6 +2935,7 @@
       "directors": [
         "Emmanuelle Walker"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2012",
       "sortDate": "2012-04-27",
       "year": 2012,
@@ -2814,6 +2958,7 @@
       "directors": [
         "Daniels"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2012",
       "sortDate": "2012-02-21",
       "year": 2012,
@@ -2833,8 +2978,10 @@
       "song": "Two Against One",
       "director": "A.F. Schepperd & Chris Milk",
       "directors": [
-        "A.F. Schepperd & Chris Milk"
+        "A.F. Schepperd",
+        "Chris Milk"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2012",
       "sortDate": "2012-01-10",
       "year": 2012,
@@ -2856,6 +3003,7 @@
       "directors": [
         "Sean Pecknold"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2011",
       "sortDate": "2011-11-21",
       "year": 2011,
@@ -2876,6 +3024,7 @@
       "directors": [
         "David Lewandowski"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2011",
       "sortDate": "2011-11-10",
       "year": 2011,
@@ -2897,6 +3046,7 @@
       "directors": [
         "Kijek / Adamski"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2011",
       "sortDate": "2011-10-19",
       "year": 2011,
@@ -2910,7 +3060,7 @@
         "psychedelic",
         "womxn director"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "marian-ruzzi-y-sr-amable-una-pieza-mas": {
       "id": "marian-ruzzi-y-sr-amable-una-pieza-mas",
@@ -2918,8 +3068,10 @@
       "song": "Una pieza mas",
       "director": "Luis Safa & BASA Studio",
       "directors": [
-        "Luis Safa & BASA Studio"
+        "Luis Safa",
+        "BASA Studio"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2011",
       "sortDate": "2011-11-15",
       "year": 2011,
@@ -2936,8 +3088,10 @@
       "song": "All Is Not Lost",
       "director": "Trish Sie & Pilobolus",
       "directors": [
-        "Trish Sie & Pilobolus"
+        "Trish Sie",
+        "Pilobolus"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2011",
       "sortDate": "2011-07-27",
       "year": 2011,
@@ -2960,6 +3114,7 @@
       "directors": [
         "Cyriak"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2011",
       "sortDate": "2011-06-09",
       "year": 2011,
@@ -2981,6 +3136,7 @@
       "directors": [
         "Ned Wenlock"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2011",
       "sortDate": "2011-04-29",
       "year": 2011,
@@ -3002,6 +3158,7 @@
       "directors": [
         "Nicolas Mendez"
       ],
+      "directorAffiliate": "CANADA",
       "dateDisplay": "December 2010",
       "sortDate": "2010-12-16",
       "year": 2010,
@@ -3025,6 +3182,7 @@
       "directors": [
         "AB/CD/CD"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2010",
       "sortDate": "2010-10-09",
       "year": 2010,
@@ -3033,7 +3191,9 @@
       "vimeoId": "16030993",
       "thumbnailUrl": "https://img.youtube.com/vi/hnzS5QxbzPU/hqdefault.jpg",
       "tags": [
-        "long take"
+        "long take",
+        "vfx",
+        "walk"
       ],
       "embedBroken": false
     },
@@ -3045,6 +3205,7 @@
       "directors": [
         "A.F. Schepperd"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2010",
       "sortDate": "2010-06-17",
       "year": 2010,
@@ -3066,6 +3227,7 @@
       "directors": [
         "Mrzyk & Moriceau"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2010",
       "sortDate": "2010-03-09",
       "year": 2010,
@@ -3088,6 +3250,7 @@
       "directors": [
         "Rhett Dashwood"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2010",
       "sortDate": "2010-03-01",
       "year": 2010,
@@ -3106,8 +3269,10 @@
       "song": "This Too Shall Pass",
       "director": "Damian Kulash & Brian L. Perkins",
       "directors": [
-        "Damian Kulash & Brian L. Perkins"
+        "Damian Kulash",
+        "Brian L. Perkins"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2010",
       "sortDate": "2010-01-08",
       "year": 2010,
@@ -3131,6 +3296,7 @@
       "directors": [
         "We Buy Your Kids"
       ],
+      "directorAffiliate": "Mighty Nice",
       "dateDisplay": "February 2010",
       "sortDate": "2010-02-09",
       "year": 2010,
@@ -3153,6 +3319,7 @@
       "directors": [
         "Sean Pecknold"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2009",
       "sortDate": "2009-09-14",
       "year": 2009,
@@ -3173,6 +3340,7 @@
       "directors": [
         "Pomp&Clout"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2009",
       "sortDate": "2009-09-09",
       "year": 2009,
@@ -3193,8 +3361,10 @@
       "song": "The Parachute Ending",
       "director": "Will Sweeney & Steve Scott",
       "directors": [
-        "Will Sweeney & Steve Scott"
+        "Will Sweeney",
+        "Steve Scott"
       ],
+      "directorAffiliate": "Not To Scale",
       "dateDisplay": "June 2009",
       "sortDate": "2009-06-03",
       "year": 2009,
@@ -3216,6 +3386,7 @@
       "directors": [
         "Dirk Rauscher"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2009",
       "sortDate": "2009-05-26",
       "year": 2009,
@@ -3236,6 +3407,7 @@
       "directors": [
         "Herraiz Soto & Co."
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2009",
       "sortDate": "2009-05-18",
       "year": 2009,
@@ -3256,6 +3428,7 @@
       "directors": [
         "Mathematic"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2009",
       "sortDate": "2009-05-19",
       "year": 2009,
@@ -3276,6 +3449,7 @@
       "directors": [
         "David Wilson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2009",
       "sortDate": "2009-04-22",
       "year": 2009,
@@ -3297,6 +3471,7 @@
       "directors": [
         "Ray Tintori"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2009",
       "sortDate": "2009-02-19",
       "year": 2009,
@@ -3319,6 +3494,7 @@
       "directors": [
         "Clemens Habicht"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2009",
       "sortDate": "2009-01-22",
       "year": 2009,
@@ -3341,6 +3517,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2008",
       "sortDate": "2008-12-07",
       "year": 2008,
@@ -3363,6 +3540,7 @@
       "directors": [
         "Alex & Martin"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2003",
       "sortDate": "2003-02-17",
       "year": 2003,
@@ -3382,10 +3560,13 @@
       "id": "ok-go-this-too-shall-pass-rube-goldberg",
       "artist": "OK GO",
       "song": "This Too Shall Pass (Rube Goldberg)",
-      "director": "James Frost",
+      "director": "James Frost, OK Go & Syyn Labs",
       "directors": [
-        "James Frost"
+        "James Frost",
+        "OK Go",
+        "Syyn Labs"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2010",
       "sortDate": "2010-03-02",
       "year": 2010,
@@ -3408,6 +3589,7 @@
       "directors": [
         "Daniels"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2011",
       "sortDate": "2011-09-06",
       "year": 2011,
@@ -3430,6 +3612,7 @@
       "directors": [
         "Paul Trillo"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2018",
       "sortDate": "2018-06-08",
       "year": 2018,
@@ -3450,8 +3633,10 @@
       "song": "Another Love",
       "director": "Michael Langan & Najeeb Tarazi",
       "directors": [
-        "Michael Langan & Najeeb Tarazi"
+        "Michael Langan",
+        "Najeeb Tarazi"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2015",
       "sortDate": "2015-12-01",
       "year": 2015,
@@ -3473,8 +3658,10 @@
       "song": "COMING OF AGE",
       "director": "Helen Morales & METTE",
       "directors": [
-        "Helen Morales & METTE"
+        "Helen Morales",
+        "METTE"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2026",
       "sortDate": "2026-04-08",
       "year": 2026,
@@ -3494,8 +3681,10 @@
       "song": "A Stone Only Rolls Downhill",
       "director": "Damian Kulash & Chris Buongiorno",
       "directors": [
-        "Damian Kulash & Chris Buongiorno"
+        "Damian Kulash",
+        "Chris Buongiorno"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2025",
       "sortDate": "2025-01-27",
       "year": 2025,
@@ -3515,8 +3704,11 @@
       "song": "Love",
       "director": "Damian Kulash, Aaron Duffy, & Miguel Espada",
       "directors": [
-        "Damian Kulash, Aaron Duffy, & Miguel Espada"
+        "Damian Kulash",
+        "Aaron Duffy",
+        "Miguel Espada"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2025",
       "sortDate": "2025-04-17",
       "year": 2025,
@@ -3541,6 +3733,7 @@
       "directors": [
         "in/out"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2026",
       "sortDate": "2026-06-09",
       "year": 2026,
@@ -3562,6 +3755,7 @@
       "directors": [
         "Daniels"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2010",
       "sortDate": "2010-04-01",
       "year": 2010,
@@ -3588,6 +3782,7 @@
       "directors": [
         "Daniels"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2010",
       "sortDate": "2010-07-01",
       "year": 2010,
@@ -3612,6 +3807,7 @@
       "directors": [
         "Romain Gavras"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2026",
       "sortDate": "2026-04-24",
       "year": 2026,
@@ -3633,6 +3829,7 @@
       "directors": [
         "Kijek / Adamski"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2013",
       "sortDate": "2013-01-21",
       "year": 2013,
@@ -3654,6 +3851,7 @@
       "directors": [
         "Filip Sterckx"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2012",
       "sortDate": "2012-07-10",
       "year": 2012,
@@ -3675,6 +3873,7 @@
       "directors": [
         "Lernert & Sander"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2015",
       "sortDate": "2015-09-17",
       "year": 2015,
@@ -3695,6 +3894,7 @@
       "directors": [
         "Kim Pimmel"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2015",
       "sortDate": "2015-03-16",
       "year": 2015,
@@ -3716,6 +3916,7 @@
       "directors": [
         "Hiérophante"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-10",
       "year": 2016,
@@ -3724,7 +3925,7 @@
       "vimeoId": "151297208",
       "thumbnailUrl": "https://img.youtube.com/vi/XqwbqxzsA2g/hqdefault.jpg",
       "tags": [
-        "persistence"
+        "match cut"
       ],
       "embedBroken": false
     },
@@ -3736,6 +3937,7 @@
       "directors": [
         "Hannes Knutsson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2016",
       "sortDate": "2016-03-01",
       "year": 2016,
@@ -3758,6 +3960,7 @@
       "directors": [
         "Hideki Inaba"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2015",
       "sortDate": "2015-10-17",
       "year": 2015,
@@ -3781,6 +3984,7 @@
       "directors": [
         "Ksawery Kirklewski"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2021",
       "sortDate": "2021-07-13",
       "year": 2021,
@@ -3803,6 +4007,7 @@
       "directors": [
         "Michael McAfee"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2023",
       "sortDate": "2023-09-06",
       "year": 2023,
@@ -3825,6 +4030,7 @@
       "directors": [
         "Julien Lassort"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2015",
       "sortDate": "2015-04-08",
       "year": 2015,
@@ -3847,6 +4053,7 @@
       "directors": [
         "Pablo Maestres"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2017",
       "sortDate": "2017-05-10",
       "year": 2017,
@@ -3869,6 +4076,7 @@
       "directors": [
         "Los Pérez"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2015",
       "sortDate": "2015-09-01",
       "year": 2015,
@@ -3887,10 +4095,12 @@
       "id": "hook-n-sling-feat-far-east-movement-break-yourself",
       "artist": "Hook N Sling feat. Far East Movement",
       "song": "Break Yourself",
-      "director": "Nelson De Castro, Carlos López Estrada",
+      "director": "Nelson De Castro & Carlos López Estrada",
       "directors": [
-        "Nelson De Castro, Carlos López Estrada"
+        "Nelson De Castro",
+        "Carlos López Estrada"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2015",
       "sortDate": "2015-05-05",
       "year": 2015,
@@ -3912,6 +4122,7 @@
       "directors": [
         "Thomas Porthé"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2015",
       "sortDate": "2015-04-03",
       "year": 2015,
@@ -3937,6 +4148,7 @@
       "directors": [
         "Drew Tyndell"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-14",
       "year": 2016,
@@ -3949,7 +4161,7 @@
         "abstract",
         "soundsync"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "miike-snow-genghis-khan": {
       "id": "miike-snow-genghis-khan",
@@ -3959,6 +4171,7 @@
       "directors": [
         "Ninian Doff"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-12",
       "year": 2016,
@@ -3982,6 +4195,7 @@
       "directors": [
         "James Lees"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2017",
       "sortDate": "2017-11-02",
       "year": 2017,
@@ -4005,6 +4219,7 @@
       "directors": [
         "CANADA"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2010",
       "sortDate": "2010-09-24",
       "year": 2010,
@@ -4026,6 +4241,7 @@
       "directors": [
         "Roger Guàrdia"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2015",
       "sortDate": "2015-09-10",
       "year": 2015,
@@ -4050,6 +4266,7 @@
       "directors": [
         "Kevin McGloughlin"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2016",
       "sortDate": "2016-08-12",
       "year": 2016,
@@ -4074,6 +4291,7 @@
       "directors": [
         "Michel Gondry"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2004",
       "sortDate": "2004-02-10",
       "year": 2004,
@@ -4096,6 +4314,7 @@
       "directors": [
         "Jonathan Glazer"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 1996",
       "sortDate": "1996-09-01",
       "year": 1996,
@@ -4117,6 +4336,7 @@
       "directors": [
         "John Bollozos"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2011",
       "sortDate": "2011-10-11",
       "year": 2011,
@@ -4133,10 +4353,12 @@
       "id": "son-of-kick-playing-the-villain",
       "artist": "Son Of Kick",
       "song": "Playing The Villain",
-      "director": "Matt Devine / The Glue Society",
+      "director": "Matt Devine & The Glue Society",
       "directors": [
-        "Matt Devine / The Glue Society"
+        "Matt Devine",
+        "The Glue Society"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2011",
       "sortDate": "2011-04-03",
       "year": 2011,
@@ -4145,6 +4367,7 @@
       "vimeoId": "24450741",
       "thumbnailUrl": "https://img.youtube.com/vi/QeWXGy8Uack/hqdefault.jpg",
       "tags": [
+        "cars",
         "kids",
         "narrative"
       ],
@@ -4158,6 +4381,7 @@
       "directors": [
         "Céline Desrumaux"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2011",
       "sortDate": "2011-09-01",
       "year": 2011,
@@ -4179,6 +4403,7 @@
       "directors": [
         "Hiro Murai"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2015",
       "sortDate": "2015-01-09",
       "year": 2015,
@@ -4202,6 +4427,7 @@
       "directors": [
         "Tom Noakes"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2016",
       "sortDate": "2016-08-26",
       "year": 2016,
@@ -4224,6 +4450,7 @@
       "directors": [
         "Zak Razvi"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2016",
       "sortDate": "2016-04-29",
       "year": 2016,
@@ -4244,6 +4471,7 @@
       "directors": [
         "Hiro Murai"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-28",
       "year": 2016,
@@ -4267,6 +4495,7 @@
       "directors": [
         "Winston Hacking"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2015",
       "sortDate": "2015-11-22",
       "year": 2015,
@@ -4289,6 +4518,7 @@
       "directors": [
         "Ariel Costa"
       ],
+      "directorAffiliate": "BlinkMyBrain",
       "dateDisplay": "August 2016",
       "sortDate": "2016-08-12",
       "year": 2016,
@@ -4309,6 +4539,7 @@
       "directors": [
         "Julien Vallée & Eve Duhamel"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2017",
       "sortDate": "2017-06-22",
       "year": 2017,
@@ -4331,6 +4562,7 @@
       "directors": [
         "Oscar Hudson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "November 2015",
       "sortDate": "2015-11-09",
       "year": 2015,
@@ -4353,6 +4585,7 @@
       "directors": [
         "Winston Hacking"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2016",
       "sortDate": "2016-06-01",
       "year": 2016,
@@ -4373,6 +4606,7 @@
       "directors": [
         "Nathan Johnson"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "May 2015",
       "sortDate": "2015-05-05",
       "year": 2015,
@@ -4394,6 +4628,7 @@
       "directors": [
         "Max Ksjonda"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2017",
       "sortDate": "2017-08-23",
       "year": 2017,
@@ -4417,6 +4652,7 @@
       "directors": [
         "Davis Silis"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2016",
       "sortDate": "2016-07-27",
       "year": 2016,
@@ -4437,8 +4673,10 @@
       "song": "Phenom",
       "director": "Erin S. Murray & Jeremy Schaulin-Rioux",
       "directors": [
-        "Erin S. Murray & Jeremy Schaulin-Rioux"
+        "Erin S. Murray",
+        "Jeremy Schaulin-Rioux"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2020",
       "sortDate": "2020-04-03",
       "year": 2020,
@@ -4459,6 +4697,7 @@
       "directors": [
         "Chloe Hayward"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2016",
       "sortDate": "2016-03-01",
       "year": 2016,
@@ -4480,6 +4719,7 @@
       "directors": [
         "Mixtape Club"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2011",
       "sortDate": "2011-04-02",
       "year": 2011,
@@ -4501,6 +4741,7 @@
       "directors": [
         "Patrick Daughters"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2003",
       "sortDate": "2003-09-01",
       "year": 2003,
@@ -4519,8 +4760,10 @@
       "song": "Lessons Learned",
       "director": "Taylor Cohen and Otto Arsenault",
       "directors": [
-        "Taylor Cohen and Otto Arsenault"
+        "Taylor Cohen",
+        "Otto Arsenault"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2009",
       "sortDate": "2009-04-21",
       "year": 2009,
@@ -4542,6 +4785,7 @@
       "directors": [
         "Jane Qian"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "September 2017",
       "sortDate": "2017-09-13",
       "year": 2017,
@@ -4562,6 +4806,7 @@
       "directors": [
         "Ewan Jones Morris"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2015",
       "sortDate": "2015-01-29",
       "year": 2015,
@@ -4582,6 +4827,7 @@
       "directors": [
         "Fidel Ruiz-Healy"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "March 2016",
       "sortDate": "2016-03-01",
       "year": 2016,
@@ -4590,6 +4836,7 @@
       "vimeoId": "163621515",
       "thumbnailUrl": "https://img.youtube.com/vi/70Zt5PP1Ke8/hqdefault.jpg",
       "tags": [
+        "crime",
         "long take",
         "narrative",
         "slowmo"
@@ -4604,6 +4851,7 @@
       "directors": [
         "Chris Milk"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2010",
       "sortDate": "2010-08-30",
       "year": 2010,
@@ -4625,6 +4873,7 @@
       "directors": [
         "that go"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "June 2008",
       "sortDate": "2008-06-15",
       "year": 2008,
@@ -4649,6 +4898,7 @@
       "directors": [
         "that go"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "August 2008",
       "sortDate": "2008-08-11",
       "year": 2008,
@@ -4672,6 +4922,7 @@
       "directors": [
         "Alex Smith"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2016",
       "sortDate": "2016-04-08",
       "year": 2016,
@@ -4693,6 +4944,7 @@
       "directors": [
         "Emmanuel Ho"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "October 2006",
       "sortDate": "2006-10-12",
       "year": 2006,
@@ -4716,6 +4968,7 @@
       "directors": [
         "Sean Pecknold"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2008",
       "sortDate": "2008-07-07",
       "year": 2008,
@@ -4739,6 +4992,7 @@
       "directors": [
         "Sean Pecknold"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "February 2009",
       "sortDate": "2009-02-05",
       "year": 2009,
@@ -4761,6 +5015,7 @@
       "directors": [
         "Ted Malmros"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2006",
       "sortDate": "2006-01-01",
       "year": 2006,
@@ -4782,6 +5037,7 @@
       "directors": [
         "Eric Epstein"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "January 2011",
       "sortDate": "2011-01-01",
       "year": 2011,
@@ -4803,6 +5059,7 @@
       "directors": [
         "Jovan Todorović"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2023",
       "sortDate": "2023-07-21",
       "year": 2023,
@@ -4823,6 +5080,7 @@
       "directors": [
         "Ninian Doff"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "July 2011",
       "sortDate": "2011-07-19",
       "year": 2011,
@@ -4845,6 +5103,7 @@
       "directors": [
         "Michael Langan"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "December 2010",
       "sortDate": "2010-12-17",
       "year": 2010,
@@ -4854,7 +5113,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/4LAffRtZG5w/maxresdefault.jpg",
       "tags": [
         "editing",
-        "persistence"
+        "match cut"
       ],
       "embedBroken": false
     },
@@ -4866,6 +5125,7 @@
       "directors": [
         "Nico Casavecchia"
       ],
+      "directorAffiliate": null,
       "dateDisplay": "April 2013",
       "sortDate": "2013-04-30",
       "year": 2013,
@@ -4875,13 +5135,307 @@
       "thumbnailUrl": "https://img.youtube.com/vi/oSCX78-8-q0/maxresdefault.jpg",
       "tags": [
         "machine",
+        "macro",
         "stop motion"
+      ],
+      "embedBroken": false
+    },
+    "no-te-va-gustar-la-puerta-de-atras": {
+      "id": "no-te-va-gustar-la-puerta-de-atras",
+      "artist": "No Te Va Gustar",
+      "song": "La Puerta De Atras",
+      "director": "Pablo Marcovecchio",
+      "directors": [
+        "Pablo Marcovecchio"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2016",
+      "sortDate": "2016-07-18",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "asTK_oiOJXo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/asTK_oiOJXo/maxresdefault.jpg",
+      "tags": [
+        "3D printing"
+      ],
+      "embedBroken": false
+    },
+    "bj-rk-triumph-of-a-heart": {
+      "id": "bj-rk-triumph-of-a-heart",
+      "artist": "Björk",
+      "song": "Triumph of a Heart",
+      "director": "Spike Jonze",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2005",
+      "sortDate": "2005-01-21",
+      "year": 2005,
+      "provider": "youtube",
+      "youtubeId": "MjRNFaNUfr4",
+      "vimeoId": "185435815",
+      "thumbnailUrl": "https://img.youtube.com/vi/MjRNFaNUfr4/maxresdefault.jpg",
+      "tags": [
+        "cats",
+        "matchmove",
+        "narrative",
+        "surreal",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "self-runaway": {
+      "id": "self-runaway",
+      "artist": "sElf",
+      "song": "Runaway",
+      "director": "Ballard C. Boyd",
+      "directors": [
+        "Ballard C. Boyd"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2014",
+      "sortDate": "2014-07-11",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "IwAIwRrs6xs",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/IwAIwRrs6xs/maxresdefault.jpg",
+      "tags": [
+        "cats"
+      ],
+      "embedBroken": false
+    },
+    "ok-go-white-knuckles": {
+      "id": "ok-go-white-knuckles",
+      "artist": "OK Go",
+      "song": "White Knuckles",
+      "director": "Trish Sie & OK Go",
+      "directors": [
+        "Trish Sie",
+        "OK Go"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "September 2010",
+      "sortDate": "2010-09-19",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "nHlJODYBLKs",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/nHlJODYBLKs/maxresdefault.jpg",
+      "tags": [
+        "dogs",
+        "long take"
+      ],
+      "embedBroken": false
+    },
+    "the-chemical-brothers-weve-got-to-try": {
+      "id": "the-chemical-brothers-weve-got-to-try",
+      "artist": "The Chemical Brothers",
+      "song": "We’ve Got To Try",
+      "director": "Ninian Doff",
+      "directors": [
+        "Ninian Doff"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2019",
+      "sortDate": "2019-03-03",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "mRfSM-lv55I",
+      "vimeoId": "377571865",
+      "thumbnailUrl": "https://img.youtube.com/vi/mRfSM-lv55I/maxresdefault.jpg",
+      "tags": [
+        "dogs",
+        "narrative",
+        "space",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "best-coast-crazy-for-you": {
+      "id": "best-coast-crazy-for-you",
+      "artist": "Best Coast",
+      "song": "Crazy For You",
+      "director": "Bob Harlow",
+      "directors": [
+        "Bob Harlow"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2011",
+      "sortDate": "2011-07-29",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "XCqjFxUMU6Q",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/XCqjFxUMU6Q/maxresdefault.jpg",
+      "tags": [
+        "cats"
+      ],
+      "embedBroken": false
+    },
+    "thirty-seconds-to-mars-kings-and-queens": {
+      "id": "thirty-seconds-to-mars-kings-and-queens",
+      "artist": "Thirty Seconds To Mars",
+      "song": "Kings and Queens",
+      "director": "Jared Leto & Bartholomew Cubbins",
+      "directors": [
+        "Jared Leto",
+        "Bartholomew Cubbins"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "November 2009",
+      "sortDate": "2009-11-09",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "hTMrlHHVx8A",
+      "vimeoId": "10790784",
+      "thumbnailUrl": "https://img.youtube.com/vi/hTMrlHHVx8A/maxresdefault.jpg",
+      "tags": [
+        "bike",
+        "crowd"
+      ],
+      "embedBroken": false
+    },
+    "bob-dylan-subterranean-homesick-blues": {
+      "id": "bob-dylan-subterranean-homesick-blues",
+      "artist": "Bob Dylan",
+      "song": "Subterranean Homesick Blues",
+      "director": "D.A. Pennebaker",
+      "directors": [
+        "D.A. Pennebaker"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 1965",
+      "sortDate": "1965-05-08",
+      "year": 1965,
+      "provider": "youtube",
+      "youtubeId": "MGxjIBEZvx0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/MGxjIBEZvx0/maxresdefault.jpg",
+      "tags": [
+        "retro",
+        "textiles"
+      ],
+      "embedBroken": false
+    },
+    "y-n-richkids-my-bike": {
+      "id": "y-n-richkids-my-bike",
+      "artist": "Y.N.RichKids",
+      "song": "My Bike",
+      "director": "Ben Hughes",
+      "directors": [
+        "Ben Hughes"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2013",
+      "sortDate": "2013-05-09",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "_rSH5K5LlE8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/_rSH5K5LlE8/maxresdefault.jpg",
+      "tags": [
+        "bike",
+        "joy",
+        "kids"
+      ],
+      "embedBroken": false
+    },
+    "ifht-ft-micayla-gatto-ferda-girls-humble-parody": {
+      "id": "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
+      "artist": "IFHT ft. Micayla Gatto",
+      "song": "Ferda Girls (HUMBLE. Parody)",
+      "director": "IFHT Films",
+      "directors": [
+        "IFHT Films"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2017",
+      "sortDate": "2017-08-15",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "MvHQuU5WH-I",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/MvHQuU5WH-I/maxresdefault.jpg",
+      "tags": [
+        "bike",
+        "sports",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "the-verve-bitter-sweet-symphony": {
+      "id": "the-verve-bitter-sweet-symphony",
+      "artist": "The Verve",
+      "song": "Bitter Sweet Symphony",
+      "director": "Walter Stern",
+      "directors": [
+        "Walter Stern"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 1997",
+      "sortDate": "1997-06-11",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "1lyu1KKwC74",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/1lyu1KKwC74/maxresdefault.jpg",
+      "tags": [
+        "walk"
+      ],
+      "embedBroken": false
+    },
+    "m-i-a-bad-girls": {
+      "id": "m-i-a-bad-girls",
+      "artist": "M.I.A.",
+      "song": "Bad Girls",
+      "director": "Romain Gavras",
+      "directors": [
+        "Romain Gavras"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2012",
+      "sortDate": "2012-01-31",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "2uYs0gJD-LE",
+      "vimeoId": "124463108",
+      "thumbnailUrl": "https://img.youtube.com/vi/2uYs0gJD-LE/maxresdefault.jpg",
+      "tags": [
+        "cars",
+        "confidence",
+        "desert"
+      ],
+      "embedBroken": false
+    },
+    "coldplay-the-hardest-part": {
+      "id": "coldplay-the-hardest-part",
+      "artist": "Coldplay",
+      "song": "The Hardest Part",
+      "director": "Mary Wigmore",
+      "directors": [
+        "Mary Wigmore"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2006",
+      "sortDate": "2006-04-10",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "WAGbq3A9HfA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/WAGbq3A9HfA/maxresdefault.jpg",
+      "tags": [
+        "dance",
+        "retro"
       ],
       "embedBroken": false
     }
   },
   "playlists": {
     "timeline": [
+      "bob-dylan-subterranean-homesick-blues",
       "queen-bohemian-rhapsody",
       "michael-jackson-billie-jean",
       "michael-jackson-thriller",
@@ -4903,6 +5457,7 @@
       "jamiroquai-virtual-insanity",
       "blur-song-2",
       "missy-elliott-the-rain-supa-dupa-fly",
+      "the-verve-bitter-sweet-symphony",
       "bj-rk-bachelorette",
       "air-kelly-watch-the-stars",
       "fatboy-slim-praise-you",
@@ -4929,12 +5484,14 @@
       "outkast-hey-ya",
       "stereogram-walkie-talkie-man",
       "devendra-banhart-a-ribbon",
+      "bj-rk-triumph-of-a-heart",
       "r-kelly-trapped-in-the-closet",
       "cornelius-fit-song",
       "peter-bjorn-and-john-young-folks",
       "the-rapture-whoo-alright-yeah-uh-huh",
       "vitalic-poney-part-1-birds",
       "gnarls-barkley-crazy",
+      "coldplay-the-hardest-part",
       "muse-knights-of-cydonia",
       "ok-go-here-it-goes-again",
       "the-horrors-sheena-is-a-parasite",
@@ -4971,6 +5528,7 @@
       "coldplay-strawberry-swing",
       "boys-noize-jeffer",
       "grizzly-bear-while-you-wait-for-the-others",
+      "thirty-seconds-to-mars-kings-and-queens",
       "lady-gaga-bad-romance",
       "the-presets-girl-and-the-sea",
       "ok-go-this-too-shall-pass",
@@ -4983,6 +5541,7 @@
       "blockhead-the-music-scene",
       "the-hundred-in-the-hands-pigeons",
       "arcade-fire-we-used-to-wait",
+      "ok-go-white-knuckles",
       "el-guincho-bombay",
       "uffie-difficult",
       "scissor-sisters-invisible-light",
@@ -4995,6 +5554,7 @@
       "hooray-for-earth-true-loves-cereal-spiller-remix",
       "fulton-lights-staring-out-the-window",
       "ok-go-all-is-not-lost",
+      "best-coast-crazy-for-you",
       "apparat-granular-bastard",
       "battles-my-machines",
       "casey-veggies-euphoria-ii",
@@ -5003,6 +5563,7 @@
       "marian-ruzzi-y-sr-amable-una-pieza-mas",
       "fleet-foxes-the-shrine-an-argument",
       "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+      "m-i-a-bad-girls",
       "the-shins-simple-song",
       "royksopp-so-easy-unofficial-video",
       "willow-sweater",
@@ -5013,12 +5574,14 @@
       "iron-wine-joy",
       "light-light-kilo-do-not-touch",
       "karl-westman-ibm-research-a-boy-and-his-atom",
+      "y-n-richkids-my-bike",
       "vial-of-sound-a-lifetime-passed",
       "boozoo-bajou-jan-mayen",
       "de-staat-witch-doctor",
       "dj-snake-lil-jon-turn-down-for-what",
       "hundred-waters-cavity",
       "ok-go-the-writings-on-the-wall",
+      "self-runaway",
       "sarh-u-and-i",
       "ok-go-i-wont-let-you-down",
       "panda-bear-boys-latin",
@@ -5054,6 +5617,7 @@
       "frances-dont-worry-about-me",
       "coldplay-up-up",
       "andy-shauf-the-worst-in-you",
+      "no-te-va-gustar-la-puerta-de-atras",
       "jones-melt",
       "green-day-bang-bang",
       "max-cooper-waves",
@@ -5065,6 +5629,7 @@
       "polo-pan-coeur-crois",
       "milk-bone-pressure",
       "washed-out-floating-by",
+      "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
       "5nizza-samoliot",
       "so-much-light-full-body-mirror",
       "thunder-tillman-alignments",
@@ -5078,6 +5643,7 @@
       "the-peach-kings-dirty-secret",
       "bas-ft-correy-c-fragrance",
       "mitski-a-pearl",
+      "the-chemical-brothers-weve-got-to-try",
       "the-peach-kings-without-you",
       "thao-the-get-down-stay-down-phenom",
       "duck-sauce-mesmerize",
@@ -5092,7 +5658,7 @@
       "jungle-back-on-74",
       "max-cooper-feat-kathrin-deboer-with-me",
       "jacques-absolve",
-      "unknown-t-featuring-loyle-carner-hocus-pocus",
+      "unknown-t-feat-loyle-carner-hocus-pocus",
       "the-smile-friend-of-a-friend",
       "tierra-whack-shower-song",
       "fred-again-lil-yachty-and-overmono-stayinit",
@@ -5108,6 +5674,25 @@
       "balming-tiger-oui"
     ],
     "tags": {
+      "retro": [
+        "bob-dylan-subterranean-homesick-blues",
+        "smashing-pumpkins-tonight-tonight",
+        "the-avalanches-frontier-psychiatrist",
+        "outkast-hey-ya",
+        "peter-bjorn-and-john-young-folks",
+        "coldplay-the-hardest-part",
+        "muse-knights-of-cydonia",
+        "snoop-dogg-sensual-seduction",
+        "miike-snow-genghis-khan",
+        "olympia-smoke-signals"
+      ],
+      "textiles": [
+        "bob-dylan-subterranean-homesick-blues",
+        "stereogram-walkie-talkie-man",
+        "devendra-banhart-a-ribbon",
+        "fleet-foxes-white-winter-hymnal",
+        "son-lux-change-is-everything"
+      ],
       "confidence": [
         "queen-bohemian-rhapsody",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
@@ -5121,6 +5706,7 @@
         "muse-knights-of-cydonia",
         "beyonc-single-ladies-put-a-ring-on-it",
         "lady-gaga-bad-romance",
+        "m-i-a-bad-girls",
         "childish-gambino-sober",
         "miike-snow-genghis-khan",
         "beyonc-formation",
@@ -5141,6 +5727,7 @@
         "jamiroquai-virtual-insanity",
         "fatboy-slim-praise-you",
         "fatboy-slim-weapon-of-choice",
+        "coldplay-the-hardest-part",
         "ok-go-here-it-goes-again",
         "feist-1234",
         "r2j2-work-it-out",
@@ -5222,6 +5809,9 @@
         "vitalic-poney-part-1-birds",
         "thunderheist-jerk-it"
       ],
+      "jets": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem"
+      ],
       "wut": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "the-darkness-i-believe-in-a-thing-called-love",
@@ -5290,7 +5880,7 @@
         "janelle-mon-e-pynk",
         "janelle-mon-e-i-like-that",
         "paul-kalkbrenner-schwer",
-        "unknown-t-featuring-loyle-carner-hocus-pocus",
+        "unknown-t-feat-loyle-carner-hocus-pocus",
         "tierra-whack-shower-song"
       ],
       "gothy": [
@@ -5324,6 +5914,7 @@
       "crowd": [
         "bj-rk-its-oh-so-quiet",
         "feist-1234",
+        "thirty-seconds-to-mars-kings-and-queens",
         "ok-go-this-too-shall-pass",
         "psy-gangnam-style",
         "de-staat-witch-doctor",
@@ -5337,16 +5928,19 @@
       ],
       "narrative": [
         "radiohead-just",
+        "bj-rk-triumph-of-a-heart",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
         "mount-moriah-precita",
         "frances-dont-worry-about-me",
         "andy-shauf-the-worst-in-you",
-        "benjamin-booker-believe"
+        "benjamin-booker-believe",
+        "the-chemical-brothers-weve-got-to-try"
       ],
       "surreal": [
         "radiohead-just",
         "bj-rk-bachelorette",
+        "bj-rk-triumph-of-a-heart",
         "cornelius-fit-song",
         "ogiyahagi-i-love-your-face",
         "grizzly-bear-knife",
@@ -5377,20 +5971,10 @@
         "the-peach-kings-without-you",
         "max-cooper-feat-kathrin-deboer-with-me",
         "jacques-absolve",
-        "unknown-t-featuring-loyle-carner-hocus-pocus",
+        "unknown-t-feat-loyle-carner-hocus-pocus",
         "mette-bet",
         "bonobo-me-and-you",
         "balming-tiger-oui"
-      ],
-      "retro": [
-        "smashing-pumpkins-tonight-tonight",
-        "the-avalanches-frontier-psychiatrist",
-        "outkast-hey-ya",
-        "peter-bjorn-and-john-young-folks",
-        "muse-knights-of-cydonia",
-        "snoop-dogg-sensual-seduction",
-        "miike-snow-genghis-khan",
-        "olympia-smoke-signals"
       ],
       "womxn director": [
         "smashing-pumpkins-tonight-tonight",
@@ -5406,6 +5990,7 @@
         "iron-wine-joy",
         "ok-go-upside-down-inside-out",
         "beyonc-formation",
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
         "janelle-mon-e-pynk",
         "janelle-mon-e-i-like-that",
         "mitski-a-pearl",
@@ -5425,6 +6010,10 @@
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
+      "walk": [
+        "the-verve-bitter-sweet-symphony",
+        "uffie-difficult"
+      ],
       "slowmo": [
         "air-kelly-watch-the-stars",
         "vitalic-poney-part-1-birds",
@@ -5434,7 +6023,8 @@
         "5nizza-samoliot"
       ],
       "sports": [
-        "air-kelly-watch-the-stars"
+        "air-kelly-watch-the-stars",
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
       ],
       "lofi brilliance": [
         "fatboy-slim-praise-you",
@@ -5476,6 +6066,7 @@
         "ok-go-this-too-shall-pass",
         "paul-dempsey-bats",
         "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-white-knuckles",
         "uffie-difficult",
         "battles-my-machines",
         "ok-go-the-writings-on-the-wall",
@@ -5574,9 +6165,11 @@
       ],
       "vfx": [
         "kylie-minogue-come-into-my-world",
+        "bj-rk-triumph-of-a-heart",
         "bj-rk-wanderlust",
         "fm-belfast-underwear",
         "the-hundred-in-the-hands-pigeons",
+        "uffie-difficult",
         "memory-tapes-yes-i-know",
         "fulton-lights-staring-out-the-window",
         "friendly-fires-hurting",
@@ -5586,6 +6179,7 @@
         "the-chemical-brothers-wide-open",
         "coldplay-up-up",
         "5nizza-samoliot",
+        "the-chemical-brothers-weve-got-to-try",
         "max-cooper-feat-kathrin-deboer-with-me",
         "mette-bet"
       ],
@@ -5619,6 +6213,7 @@
       "kids": [
         "mickey-3d-respire",
         "son-of-kick-playing-the-villain",
+        "y-n-richkids-my-bike",
         "tigerilla-tulips",
         "bomba-est-reo-soy-yo",
         "young-thug-wyclef-jean",
@@ -5652,18 +6247,24 @@
         "muse-knights-of-cydonia",
         "birdy-nam-nam-the-parachute-ending",
         "apparat-granular-bastard",
-        "vessels-4am"
+        "vessels-4am",
+        "the-chemical-brothers-weve-got-to-try"
       ],
       "claps": [
         "outkast-hey-ya",
         "bat-for-lashes-whats-a-girl-to-do",
         "brite-futures-sophisticated-side-ponytail"
       ],
-      "textiles": [
-        "stereogram-walkie-talkie-man",
-        "devendra-banhart-a-ribbon",
-        "fleet-foxes-white-winter-hymnal",
-        "son-lux-change-is-everything"
+      "cats": [
+        "bj-rk-triumph-of-a-heart",
+        "best-coast-crazy-for-you",
+        "self-runaway",
+        "de-jeugd-van-tegenwoordig-manon"
+      ],
+      "matchmove": [
+        "bj-rk-triumph-of-a-heart",
+        "the-rapture-whoo-alright-yeah-uh-huh",
+        "fulton-lights-staring-out-the-window"
       ],
       "illustration": [
         "peter-bjorn-and-john-young-folks",
@@ -5690,12 +6291,10 @@
         "washed-out-floating-by",
         "dayglow-something"
       ],
-      "matchmove": [
-        "the-rapture-whoo-alright-yeah-uh-huh",
-        "fulton-lights-staring-out-the-window"
-      ],
       "dogs": [
-        "vitalic-poney-part-1-birds"
+        "vitalic-poney-part-1-birds",
+        "ok-go-white-knuckles",
+        "the-chemical-brothers-weve-got-to-try"
       ],
       "jump": [
         "vitalic-poney-part-1-birds",
@@ -5716,6 +6315,10 @@
         "beatsofreen-slowly-rising",
         "washed-out-floating-by"
       ],
+      "desert": [
+        "muse-knights-of-cydonia",
+        "m-i-a-bad-girls"
+      ],
       "horses": [
         "muse-knights-of-cydonia",
         "charles-x-can-you-do-it"
@@ -5734,7 +6337,10 @@
       ],
       "bike": [
         "bat-for-lashes-whats-a-girl-to-do",
-        "bomba-est-reo-soy-yo"
+        "thirty-seconds-to-mars-kings-and-queens",
+        "y-n-richkids-my-bike",
+        "bomba-est-reo-soy-yo",
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
       ],
       "keytar": [
         "snoop-dogg-sensual-seduction"
@@ -5785,6 +6391,7 @@
       "joy": [
         "brite-futures-sophisticated-side-ponytail",
         "huma-huma-hello-i-like-you",
+        "y-n-richkids-my-bike",
         "mette-mamas-eyes"
       ],
       "fluid dynamics": [
@@ -5860,9 +6467,14 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
-      "persistence": [
+      "match cut": [
         "michael-langan-dahlia",
-        "hi-rophante-clich-s"
+        "hi-rophante-clich-s",
+        "mette-van-gogh"
+      ],
+      "cars": [
+        "son-of-kick-playing-the-villain",
+        "m-i-a-bad-girls"
       ],
       "splitscreen": [
         "casey-veggies-euphoria-ii",
@@ -5872,6 +6484,10 @@
         "shugo-tokumaru-katachi",
         "boozoo-bajou-jan-mayen",
         "jones-melt"
+      ],
+      "macro": [
+        "karl-westman-ibm-research-a-boy-and-his-atom",
+        "a-love-like-pi-jack-and-the-giant"
       ],
       "optical illusion": [
         "ok-go-the-writings-on-the-wall",
@@ -5885,21 +6501,22 @@
         "ok-go-i-wont-let-you-down",
         "vessels-4am"
       ],
-      "macro": [
-        "a-love-like-pi-jack-and-the-giant"
-      ],
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
-      ],
-      "cats": [
-        "de-jeugd-van-tegenwoordig-manon"
       ],
       "architecture": [
         "drake-hotline-bling",
         "dua-lipa-illusion"
       ],
+      "crime": [
+        "mount-moriah-precita"
+      ],
       "marbles": [
         "wintergatan-marble-machine"
+      ],
+      "3D printing": [
+        "no-te-va-gustar-la-puerta-de-atras",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "flute": [
         "bomba-est-reo-soy-yo"
@@ -5908,19 +6525,14 @@
         "bas-ft-correy-c-fragrance",
         "ok-go-a-stone-only-rolls-downhill"
       ],
-      "3D printing": [
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
-      ],
-      "match cut": [
-        "mette-mamas-eyes",
-        "mette-van-gogh",
-        "mette-bet"
-      ],
       "ai": [
         "jacques-absolve"
       ],
       "hydraulics": [
-        "unknown-t-featuring-loyle-carner-hocus-pocus"
+        "unknown-t-feat-loyle-carner-hocus-pocus"
+      ],
+      "car": [
+        "mette-bet"
       ],
       "surveillance": [
         "kings-of-leon-mustang"
@@ -5931,6 +6543,9 @@
       ]
     },
     "artists": {
+      "Bob Dylan": [
+        "bob-dylan-subterranean-homesick-blues"
+      ],
       "Queen": [
         "queen-bohemian-rhapsody"
       ],
@@ -5969,6 +6584,7 @@
       "Björk": [
         "bj-rk-its-oh-so-quiet",
         "bj-rk-bachelorette",
+        "bj-rk-triumph-of-a-heart",
         "bj-rk-wanderlust",
         "bj-rk-mutual-core"
       ],
@@ -5993,6 +6609,9 @@
       "Missy Elliott": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
+      "The Verve": [
+        "the-verve-bitter-sweet-symphony"
+      ],
       "Air": [
         "air-kelly-watch-the-stars"
       ],
@@ -6008,7 +6627,8 @@
       ],
       "The Chemical Brothers": [
         "the-chemical-brothers-star-guitar",
-        "the-chemical-brothers-wide-open"
+        "the-chemical-brothers-wide-open",
+        "the-chemical-brothers-weve-got-to-try"
       ],
       "The White Stripes": [
         "the-white-stripes-fell-in-love-with-a-girl",
@@ -6072,6 +6692,11 @@
       ],
       "Gnarls Barkley": [
         "gnarls-barkley-crazy"
+      ],
+      "Coldplay": [
+        "coldplay-the-hardest-part",
+        "coldplay-strawberry-swing",
+        "coldplay-up-up"
       ],
       "Muse": [
         "muse-knights-of-cydonia"
@@ -6176,12 +6801,11 @@
       "Birdy Nam Nam": [
         "birdy-nam-nam-the-parachute-ending"
       ],
-      "Coldplay": [
-        "coldplay-strawberry-swing",
-        "coldplay-up-up"
-      ],
       "Boys Noize": [
         "boys-noize-jeffer"
+      ],
+      "Thirty Seconds To Mars": [
+        "thirty-seconds-to-mars-kings-and-queens"
       ],
       "Lady Gaga": [
         "lady-gaga-bad-romance"
@@ -6217,6 +6841,11 @@
       "Arcade Fire": [
         "arcade-fire-we-used-to-wait"
       ],
+      "OK Go": [
+        "ok-go-white-knuckles",
+        "ok-go-a-stone-only-rolls-downhill",
+        "ok-go-love"
+      ],
       "El Guincho": [
         "el-guincho-bombay"
       ],
@@ -6247,6 +6876,9 @@
       "Fulton Lights": [
         "fulton-lights-staring-out-the-window"
       ],
+      "Best Coast": [
+        "best-coast-crazy-for-you"
+      ],
       "Apparat": [
         "apparat-granular-bastard"
       ],
@@ -6261,6 +6893,9 @@
       ],
       "Danger Mouse & Daniele Luppi feat. Jack White": [
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+      ],
+      "M.I.A.": [
+        "m-i-a-bad-girls"
       ],
       "The Shins": [
         "the-shins-simple-song"
@@ -6290,6 +6925,9 @@
       "Karl Westman & IBM Research": [
         "karl-westman-ibm-research-a-boy-and-his-atom"
       ],
+      "Y.N.RichKids": [
+        "y-n-richkids-my-bike"
+      ],
       "Vial of Sound": [
         "vial-of-sound-a-lifetime-passed"
       ],
@@ -6304,6 +6942,9 @@
       ],
       "Hundred Waters": [
         "hundred-waters-cavity"
+      ],
+      "sElf": [
+        "self-runaway"
       ],
       "SARH": [
         "sarh-u-and-i"
@@ -6393,6 +7034,9 @@
       "Andy Shauf": [
         "andy-shauf-the-worst-in-you"
       ],
+      "No Te Va Gustar": [
+        "no-te-va-gustar-la-puerta-de-atras"
+      ],
       "JONES": [
         "jones-melt"
       ],
@@ -6425,6 +7069,9 @@
       ],
       "Washed Out": [
         "washed-out-floating-by"
+      ],
+      "IFHT ft. Micayla Gatto": [
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
       ],
       "5’Nizza": [
         "5nizza-samoliot"
@@ -6489,8 +7136,8 @@
       "Jacques": [
         "jacques-absolve"
       ],
-      "Unknown T, featuring Loyle Carner": [
-        "unknown-t-featuring-loyle-carner-hocus-pocus"
+      "Unknown T, feat. Loyle Carner": [
+        "unknown-t-feat-loyle-carner-hocus-pocus"
       ],
       "The Smile": [
         "the-smile-friend-of-a-friend"
@@ -6510,10 +7157,6 @@
       "Tourist": [
         "tourist-valentine"
       ],
-      "OK Go": [
-        "ok-go-a-stone-only-rolls-downhill",
-        "ok-go-love"
-      ],
       "METTE": [
         "mette-coming-of-age"
       ],
@@ -6525,6 +7168,9 @@
       ]
     },
     "directors": {
+      "D.A. Pennebaker": [
+        "bob-dylan-subterranean-homesick-blues"
+      ],
       "Bruce Gowers": [
         "queen-bohemian-rhapsody"
       ],
@@ -6559,7 +7205,8 @@
         "bj-rk-its-oh-so-quiet",
         "the-pharcyde-drop",
         "fatboy-slim-praise-you",
-        "fatboy-slim-weapon-of-choice"
+        "fatboy-slim-weapon-of-choice",
+        "bj-rk-triumph-of-a-heart"
       ],
       "Mark Romanek": [
         "nine-inch-nails-closer"
@@ -6579,6 +7226,9 @@
       ],
       "Hype Williams": [
         "missy-elliott-the-rain-supa-dupa-fly"
+      ],
+      "Walter Stern": [
+        "the-verve-bitter-sweet-symphony"
       ],
       "Michel Gondry": [
         "bj-rk-bachelorette",
@@ -6602,7 +7252,10 @@
       "Paul Hunter": [
         "dangelo-untitled-how-does-it-feel"
       ],
-      "Tom Kuntz & Mike Maguire": [
+      "Tom Kuntz": [
+        "the-avalanches-frontier-psychiatrist"
+      ],
+      "Mike Maguire": [
         "the-avalanches-frontier-psychiatrist"
       ],
       "Alex Rutterford": [
@@ -6647,7 +7300,10 @@
       "Bryan Barber": [
         "outkast-hey-ya"
       ],
-      "R. Kelly & Jim Swaffield": [
+      "R. Kelly": [
+        "r-kelly-trapped-in-the-closet"
+      ],
+      "Jim Swaffield": [
         "r-kelly-trapped-in-the-closet"
       ],
       "Koichiro Tsujikawa": [
@@ -6665,11 +7321,17 @@
       "Robert Hales": [
         "gnarls-barkley-crazy"
       ],
+      "Mary Wigmore": [
+        "coldplay-the-hardest-part"
+      ],
       "Joseph Kahn": [
         "muse-knights-of-cydonia"
       ],
       "Trish Sie": [
-        "ok-go-here-it-goes-again"
+        "ok-go-here-it-goes-again",
+        "ok-go-white-knuckles",
+        "ok-go-all-is-not-lost",
+        "ok-go-upside-down-inside-out"
       ],
       "Chris Cunningham": [
         "the-horrors-sheena-is-a-parasite"
@@ -6680,7 +7342,10 @@
       "Peter Sluzka": [
         "regina-spektor-samson"
       ],
-      "Matthew Cullen & Grady Hall": [
+      "Matthew Cullen": [
+        "modest-mouse-dashboard"
+      ],
+      "Grady Hall": [
         "modest-mouse-dashboard"
       ],
       "Timothy Saccenti": [
@@ -6727,7 +7392,10 @@
         "yeasayer-wait-for-the-summer",
         "huma-huma-hello-i-like-you"
       ],
-      "Taylor Cohen and Otto Arsenault": [
+      "Taylor Cohen": [
+        "matt-and-kim-lessons-learned"
+      ],
+      "Otto Arsenault": [
         "matt-and-kim-lessons-learned"
       ],
       "David Wilson": [
@@ -6742,11 +7410,20 @@
       "Dirk Rauscher": [
         "dominik-eulberg-sansula-oder-der-letzte-grund"
       ],
-      "Will Sweeney & Steve Scott": [
+      "Will Sweeney": [
+        "birdy-nam-nam-the-parachute-ending"
+      ],
+      "Steve Scott": [
         "birdy-nam-nam-the-parachute-ending"
       ],
       "Pomp&Clout": [
         "boys-noize-jeffer"
+      ],
+      "Jared Leto": [
+        "thirty-seconds-to-mars-kings-and-queens"
+      ],
+      "Bartholomew Cubbins": [
+        "thirty-seconds-to-mars-kings-and-queens"
       ],
       "Francis Lawrence": [
         "lady-gaga-bad-romance"
@@ -6754,7 +7431,15 @@
       "Lee Lennox": [
         "the-presets-girl-and-the-sea"
       ],
-      "Damian Kulash & Brian L. Perkins": [
+      "Damian Kulash": [
+        "ok-go-this-too-shall-pass",
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-i-wont-let-you-down",
+        "ok-go-upside-down-inside-out",
+        "ok-go-a-stone-only-rolls-downhill",
+        "ok-go-love"
+      ],
+      "Brian L. Perkins": [
         "ok-go-this-too-shall-pass"
       ],
       "We Buy Your Kids": [
@@ -6764,6 +7449,13 @@
         "kumisolo-cheap-pop-song"
       ],
       "James Frost": [
+        "ok-go-this-too-shall-pass-rube-goldberg"
+      ],
+      "OK Go": [
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-white-knuckles"
+      ],
+      "Syyn Labs": [
         "ok-go-this-too-shall-pass-rube-goldberg"
       ],
       "Mrzyk & Moriceau": [
@@ -6780,10 +7472,12 @@
         "dj-snake-lil-jon-turn-down-for-what"
       ],
       "A.F. Schepperd": [
-        "blockhead-the-music-scene"
+        "blockhead-the-music-scene",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
       "Chris Milk": [
-        "arcade-fire-we-used-to-wait"
+        "arcade-fire-we-used-to-wait",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
       "CANADA": [
         "el-guincho-bombay"
@@ -6796,12 +7490,16 @@
       ],
       "Michael Langan": [
         "michael-langan-dahlia",
-        "hundred-waters-cavity"
+        "hundred-waters-cavity",
+        "n-lannon-another-love"
       ],
       "Eric Epstein": [
         "memory-tapes-yes-i-know"
       ],
-      "Matt Devine / The Glue Society": [
+      "Matt Devine": [
+        "son-of-kick-playing-the-villain"
+      ],
+      "The Glue Society": [
         "son-of-kick-playing-the-villain"
       ],
       "Ned Wenlock": [
@@ -6816,10 +7514,14 @@
       ],
       "Ninian Doff": [
         "fulton-lights-staring-out-the-window",
-        "miike-snow-genghis-khan"
+        "miike-snow-genghis-khan",
+        "the-chemical-brothers-weve-got-to-try"
       ],
-      "Trish Sie & Pilobolus": [
+      "Pilobolus": [
         "ok-go-all-is-not-lost"
+      ],
+      "Bob Harlow": [
+        "best-coast-crazy-for-you"
       ],
       "Céline Desrumaux": [
         "apparat-granular-bastard"
@@ -6834,11 +7536,15 @@
       "David Lewandowski": [
         "friendly-fires-hurting"
       ],
-      "Luis Safa & BASA Studio": [
+      "Luis Safa": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
       ],
-      "A.F. Schepperd & Chris Milk": [
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+      "BASA Studio": [
+        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      ],
+      "Romain Gavras": [
+        "m-i-a-bad-girls",
+        "gener8ion-yung-lean-storm"
       ],
       "Emmanuelle Walker": [
         "royksopp-so-easy-unofficial-video"
@@ -6861,17 +7567,33 @@
       "Nico Casavecchia": [
         "karl-westman-ibm-research-a-boy-and-his-atom"
       ],
+      "Ben Hughes": [
+        "y-n-richkids-my-bike"
+      ],
       "Ori Toor": [
         "vial-of-sound-a-lifetime-passed"
       ],
       "Michael Fragstein": [
         "boozoo-bajou-jan-mayen"
       ],
-      "Floris Kaayk & Torre Florim": [
+      "Studio Smack": [
         "de-staat-witch-doctor"
       ],
-      "Damian Kulash, Aaron Duffy, & Bob Partington": [
+      "Floris Kaayk": [
+        "de-staat-witch-doctor"
+      ],
+      "Torre Florim": [
+        "de-staat-witch-doctor"
+      ],
+      "Aaron Duffy": [
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-love"
+      ],
+      "Bob Partington": [
         "ok-go-the-writings-on-the-wall"
+      ],
+      "Ballard C. Boyd": [
+        "self-runaway"
       ],
       "Paul Trillo": [
         "sarh-u-and-i",
@@ -6880,7 +7602,7 @@
         "the-peach-kings-without-you",
         "jacques-absolve"
       ],
-      "Kazuaki Seki & Damian Kulash": [
+      "Kazuaki Seki": [
         "ok-go-i-wont-let-you-down"
       ],
       "Hiro Murai": [
@@ -6900,7 +7622,10 @@
       "Julien Lassort": [
         "alb-the-road"
       ],
-      "Nelson De Castro, Carlos López Estrada": [
+      "Nelson De Castro": [
+        "hook-n-sling-feat-far-east-movement-break-yourself"
+      ],
+      "Carlos López Estrada": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
       "Nathan Johnson": [
@@ -6928,14 +7653,11 @@
         "soupcans-siamese-brutality",
         "andy-shauf-the-worst-in-you"
       ],
-      "Michael Langan & Najeeb Tarazi": [
+      "Najeeb Tarazi": [
         "n-lannon-another-love"
       ],
       "Uri Lotan": [
         "jane-bordeaux-maagalim"
-      ],
-      "Damian Kulash & Trish Sie": [
-        "ok-go-upside-down-inside-out"
       ],
       "Dom & Nic": [
         "the-chemical-brothers-wide-open"
@@ -6969,8 +7691,14 @@
       "Zak Razvi": [
         "frances-dont-worry-about-me"
       ],
-      "Gal Muggia and Vania Heymann": [
+      "Gal Muggia": [
         "coldplay-up-up"
+      ],
+      "Vania Heymann": [
+        "coldplay-up-up"
+      ],
+      "Pablo Marcovecchio": [
+        "no-te-va-gustar-la-puerta-de-atras"
       ],
       "Davis Silis": [
         "jones-melt"
@@ -6994,7 +7722,10 @@
       "DEDO CIEGO": [
         "jmii-bailar"
       ],
-      "Ryan Staake & Young Thug": [
+      "Ryan Staake": [
+        "young-thug-wyclef-jean"
+      ],
+      "Young Thug": [
         "young-thug-wyclef-jean"
       ],
       "Pablo Maestres": [
@@ -7002,6 +7733,9 @@
       ],
       "Julien Vallée & Eve Duhamel": [
         "milk-bone-pressure"
+      ],
+      "IFHT Films": [
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
       ],
       "Max Ksjonda": [
         "5nizza-samoliot"
@@ -7016,7 +7750,8 @@
         "benjamin-booker-believe"
       ],
       "Alan Ferguson": [
-        "janelle-mon-e-make-me-feel"
+        "janelle-mon-e-make-me-feel",
+        "janelle-mon-e-lipstick-lover"
       ],
       "Emma Westenberg": [
         "janelle-mon-e-pynk"
@@ -7027,10 +7762,19 @@
       "Vincenzo Lodigiani": [
         "luc-glow"
       ],
-      "Saad Moosajee, Danae Gosset & Art Camp": [
+      "Saad Moosajee": [
         "mitski-a-pearl"
       ],
-      "Erin S. Murray & Jeremy Schaulin-Rioux": [
+      "Danae Gosset": [
+        "mitski-a-pearl"
+      ],
+      "Art Camp": [
+        "mitski-a-pearl"
+      ],
+      "Erin S. Murray": [
+        "thao-the-get-down-stay-down-phenom"
+      ],
+      "Jeremy Schaulin-Rioux": [
         "thao-the-get-down-stay-down-phenom"
       ],
       "Keith Schofield": [
@@ -7049,20 +7793,23 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
-      "Janelle Monáe & Alan Ferguson": [
+      "Janelle Monáe": [
         "janelle-mon-e-lipstick-lover"
       ],
       "Jovan Todorović": [
         "paul-kalkbrenner-schwer"
       ],
-      "J Lloyd & Charlie Di Placido": [
+      "J Lloyd": [
+        "jungle-back-on-74"
+      ],
+      "Charlie Di Placido": [
         "jungle-back-on-74"
       ],
       "Michael McAfee": [
         "max-cooper-feat-kathrin-deboer-with-me"
       ],
       "Felix Brady": [
-        "unknown-t-featuring-loyle-carner-hocus-pocus"
+        "unknown-t-feat-loyle-carner-hocus-pocus"
       ],
       "Paul Thomas Anderson": [
         "the-smile-friend-of-a-friend"
@@ -7085,17 +7832,17 @@
       "Ozzie Pullin": [
         "tourist-valentine"
       ],
-      "Damian Kulash & Chris Buongiorno": [
+      "Chris Buongiorno": [
         "ok-go-a-stone-only-rolls-downhill"
       ],
-      "Damian Kulash, Aaron Duffy, & Miguel Espada": [
+      "Miguel Espada": [
         "ok-go-love"
       ],
-      "Helen Morales & METTE": [
+      "Helen Morales": [
         "mette-coming-of-age"
       ],
-      "Romain Gavras": [
-        "gener8ion-yung-lean-storm"
+      "METTE": [
+        "mette-coming-of-age"
       ],
       "in/out": [
         "bonobo-me-and-you"
@@ -7103,17 +7850,39 @@
       "Lee Suho": [
         "balming-tiger-oui"
       ]
+    },
+    "directorAffiliates": {
+      "Hammer & Tongs": [
+        "blur-coffee-tv"
+      ],
+      "Not To Scale": [
+        "birdy-nam-nam-the-parachute-ending"
+      ],
+      "Mighty Nice": [
+        "paul-dempsey-bats"
+      ],
+      "CANADA": [
+        "scissor-sisters-invisible-light",
+        "battles-ice-cream"
+      ],
+      "BlinkMyBrain": [
+        "green-day-bang-bang",
+        "mastadon-clandestiny"
+      ]
     }
   },
   "counts": {
     "tags": {
-      "confidence": 21,
-      "dance": 39,
+      "retro": 10,
+      "textiles": 5,
+      "confidence": 22,
+      "dance": 40,
       "prosthetics": 4,
       "collage": 8,
       "stop motion": 23,
       "guitar solo": 2,
       "hair": 3,
+      "jets": 1,
       "wut": 9,
       "monochrome": 14,
       "poc director": 25,
@@ -7121,21 +7890,21 @@
       "gothy": 6,
       "potential nsfw": 12,
       "busby berkeley": 4,
-      "crowd": 9,
+      "crowd": 10,
       "reverse": 1,
-      "narrative": 7,
-      "surreal": 36,
-      "retro": 8,
-      "womxn director": 21,
+      "narrative": 9,
+      "surreal": 37,
+      "womxn director": 22,
       "treadmill/escalator": 5,
       "fisheye": 1,
+      "walk": 2,
       "slowmo": 6,
-      "sports": 1,
+      "sports": 2,
       "lofi brilliance": 9,
       "puppets": 5,
       "night vision": 1,
       "body-ody": 7,
-      "long take": 21,
+      "long take": 22,
       "soundsync": 14,
       "lego": 1,
       "pixel": 3,
@@ -7145,28 +7914,29 @@
       "projection mapping": 5,
       "orbiting": 4,
       "repeat": 14,
-      "vfx": 15,
+      "vfx": 18,
       "kaleidoscope": 3,
       "loops": 10,
       "woc director": 8,
-      "kids": 7,
+      "kids": 8,
       "brooklyn": 5,
       "pixilation": 3,
       "kaiju": 2,
       "lasers": 4,
-      "space": 5,
+      "space": 6,
       "claps": 3,
-      "textiles": 4,
+      "cats": 4,
+      "matchmove": 3,
       "illustration": 8,
       "cel animation": 13,
-      "matchmove": 2,
-      "dogs": 1,
+      "dogs": 3,
       "jump": 2,
       "psychedelic": 13,
+      "desert": 2,
       "horses": 2,
       "birds": 2,
       "mixed media": 6,
-      "bike": 2,
+      "bike": 5,
       "keytar": 1,
       "twinsies": 2,
       "explosions": 3,
@@ -7175,7 +7945,7 @@
       "water": 5,
       "lighting": 5,
       "yuri norstein-esque": 2,
-      "joy": 3,
+      "joy": 4,
       "fluid dynamics": 3,
       "shapes": 6,
       "datamoshing": 1,
@@ -7190,27 +7960,29 @@
       "whip pan": 2,
       "meta": 5,
       "editing": 8,
-      "persistence": 2,
+      "match cut": 3,
+      "cars": 2,
       "splitscreen": 2,
       "timeslice": 3,
+      "macro": 2,
       "optical illusion": 3,
       "long exposure": 1,
       "drone": 2,
-      "macro": 1,
       "bus": 1,
-      "cats": 1,
       "architecture": 2,
+      "crime": 1,
       "marbles": 1,
+      "3D printing": 2,
       "flute": 1,
       "hockney": 2,
-      "3D printing": 1,
-      "match cut": 3,
       "ai": 1,
       "hydraulics": 1,
+      "car": 1,
       "surveillance": 1,
       "mirrors": 2
     },
     "artists": {
+      "Bob Dylan": 1,
       "Queen": 1,
       "Michael Jackson": 3,
       "Talking Heads": 1,
@@ -7222,18 +7994,19 @@
       "R.E.M.": 1,
       "Beastie Boys": 1,
       "Nine Inch Nails": 1,
-      "Björk": 4,
+      "Björk": 5,
       "The Pharcyde": 1,
       "Radiohead": 1,
       "Blur": 4,
       "Smashing Pumpkins": 1,
       "Jamiroquai": 1,
       "Missy Elliott": 1,
+      "The Verve": 1,
       "Air": 1,
       "Fatboy Slim": 2,
       "D’Angelo": 1,
       "The Avalanches": 1,
-      "The Chemical Brothers": 2,
+      "The Chemical Brothers": 3,
       "The White Stripes": 4,
       "Autechre": 1,
       "Röyksopp": 1,
@@ -7254,6 +8027,7 @@
       "The Rapture": 1,
       "Vitalic": 1,
       "Gnarls Barkley": 1,
+      "Coldplay": 3,
       "Muse": 1,
       "OK GO": 7,
       "The Horrors": 1,
@@ -7283,8 +8057,8 @@
       "La Roux": 1,
       "Dominik Eulberg": 1,
       "Birdy Nam Nam": 1,
-      "Coldplay": 2,
       "Boys Noize": 1,
+      "Thirty Seconds To Mars": 1,
       "Lady Gaga": 1,
       "The Presets": 1,
       "Paul Dempsey": 1,
@@ -7295,6 +8069,7 @@
       "Blockhead": 1,
       "The Hundred in the Hands": 1,
       "Arcade Fire": 1,
+      "OK Go": 3,
       "El Guincho": 1,
       "Uffie": 1,
       "Scissor Sisters": 1,
@@ -7305,11 +8080,13 @@
       "Danger Beach": 1,
       "Hooray For Earth": 1,
       "Fulton Lights": 1,
+      "Best Coast": 1,
       "Apparat": 1,
       "Casey Veggies": 1,
       "We Cut Corners": 1,
       "Marian Ruzzi y Sr. Amable": 1,
       "Danger Mouse & Daniele Luppi feat. Jack White": 1,
+      "M.I.A.": 1,
       "The Shins": 1,
       "Royksopp": 1,
       "Willow": 1,
@@ -7319,11 +8096,13 @@
       "Iron & Wine": 1,
       "Light Light": 1,
       "Karl Westman & IBM Research": 1,
+      "Y.N.RichKids": 1,
       "Vial of Sound": 1,
       "Boozoo Bajou": 1,
       "De Staat": 1,
       "DJ Snake & Lil Jon": 1,
       "Hundred Waters": 1,
+      "sElf": 1,
       "SARH": 1,
       "Panda Bear": 1,
       "Childish Gambino": 2,
@@ -7353,6 +8132,7 @@
       "Olympia": 1,
       "Frances": 1,
       "Andy Shauf": 1,
+      "No Te Va Gustar": 1,
       "JONES": 1,
       "Green Day": 1,
       "Max Cooper": 1,
@@ -7364,6 +8144,7 @@
       "POLO & PAN": 1,
       "Milk & Bone": 1,
       "Washed Out": 1,
+      "IFHT ft. Micayla Gatto": 1,
       "5’Nizza": 1,
       "So Much Light": 1,
       "Thunder Tillman": 1,
@@ -7384,19 +8165,19 @@
       "Jungle": 1,
       "Max Cooper feat. Kathrin deBoer": 1,
       "Jacques": 1,
-      "Unknown T, featuring Loyle Carner": 1,
+      "Unknown T, feat. Loyle Carner": 1,
       "The Smile": 1,
       "Tierra Whack": 1,
       "Fred Again, Lil Yachty, and Overmono": 1,
       "Dua Lipa": 1,
       "Kings Of Leon": 1,
       "Tourist": 1,
-      "OK Go": 2,
       "METTE": 1,
       "GENER8ION & Yung Lean": 1,
       "Balming Tiger": 1
     },
     "directors": {
+      "D.A. Pennebaker": 1,
       "Bruce Gowers": 1,
       "Steve Barron": 1,
       "John Landis": 1,
@@ -7406,19 +8187,21 @@
       "Colin Chilvers": 1,
       "David Fincher": 2,
       "Tarsem Singh": 1,
-      "Spike Jonze": 5,
+      "Spike Jonze": 6,
       "Mark Romanek": 1,
       "Jamie Thraves": 1,
       "Jonathan Glazer": 2,
       "Jonathan Dayton & Valerie Farris": 1,
       "Sophie Muller": 1,
       "Hype Williams": 1,
+      "Walter Stern": 1,
       "Michel Gondry": 8,
       "Mike Mills": 1,
       "Garth Jennings": 1,
       "Thomas Vinterberg": 1,
       "Paul Hunter": 1,
-      "Tom Kuntz & Mike Maguire": 1,
+      "Tom Kuntz": 1,
+      "Mike Maguire": 1,
       "Alex Rutterford": 1,
       "H5": 1,
       "Shynola": 2,
@@ -7431,18 +8214,21 @@
       "Michel Gondy": 1,
       "Alex Smith": 2,
       "Bryan Barber": 1,
-      "R. Kelly & Jim Swaffield": 1,
+      "R. Kelly": 1,
+      "Jim Swaffield": 1,
       "Koichiro Tsujikawa": 1,
       "Ted Malmros": 1,
       "Ben Dickinson": 1,
       "Pleix": 1,
       "Robert Hales": 1,
+      "Mary Wigmore": 1,
       "Joseph Kahn": 1,
-      "Trish Sie": 1,
+      "Trish Sie": 4,
       "Chris Cunningham": 1,
       "Emmanuel Ho": 1,
       "Peter Sluzka": 1,
-      "Matthew Cullen & Grady Hall": 1,
+      "Matthew Cullen": 1,
+      "Grady Hall": 1,
       "Timothy Saccenti": 1,
       "Encyclopedia Pictura": 3,
       "Dougal Wilson": 2,
@@ -7455,41 +8241,51 @@
       "Clemens Habicht": 1,
       "Ray Tintori": 1,
       "Mixtape Club": 2,
-      "Taylor Cohen and Otto Arsenault": 1,
+      "Taylor Cohen": 1,
+      "Otto Arsenault": 1,
       "David Wilson": 1,
       "Herraiz Soto & Co.": 1,
       "Mathematic": 1,
       "Dirk Rauscher": 1,
-      "Will Sweeney & Steve Scott": 1,
+      "Will Sweeney": 1,
+      "Steve Scott": 1,
       "Pomp&Clout": 1,
+      "Jared Leto": 1,
+      "Bartholomew Cubbins": 1,
       "Francis Lawrence": 1,
       "Lee Lennox": 1,
-      "Damian Kulash & Brian L. Perkins": 1,
+      "Damian Kulash": 6,
+      "Brian L. Perkins": 1,
       "We Buy Your Kids": 1,
       "Rhett Dashwood": 1,
       "James Frost": 1,
+      "OK Go": 2,
+      "Syyn Labs": 1,
       "Mrzyk & Moriceau": 1,
       "Wendy Morgan": 1,
       "Daniels": 5,
-      "A.F. Schepperd": 1,
-      "Chris Milk": 1,
+      "A.F. Schepperd": 2,
+      "Chris Milk": 2,
       "CANADA": 1,
       "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
-      "Michael Langan": 2,
+      "Michael Langan": 3,
       "Eric Epstein": 1,
-      "Matt Devine / The Glue Society": 1,
+      "Matt Devine": 1,
+      "The Glue Society": 1,
       "Ned Wenlock": 1,
       "Luis Cerveró": 1,
       "Cyriak": 2,
-      "Ninian Doff": 2,
-      "Trish Sie & Pilobolus": 1,
+      "Ninian Doff": 3,
+      "Pilobolus": 1,
+      "Bob Harlow": 1,
       "Céline Desrumaux": 1,
       "John Bollozos": 1,
       "Kijek / Adamski": 2,
       "David Lewandowski": 1,
-      "Luis Safa & BASA Studio": 1,
-      "A.F. Schepperd & Chris Milk": 1,
+      "Luis Safa": 1,
+      "BASA Studio": 1,
+      "Romain Gavras": 2,
       "Emmanuelle Walker": 1,
       "Filip Sterckx": 1,
       "Cho Soo-hyun": 1,
@@ -7497,18 +8293,24 @@
       "Hayley Morris": 1,
       "Moniker": 1,
       "Nico Casavecchia": 1,
+      "Ben Hughes": 1,
       "Ori Toor": 1,
       "Michael Fragstein": 1,
-      "Floris Kaayk & Torre Florim": 1,
-      "Damian Kulash, Aaron Duffy, & Bob Partington": 1,
+      "Studio Smack": 1,
+      "Floris Kaayk": 1,
+      "Torre Florim": 1,
+      "Aaron Duffy": 2,
+      "Bob Partington": 1,
+      "Ballard C. Boyd": 1,
       "Paul Trillo": 5,
-      "Kazuaki Seki & Damian Kulash": 1,
+      "Kazuaki Seki": 1,
       "Hiro Murai": 3,
       "Ewan Jones Morris": 1,
       "Kim Pimmel": 1,
       "Thomas Porthé": 1,
       "Julien Lassort": 1,
-      "Nelson De Castro, Carlos López Estrada": 1,
+      "Nelson De Castro": 1,
+      "Carlos López Estrada": 1,
       "Nathan Johnson": 1,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
@@ -7517,9 +8319,8 @@
       "Hideki Inaba": 1,
       "Oscar Hudson": 1,
       "Winston Hacking": 2,
-      "Michael Langan & Najeeb Tarazi": 1,
+      "Najeeb Tarazi": 1,
       "Uri Lotan": 1,
-      "Damian Kulash & Trish Sie": 1,
       "Dom & Nic": 1,
       "Dress Code": 1,
       "Hiérophante": 1,
@@ -7530,7 +8331,9 @@
       "Hannes Knutsson": 1,
       "Parallel": 1,
       "Zak Razvi": 1,
-      "Gal Muggia and Vania Heymann": 1,
+      "Gal Muggia": 1,
+      "Vania Heymann": 1,
+      "Pablo Marcovecchio": 1,
       "Davis Silis": 1,
       "Ariel Costa": 2,
       "Kevin McGloughlin": 1,
@@ -7538,27 +8341,33 @@
       "Torben Kjelstrup": 1,
       "Virgilio Villoresi": 1,
       "DEDO CIEGO": 1,
-      "Ryan Staake & Young Thug": 1,
+      "Ryan Staake": 1,
+      "Young Thug": 1,
       "Pablo Maestres": 1,
       "Julien Vallée & Eve Duhamel": 1,
+      "IFHT Films": 1,
       "Max Ksjonda": 1,
       "Jane Qian": 1,
       "Hugo & Marie": 1,
       "James Lees": 1,
-      "Alan Ferguson": 1,
+      "Alan Ferguson": 2,
       "Emma Westenberg": 1,
       "Lacey Duke": 1,
       "Vincenzo Lodigiani": 1,
-      "Saad Moosajee, Danae Gosset & Art Camp": 1,
-      "Erin S. Murray & Jeremy Schaulin-Rioux": 1,
+      "Saad Moosajee": 1,
+      "Danae Gosset": 1,
+      "Art Camp": 1,
+      "Erin S. Murray": 1,
+      "Jeremy Schaulin-Rioux": 1,
       "Keith Schofield": 1,
       "Xabier Mendibe": 1,
       "Ksawery Kirklewski": 1,
       "François Rousselet": 1,
       "Camille Summers-Valli": 2,
-      "Janelle Monáe & Alan Ferguson": 1,
+      "Janelle Monáe": 1,
       "Jovan Todorović": 1,
-      "J Lloyd & Charlie Di Placido": 1,
+      "J Lloyd": 1,
+      "Charlie Di Placido": 1,
       "Michael McAfee": 1,
       "Felix Brady": 1,
       "Paul Thomas Anderson": 1,
@@ -7568,12 +8377,19 @@
       "C Prinz": 1,
       "Brook Linder": 1,
       "Ozzie Pullin": 1,
-      "Damian Kulash & Chris Buongiorno": 1,
-      "Damian Kulash, Aaron Duffy, & Miguel Espada": 1,
-      "Helen Morales & METTE": 1,
-      "Romain Gavras": 1,
+      "Chris Buongiorno": 1,
+      "Miguel Espada": 1,
+      "Helen Morales": 1,
+      "METTE": 1,
       "in/out": 1,
       "Lee Suho": 1
+    },
+    "directorAffiliates": {
+      "Hammer & Tongs": 1,
+      "Not To Scale": 1,
+      "Mighty Nice": 1,
+      "CANADA": 2,
+      "BlinkMyBrain": 2
     }
   }
 }

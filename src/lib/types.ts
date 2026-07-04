@@ -6,6 +6,12 @@ export interface Video {
   song: string;
   director: string;
   directors: string[];
+  // production house/collective the director(s) made this video through (e.g.
+  // "CANADA", "Hammer & Tongs"). One per video (matches the source column),
+  // not tied to a specific director when there are several. Shown as
+  // "Director (Affiliate)" and, like artist/director, becomes its own
+  // followable pill once it has 2+ videos.
+  directorAffiliate: string | null;
   dateDisplay: string | null;
   sortDate: string;
   year: number | null;
@@ -34,12 +40,14 @@ export interface Playlists {
   tags: Record<string, string[]>;
   artists: Record<string, string[]>;
   directors: Record<string, string[]>;
+  directorAffiliates: Record<string, string[]>;
 }
 
 export interface Counts {
   tags: Record<string, number>;
   artists: Record<string, number>;
   directors: Record<string, number>;
+  directorAffiliates: Record<string, number>;
 }
 
 export interface VideoData {
@@ -49,7 +57,7 @@ export interface VideoData {
   counts: Counts;
 }
 
-export type StreamType = "shuffle" | "timeline" | "tag" | "artist" | "director";
+export type StreamType = "shuffle" | "timeline" | "tag" | "artist" | "director" | "directorAffiliate";
 
 export interface StreamState {
   type: StreamType;
