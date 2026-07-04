@@ -28,6 +28,10 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   const [search, setSearch] = useState("");
   const [selTag, setSelTag] = useState<string | null>(null);
   const [shuffled, setShuffled] = useState<string[] | null>(null);
+  // null = untouched (defaults to newest-first, same ordering as "desc" below
+  // but shown unhighlighted); once clicked it only ever alternates asc/desc,
+  // it never falls back to the unhighlighted default.
+  const [chrono, setChrono] = useState<boolean | null>(null);
 
   // CSS multi-column (columns:3) balances items across declared columns by
   // its own heuristics; with a small filtered result set it can leave a
@@ -56,7 +60,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   const allTags = useMemo(() => Object.keys(CT.tags).sort((x, y) => CT.tags[y] - CT.tags[x]), [CT.tags]);
 
   const list = useMemo(() => {
-    const base = shuffled ? shuffled.slice() : PL.timeline.slice().reverse();
+    const base = shuffled ? shuffled.slice() : chrono === true ? PL.timeline.slice() : PL.timeline.slice().reverse();
     const q = search.toLowerCase().trim();
     return base.filter((id) => {
       const v = V[id];
@@ -67,7 +71,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
       }
       return true;
     });
-  }, [shuffled, PL.timeline, search, selTag, V]);
+  }, [shuffled, chrono, PL.timeline, search, selTag, V]);
 
   const columns = useMemo(() => {
     const cols: string[][] = Array.from({ length: numCols }, () => []);
@@ -94,6 +98,15 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           />
           <button className="arcShuffle" onClick={() => setShuffled(shuffleArray(PL.timeline))}>
             Shuffle
+          </button>
+          <button
+            className={`arcShuffle${!shuffled && chrono !== null ? " sel" : ""}`}
+            onClick={() => {
+              setShuffled(null);
+              setChrono((c) => (c === true ? false : true));
+            }}
+          >
+            {chrono === true ? "Oldest First" : chrono === false ? "Newest First" : "Chronological"}
           </button>
         </div>
         <div className="tagbar">

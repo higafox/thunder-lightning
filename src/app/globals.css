@@ -499,6 +499,14 @@ a {
   color: var(--ink);
   border-color: var(--dim);
 }
+.arcShuffle.sel {
+  background: var(--active);
+  border-color: var(--active);
+  color: #141208;
+}
+.arcShuffle.sel:hover {
+  color: #141208;
+}
 .tagbar {
   max-width: 1400px;
   margin: 16px auto 24px;

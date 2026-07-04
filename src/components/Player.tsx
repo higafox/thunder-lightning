@@ -103,6 +103,7 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
     return (
       <MobilePlayer
         video={video}
+        onEnded={advance}
         onPrev={() => timeline(-1)}
         onNext={() => timeline(1)}
         onShuffle={() => pickStream("shuffle", null)}

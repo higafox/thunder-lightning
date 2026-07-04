@@ -2,14 +2,17 @@
 
 import type { Video } from "@/lib/types";
 import { useOpenAbout } from "./AboutProvider";
+import { VideoFrame } from "./VideoFrame";
 
 export function MobilePlayer({
   video,
+  onEnded,
   onPrev,
   onNext,
   onShuffle,
 }: {
   video: Video | null;
+  onEnded: () => void;
   onPrev: () => void;
   onNext: () => void;
   onShuffle: () => void;
@@ -18,17 +21,13 @@ export function MobilePlayer({
 
   if (!video) return <div id="mobile" />;
 
-  const embed = video.youtubeId
-    ? `https://www.youtube.com/embed/${video.youtubeId}?autoplay=1&rel=0&modestbranding=1`
-    : `https://player.vimeo.com/video/${video.vimeoId}?autoplay=1&muted=0&title=0&byline=0`;
-
   return (
     <div id="mobile">
       <button className="mbrand" onClick={openAbout}>
         Thunder/Lightning <span className="mbrandTag">· a love letter to music videos</span>
       </button>
-      <div className="mframe">
-        <iframe key={video.id} src={embed} allow="autoplay; fullscreen" allowFullScreen />
+      <div className="mframe frame">
+        <VideoFrame key={video.id} video={video} onEnded={onEnded} />
       </div>
       <div className="minfo">
         <div className="a">{video.artist}</div>
