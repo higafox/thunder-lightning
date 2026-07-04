@@ -4093,6 +4093,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/nq0mpgHNapc/hqdefault.jpg",
       "tags": [
         "dance",
+        "legs",
         "surreal",
         "vfx"
       ],
@@ -6210,7 +6211,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/fuV4yQWdn_4/hqdefault.jpg",
       "tags": [
         "dance",
-        "poc director"
+        "loops",
+        "poc director",
+        "tableau"
       ],
       "embedBroken": false
     },
@@ -6223,9 +6226,9 @@
         "Nick Saxton"
       ],
       "directorAffiliate": null,
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "October 1979",
+      "sortDate": "1979-10-01",
+      "year": 1979,
       "provider": "youtube",
       "youtubeId": "yURRmWtbTbo",
       "vimeoId": null,
@@ -6243,9 +6246,9 @@
       "director": "",
       "directors": [],
       "directorAffiliate": null,
-      "dateDisplay": null,
-      "sortDate": "9999-99-99",
-      "year": null,
+      "dateDisplay": "July 2024",
+      "sortDate": "2024-07-04",
+      "year": 2024,
       "provider": "youtube",
       "youtubeId": "H58vbez_m4E",
       "vimeoId": null,
@@ -6263,6 +6266,7 @@
       "queen-bohemian-rhapsody",
       "michael-jackson-rock-with-you",
       "prince-i-wanna-be-your-lover",
+      "michael-jackson-dont-stop-til-you-get-enough",
       "devo-whip-it",
       "talking-heads-once-in-a-lifetime",
       "prince-1999",
@@ -6523,6 +6527,7 @@
       "mette-bet",
       "kings-of-leon-mustang",
       "tourist-valentine",
+      "kendrick-lamar-not-like-us",
       "kendrick-lamar-squabble-up",
       "ok-go-a-stone-only-rolls-downhill",
       "doechii-anxiety",
@@ -6530,9 +6535,7 @@
       "mette-coming-of-age",
       "gener8ion-yung-lean-storm",
       "bonobo-me-and-you",
-      "balming-tiger-oui",
-      "kendrick-lamar-not-like-us",
-      "michael-jackson-dont-stop-til-you-get-enough"
+      "balming-tiger-oui"
     ],
     "tags": {
       "retro": [
@@ -6600,6 +6603,7 @@
         "thunderheist-jerk-it"
       ],
       "dance": [
+        "michael-jackson-dont-stop-til-you-get-enough",
         "talking-heads-once-in-a-lifetime",
         "madonna-holiday",
         "michael-jackson-billie-jean",
@@ -6648,8 +6652,15 @@
         "kendrick-lamar-squabble-up",
         "doechii-anxiety",
         "mette-coming-of-age",
-        "gener8ion-yung-lean-storm",
-        "michael-jackson-dont-stop-til-you-get-enough"
+        "gener8ion-yung-lean-storm"
+      ],
+      "joy": [
+        "michael-jackson-dont-stop-til-you-get-enough",
+        "janet-jackson-thats-the-way-love-goes",
+        "brite-futures-sophisticated-side-ponytail",
+        "huma-huma-hello-i-like-you",
+        "y-n-richkids-my-bike",
+        "mette-mamas-eyes"
       ],
       "womxn director": [
         "talking-heads-once-in-a-lifetime",
@@ -6700,7 +6711,8 @@
         "miike-snow-genghis-khan"
       ],
       "legs": [
-        "herbie-hancock-rockit"
+        "herbie-hancock-rockit",
+        "jr-jr-gone"
       ],
       "machine": [
         "herbie-hancock-rockit",
@@ -6796,6 +6808,7 @@
         "paul-kalkbrenner-schwer",
         "unknown-t-feat-loyle-carner-hocus-pocus",
         "tierra-whack-shower-song",
+        "kendrick-lamar-squabble-up",
         "doechii-anxiety"
       ],
       "stop motion": [
@@ -6900,14 +6913,6 @@
         "mette-van-gogh",
         "dua-lipa-illusion"
       ],
-      "joy": [
-        "janet-jackson-thats-the-way-love-goes",
-        "brite-futures-sophisticated-side-ponytail",
-        "huma-huma-hello-i-like-you",
-        "y-n-richkids-my-bike",
-        "mette-mamas-eyes",
-        "michael-jackson-dont-stop-til-you-get-enough"
-      ],
       "cars": [
         "beastie-boys-sabotage",
         "2pac-ft-dr-dre-california-love",
@@ -6996,8 +7001,8 @@
         "ok-go-i-wont-let-you-down",
         "battles-the-yabba",
         "polo-pan-coeur-crois",
-        "gener8ion-yung-lean-storm",
-        "kendrick-lamar-not-like-us"
+        "kendrick-lamar-not-like-us",
+        "gener8ion-yung-lean-storm"
       ],
       "surveillance": [
         "radiohead-high-and-dry",
@@ -7204,7 +7209,8 @@
         "alb-the-road",
         "beatsofreen-slowly-rising",
         "max-cooper-waves",
-        "milk-bone-pressure"
+        "milk-bone-pressure",
+        "kendrick-lamar-squabble-up"
       ],
       "woc director": [
         "yuki-sentimental-journey",
@@ -7498,10 +7504,10 @@
       ],
       "Michael Jackson": [
         "michael-jackson-rock-with-you",
+        "michael-jackson-dont-stop-til-you-get-enough",
         "michael-jackson-billie-jean",
         "michael-jackson-thriller",
-        "michael-jackson-smooth-criminal",
-        "michael-jackson-dont-stop-til-you-get-enough"
+        "michael-jackson-smooth-criminal"
       ],
       "Prince": [
         "prince-i-wanna-be-your-lover",
@@ -8069,8 +8075,8 @@
       ],
       "Kendrick Lamar": [
         "kendrick-lamar-humble",
-        "kendrick-lamar-squabble-up",
-        "kendrick-lamar-not-like-us"
+        "kendrick-lamar-not-like-us",
+        "kendrick-lamar-squabble-up"
       ],
       "POLO & PAN": [
         "polo-pan-coeur-crois"
@@ -8196,6 +8202,9 @@
         "michael-jackson-rock-with-you",
         "prince-i-wanna-be-your-lover",
         "prince-1999"
+      ],
+      "Nick Saxton": [
+        "michael-jackson-dont-stop-til-you-get-enough"
       ],
       "Gerald V. Casale": [
         "devo-whip-it"
@@ -8984,9 +8993,6 @@
       ],
       "Lee Suho": [
         "balming-tiger-oui"
-      ],
-      "Nick Saxton": [
-        "michael-jackson-dont-stop-til-you-get-enough"
       ]
     }
   },
@@ -8998,17 +9004,18 @@
       "lasers": 5,
       "hair": 4,
       "dance": 50,
+      "joy": 6,
       "womxn director": 28,
       "wut": 10,
       "prosthetics": 4,
-      "legs": 1,
+      "legs": 2,
       "machine": 5,
       "jump": 3,
       "motorcycle": 1,
       "cel animation": 14,
       "collage": 9,
       "poc director": 30,
-      "tableau": 20,
+      "tableau": 21,
       "stop motion": 23,
       "guitar solo": 2,
       "plane": 2,
@@ -9017,7 +9024,6 @@
       "monochrome": 17,
       "potential nsfw": 14,
       "body-ody": 8,
-      "joy": 6,
       "cars": 6,
       "crime": 3,
       "gothy": 8,
@@ -9048,7 +9054,7 @@
       "repeat": 14,
       "vfx": 19,
       "kaleidoscope": 3,
-      "loops": 10,
+      "loops": 11,
       "woc director": 8,
       "kids": 9,
       "pixilation": 3,
@@ -9318,6 +9324,7 @@
     "directors": {
       "D.A. Pennebaker": 1,
       "Bruce Gowers": 4,
+      "Nick Saxton": 1,
       "Gerald V. Casale": 1,
       "Toni Basil": 1,
       "David Byrne": 1,
@@ -9555,8 +9562,7 @@
       "Helen Morales": 1,
       "METTE": 1,
       "in/out": 1,
-      "Lee Suho": 1,
-      "Nick Saxton": 1
+      "Lee Suho": 1
     }
   }
 }
