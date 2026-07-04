@@ -81,7 +81,7 @@
       "vimeoId": "952394749",
       "thumbnailUrl": "https://img.youtube.com/vi/3DnDPArgl_I/hqdefault.jpg",
       "tags": [
-        "car",
+        "cars",
         "long take",
         "orbiting",
         "surreal",
@@ -967,7 +967,10 @@
       "vimeoId": "900683274",
       "thumbnailUrl": "https://img.youtube.com/vi/z5rRZdiu1UE/hqdefault.jpg",
       "tags": [
-        "confidence"
+        "cars",
+        "confidence",
+        "crime",
+        "retro"
       ],
       "embedBroken": false
     },
@@ -2501,6 +2504,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/p8FDl_tMs4Y/hqdefault.jpg",
       "tags": [
         "poc director",
+        "rotoscoping",
         "womxn director"
       ],
       "embedBroken": false
@@ -3816,8 +3820,10 @@
       "vimeoId": "1190984122",
       "thumbnailUrl": "https://img.youtube.com/vi/x6_mbnsh6VU/hqdefault.jpg",
       "tags": [
+        "crime",
         "crowd",
-        "dance"
+        "dance",
+        "kids"
       ],
       "embedBroken": false
     },
@@ -4909,8 +4915,7 @@
       "tags": [
         "claps",
         "collage",
-        "joy",
-        "lofi brilliance"
+        "joy"
       ],
       "embedBroken": false
     },
@@ -5676,6 +5681,7 @@
     "tags": {
       "retro": [
         "bob-dylan-subterranean-homesick-blues",
+        "beastie-boys-sabotage",
         "smashing-pumpkins-tonight-tonight",
         "the-avalanches-frontier-psychiatrist",
         "outkast-hey-ya",
@@ -5883,6 +5889,17 @@
         "unknown-t-feat-loyle-carner-hocus-pocus",
         "tierra-whack-shower-song"
       ],
+      "cars": [
+        "beastie-boys-sabotage",
+        "son-of-kick-playing-the-villain",
+        "m-i-a-bad-girls",
+        "mette-bet"
+      ],
+      "crime": [
+        "beastie-boys-sabotage",
+        "mount-moriah-precita",
+        "gener8ion-yung-lean-storm"
+      ],
       "gothy": [
         "nine-inch-nails-closer",
         "smashing-pumpkins-tonight-tonight",
@@ -6029,7 +6046,6 @@
       "lofi brilliance": [
         "fatboy-slim-praise-you",
         "bellx1-rocky-took-a-lover",
-        "brite-futures-sophisticated-side-ponytail",
         "friendly-fires-skeleton-boy",
         "matt-and-kim-lessons-learned",
         "boys-noize-jeffer",
@@ -6218,7 +6234,8 @@
         "bomba-est-reo-soy-yo",
         "young-thug-wyclef-jean",
         "benjamin-booker-believe",
-        "the-smile-friend-of-a-friend"
+        "the-smile-friend-of-a-friend",
+        "gener8ion-yung-lean-storm"
       ],
       "brooklyn": [
         "the-white-stripes-the-hardest-button-to-button",
@@ -6472,10 +6489,6 @@
         "hi-rophante-clich-s",
         "mette-van-gogh"
       ],
-      "cars": [
-        "son-of-kick-playing-the-villain",
-        "m-i-a-bad-girls"
-      ],
       "splitscreen": [
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom"
@@ -6508,9 +6521,6 @@
         "drake-hotline-bling",
         "dua-lipa-illusion"
       ],
-      "crime": [
-        "mount-moriah-precita"
-      ],
       "marbles": [
         "wintergatan-marble-machine"
       ],
@@ -6525,14 +6535,14 @@
         "bas-ft-correy-c-fragrance",
         "ok-go-a-stone-only-rolls-downhill"
       ],
+      "rotoscoping": [
+        "mitski-a-pearl"
+      ],
       "ai": [
         "jacques-absolve"
       ],
       "hydraulics": [
         "unknown-t-feat-loyle-carner-hocus-pocus"
-      ],
-      "car": [
-        "mette-bet"
       ],
       "surveillance": [
         "kings-of-leon-mustang"
@@ -7869,7 +7879,7 @@
   },
   "counts": {
     "tags": {
-      "retro": 10,
+      "retro": 11,
       "textiles": 5,
       "confidence": 22,
       "dance": 40,
@@ -7883,6 +7893,8 @@
       "monochrome": 14,
       "poc director": 25,
       "tableau": 15,
+      "cars": 4,
+      "crime": 3,
       "gothy": 6,
       "potential nsfw": 12,
       "busby berkeley": 4,
@@ -7896,7 +7908,7 @@
       "walk": 2,
       "slowmo": 6,
       "sports": 2,
-      "lofi brilliance": 9,
+      "lofi brilliance": 8,
       "puppets": 5,
       "night vision": 1,
       "body-ody": 7,
@@ -7914,7 +7926,7 @@
       "kaleidoscope": 3,
       "loops": 10,
       "woc director": 8,
-      "kids": 8,
+      "kids": 9,
       "brooklyn": 5,
       "pixilation": 3,
       "kaiju": 2,
@@ -7957,7 +7969,6 @@
       "meta": 5,
       "editing": 8,
       "match cut": 3,
-      "cars": 2,
       "splitscreen": 2,
       "timeslice": 3,
       "macro": 2,
@@ -7966,14 +7977,13 @@
       "drone": 2,
       "bus": 1,
       "architecture": 2,
-      "crime": 1,
       "marbles": 1,
       "3D printing": 2,
       "flute": 1,
       "hockney": 2,
+      "rotoscoping": 1,
       "ai": 1,
       "hydraulics": 1,
-      "car": 1,
       "surveillance": 1,
       "mirrors": 2
     },
