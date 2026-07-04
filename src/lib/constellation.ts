@@ -3,7 +3,7 @@ import type { Counts, StreamState, Video } from "./types";
 export type NodeKind = "tag" | "person" | "terminal" | "control" | "shuffle";
 
 export type NodeAction =
-  | { kind: "stream"; type: "tag" | "artist" | "director" | "directorAffiliate"; key: string }
+  | { kind: "stream"; type: "tag" | "artist" | "director"; key: string }
   | { kind: "shuffle" }
   | { kind: "timeline"; dir: -1 | 1 }
   | null;
@@ -139,7 +139,15 @@ export function buildConstellation(params: {
       action: { kind: "stream", type: "artist", key: v.artist },
     });
   }
-  (v.directors || []).forEach((d) => {
+  // A director affiliate pools into the same "directors" counts/playlist as
+  // a regular director credit (see sync.ts), so it's followed with the same
+  // "director" stream type -- the same name credited as director on one
+  // video and affiliate on another is one entity, not two disconnected pills.
+  const creditedNames = [...(v.directors || [])];
+  if (v.directorAffiliate && !creditedNames.includes(v.directorAffiliate)) {
+    creditedNames.push(v.directorAffiliate);
+  }
+  creditedNames.forEach((d) => {
     if ((CT.directors[d] || 0) > 1) {
       personNodes.push({
         kind: "person",
@@ -149,14 +157,6 @@ export function buildConstellation(params: {
       });
     }
   });
-  if (v.directorAffiliate && (CT.directorAffiliates[v.directorAffiliate] || 0) > 1) {
-    personNodes.push({
-      kind: "person",
-      label: v.directorAffiliate.toLowerCase(),
-      active: s.type === "directorAffiliate" && s.key === v.directorAffiliate,
-      action: { kind: "stream", type: "directorAffiliate", key: v.directorAffiliate },
-    });
-  }
 
   // person pills lead (prime spots), then tags. split alternately into rails.
   const allNodes = [...personNodes, ...tagNodes];

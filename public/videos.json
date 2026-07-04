@@ -4,7 +4,7 @@
     "subtitle": "A Love Letter to Music Videos",
     "totalVideos": 237,
     "totalArtists": 193,
-    "totalDirectors": 206,
+    "totalDirectors": 210,
     "totalTags": 107
   },
   "videos": {
@@ -7246,6 +7246,9 @@
       "Garth Jennings": [
         "blur-coffee-tv"
       ],
+      "Hammer & Tongs": [
+        "blur-coffee-tv"
+      ],
       "Thomas Vinterberg": [
         "blur-no-distance-left-to-run"
       ],
@@ -7416,6 +7419,9 @@
       "Steve Scott": [
         "birdy-nam-nam-the-parachute-ending"
       ],
+      "Not To Scale": [
+        "birdy-nam-nam-the-parachute-ending"
+      ],
       "Pomp&Clout": [
         "boys-noize-jeffer"
       ],
@@ -7443,6 +7449,9 @@
         "ok-go-this-too-shall-pass"
       ],
       "We Buy Your Kids": [
+        "paul-dempsey-bats"
+      ],
+      "Mighty Nice": [
         "paul-dempsey-bats"
       ],
       "Rhett Dashwood": [
@@ -7480,7 +7489,9 @@
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
       "CANADA": [
-        "el-guincho-bombay"
+        "el-guincho-bombay",
+        "scissor-sisters-invisible-light",
+        "battles-ice-cream"
       ],
       "AB/CD/CD": [
         "uffie-difficult"
@@ -7707,6 +7718,10 @@
         "green-day-bang-bang",
         "mastadon-clandestiny"
       ],
+      "BlinkMyBrain": [
+        "green-day-bang-bang",
+        "mastadon-clandestiny"
+      ],
       "Kevin McGloughlin": [
         "max-cooper-waves"
       ],
@@ -7849,25 +7864,6 @@
       ],
       "Lee Suho": [
         "balming-tiger-oui"
-      ]
-    },
-    "directorAffiliates": {
-      "Hammer & Tongs": [
-        "blur-coffee-tv"
-      ],
-      "Not To Scale": [
-        "birdy-nam-nam-the-parachute-ending"
-      ],
-      "Mighty Nice": [
-        "paul-dempsey-bats"
-      ],
-      "CANADA": [
-        "scissor-sisters-invisible-light",
-        "battles-ice-cream"
-      ],
-      "BlinkMyBrain": [
-        "green-day-bang-bang",
-        "mastadon-clandestiny"
       ]
     }
   },
@@ -8198,6 +8194,7 @@
       "Michel Gondry": 8,
       "Mike Mills": 1,
       "Garth Jennings": 1,
+      "Hammer & Tongs": 1,
       "Thomas Vinterberg": 1,
       "Paul Hunter": 1,
       "Tom Kuntz": 1,
@@ -8249,6 +8246,7 @@
       "Dirk Rauscher": 1,
       "Will Sweeney": 1,
       "Steve Scott": 1,
+      "Not To Scale": 1,
       "Pomp&Clout": 1,
       "Jared Leto": 1,
       "Bartholomew Cubbins": 1,
@@ -8257,6 +8255,7 @@
       "Damian Kulash": 6,
       "Brian L. Perkins": 1,
       "We Buy Your Kids": 1,
+      "Mighty Nice": 1,
       "Rhett Dashwood": 1,
       "James Frost": 1,
       "OK Go": 2,
@@ -8266,7 +8265,7 @@
       "Daniels": 5,
       "A.F. Schepperd": 2,
       "Chris Milk": 2,
-      "CANADA": 1,
+      "CANADA": 3,
       "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
       "Michael Langan": 3,
@@ -8336,6 +8335,7 @@
       "Pablo Marcovecchio": 1,
       "Davis Silis": 1,
       "Ariel Costa": 2,
+      "BlinkMyBrain": 2,
       "Kevin McGloughlin": 1,
       "Tom Noakes": 1,
       "Torben Kjelstrup": 1,
@@ -8383,13 +8383,6 @@
       "METTE": 1,
       "in/out": 1,
       "Lee Suho": 1
-    },
-    "directorAffiliates": {
-      "Hammer & Tongs": 1,
-      "Not To Scale": 1,
-      "Mighty Nice": 1,
-      "CANADA": 2,
-      "BlinkMyBrain": 2
     }
   }
 }

@@ -150,7 +150,24 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
                         </span>
                       );
                     })}
-                    {video.directorAffiliate && <span> ({video.directorAffiliate})</span>}
+                    {video.directorAffiliate &&
+                      (() => {
+                        const affiliate = video.directorAffiliate!;
+                        const on = (CT.directors[affiliate] || 0) > 1;
+                        const active = stream.type === "director" && stream.key === affiliate;
+                        return (
+                          <span>
+                            {" ("}
+                            <span
+                              className={on ? `streamable${active ? " activeStream" : ""}` : undefined}
+                              onClick={on ? () => pickStream("director", affiliate) : undefined}
+                            >
+                              {affiliate}
+                            </span>
+                            {")"}
+                          </span>
+                        );
+                      })()}
                     {video.dateDisplay && <div>{video.dateDisplay}</div>}
                   </div>
                 </>

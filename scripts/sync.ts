@@ -5,11 +5,13 @@
 // JSON out. See HANDOFF.md for the full behavior spec.
 //
 // Notion columns expected: Name, Artist, Song, Director, Director Affiliate
-// (production house/collective, e.g. "CANADA" -- see HANDOFF.md), Release
-// Date, YouTube, Vimeo, Tags, Thumbnail URL (usually empty), Embed Broken
-// (checkbox, manual override for embeds confirmed broken -- see HANDOFF.md),
-// One Director Entity (checkbox, see HANDOFF.md), Rating (ignored), Formula
-// (ignored, duplicate of Name).
+// (production house/collective, e.g. "CANADA" -- see HANDOFF.md; pools into
+// the same director playlist/pill as its credited director(s), so the same
+// name showing up as both a Director and a Director Affiliate is treated as
+// one entity), Release Date, YouTube, Vimeo, Tags, Thumbnail URL (usually
+// empty), Embed Broken (checkbox, manual override for embeds confirmed
+// broken -- see HANDOFF.md), One Director Entity (checkbox, see HANDOFF.md),
+// Rating (ignored), Formula (ignored, duplicate of Name).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -232,14 +234,19 @@ function main() {
 
   const tagsPl = group(ordered, (v) => v.tags);
   const artistsPl = group(ordered, (v) => [v.artist]);
-  const directorsPl = group(ordered, (v) => v.directors);
-  const affiliatesPl = group(ordered, (v) => (v.directorAffiliate ? [v.directorAffiliate] : []));
+  // A director affiliate (e.g. CANADA) is credited under the same name whether
+  // it appears in the Director column directly or as an affiliate of another
+  // credited director -- both should pool into one followable entity/pill
+  // rather than being split into two disconnected counts.
+  const directorsPl = group(ordered, (v) => {
+    if (!v.directorAffiliate || v.directors.includes(v.directorAffiliate)) return v.directors;
+    return [...v.directors, v.directorAffiliate];
+  });
 
   const counts: Counts = {
     tags: Object.fromEntries(Object.entries(tagsPl).map(([k, v]) => [k, v.length])),
     artists: Object.fromEntries(Object.entries(artistsPl).map(([k, v]) => [k, v.length])),
     directors: Object.fromEntries(Object.entries(directorsPl).map(([k, v]) => [k, v.length])),
-    directorAffiliates: Object.fromEntries(Object.entries(affiliatesPl).map(([k, v]) => [k, v.length])),
   };
 
   const meta: Meta = {
@@ -256,7 +263,6 @@ function main() {
     tags: tagsPl,
     artists: artistsPl,
     directors: directorsPl,
-    directorAffiliates: affiliatesPl,
   };
   const data: VideoData = { meta, videos, playlists, counts };
 
@@ -265,7 +271,7 @@ function main() {
 
   console.log(`Playable: ${Object.keys(videos).length} | skipped: ${skipped}`);
   console.log(
-    `Artists: ${Object.keys(artistsPl).length} | Directors: ${Object.keys(directorsPl).length} | Tags: ${Object.keys(tagsPl).length} | Affiliates: ${Object.keys(affiliatesPl).length}`
+    `Artists: ${Object.keys(artistsPl).length} | Directors: ${Object.keys(directorsPl).length} | Tags: ${Object.keys(tagsPl).length}`
   );
   console.log(`Wrote ${outPath}`);
 }
