@@ -38,9 +38,7 @@ export function AboutProvider({ children }: { children: React.ReactNode }) {
           </button>
           <h2>Thunder/Lightning</h2>
           <div className="sub">A Love Letter to Music Videos</div>
-          <p>Music videos I keep rewatching.</p>
-          <p>Connected as a stream of consciousness.</p>
-          <p>Follow any thread.</p>
+          <p>Music videos that live in my head rent free. Collected here as a stream of consciousness. Follow any thread.</p>
           <div className="credit">
             by{" "}
             <a href="https://higafox.com" target="_blank" rel="noopener">

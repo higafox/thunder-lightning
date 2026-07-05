@@ -11,6 +11,7 @@
 // one entity), Release Date, YouTube, Vimeo, Tags, Thumbnail URL (usually
 // empty), Embed Broken (checkbox, manual override for embeds confirmed
 // broken -- see HANDOFF.md), One Director Entity (checkbox, see HANDOFF.md),
+// Archive (checkbox -- row is excluded from the site entirely when checked),
 // Rating (ignored), Formula (ignored, duplicate of Name).
 
 import fs from "node:fs";
@@ -151,8 +152,13 @@ function main() {
 
   const videos: Record<string, Video> = {};
   let skipped = 0;
+  let archived = 0;
 
   for (const r of rows) {
+    if (isChecked(r["Archive"])) {
+      archived++;
+      continue;
+    }
     const yt = ytId(r["YouTube"]);
     const vm = vimId(r["Vimeo"]);
     if (!yt && !vm) {
@@ -269,7 +275,7 @@ function main() {
   const outPath = path.join(process.cwd(), "public", "videos.json");
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), "utf-8");
 
-  console.log(`Playable: ${Object.keys(videos).length} | skipped: ${skipped}`);
+  console.log(`Playable: ${Object.keys(videos).length} | skipped: ${skipped} | archived: ${archived}`);
   console.log(
     `Artists: ${Object.keys(artistsPl).length} | Directors: ${Object.keys(directorsPl).length} | Tags: ${Object.keys(tagsPl).length}`
   );
