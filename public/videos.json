@@ -687,7 +687,8 @@
       "tags": [
         "orbiting",
         "repeat",
-        "vfx"
+        "vfx",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -3064,7 +3065,9 @@
       "youtubeId": "JL13mEbnSv8",
       "vimeoId": "32025586",
       "thumbnailUrl": "https://img.youtube.com/vi/JL13mEbnSv8/hqdefault.jpg",
-      "tags": [],
+      "tags": [
+        "illustration"
+      ],
       "embedBroken": false
     },
     "ok-go-all-is-not-lost": {
@@ -3178,7 +3181,7 @@
       "tags": [
         "long take",
         "vfx",
-        "walk"
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -3223,7 +3226,8 @@
       "tags": [
         "cel animation",
         "monochrome",
-        "potential nsfw"
+        "potential nsfw",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -3422,7 +3426,8 @@
       "vimeoId": "13133379",
       "thumbnailUrl": "https://img.youtube.com/vi/Kk8eJh4i8Lo/hqdefault.jpg",
       "tags": [
-        "3D animation"
+        "3D animation",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -4760,7 +4765,8 @@
       "vimeoId": "6334633",
       "thumbnailUrl": "https://img.youtube.com/vi/bJkymylTNU4/hqdefault.jpg",
       "tags": [
-        "potential nsfw"
+        "potential nsfw",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -4826,7 +4832,8 @@
         "crime",
         "long take",
         "narrative",
-        "slowmo"
+        "slowmo",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -5369,7 +5376,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/1lyu1KKwC74/maxresdefault.jpg",
       "tags": [
-        "walk"
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -7062,9 +7069,14 @@
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
-      "walk": [
+      "walk/run": [
         "the-verve-bitter-sweet-symphony",
-        "uffie-difficult"
+        "kylie-minogue-come-into-my-world",
+        "matt-and-kim-lessons-learned",
+        "la-roux-bulletproof",
+        "sebastien-tellier-look",
+        "uffie-difficult",
+        "mount-moriah-precita"
       ],
       "slowmo": [
         "air-kelly-watch-the-stars",
@@ -7280,6 +7292,7 @@
         "paul-dempsey-bats",
         "danger-beach-apache",
         "apparat-granular-bastard",
+        "marian-ruzzi-y-sr-amable-una-pieza-mas",
         "royksopp-so-easy-unofficial-video",
         "charles-x-can-you-do-it"
       ],
@@ -9038,7 +9051,7 @@
       "long take": 23,
       "water": 6,
       "fisheye": 1,
-      "walk": 2,
+      "walk/run": 7,
       "slowmo": 6,
       "sports": 2,
       "lofi brilliance": 7,
@@ -9064,7 +9077,7 @@
       "claps": 3,
       "cats": 4,
       "matchmove": 4,
-      "illustration": 8,
+      "illustration": 9,
       "dogs": 3,
       "psychedelic": 13,
       "horses": 2,
