@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 275,
-    "totalArtists": 212,
-    "totalDirectors": 241,
+    "totalVideos": 274,
+    "totalArtists": 211,
+    "totalDirectors": 240,
     "totalTags": 109
   },
   "videos": {
@@ -2356,27 +2356,6 @@
       ],
       "embedBroken": true
     },
-    "jane-bordeaux-maagalim": {
-      "id": "jane-bordeaux-maagalim",
-      "artist": "Jane Bordeaux",
-      "song": "Ma'agalim",
-      "director": "Uri Lotan",
-      "directors": [
-        "Uri Lotan"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "January 2016",
-      "sortDate": "2016-01-01",
-      "year": 2016,
-      "provider": "youtube",
-      "youtubeId": "zgHHph-CrC8",
-      "vimeoId": "162052542",
-      "thumbnailUrl": "https://img.youtube.com/vi/zgHHph-CrC8/hqdefault.jpg",
-      "tags": [
-        "3D animation"
-      ],
-      "embedBroken": false
-    },
     "los-misterios-m-talos-y-vuelve": {
       "id": "los-misterios-m-talos-y-vuelve",
       "artist": "Los Misterios",
@@ -4166,8 +4145,8 @@
       "vimeoId": "151926492",
       "thumbnailUrl": "https://img.youtube.com/vi/XeFylPXyIJw/hqdefault.jpg",
       "tags": [
-        "3D animation",
         "abstract",
+        "cel animation",
         "soundsync"
       ],
       "embedBroken": true
@@ -6480,7 +6459,6 @@
       "darwin-deez-the-mess-she-made",
       "soupcans-siamese-brutality",
       "n-lannon-another-love",
-      "jane-bordeaux-maagalim",
       "ok-go-upside-down-inside-out",
       "the-chemical-brothers-wide-open",
       "violet-sands-no-matter-what",
@@ -6765,6 +6743,7 @@
         "iron-wine-joy",
         "vial-of-sound-a-lifetime-passed",
         "beatsofreen-slowly-rising",
+        "general-elektriks-angle-boogie",
         "washed-out-floating-by",
         "dayglow-something"
       ],
@@ -7149,8 +7128,6 @@
         "la-roux-bulletproof",
         "bj-rk-mutual-core",
         "n-lannon-another-love",
-        "jane-bordeaux-maagalim",
-        "general-elektriks-angle-boogie",
         "max-cooper-feat-kathrin-deboer-with-me"
       ],
       "abstract": [
@@ -8032,9 +8009,6 @@
       "N. Lannon": [
         "n-lannon-another-love"
       ],
-      "Jane Bordeaux": [
-        "jane-bordeaux-maagalim"
-      ],
       "Violet Sands": [
         "violet-sands-no-matter-what"
       ],
@@ -8801,9 +8775,6 @@
       "Najeeb Tarazi": [
         "n-lannon-another-love"
       ],
-      "Uri Lotan": [
-        "jane-bordeaux-maagalim"
-      ],
       "Dom & Nic": [
         "the-chemical-brothers-wide-open"
       ],
@@ -9041,7 +9012,7 @@
       "machine": 5,
       "jump": 3,
       "motorcycle": 1,
-      "cel animation": 14,
+      "cel animation": 15,
       "collage": 9,
       "poc director": 30,
       "tableau": 21,
@@ -9076,7 +9047,7 @@
       "soundsync": 14,
       "lego": 1,
       "pixel": 3,
-      "3D animation": 9,
+      "3D animation": 7,
       "abstract": 12,
       "isometric": 3,
       "projection mapping": 5,
@@ -9289,7 +9260,6 @@
       "Darwin Deez": 1,
       "Soupcans": 1,
       "N. Lannon": 1,
-      "Jane Bordeaux": 1,
       "Violet Sands": 1,
       "Hiérophante": 1,
       "Miike Snow": 1,
@@ -9521,7 +9491,6 @@
       "Oscar Hudson": 1,
       "Winston Hacking": 2,
       "Najeeb Tarazi": 1,
-      "Uri Lotan": 1,
       "Dom & Nic": 1,
       "Dress Code": 1,
       "Hiérophante": 1,
