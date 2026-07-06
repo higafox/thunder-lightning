@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 301,
-    "totalArtists": 224,
-    "totalDirectors": 254,
+    "totalVideos": 304,
+    "totalArtists": 227,
+    "totalDirectors": 260,
     "totalTags": 112
   },
   "videos": {
@@ -3159,6 +3159,9 @@
       "vimeoId": "6528299",
       "thumbnailUrl": "https://img.youtube.com/vi/mQ4jZeGUFzI/hqdefault.jpg",
       "tags": [
+        "pixilation",
+        "repeat",
+        "splitscreen",
         "stop motion"
       ],
       "embedBroken": false
@@ -3181,7 +3184,6 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mwSiprSJ52k/hqdefault.jpg",
       "tags": [
         "glitch",
-        "lofi brilliance",
         "soundsync"
       ],
       "embedBroken": false
@@ -3269,6 +3271,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6LG39Wp7OzQ/hqdefault.jpg",
       "tags": [
         "datamoshing",
+        "glitch",
         "poc director",
         "psychedelic"
       ],
@@ -6401,10 +6404,12 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/s5FyfQDO5g0/hqdefault.jpg",
       "tags": [
+        "busby berkeley",
         "dance",
         "kaleidoscope",
         "mirrors",
         "psychedelic",
+        "repeat",
         "twinsies",
         "vfx"
       ],
@@ -6939,6 +6944,78 @@
         "repeat"
       ],
       "embedBroken": false
+    },
+    "sour-hibi-no-neiro": {
+      "id": "sour-hibi-no-neiro",
+      "artist": "SOUR",
+      "song": "日々の音色 (Hibi no neiro)",
+      "director": "Masashi Kawamura + Hal Kirkland + Magico Nakamura + Masayoshi Nakamura",
+      "directors": [
+        "Masashi Kawamura",
+        "Hal Kirkland",
+        "Magico Nakamura",
+        "Masayoshi Nakamura"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2009",
+      "sortDate": "2009-07-01",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "WfBlUQguvyw",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/WfBlUQguvyw/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "interactive",
+        "lofi brilliance",
+        "splitscreen"
+      ],
+      "embedBroken": false
+    },
+    "lauryn-hill-doo-wop-that-thing": {
+      "id": "lauryn-hill-doo-wop-that-thing",
+      "artist": "Lauryn Hill",
+      "song": "Doo Wop (That Thing)",
+      "director": "Big TV!",
+      "directors": [
+        "Big TV!"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1998",
+      "sortDate": "1998-01-01",
+      "year": 1998,
+      "provider": "youtube",
+      "youtubeId": "T6QKqFPRZSA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/T6QKqFPRZSA/hqdefault.jpg",
+      "tags": [
+        "new york",
+        "retro",
+        "splitscreen"
+      ],
+      "embedBroken": false
+    },
+    "kid-cudi-make-her-say": {
+      "id": "kid-cudi-make-her-say",
+      "artist": "Kid Cudi",
+      "song": "Make Her Say",
+      "director": "Nez Khammal",
+      "directors": [
+        "Nez Khammal"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2009",
+      "sortDate": "2009-07-20",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "Xt22KvnRSL4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Xt22KvnRSL4/hqdefault.jpg",
+      "tags": [
+        "poc director",
+        "splitscreen"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -7006,6 +7083,7 @@
       "the-verve-bitter-sweet-symphony",
       "natalie-imbruglia-torn",
       "bj-rk-bachelorette",
+      "lauryn-hill-doo-wop-that-thing",
       "air-kelly-watch-the-stars",
       "moby-honey",
       "fatboy-slim-praise-you",
@@ -7076,6 +7154,8 @@
       "moray-mclaren-we-got-time",
       "labuat-soy-tu-aire",
       "dominik-eulberg-sansula-oder-der-letzte-grund",
+      "sour-hibi-no-neiro",
+      "kid-cudi-make-her-say",
       "boys-noize-jeffer",
       "grizzly-bear-while-you-wait-for-the-others",
       "beck-black-tambourine",
@@ -7287,6 +7367,7 @@
         "madonna-material-girl",
         "smashing-pumpkins-tonight-tonight",
         "daft-punk-around-the-world",
+        "lauryn-hill-doo-wop-that-thing",
         "the-avalanches-frontier-psychiatrist",
         "outkast-hey-ya",
         "peter-bjorn-and-john-young-folks",
@@ -7544,6 +7625,7 @@
         "snoop-dogg-sensual-seduction",
         "chairlift-evident-utensil",
         "yeasayer-wait-for-the-summer",
+        "kid-cudi-make-her-say",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
         "huma-huma-hello-i-like-you",
@@ -7624,6 +7706,7 @@
         "peter-gabriel-sledgehammer",
         "the-white-stripes-the-hardest-button-to-button",
         "dick-annegarn-soleil-du-soir",
+        "grizzly-bear-while-you-wait-for-the-others",
         "ok-go-end-love",
         "tune-yards-bizness",
         "ok-go-obsession"
@@ -7646,6 +7729,7 @@
         "madonna-papa-dont-preach",
         "depeche-mode-policy-of-truth",
         "the-roots-what-they-do",
+        "lauryn-hill-doo-wop-that-thing",
         "the-white-stripes-the-hardest-button-to-button",
         "jay-z-99-problems",
         "the-rapture-whoo-alright-yeah-uh-huh",
@@ -7832,6 +7916,7 @@
       "busby berkeley": [
         "bj-rk-its-oh-so-quiet",
         "daft-punk-around-the-world",
+        "the-chemical-brothers-let-forever-be",
         "ok-go-this-too-shall-pass",
         "ok-go-i-wont-let-you-down",
         "tourist-valentine",
@@ -7840,6 +7925,7 @@
       "crowd": [
         "bj-rk-its-oh-so-quiet",
         "feist-1234",
+        "sour-hibi-no-neiro",
         "ok-go-this-too-shall-pass",
         "psy-gangnam-style",
         "de-staat-witch-doctor",
@@ -7895,6 +7981,10 @@
       ],
       "splitscreen": [
         "cibo-matto-sugar-water",
+        "lauryn-hill-doo-wop-that-thing",
+        "sour-hibi-no-neiro",
+        "kid-cudi-make-her-say",
+        "grizzly-bear-while-you-wait-for-the-others",
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom",
         "kendrick-lamar-not-like-us"
@@ -7952,8 +8042,10 @@
       ],
       "repeat": [
         "moby-honey",
+        "the-chemical-brothers-let-forever-be",
         "kylie-minogue-come-into-my-world",
         "yuki-sentimental-journey",
+        "grizzly-bear-while-you-wait-for-the-others",
         "fm-belfast-underwear",
         "ok-go-all-is-not-lost",
         "bonobo-cirrus",
@@ -7984,7 +8076,7 @@
         "fatboy-slim-praise-you",
         "bellx1-rocky-took-a-lover",
         "friendly-fires-skeleton-boy",
-        "boys-noize-jeffer",
+        "sour-hibi-no-neiro",
         "kumisolo-cheap-pop-song",
         "darwin-deez-the-mess-she-made",
         "soupcans-siamese-brutality"
@@ -8230,22 +8322,24 @@
       "datamoshing": [
         "chairlift-evident-utensil"
       ],
+      "glitch": [
+        "chairlift-evident-utensil",
+        "boys-noize-jeffer",
+        "squarepusher-terminal-slam"
+      ],
       "zoetrope": [
         "moray-mclaren-we-got-time",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "interactive": [
         "labuat-soy-tu-aire",
+        "sour-hibi-no-neiro",
         "johnny-cash-aint-no-grave",
         "arcade-fire-we-used-to-wait",
         "rome-3-dreams-of-black",
         "light-light-kilo-do-not-touch",
         "reeps-one-does-not-exist",
         "tune-yards-medley-for-google-i-o"
-      ],
-      "glitch": [
-        "boys-noize-jeffer",
-        "squarepusher-terminal-slam"
       ],
       "ascii": [
         "beck-black-tambourine",
@@ -8499,6 +8593,9 @@
       "Natalie Imbruglia": [
         "natalie-imbruglia-torn"
       ],
+      "Lauryn Hill": [
+        "lauryn-hill-doo-wop-that-thing"
+      ],
       "Air": [
         "air-kelly-watch-the-stars"
       ],
@@ -8699,6 +8796,12 @@
       ],
       "Dominik Eulberg": [
         "dominik-eulberg-sansula-oder-der-letzte-grund"
+      ],
+      "SOUR": [
+        "sour-hibi-no-neiro"
+      ],
+      "Kid Cudi": [
+        "kid-cudi-make-her-say"
       ],
       "Boys Noize": [
         "boys-noize-jeffer"
@@ -9266,6 +9369,9 @@
       "Alison Maclean": [
         "natalie-imbruglia-torn"
       ],
+      "Big TV!": [
+        "lauryn-hill-doo-wop-that-thing"
+      ],
       "Mike Mills": [
         "air-kelly-watch-the-stars"
       ],
@@ -9449,6 +9555,21 @@
       ],
       "Dirk Rauscher": [
         "dominik-eulberg-sansula-oder-der-letzte-grund"
+      ],
+      "Masashi Kawamura": [
+        "sour-hibi-no-neiro"
+      ],
+      "Hal Kirkland": [
+        "sour-hibi-no-neiro"
+      ],
+      "Magico Nakamura": [
+        "sour-hibi-no-neiro"
+      ],
+      "Masayoshi Nakamura": [
+        "sour-hibi-no-neiro"
+      ],
+      "Nez Khammal": [
+        "kid-cudi-make-her-say"
       ],
       "Pomp&Clout": [
         "boys-noize-jeffer"
@@ -9957,7 +10078,7 @@
   "counts": {
     "tags": {
       "long take": 33,
-      "retro": 11,
+      "retro": 12,
       "lighting": 8,
       "confidence": 28,
       "guitar solo": 3,
@@ -9975,13 +10096,13 @@
       "motorcycle": 1,
       "cel animation": 15,
       "collage": 9,
-      "poc director": 38,
+      "poc director": 39,
       "tableau": 22,
       "stop motion": 20,
       "plane": 2,
-      "pixilation": 6,
+      "pixilation": 7,
       "narrative": 12,
-      "new york": 10,
+      "new york": 11,
       "gothy": 13,
       "horses": 3,
       "monochrome": 23,
@@ -9994,13 +10115,13 @@
       "slowmo": 9,
       "cars": 6,
       "desert": 6,
-      "busby berkeley": 6,
-      "crowd": 10,
+      "busby berkeley": 7,
+      "crowd": 11,
       "surveillance": 3,
       "architecture": 5,
       "vfx": 25,
       "reverse": 3,
-      "splitscreen": 4,
+      "splitscreen": 8,
       "treadmill/escalator": 5,
       "water": 7,
       "explosions": 5,
@@ -10008,7 +10129,7 @@
       "walk/run": 8,
       "meta": 8,
       "sports": 3,
-      "repeat": 19,
+      "repeat": 21,
       "twinsies": 7,
       "lofi brilliance": 7,
       "puppets": 5,
@@ -10043,9 +10164,9 @@
       "fluid dynamics": 5,
       "shapes": 6,
       "datamoshing": 1,
+      "glitch": 3,
       "zoetrope": 2,
-      "interactive": 7,
-      "glitch": 2,
+      "interactive": 8,
       "ascii": 2,
       "marching band": 2,
       "rube goldberg": 2,
@@ -10110,6 +10231,7 @@
       "Missy Elliott": 1,
       "The Verve": 1,
       "Natalie Imbruglia": 1,
+      "Lauryn Hill": 1,
       "Air": 1,
       "Moby": 1,
       "Fatboy Slim": 2,
@@ -10167,6 +10289,8 @@
       "Moray McLaren": 1,
       "Labuat": 1,
       "Dominik Eulberg": 1,
+      "SOUR": 1,
+      "Kid Cudi": 1,
       "Boys Noize": 1,
       "Beck": 2,
       "Lady Gaga": 1,
@@ -10340,6 +10464,7 @@
       "Paul Thomas Anderson": 2,
       "Walter Stern": 1,
       "Alison Maclean": 1,
+      "Big TV!": 1,
       "Mike Mills": 1,
       "Roman Coppola": 1,
       "Garth Jennings": 1,
@@ -10396,6 +10521,11 @@
       "David Wilson": 1,
       "Herraiz&Soto": 1,
       "Dirk Rauscher": 1,
+      "Masashi Kawamura": 1,
+      "Hal Kirkland": 1,
+      "Magico Nakamura": 1,
+      "Masayoshi Nakamura": 1,
+      "Nez Khammal": 1,
       "Pomp&Clout": 1,
       "Adam Levite": 1,
       "Francis Lawrence": 1,
