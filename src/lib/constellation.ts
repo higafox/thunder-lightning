@@ -50,6 +50,13 @@ export interface ConstellationLayout {
 const CX = 50;
 const CY = 47.5; // video center in viewport %, block sits slightly lower
 
+function angDiff(a: number, b: number): number {
+  let d = a - b;
+  while (d > Math.PI) d -= Math.PI * 2;
+  while (d < -Math.PI) d += Math.PI * 2;
+  return d;
+}
+
 function seedRand(key: string) {
   let seed = 0;
   for (const ch of key) seed = (seed * 31 + ch.charCodeAt(0)) >>> 0;
@@ -258,5 +265,17 @@ export function buildConstellation(params: {
     return { x1: CX, y1: CY, x2: ex, y2: ey, cls };
   });
 
-  return { rays, connectors, pills: placed };
+  // A decorative ray shares its origin (CX, CY) with every connector. If a
+  // ray's angle nearly matches a connector's, the two lines overlap almost
+  // perfectly near the center and only slowly diverge -- which reads as one
+  // line with a visible kink where they finally separate, rather than two
+  // distinct lines. Drop any ray within ~1 degree of a connector's angle.
+  const connAngles = connectors.map((c) => Math.atan2(c.y2 - CY, (c.x2 - CX) * AR));
+  const COLLIDE_EPS = 0.02;
+  const clearRays = rays.filter((r) => {
+    const rAng = Math.atan2(r.y1 - CY, (r.x1 - CX) * AR);
+    return !connAngles.some((a) => Math.abs(angDiff(rAng, a)) < COLLIDE_EPS);
+  });
+
+  return { rays: clearRays, connectors, pills: placed };
 }
