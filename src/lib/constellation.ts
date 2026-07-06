@@ -148,6 +148,9 @@ export function buildConstellation(params: {
     creditedNames.push(v.directorAffiliate);
   }
   creditedNames.forEach((d) => {
+    // a band that (co-)directs its own video (e.g. OK Go) is the same entity
+    // as the artist pill above -- don't show it a second time as a director.
+    if (d.toLowerCase() === v.artist.toLowerCase()) return;
     if ((CT.directors[d] || 0) > 1) {
       personNodes.push({
         kind: "person",

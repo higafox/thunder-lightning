@@ -3,7 +3,7 @@
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
     "totalVideos": 303,
-    "totalArtists": 227,
+    "totalArtists": 226,
     "totalDirectors": 255,
     "totalTags": 112
   },
@@ -514,7 +514,7 @@
     },
     "ok-go-here-it-goes-again": {
       "id": "ok-go-here-it-goes-again",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "Here It Goes Again",
       "director": "Trish Sie",
       "directors": [
@@ -2250,7 +2250,7 @@
     },
     "ok-go-upside-down-inside-out": {
       "id": "ok-go-upside-down-inside-out",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "Upside Down & Inside Out",
       "director": "Trish Sie & Damian Kulash",
       "directors": [
@@ -2475,8 +2475,11 @@
       "thumbnailUrl": "https://img.youtube.com/vi/IzrMeG1ibuM/hqdefault.jpg",
       "tags": [
         "collage",
+        "poc director",
         "psychedelic",
-        "stop motion"
+        "stop motion",
+        "woc director",
+        "womxn director"
       ],
       "embedBroken": false
     },
@@ -2600,7 +2603,7 @@
     },
     "ok-go-i-wont-let-you-down": {
       "id": "ok-go-i-wont-let-you-down",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "I Won't Let You Down",
       "director": "Kazuaki Seki & Damian Kulash",
       "directors": [
@@ -2626,7 +2629,7 @@
     },
     "ok-go-the-writings-on-the-wall": {
       "id": "ok-go-the-writings-on-the-wall",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "The Writing's On the Wall",
       "director": "Damian Kulash, Aaron Duffy, & Bob Partington",
       "directors": [
@@ -2667,6 +2670,7 @@
       "tags": [
         "abstract",
         "projection mapping",
+        "repeat",
         "surreal"
       ],
       "embedBroken": false
@@ -2951,7 +2955,7 @@
     },
     "ok-go-all-is-not-lost": {
       "id": "ok-go-all-is-not-lost",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "All Is Not Lost",
       "director": "Trish Sie & Pilobolus",
       "directors": [
@@ -3133,7 +3137,7 @@
     },
     "ok-go-this-too-shall-pass": {
       "id": "ok-go-this-too-shall-pass",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "This Too Shall Pass",
       "director": "Damian Kulash & Brian L. Perkins",
       "directors": [
@@ -3383,7 +3387,7 @@
     },
     "ok-go-this-too-shall-pass-rube-goldberg": {
       "id": "ok-go-this-too-shall-pass-rube-goldberg",
-      "artist": "OK GO",
+      "artist": "OK Go",
       "song": "This Too Shall Pass (Rube Goldberg)",
       "director": "James Frost, OK Go & Syyn Labs",
       "directors": [
@@ -4501,7 +4505,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/QRyPILMgGE8/hqdefault.jpg",
       "tags": [
         "joy",
-        "stop motion"
+        "poc director",
+        "stop motion",
+        "woc director",
+        "womxn director"
       ],
       "embedBroken": false
     },
@@ -6823,7 +6830,10 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/qMyURfKRTEM/hqdefault.jpg",
       "tags": [
-        "cel animation"
+        "cel animation",
+        "poc director",
+        "woc director",
+        "womxn director"
       ],
       "embedBroken": false
     },
@@ -7459,7 +7469,10 @@
         "ok-go-here-it-goes-again",
         "ogiyahagi-i-love-your-face",
         "snoop-dogg-sensual-seduction",
+        "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "huma-huma-hello-i-like-you",
         "ok-go-all-is-not-lost",
         "apparat-granular-bastard",
         "we-cut-corners-pirates-life",
@@ -7561,7 +7574,10 @@
         "ogiyahagi-i-love-your-face",
         "snoop-dogg-sensual-seduction",
         "chairlift-evident-utensil",
+        "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "huma-huma-hello-i-like-you",
         "the-shins-simple-song",
         "psy-gangnam-style",
         "flying-lotus-until-the-quiet-comes",
@@ -7972,6 +7988,7 @@
         "bonobo-cirrus",
         "vial-of-sound-a-lifetime-passed",
         "boozoo-bajou-jan-mayen",
+        "hundred-waters-cavity",
         "sarh-u-and-i",
         "alb-the-road",
         "battles-the-yabba",
@@ -8121,7 +8138,10 @@
         "yuki-sentimental-journey",
         "ogiyahagi-i-love-your-face",
         "snoop-dogg-sensual-seduction",
+        "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "huma-huma-hello-i-like-you",
         "beyonc-formation",
         "janelle-mon-e-i-like-that",
         "janelle-mon-e-lipstick-lover",
@@ -8612,14 +8632,21 @@
       "Muse": [
         "muse-knights-of-cydonia"
       ],
-      "OK GO": [
+      "OK Go": [
         "ok-go-here-it-goes-again",
         "ok-go-this-too-shall-pass",
         "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-end-love",
+        "ok-go-white-knuckles",
         "ok-go-all-is-not-lost",
+        "ok-go-needing-getting",
         "ok-go-the-writings-on-the-wall",
         "ok-go-i-wont-let-you-down",
-        "ok-go-upside-down-inside-out"
+        "ok-go-upside-down-inside-out",
+        "ok-go-the-one-moment",
+        "ok-go-obsession",
+        "ok-go-a-stone-only-rolls-downhill",
+        "ok-go-love"
       ],
       "The Horrors": [
         "the-horrors-sheena-is-a-parasite"
@@ -8752,15 +8779,6 @@
       ],
       "The Pains of Being Pure at Heart": [
         "the-pains-of-being-pure-at-heart-say-no-to-love"
-      ],
-      "OK Go": [
-        "ok-go-end-love",
-        "ok-go-white-knuckles",
-        "ok-go-needing-getting",
-        "ok-go-the-one-moment",
-        "ok-go-obsession",
-        "ok-go-a-stone-only-rolls-downhill",
-        "ok-go-love"
       ],
       "Blockhead": [
         "blockhead-the-music-scene"
@@ -9996,7 +10014,7 @@
       "greenscreen": 3,
       "joy": 6,
       "lasers": 5,
-      "womxn director": 35,
+      "womxn director": 38,
       "wut": 11,
       "legs": 2,
       "machine": 6,
@@ -10005,7 +10023,7 @@
       "motorcycle": 1,
       "cel animation": 15,
       "collage": 9,
-      "poc director": 35,
+      "poc director": 38,
       "tableau": 21,
       "stop motion": 20,
       "plane": 2,
@@ -10038,7 +10056,7 @@
       "walk/run": 9,
       "meta": 8,
       "sports": 3,
-      "repeat": 18,
+      "repeat": 19,
       "twinsies": 7,
       "lofi brilliance": 7,
       "puppets": 5,
@@ -10055,7 +10073,7 @@
       "projection mapping": 5,
       "orbiting": 10,
       "loops": 11,
-      "woc director": 9,
+      "woc director": 12,
       "kids": 10,
       "kaiju": 2,
       "claps": 3,
@@ -10170,7 +10188,7 @@
       "Vitalic": 1,
       "Gnarls Barkley": 1,
       "Muse": 1,
-      "OK GO": 7,
+      "OK Go": 14,
       "The Horrors": 1,
       "Ogiyahagi": 1,
       "I Love You But I’ve Chosen Darkness": 1,
@@ -10210,7 +10228,6 @@
       "FM Belfast": 1,
       "Johnny Cash": 1,
       "The Pains of Being Pure at Heart": 1,
-      "OK Go": 7,
       "Blockhead": 1,
       "The Hundred in the Hands": 1,
       "Arcade Fire": 2,
