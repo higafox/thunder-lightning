@@ -248,7 +248,7 @@ a {
 }
 .ray {
   stroke: #c9a659;
-  stroke-width: 0.11;
+  stroke-width: 0.13;
   vector-effect: non-scaling-stroke;
 }
 .sun {
@@ -259,7 +259,7 @@ a {
 }
 .spoke {
   stroke: #c9a659;
-  stroke-width: 0.09;
+  stroke-width: 0.11;
   vector-effect: non-scaling-stroke;
 }
 .conn {
