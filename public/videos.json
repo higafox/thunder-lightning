@@ -2,8 +2,8 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 303,
-    "totalArtists": 226,
+    "totalVideos": 302,
+    "totalArtists": 225,
     "totalDirectors": 255,
     "totalTags": 112
   },
@@ -953,30 +953,6 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/r8ys3B2q_2k/hqdefault.jpg",
       "tags": [],
-      "embedBroken": false
-    },
-    "beastie-boys-sabotage": {
-      "id": "beastie-boys-sabotage",
-      "artist": "Beastie Boys",
-      "song": "Sabotage",
-      "director": "Spike Jonze",
-      "directors": [
-        "Spike Jonze"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "January 1994",
-      "sortDate": "1994-01-28",
-      "year": 1994,
-      "provider": "youtube",
-      "youtubeId": "z5rRZdiu1UE",
-      "vimeoId": "900683274",
-      "thumbnailUrl": "https://img.youtube.com/vi/z5rRZdiu1UE/hqdefault.jpg",
-      "tags": [
-        "cars",
-        "confidence",
-        "crime",
-        "retro"
-      ],
       "embedBroken": false
     },
     "outkast-hey-ya": {
@@ -7017,7 +6993,6 @@
       "r-e-m-losing-my-religion",
       "janet-jackson-thats-the-way-love-goes",
       "depeche-mode-walking-in-my-shoes",
-      "beastie-boys-sabotage",
       "nine-inch-nails-closer",
       "soundgarden-black-hole-sun",
       "lisa-loeb-stay-i-missed-you",
@@ -7326,7 +7301,6 @@
         "bob-dylan-subterranean-homesick-blues",
         "devo-whip-it",
         "madonna-material-girl",
-        "beastie-boys-sabotage",
         "smashing-pumpkins-tonight-tonight",
         "daft-punk-around-the-world",
         "the-avalanches-frontier-psychiatrist",
@@ -7345,7 +7319,6 @@
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "george-michael-freedom-90",
         "prince-the-new-power-generation-cream",
-        "beastie-boys-sabotage",
         "missy-elliott-the-rain-supa-dupa-fly",
         "fatboy-slim-weapon-of-choice",
         "yeah-yeah-yeahs-maps",
@@ -7775,20 +7748,6 @@
         "beatsofreen-slowly-rising",
         "washed-out-floating-by"
       ],
-      "cars": [
-        "beastie-boys-sabotage",
-        "2pac-ft-dr-dre-california-love",
-        "radiohead-karma-police",
-        "son-of-kick-playing-the-villain",
-        "m-i-a-bad-girls",
-        "ok-go-needing-getting",
-        "mette-bet"
-      ],
-      "crime": [
-        "beastie-boys-sabotage",
-        "mount-moriah-precita",
-        "gener8ion-yung-lean-storm"
-      ],
       "surreal": [
         "soundgarden-black-hole-sun",
         "massive-attack-protection",
@@ -7854,6 +7813,14 @@
         "mount-moriah-precita",
         "ok-go-the-one-moment",
         "5nizza-samoliot"
+      ],
+      "cars": [
+        "2pac-ft-dr-dre-california-love",
+        "radiohead-karma-police",
+        "son-of-kick-playing-the-villain",
+        "m-i-a-bad-girls",
+        "ok-go-needing-getting",
+        "mette-bet"
       ],
       "desert": [
         "2pac-ft-dr-dre-california-love",
@@ -8365,6 +8332,10 @@
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
+      "crime": [
+        "mount-moriah-precita",
+        "gener8ion-yung-lean-storm"
+      ],
       "marbles": [
         "wintergatan-marble-machine"
       ],
@@ -8461,9 +8432,6 @@
       ],
       "R.E.M.": [
         "r-e-m-losing-my-religion"
-      ],
-      "Beastie Boys": [
-        "beastie-boys-sabotage"
       ],
       "Nine Inch Nails": [
         "nine-inch-nails-closer"
@@ -9237,15 +9205,6 @@
       "René Elizondo, Jr.": [
         "janet-jackson-thats-the-way-love-goes"
       ],
-      "Spike Jonze": [
-        "beastie-boys-sabotage",
-        "weezer-undone-the-sweater-song",
-        "bj-rk-its-oh-so-quiet",
-        "the-pharcyde-drop",
-        "fatboy-slim-praise-you",
-        "fatboy-slim-weapon-of-choice",
-        "bj-rk-triumph-of-a-heart"
-      ],
       "Mark Romanek": [
         "nine-inch-nails-closer",
         "fiona-apple-criminal",
@@ -9256,6 +9215,14 @@
       ],
       "Ethan Hawke": [
         "lisa-loeb-stay-i-missed-you"
+      ],
+      "Spike Jonze": [
+        "weezer-undone-the-sweater-song",
+        "bj-rk-its-oh-so-quiet",
+        "the-pharcyde-drop",
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice",
+        "bj-rk-triumph-of-a-heart"
       ],
       "Hype Williams": [
         "2pac-ft-dr-dre-california-love",
@@ -10006,8 +9973,8 @@
   "counts": {
     "tags": {
       "long take": 34,
-      "retro": 12,
-      "confidence": 29,
+      "retro": 11,
+      "confidence": 28,
       "guitar solo": 3,
       "hair": 4,
       "dance": 54,
@@ -10037,11 +10004,10 @@
       "body-ody": 8,
       "ice skates": 1,
       "psychedelic": 15,
-      "cars": 7,
-      "crime": 3,
       "surreal": 47,
       "dogs": 4,
       "slowmo": 9,
+      "cars": 6,
       "desert": 6,
       "busby berkeley": 6,
       "crowd": 10,
@@ -10111,6 +10077,7 @@
       "long exposure": 1,
       "drone": 4,
       "bus": 1,
+      "crime": 2,
       "marbles": 1,
       "3D printing": 2,
       "flute": 1,
@@ -10138,7 +10105,6 @@
       "George Michael": 1,
       "Prince & The New Power Generation": 1,
       "R.E.M.": 1,
-      "Beastie Boys": 1,
       "Nine Inch Nails": 1,
       "Soundgarden": 1,
       "Lisa Loeb": 1,
@@ -10374,10 +10340,10 @@
       "Jean-Baptiste Mondino": 2,
       "Tarsem Singh": 1,
       "René Elizondo, Jr.": 1,
-      "Spike Jonze": 7,
       "Mark Romanek": 3,
       "Howard Greenhalgh": 1,
       "Ethan Hawke": 1,
+      "Spike Jonze": 6,
       "Hype Williams": 2,
       "David Mould": 1,
       "Michel Gondry": 13,
