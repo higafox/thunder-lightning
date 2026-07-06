@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 302,
-    "totalArtists": 225,
-    "totalDirectors": 255,
+    "totalVideos": 301,
+    "totalArtists": 224,
+    "totalDirectors": 254,
     "totalTags": 112
   },
   "videos": {
@@ -418,6 +418,7 @@
       "vimeoId": "22918403",
       "thumbnailUrl": "https://img.youtube.com/vi/SSbBvKaM6sk/hqdefault.jpg",
       "tags": [
+        "explosions",
         "womxn director"
       ],
       "embedBroken": false
@@ -552,6 +553,7 @@
       "vimeoId": "16342611",
       "thumbnailUrl": "https://img.youtube.com/vi/6oqXVx3sBOk/hqdefault.jpg",
       "tags": [
+        "narrative",
         "puppets"
       ],
       "embedBroken": false
@@ -1041,6 +1043,7 @@
       "tags": [
         "poc director",
         "repeat",
+        "tableau",
         "twinsies",
         "woc director",
         "womxn director"
@@ -1619,6 +1622,7 @@
       "tags": [
         "bike",
         "claps",
+        "gothy",
         "long take",
         "surreal"
       ],
@@ -2289,7 +2293,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/SOKjY_tH1d4/hqdefault.jpg",
       "tags": [
         "cel animation",
-        "collage"
+        "collage",
+        "slitscan"
       ],
       "embedBroken": false
     },
@@ -2599,6 +2604,7 @@
         "crowd",
         "drone",
         "long take",
+        "machine",
         "poc director"
       ],
       "embedBroken": false
@@ -3018,29 +3024,6 @@
         "potential nsfw",
         "surreal",
         "tableau"
-      ],
-      "embedBroken": false
-    },
-    "uffie-difficult": {
-      "id": "uffie-difficult",
-      "artist": "Uffie",
-      "song": "Difficult",
-      "director": "AB/CD/CD",
-      "directors": [
-        "AB/CD/CD"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "October 2010",
-      "sortDate": "2010-10-09",
-      "year": 2010,
-      "provider": "youtube",
-      "youtubeId": "hnzS5QxbzPU",
-      "vimeoId": "16030993",
-      "thumbnailUrl": "https://img.youtube.com/vi/hnzS5QxbzPU/hqdefault.jpg",
-      "tags": [
-        "long take",
-        "vfx",
-        "walk/run"
       ],
       "embedBroken": false
     },
@@ -5991,18 +5974,20 @@
       "youtubeId": "iYYRH4apXDo",
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/iYYRH4apXDo/hqdefault.jpg",
-      "tags": [],
+      "tags": [
+        "lighting"
+      ],
       "embedBroken": false
     },
     "tune-yards-medley-for-google-i-o": {
       "id": "tune-yards-medley-for-google-i-o",
       "artist": "Tune-Yards",
       "song": "Medley for Google I/O",
-      "director": "Google Arts & Culture",
+      "director": "David Li",
       "directors": [
-        "Google Arts & Culture"
+        "David Li"
       ],
-      "directorAffiliate": "with David Li, Done & Dusted, and Acronym",
+      "directorAffiliate": "with Google Arts & Culture, Done & Dusted, and Acronym",
       "dateDisplay": "May 2021",
       "sortDate": "2021-05-18",
       "year": 2021,
@@ -6012,6 +5997,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/wHO_RlYLFY4/hqdefault.jpg",
       "tags": [
         "interactive",
+        "machine",
         "orbiting"
       ],
       "embedBroken": false
@@ -7110,7 +7096,6 @@
       "arcade-fire-we-used-to-wait",
       "ok-go-white-knuckles",
       "el-guincho-bombay",
-      "uffie-difficult",
       "scissor-sisters-invisible-light",
       "michael-langan-dahlia",
       "memory-tapes-yes-i-know",
@@ -7279,7 +7264,6 @@
         "paul-dempsey-bats",
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-white-knuckles",
-        "uffie-difficult",
         "battles-my-machines",
         "lorde-tennis-court",
         "ok-go-the-writings-on-the-wall",
@@ -7309,6 +7293,16 @@
         "muse-knights-of-cydonia",
         "snoop-dogg-sensual-seduction",
         "miike-snow-genghis-khan"
+      ],
+      "lighting": [
+        "david-bowie-space-oddity",
+        "thunderheist-jerk-it",
+        "lorde-tennis-court",
+        "nigel-stanford-cymatics",
+        "drake-hotline-bling",
+        "blonde-redhead-golden-light",
+        "janelle-mon-e-make-me-feel",
+        "fred-again-lil-yachty-and-overmono-stayinit"
       ],
       "confidence": [
         "queen-bohemian-rhapsody",
@@ -7489,7 +7483,9 @@
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-needing-getting",
         "karl-westman-ibm-research-a-boy-and-his-atom",
+        "ok-go-i-wont-let-you-down",
         "wintergatan-marble-machine",
+        "tune-yards-medley-for-google-i-o",
         "ok-go-love"
       ],
       "prosthetics": [
@@ -7578,6 +7574,7 @@
         "robert-palmer-addicted-to-love",
         "r-e-m-losing-my-religion",
         "soundgarden-black-hole-sun",
+        "yuki-sentimental-journey",
         "grizzly-bear-knife",
         "lady-gaga-bad-romance",
         "scissor-sisters-invisible-light",
@@ -7635,6 +7632,7 @@
         "madonna-papa-dont-preach",
         "madonna-like-a-prayer",
         "radiohead-just",
+        "blur-coffee-tv",
         "bj-rk-triumph-of-a-heart",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
@@ -7665,6 +7663,7 @@
         "marilyn-manson-the-beautiful-people",
         "the-horrors-sheena-is-a-parasite",
         "i-love-you-but-ive-chosen-darkness-the-owl",
+        "bat-for-lashes-whats-a-girl-to-do",
         "fever-ray-when-i-grow-up",
         "lady-gaga-bad-romance",
         "lorde-tennis-court",
@@ -7872,7 +7871,6 @@
         "bj-rk-wanderlust",
         "fm-belfast-underwear",
         "the-hundred-in-the-hands-pigeons",
-        "uffie-difficult",
         "memory-tapes-yes-i-know",
         "fulton-lights-staring-out-the-window",
         "friendly-fires-hurting",
@@ -7917,6 +7915,13 @@
         "dua-lipa-illusion",
         "tourist-valentine"
       ],
+      "explosions": [
+        "blur-song-2",
+        "feist-i-feel-it-all",
+        "the-hundred-in-the-hands-pigeons",
+        "psy-gangnam-style",
+        "ok-go-the-one-moment"
+      ],
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
@@ -7926,7 +7931,6 @@
         "justice-d-a-n-c-e",
         "matt-and-kim-lessons-learned",
         "sebastien-tellier-look",
-        "uffie-difficult",
         "massive-attack-take-it-there",
         "mount-moriah-precita",
         "alt-j-hard-drive-gold"
@@ -8189,12 +8193,6 @@
       "keytar": [
         "snoop-dogg-sensual-seduction"
       ],
-      "explosions": [
-        "feist-i-feel-it-all",
-        "the-hundred-in-the-hands-pigeons",
-        "psy-gangnam-style",
-        "ok-go-the-one-moment"
-      ],
       "d&ad": [
         "bj-rk-wanderlust",
         "mette-mamas-eyes",
@@ -8209,15 +8207,6 @@
         "mette-mamas-eyes",
         "mette-van-gogh",
         "jungle-back-on-74"
-      ],
-      "lighting": [
-        "thunderheist-jerk-it",
-        "lorde-tennis-court",
-        "nigel-stanford-cymatics",
-        "drake-hotline-bling",
-        "blonde-redhead-golden-light",
-        "janelle-mon-e-make-me-feel",
-        "fred-again-lil-yachty-and-overmono-stayinit"
       ],
       "yuri norstein-esque": [
         "fleet-foxes-white-winter-hymnal",
@@ -8279,7 +8268,8 @@
       "slitscan": [
         "fm-belfast-underwear",
         "violet-sands-no-matter-what",
-        "washed-out-floating-by"
+        "washed-out-floating-by",
+        "dayglow-something"
       ],
       "match cut": [
         "johnny-cash-aint-no-grave",
@@ -8760,9 +8750,6 @@
       ],
       "El Guincho": [
         "el-guincho-bombay"
-      ],
-      "Uffie": [
-        "uffie-difficult"
       ],
       "Scissor Sisters": [
         "scissor-sisters-invisible-light"
@@ -9544,9 +9531,6 @@
         "scissor-sisters-invisible-light",
         "battles-ice-cream"
       ],
-      "AB/CD/CD": [
-        "uffie-difficult"
-      ],
       "Nicolas Mendez": [
         "scissor-sisters-invisible-light"
       ],
@@ -9889,10 +9873,10 @@
       "Xabier Mendibe": [
         "los-misterios-m-talos-y-vuelve"
       ],
-      "Google Arts & Culture": [
+      "David Li": [
         "tune-yards-medley-for-google-i-o"
       ],
-      "with David Li, Done & Dusted, and Acronym": [
+      "with Google Arts & Culture, Done & Dusted, and Acronym": [
         "tune-yards-medley-for-google-i-o"
       ],
       "Ksawery Kirklewski": [
@@ -9972,8 +9956,9 @@
   },
   "counts": {
     "tags": {
-      "long take": 34,
+      "long take": 33,
       "retro": 11,
+      "lighting": 8,
       "confidence": 28,
       "guitar solo": 3,
       "hair": 4,
@@ -9984,20 +9969,20 @@
       "womxn director": 38,
       "wut": 11,
       "legs": 2,
-      "machine": 6,
+      "machine": 8,
       "prosthetics": 4,
       "birds": 3,
       "motorcycle": 1,
       "cel animation": 15,
       "collage": 9,
       "poc director": 38,
-      "tableau": 21,
+      "tableau": 22,
       "stop motion": 20,
       "plane": 2,
       "pixilation": 6,
-      "narrative": 11,
+      "narrative": 12,
       "new york": 10,
-      "gothy": 12,
+      "gothy": 13,
       "horses": 3,
       "monochrome": 23,
       "potential nsfw": 16,
@@ -10013,13 +9998,14 @@
       "crowd": 10,
       "surveillance": 3,
       "architecture": 5,
-      "vfx": 26,
+      "vfx": 25,
       "reverse": 3,
       "splitscreen": 4,
       "treadmill/escalator": 5,
       "water": 7,
+      "explosions": 5,
       "fisheye": 1,
-      "walk/run": 9,
+      "walk/run": 8,
       "meta": 8,
       "sports": 3,
       "repeat": 19,
@@ -10051,10 +10037,8 @@
       "mixed media": 5,
       "bike": 4,
       "keytar": 1,
-      "explosions": 4,
       "d&ad": 3,
       "ukmva": 8,
-      "lighting": 7,
       "yuri norstein-esque": 2,
       "fluid dynamics": 5,
       "shapes": 6,
@@ -10066,7 +10050,7 @@
       "marching band": 2,
       "rube goldberg": 2,
       "chronophotography": 4,
-      "slitscan": 3,
+      "slitscan": 4,
       "match cut": 4,
       "timelapse": 1,
       "whip pan": 2,
@@ -10198,7 +10182,6 @@
       "The Hundred in the Hands": 1,
       "Arcade Fire": 2,
       "El Guincho": 1,
-      "Uffie": 1,
       "Scissor Sisters": 1,
       "Michael Langan": 1,
       "Memory Tapes": 1,
@@ -10433,7 +10416,6 @@
       "Jeff Lieberman": 1,
       "A.F. Schepperd": 2,
       "CANADA": 3,
-      "AB/CD/CD": 1,
       "Nicolas Mendez": 1,
       "Michael Langan": 3,
       "Eric Epstein": 1,
@@ -10542,8 +10524,8 @@
       "Jeremy Schaulin-Rioux": 1,
       "Keith Schofield": 1,
       "Xabier Mendibe": 1,
-      "Google Arts & Culture": 1,
-      "with David Li, Done & Dusted, and Acronym": 1,
+      "David Li": 1,
+      "with Google Arts & Culture, Done & Dusted, and Acronym": 1,
       "Ksawery Kirklewski": 1,
       "Joe Newman": 1,
       "Darcy Wallace": 1,
