@@ -101,7 +101,6 @@ export function buildConstellation(params: {
     const jitter = (rand() - 0.5) * ((Math.PI * 2) / SUN) * 1.4;
     const a = (i / SUN) * Math.PI * 2 + jitter;
     if (Math.abs(Math.cos(a)) < 0.1) continue; // skip near-vertical
-    if (Math.abs(Math.sin(a)) < 0.1) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 7;
     const r = rand() * rand();
     const len = 72 + r * 60;
@@ -113,7 +112,6 @@ export function buildConstellation(params: {
   for (let i = 0; i < RAYS; i++) {
     const ang = (i / RAYS) * Math.PI * 2 + (rand() - 0.5) * 0.35;
     if (Math.abs(Math.cos(ang)) < 0.12) continue;
-    if (Math.abs(Math.sin(ang)) < 0.1) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 6 + rand() * 10;
     const len = inner + 14 + rand() * 36;
     addRay(ang, inner, len, "ray", 0.13 + rand() * 0.22);
@@ -124,7 +122,6 @@ export function buildConstellation(params: {
   for (let i = 0; i < SPOKES; i++) {
     const ang = (i / SPOKES) * Math.PI * 2 + (rand() - 0.5) * 0.5;
     if (Math.abs(Math.cos(ang)) < 0.14) continue;
-    if (Math.abs(Math.sin(ang)) < 0.12) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 8 + rand() * 8;
     const len = inner + 50 + rand() * 40;
     addRay(ang, inner, len, "spoke", 0.13 + rand() * 0.16);
@@ -218,6 +215,25 @@ export function buildConstellation(params: {
     node: { kind: "control", label: "Later →", active: s.type === "timeline" && s.dir === 1, action: { kind: "timeline", dir: 1 } },
   });
 
+  // A pill's connector runs from dead center straight to it; if that angle
+  // ends up too close to flat (0/180deg), the connector is a long thin
+  // near-horizontal line -- the hardest case for antialiasing, since a tiny
+  // deviation from exactly flat makes the rasterizer stair-step between
+  // pixel rows over its length instead of blending smoothly. Nudge the pill
+  // vertically just enough to clear that danger zone. (Ambient decorative
+  // rays don't get this treatment -- excluding them entirely left visible
+  // gaps in the sunburst, and they're background flavor, not something
+  // users read as a line to a specific place the way a pill connector is.)
+  const FLAT_EPS = 0.11; // ~6.3deg off exactly horizontal
+  const avoidFlatAngle = (cxPill: number, y: number): number => {
+    const dx = (cxPill - CX) * AR;
+    if (Math.abs(dx) < 0.001) return y;
+    const minDy = Math.abs(dx) * Math.tan(FLAT_EPS);
+    const dy = y - CY;
+    if (Math.abs(dy) >= minDy) return y;
+    return CY + (dy >= 0 ? minDy : -minDy);
+  };
+
   // rails: place pills down each side. Sparse rails (1-2 pills) get a random
   // diagonal angle (20-50deg off horizontal) so connectors never run flat.
   const layRail = (arr: ConstNode[], side: "L" | "R") => {
@@ -243,6 +259,7 @@ export function buildConstellation(params: {
       const extraPush = Math.min(10, Math.max(0, hw - 4) * 1.3);
       const x = side === "L" ? Math.max(1, 2 + variation - extraPush) : Math.min(99, 98 - variation + extraPush);
       const cxPill = side === "L" ? x + hw : x - hw;
+      y = avoidFlatAngle(cxPill, y);
       placed.push({ x, y, anchor: side, cxPill, cyPill: y, node });
     });
   };
