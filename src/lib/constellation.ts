@@ -101,6 +101,7 @@ export function buildConstellation(params: {
     const jitter = (rand() - 0.5) * ((Math.PI * 2) / SUN) * 1.4;
     const a = (i / SUN) * Math.PI * 2 + jitter;
     if (Math.abs(Math.cos(a)) < 0.1) continue; // skip near-vertical
+    if (Math.abs(Math.sin(a)) < 0.1) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 7;
     const r = rand() * rand();
     const len = 72 + r * 60;
@@ -112,6 +113,7 @@ export function buildConstellation(params: {
   for (let i = 0; i < RAYS; i++) {
     const ang = (i / RAYS) * Math.PI * 2 + (rand() - 0.5) * 0.35;
     if (Math.abs(Math.cos(ang)) < 0.12) continue;
+    if (Math.abs(Math.sin(ang)) < 0.1) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 6 + rand() * 10;
     const len = inner + 14 + rand() * 36;
     addRay(ang, inner, len, "ray", 0.13 + rand() * 0.22);
@@ -122,6 +124,7 @@ export function buildConstellation(params: {
   for (let i = 0; i < SPOKES; i++) {
     const ang = (i / SPOKES) * Math.PI * 2 + (rand() - 0.5) * 0.5;
     if (Math.abs(Math.cos(ang)) < 0.14) continue;
+    if (Math.abs(Math.sin(ang)) < 0.12) continue; // skip near-horizontal (worst antialiasing case for long thin lines)
     const inner = 8 + rand() * 8;
     const len = inner + 50 + rand() * 40;
     addRay(ang, inner, len, "spoke", 0.13 + rand() * 0.16);
