@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 313,
-    "totalArtists": 231,
-    "totalDirectors": 268,
-    "totalTags": 115
+    "totalVideos": 322,
+    "totalArtists": 238,
+    "totalDirectors": 275,
+    "totalTags": 119
   },
   "videos": {
     "mette-van-gogh": {
@@ -2156,6 +2156,7 @@
       "vimeoId": "297309123",
       "thumbnailUrl": "https://img.youtube.com/vi/dwz9DYpsCcA/hqdefault.jpg",
       "tags": [
+        "collage",
         "hockney",
         "repeat"
       ],
@@ -2847,6 +2848,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/lF_C7BvAf_A/hqdefault.jpg",
       "tags": [
         "cel animation",
+        "illustration",
         "monochrome"
       ],
       "embedBroken": false
@@ -3450,7 +3452,7 @@
     },
     "mette-coming-of-age": {
       "id": "mette-coming-of-age",
-      "artist": "METTE",
+      "artist": "Mette",
       "song": "COMING OF AGE",
       "director": "Helen Morales & METTE",
       "directors": [
@@ -3541,8 +3543,8 @@
       "vimeoId": "1199880146",
       "thumbnailUrl": "https://img.youtube.com/vi/asYhvTfUaXI/hqdefault.jpg",
       "tags": [
-        "abstract",
-        "surreal"
+        "glitch",
+        "slowmo"
       ],
       "embedBroken": false
     },
@@ -6857,7 +6859,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/S0Q4gqBUs7c/hqdefault.jpg",
       "tags": [
         "editing",
-        "repeat"
+        "repeat",
+        "reverse"
       ],
       "embedBroken": false
     },
@@ -7019,7 +7022,7 @@
       "year": 2009,
       "provider": "youtube",
       "youtubeId": "Xt22KvnRSL4",
-      "vimeoId": null,
+      "vimeoId": "7810723",
       "thumbnailUrl": "https://img.youtube.com/vi/Xt22KvnRSL4/hqdefault.jpg",
       "tags": [
         "poc director",
@@ -7243,6 +7246,215 @@
         "soundsync"
       ],
       "embedBroken": false
+    },
+    "weval-someday": {
+      "id": "weval-someday",
+      "artist": "Weval",
+      "song": "Someday",
+      "director": "Páraic McGloughlin",
+      "directors": [
+        "Páraic McGloughlin"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2019",
+      "sortDate": "2019-04-05",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "n-wEvzqdDZg",
+      "vimeoId": "328690392",
+      "thumbnailUrl": "https://img.youtube.com/vi/n-wEvzqdDZg/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "architecture",
+        "match cut"
+      ],
+      "embedBroken": false
+    },
+    "max-cooper-circular": {
+      "id": "max-cooper-circular",
+      "artist": "Max Cooper",
+      "song": "Circular",
+      "director": "Páraic McGloughlin",
+      "directors": [
+        "Páraic McGloughlin"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "November 2019",
+      "sortDate": "2019-11-27",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "hR-JJyxpOY4",
+      "vimeoId": "372085570",
+      "thumbnailUrl": "https://img.youtube.com/vi/hR-JJyxpOY4/hqdefault.jpg",
+      "tags": [
+        "abstract",
+        "landscape",
+        "loops",
+        "match cut"
+      ],
+      "embedBroken": false
+    },
+    "dear-lament-coffee": {
+      "id": "dear-lament-coffee",
+      "artist": "Dear Lament",
+      "song": "Coffee",
+      "director": "Felix Kasiske & Robert Goesch",
+      "directors": [
+        "Felix Kasiske",
+        "Robert Goesch"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "December 2011",
+      "sortDate": "2011-12-24",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "HHrttVfflFY",
+      "vimeoId": "34158071",
+      "thumbnailUrl": "https://img.youtube.com/vi/HHrttVfflFY/hqdefault.jpg",
+      "tags": [
+        "crowdsource"
+      ],
+      "embedBroken": false
+    },
+    "the-american-dollar-anything-you-synthesize": {
+      "id": "the-american-dollar-anything-you-synthesize",
+      "artist": "The American Dollar",
+      "song": "Anything You Synthesize",
+      "director": "Onesize",
+      "directors": [
+        "Onesize"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "December 2008",
+      "sortDate": "2008-12-17",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "aSU49AFzgtw",
+      "vimeoId": "10868869",
+      "thumbnailUrl": "https://img.youtube.com/vi/aSU49AFzgtw/hqdefault.jpg",
+      "tags": [
+        "landscape",
+        "tracking shot"
+      ],
+      "embedBroken": false
+    },
+    "plurabelle-our-fires": {
+      "id": "plurabelle-our-fires",
+      "artist": "Plurabelle",
+      "song": "Our Fires",
+      "director": "Mattis Dovier",
+      "directors": [
+        "Mattis Dovier"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2014",
+      "sortDate": "2014-07-01",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "A4F414LFY6I",
+      "vimeoId": "99541639",
+      "thumbnailUrl": "https://img.youtube.com/vi/A4F414LFY6I/hqdefault.jpg",
+      "tags": [
+        "dither",
+        "gothy",
+        "monochrome",
+        "pixel",
+        "potential nsfw"
+      ],
+      "embedBroken": false
+    },
+    "gaz-coombes-walk-the-walk": {
+      "id": "gaz-coombes-walk-the-walk",
+      "artist": "Gaz Coombes",
+      "song": "Walk The Walk",
+      "director": "Najeeb Tarazi",
+      "directors": [
+        "Najeeb Tarazi"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2018",
+      "sortDate": "2018-03-31",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "KGBpBZu4hfk",
+      "vimeoId": "262617592",
+      "thumbnailUrl": "https://img.youtube.com/vi/KGBpBZu4hfk/hqdefault.jpg",
+      "tags": [
+        "collage",
+        "hockney",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "mild-minds-walls": {
+      "id": "mild-minds-walls",
+      "artist": "Mild Minds",
+      "song": "WALLS",
+      "director": "Colin Read",
+      "directors": [
+        "Colin Read"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2020",
+      "sortDate": "2020-03-09",
+      "year": 2020,
+      "provider": "youtube",
+      "youtubeId": "BcmSD0k8NTs",
+      "vimeoId": "396449226",
+      "thumbnailUrl": "https://img.youtube.com/vi/BcmSD0k8NTs/hqdefault.jpg",
+      "tags": [
+        "tracking shot",
+        "ukmva",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "champagne-valentine-black-material": {
+      "id": "champagne-valentine-black-material",
+      "artist": "Champagne Valentine",
+      "song": "Black Material",
+      "director": "Lucy McRae",
+      "directors": [
+        "Lucy McRae"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2010",
+      "sortDate": "2010-06-21",
+      "year": 2010,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "12732570",
+      "thumbnailUrl": null,
+      "tags": [
+        "gothy",
+        "monochrome",
+        "splitscreen",
+        "timeslice",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "gilligan-moss-choreograph": {
+      "id": "gilligan-moss-choreograph",
+      "artist": "Gilligan Moss",
+      "song": "Choreograph",
+      "director": "Oscar Hudson",
+      "directors": [
+        "Oscar Hudson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2015",
+      "sortDate": "2015-07-02",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "NQ8xD6FVic8",
+      "vimeoId": "136616838",
+      "thumbnailUrl": "https://img.youtube.com/vi/NQ8xD6FVic8/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "loops"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -7375,6 +7587,7 @@
       "brite-futures-sophisticated-side-ponytail",
       "beyonc-single-ladies-put-a-ring-on-it",
       "dick-annegarn-soleil-du-soir",
+      "the-american-dollar-anything-you-synthesize",
       "friendly-fires-skeleton-boy",
       "fleet-foxes-mykonos",
       "chairlift-evident-utensil",
@@ -7403,6 +7616,7 @@
       "the-pains-of-being-pure-at-heart-say-no-to-love",
       "ok-go-end-love",
       "blockhead-the-music-scene",
+      "champagne-valentine-black-material",
       "the-hundred-in-the-hands-pigeons",
       "arcade-fire-we-used-to-wait",
       "ok-go-white-knuckles",
@@ -7426,6 +7640,7 @@
       "friendly-fires-hurting",
       "marian-ruzzi-y-sr-amable-una-pieza-mas",
       "fleet-foxes-the-shrine-an-argument",
+      "dear-lament-coffee",
       "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
       "m-i-a-bad-girls",
       "ok-go-needing-getting",
@@ -7449,6 +7664,7 @@
       "metronomy-love-letters",
       "dj-snake-lil-jon-turn-down-for-what",
       "hundred-waters-cavity",
+      "plurabelle-our-fires",
       "ok-go-the-writings-on-the-wall",
       "self-runaway",
       "sarh-u-and-i",
@@ -7463,6 +7679,7 @@
       "alb-the-road",
       "hook-n-sling-feat-far-east-movement-break-yourself",
       "son-lux-change-is-everything",
+      "gilligan-moss-choreograph",
       "jr-jr-gone",
       "battles-the-yabba",
       "de-jeugd-van-tegenwoordig-manon",
@@ -7511,6 +7728,7 @@
       "benjamin-booker-believe",
       "ok-go-obsession",
       "janelle-mon-e-make-me-feel",
+      "gaz-coombes-walk-the-walk",
       "janelle-mon-e-pynk",
       "janelle-mon-e-i-like-that",
       "childish-gambino-this-is-america",
@@ -7520,11 +7738,14 @@
       "bas-ft-correy-c-fragrance",
       "mitski-a-pearl",
       "the-chemical-brothers-weve-got-to-try",
+      "weval-someday",
       "thom-yorke-anima",
       "max-cooper-repetition",
+      "max-cooper-circular",
       "beck-uneventful-days-jimmy-kimmel-performance",
       "squarepusher-terminal-slam",
       "four-tet-baby",
+      "mild-minds-walls",
       "thao-the-get-down-stay-down-phenom",
       "duck-sauce-mesmerize",
       "los-misterios-m-talos-y-vuelve",
@@ -7590,6 +7811,7 @@
         "ok-go-i-wont-let-you-down",
         "alt-j-pusher",
         "hook-n-sling-feat-far-east-movement-break-yourself",
+        "gilligan-moss-choreograph",
         "ok-go-upside-down-inside-out",
         "the-chemical-brothers-wide-open",
         "mount-moriah-precita",
@@ -7769,6 +7991,7 @@
         "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "champagne-valentine-black-material",
         "huma-huma-hello-i-like-you",
         "ok-go-all-is-not-lost",
         "apparat-granular-bastard",
@@ -7861,6 +8084,8 @@
         "soupcans-siamese-brutality",
         "andy-shauf-the-worst-in-you",
         "green-day-bang-bang",
+        "gaz-coombes-walk-the-walk",
+        "bas-ft-correy-c-fragrance",
         "los-misterios-m-talos-y-vuelve",
         "dayglow-something"
       ],
@@ -8008,7 +8233,9 @@
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "bat-for-lashes-whats-a-girl-to-do",
         "fever-ray-when-i-grow-up",
+        "champagne-valentine-black-material",
         "lorde-tennis-court",
+        "plurabelle-our-fires",
         "massive-attack-take-it-there",
         "lady-gaga-abracadabra"
       ],
@@ -8031,9 +8258,11 @@
         "friendly-fires-skeleton-boy",
         "sebastien-tellier-look",
         "johnny-cash-aint-no-grave",
+        "champagne-valentine-black-material",
         "we-cut-corners-pirates-life",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
         "arcade-fire-reflektor",
+        "plurabelle-our-fires",
         "20syl-back-forth",
         "alb-the-road",
         "christine-and-the-queens-tilted",
@@ -8055,6 +8284,7 @@
         "el-guincho-bombay",
         "scissor-sisters-invisible-light",
         "dj-snake-lil-jon-turn-down-for-what",
+        "plurabelle-our-fires",
         "alb-the-road",
         "janelle-mon-e-pynk",
         "duck-sauce-mesmerize",
@@ -8138,7 +8368,6 @@
         "jacques-absolve",
         "mette-bet",
         "daft-punk-human-after-all",
-        "bonobo-me-and-you",
         "balming-tiger-oui"
       ],
       "dogs": [
@@ -8156,7 +8385,8 @@
         "dralms-crushed-pleats",
         "mount-moriah-precita",
         "ok-go-the-one-moment",
-        "5nizza-samoliot"
+        "5nizza-samoliot",
+        "bonobo-me-and-you"
       ],
       "california": [
         "2pac-ft-dr-dre-california-love",
@@ -8213,6 +8443,7 @@
         "massive-attack-protection",
         "drake-hotline-bling",
         "the-carters-apeshit",
+        "weval-someday",
         "max-cooper-repetition",
         "dua-lipa-illusion"
       ],
@@ -8239,8 +8470,10 @@
         "bonobo-no-reason",
         "kendrick-lamar-humble",
         "5nizza-samoliot",
+        "gaz-coombes-walk-the-walk",
         "the-chemical-brothers-weve-got-to-try",
         "squarepusher-terminal-slam",
+        "mild-minds-walls",
         "paul-kalkbrenner-schwer",
         "mette-bet",
         "pinkpantheress-girl-like-me"
@@ -8248,7 +8481,8 @@
       "reverse": [
         "the-pharcyde-drop",
         "cibo-matto-sugar-water",
-        "flying-lotus-until-the-quiet-comes"
+        "flying-lotus-until-the-quiet-comes",
+        "bonobo-kerala"
       ],
       "splitscreen": [
         "cibo-matto-sugar-water",
@@ -8256,6 +8490,7 @@
         "sour-hibi-no-neiro",
         "kid-cudi-make-her-say",
         "grizzly-bear-while-you-wait-for-the-others",
+        "champagne-valentine-black-material",
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom"
       ],
@@ -8447,6 +8682,7 @@
         "the-white-stripes-fell-in-love-with-a-girl",
         "junior-senior-move-your-feet",
         "beck-black-tambourine",
+        "plurabelle-our-fires",
         "ok-go-i-wont-let-you-down",
         "ok-go-obsession",
         "joep-beving-max-cooper-hanging-d-max-cooper-remix",
@@ -8463,9 +8699,10 @@
         "max-cooper-waves",
         "jmii-bailar",
         "thunder-tillman-alignments",
+        "weval-someday",
         "max-cooper-repetition",
-        "joep-beving-max-cooper-hanging-d-max-cooper-remix",
-        "bonobo-me-and-you"
+        "max-cooper-circular",
+        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
       ],
       "isometric": [
         "r-yksopp-remind-me",
@@ -8499,9 +8736,11 @@
         "boozoo-bajou-jan-mayen",
         "20syl-back-forth",
         "alb-the-road",
+        "gilligan-moss-choreograph",
         "beatsofreen-slowly-rising",
         "max-cooper-waves",
         "milk-bone-pressure",
+        "max-cooper-circular",
         "kendrick-lamar-squabble-up"
       ],
       "kaiju": [
@@ -8542,6 +8781,7 @@
         "danger-beach-apache",
         "apparat-granular-bastard",
         "marian-ruzzi-y-sr-amable-una-pieza-mas",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
         "royksopp-so-easy-unofficial-video",
         "panda-bear-boys-latin",
         "charles-x-can-you-do-it"
@@ -8575,6 +8815,7 @@
         "bj-rk-wanderlust",
         "light-light-kilo-do-not-touch",
         "childish-gambino-this-is-america",
+        "mild-minds-walls",
         "duck-sauce-mesmerize",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "mette-mamas-eyes",
@@ -8584,6 +8825,14 @@
       "yuri norstein-esque": [
         "fleet-foxes-white-winter-hymnal",
         "the-presets-girl-and-the-sea"
+      ],
+      "landscape": [
+        "the-american-dollar-anything-you-synthesize",
+        "max-cooper-circular"
+      ],
+      "tracking shot": [
+        "the-american-dollar-anything-you-synthesize",
+        "mild-minds-walls"
       ],
       "fluid dynamics": [
         "friendly-fires-skeleton-boy",
@@ -8607,7 +8856,8 @@
         "chairlift-evident-utensil",
         "boys-noize-jeffer",
         "thom-yorke-anima",
-        "squarepusher-terminal-slam"
+        "squarepusher-terminal-slam",
+        "bonobo-me-and-you"
       ],
       "zoetrope": [
         "moray-mclaren-we-got-time",
@@ -8651,10 +8901,18 @@
         "johnny-cash-aint-no-grave",
         "michael-langan-dahlia",
         "hi-rophante-clich-s",
+        "weval-someday",
+        "max-cooper-circular",
         "mette-van-gogh"
       ],
       "timelapse": [
         "ok-go-end-love"
+      ],
+      "timeslice": [
+        "champagne-valentine-black-material",
+        "shugo-tokumaru-katachi",
+        "boozoo-bajou-jan-mayen",
+        "jones-melt"
       ],
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
@@ -8672,15 +8930,16 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
-      "timeslice": [
-        "shugo-tokumaru-katachi",
-        "boozoo-bajou-jan-mayen",
-        "jones-melt"
+      "crowdsource": [
+        "dear-lament-coffee"
       ],
       "macro": [
         "karl-westman-ibm-research-a-boy-and-his-atom",
         "nigel-stanford-cymatics",
         "a-love-like-pi-jack-and-the-giant"
+      ],
+      "dither": [
+        "plurabelle-our-fires"
       ],
       "optical illusion": [
         "ok-go-the-writings-on-the-wall",
@@ -8717,6 +8976,7 @@
         "bomba-est-reo-soy-yo"
       ],
       "hockney": [
+        "gaz-coombes-walk-the-walk",
         "bas-ft-correy-c-fragrance",
         "ok-go-a-stone-only-rolls-downhill"
       ],
@@ -9064,6 +9324,9 @@
       "Dick Annegarn": [
         "dick-annegarn-soleil-du-soir"
       ],
+      "The American Dollar": [
+        "the-american-dollar-anything-you-synthesize"
+      ],
       "Friendly Fires": [
         "friendly-fires-skeleton-boy",
         "friendly-fires-hurting"
@@ -9137,6 +9400,9 @@
       "Blockhead": [
         "blockhead-the-music-scene"
       ],
+      "Champagne Valentine": [
+        "champagne-valentine-black-material"
+      ],
       "The Hundred in the Hands": [
         "the-hundred-in-the-hands-pigeons"
       ],
@@ -9188,6 +9454,9 @@
       ],
       "Marian Ruzzi y Sr. Amable": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      ],
+      "Dear Lament": [
+        "dear-lament-coffee"
       ],
       "Danger Mouse & Daniele Luppi feat. Jack White": [
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
@@ -9252,6 +9521,9 @@
       "Hundred Waters": [
         "hundred-waters-cavity"
       ],
+      "Plurabelle": [
+        "plurabelle-our-fires"
+      ],
       "sElf": [
         "self-runaway"
       ],
@@ -9289,6 +9561,9 @@
       ],
       "Son Lux": [
         "son-lux-change-is-everything"
+      ],
+      "Gilligan Moss": [
+        "gilligan-moss-choreograph"
       ],
       "JR JR": [
         "jr-jr-gone"
@@ -9352,7 +9627,8 @@
       ],
       "Max Cooper": [
         "max-cooper-waves",
-        "max-cooper-repetition"
+        "max-cooper-repetition",
+        "max-cooper-circular"
       ],
       "Tigerilla": [
         "tigerilla-tulips"
@@ -9407,6 +9683,9 @@
       "Benjamin Booker": [
         "benjamin-booker-believe"
       ],
+      "Gaz Coombes": [
+        "gaz-coombes-walk-the-walk"
+      ],
       "LUC": [
         "luc-glow"
       ],
@@ -9422,6 +9701,9 @@
       "Mitski": [
         "mitski-a-pearl"
       ],
+      "Weval": [
+        "weval-someday"
+      ],
       "Thom Yorke": [
         "thom-yorke-anima"
       ],
@@ -9430,6 +9712,9 @@
       ],
       "Four Tet": [
         "four-tet-baby"
+      ],
+      "Mild Minds": [
+        "mild-minds-walls"
       ],
       "Thao & The Get Down Stay Down": [
         "thao-the-get-down-stay-down-phenom"
@@ -9455,7 +9740,8 @@
       "Mette": [
         "mette-mamas-eyes",
         "mette-van-gogh",
-        "mette-bet"
+        "mette-bet",
+        "mette-coming-of-age"
       ],
       "Paul Kalkbrenner": [
         "paul-kalkbrenner-schwer"
@@ -9490,9 +9776,6 @@
       ],
       "Oneohtrix Point Never": [
         "oneohtrix-point-never-d-i-s"
-      ],
-      "METTE": [
-        "mette-coming-of-age"
       ],
       "GENER8ION & Yung Lean": [
         "gener8ion-yung-lean-storm"
@@ -9840,6 +10123,9 @@
       "Jake Nava": [
         "beyonc-single-ladies-put-a-ring-on-it"
       ],
+      "Onesize": [
+        "the-american-dollar-anything-you-synthesize"
+      ],
       "Clemens Habicht": [
         "friendly-fires-skeleton-boy"
       ],
@@ -9963,6 +10249,9 @@
         "blockhead-the-music-scene",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
+      "Lucy McRae": [
+        "champagne-valentine-black-material"
+      ],
       "CANADA": [
         "el-guincho-bombay",
         "scissor-sisters-invisible-light",
@@ -10025,6 +10314,12 @@
       "BASA Studio": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
       ],
+      "Felix Kasiske": [
+        "dear-lament-coffee"
+      ],
+      "Robert Goesch": [
+        "dear-lament-coffee"
+      ],
       "Romain Gavras": [
         "m-i-a-bad-girls",
         "gener8ion-yung-lean-storm"
@@ -10073,6 +10368,9 @@
       ],
       "Torre Florim": [
         "de-staat-witch-doctor"
+      ],
+      "Mattis Dovier": [
+        "plurabelle-our-fires"
       ],
       "Aaron Duffy": [
         "ok-go-the-writings-on-the-wall",
@@ -10125,6 +10423,11 @@
       "Nathan Johnson": [
         "son-lux-change-is-everything"
       ],
+      "Oscar Hudson": [
+        "gilligan-moss-choreograph",
+        "darwin-deez-the-mess-she-made",
+        "bonobo-no-reason"
+      ],
       "Los Pérez": [
         "jr-jr-gone"
       ],
@@ -10140,10 +10443,6 @@
       "Hideki Inaba": [
         "beatsofreen-slowly-rising"
       ],
-      "Oscar Hudson": [
-        "darwin-deez-the-mess-she-made",
-        "bonobo-no-reason"
-      ],
       "J.A.C.K.": [
         "christine-and-the-queens-tilted"
       ],
@@ -10152,7 +10451,8 @@
         "andy-shauf-the-worst-in-you"
       ],
       "Najeeb Tarazi": [
-        "n-lannon-another-love"
+        "n-lannon-another-love",
+        "gaz-coombes-walk-the-walk"
       ],
       "Dom & Nic": [
         "the-chemical-brothers-wide-open"
@@ -10286,6 +10586,10 @@
       "Art Camp": [
         "mitski-a-pearl"
       ],
+      "Páraic McGloughlin": [
+        "weval-someday",
+        "max-cooper-circular"
+      ],
       "Andy Fisher": [
         "beck-uneventful-days-jimmy-kimmel-performance"
       ],
@@ -10294,6 +10598,9 @@
       ],
       "Joanna Nordahl": [
         "four-tet-baby"
+      ],
+      "Colin Read": [
+        "mild-minds-walls"
       ],
       "Erin S. Murray": [
         "thao-the-get-down-stay-down-phenom"
@@ -10409,7 +10716,7 @@
   "counts": {
     "tags": {
       "360": 1,
-      "long take": 34,
+      "long take": 35,
       "retro": 12,
       "lighting": 8,
       "confidence": 29,
@@ -10419,7 +10726,7 @@
       "greenscreen": 3,
       "joy": 7,
       "lasers": 5,
-      "womxn director": 42,
+      "womxn director": 43,
       "wut": 11,
       "legs": 2,
       "machine": 8,
@@ -10427,7 +10734,7 @@
       "birds": 3,
       "motorcycle": 1,
       "cel animation": 15,
-      "collage": 10,
+      "collage": 12,
       "poc director": 42,
       "tableau": 22,
       "stop motion": 20,
@@ -10435,26 +10742,26 @@
       "pixilation": 7,
       "narrative": 12,
       "new york": 13,
-      "gothy": 14,
+      "gothy": 16,
       "horses": 3,
-      "monochrome": 23,
-      "potential nsfw": 16,
+      "monochrome": 25,
+      "potential nsfw": 17,
       "body-ody": 9,
       "ice skates": 1,
       "psychedelic": 15,
-      "surreal": 48,
+      "surreal": 47,
       "dogs": 4,
-      "slowmo": 9,
+      "slowmo": 10,
       "california": 5,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 7,
       "crowd": 12,
       "surveillance": 3,
-      "architecture": 5,
-      "vfx": 27,
-      "reverse": 3,
-      "splitscreen": 7,
+      "architecture": 6,
+      "vfx": 29,
+      "reverse": 4,
+      "splitscreen": 8,
       "treadmill/escalator": 6,
       "3D animation": 8,
       "space": 7,
@@ -10475,29 +10782,31 @@
       "kids": 11,
       "woc director": 14,
       "lego": 1,
-      "pixel": 7,
-      "abstract": 13,
+      "pixel": 8,
+      "abstract": 14,
       "isometric": 3,
       "projection mapping": 5,
       "orbiting": 10,
-      "loops": 11,
+      "loops": 13,
       "kaiju": 2,
       "claps": 3,
       "textiles": 4,
       "cats": 3,
       "matchmove": 6,
-      "illustration": 12,
+      "illustration": 13,
       "jump": 2,
       "mixed media": 5,
       "bike": 4,
       "keytar": 1,
       "d&ad": 3,
-      "ukmva": 8,
+      "ukmva": 9,
       "yuri norstein-esque": 2,
+      "landscape": 2,
+      "tracking shot": 2,
       "fluid dynamics": 5,
       "shapes": 6,
       "datamoshing": 1,
-      "glitch": 4,
+      "glitch": 5,
       "zoetrope": 2,
       "interactive": 8,
       "ascii": 2,
@@ -10505,12 +10814,14 @@
       "rube goldberg": 2,
       "chronophotography": 4,
       "slitscan": 4,
-      "match cut": 4,
+      "match cut": 6,
       "timelapse": 1,
+      "timeslice": 4,
       "whip pan": 3,
       "editing": 9,
-      "timeslice": 3,
+      "crowdsource": 1,
       "macro": 3,
+      "dither": 1,
       "optical illusion": 3,
       "long exposure": 1,
       "drone": 4,
@@ -10520,7 +10831,7 @@
       "marbles": 1,
       "3D printing": 2,
       "flute": 1,
-      "hockney": 2,
+      "hockney": 3,
       "rotoscoping": 1,
       "ai": 1
     },
@@ -10616,6 +10927,7 @@
       "Brite Futures": 1,
       "Beyoncé": 2,
       "Dick Annegarn": 1,
+      "The American Dollar": 1,
       "Friendly Fires": 2,
       "Chairlift": 1,
       "Fever Ray": 1,
@@ -10638,6 +10950,7 @@
       "Johnny Cash": 1,
       "The Pains of Being Pure at Heart": 1,
       "Blockhead": 1,
+      "Champagne Valentine": 1,
       "The Hundred in the Hands": 1,
       "Arcade Fire": 2,
       "El Guincho": 1,
@@ -10655,6 +10968,7 @@
       "Casey Veggies": 1,
       "We Cut Corners": 1,
       "Marian Ruzzi y Sr. Amable": 1,
+      "Dear Lament": 1,
       "Danger Mouse & Daniele Luppi feat. Jack White": 1,
       "M.I.A.": 1,
       "The Shins": 1,
@@ -10675,6 +10989,7 @@
       "Metronomy": 1,
       "DJ Snake & Lil Jon": 1,
       "Hundred Waters": 1,
+      "Plurabelle": 1,
       "sElf": 1,
       "SARH": 1,
       "Nigel Stanford": 1,
@@ -10687,6 +11002,7 @@
       "ALB": 1,
       "Hook N Sling feat. Far East Movement": 1,
       "Son Lux": 1,
+      "Gilligan Moss": 1,
       "JR JR": 1,
       "De Jeugd Van Tegenwoordig": 1,
       "Drake": 1,
@@ -10707,7 +11023,7 @@
       "No Te Va Gustar": 1,
       "JONES": 1,
       "Green Day": 1,
-      "Max Cooper": 2,
+      "Max Cooper": 3,
       "Tigerilla": 1,
       "Bomba Estéreo": 1,
       "Blonde Redhead": 1,
@@ -10725,14 +11041,17 @@
       "Thunder Tillman": 1,
       "N.E.R.D & Rihanna": 1,
       "Benjamin Booker": 1,
+      "Gaz Coombes": 1,
       "LUC": 1,
       "The Peach Kings": 1,
       "The Carters": 1,
       "Bas (ft. Correy C)": 1,
       "Mitski": 1,
+      "Weval": 1,
       "Thom Yorke": 1,
       "Squarepusher": 1,
       "Four Tet": 1,
+      "Mild Minds": 1,
       "Thao & The Get Down Stay Down": 1,
       "Duck Sauce": 1,
       "Los Misterios": 1,
@@ -10740,7 +11059,7 @@
       "Tune-Yards": 1,
       "Joep Beving & Max Cooper": 1,
       "Pharrell Williams ft. 21 Savage, Tyler, The Creator": 1,
-      "Mette": 3,
+      "Mette": 4,
       "Paul Kalkbrenner": 1,
       "Jungle": 1,
       "Chappell Roan": 2,
@@ -10752,7 +11071,6 @@
       "Tourist": 1,
       "Doechii": 1,
       "Oneohtrix Point Never": 1,
-      "METTE": 1,
       "GENER8ION & Yung Lean": 1,
       "PinkPantheress": 1,
       "Balming Tiger": 1
@@ -10852,6 +11170,7 @@
       "that go": 2,
       "Sean Pecknold": 4,
       "Jake Nava": 1,
+      "Onesize": 1,
       "Clemens Habicht": 1,
       "Ray Tintori": 1,
       "Martin de Thurah": 1,
@@ -10886,6 +11205,7 @@
       "Eric Gunther": 1,
       "Jeff Lieberman": 1,
       "A.F. Schepperd": 2,
+      "Lucy McRae": 1,
       "CANADA": 3,
       "Nicolas Mendez": 1,
       "Michael Langan": 3,
@@ -10904,6 +11224,8 @@
       "David Lewandowski": 1,
       "Luis Safa": 1,
       "BASA Studio": 1,
+      "Felix Kasiske": 1,
+      "Robert Goesch": 1,
       "Romain Gavras": 2,
       "Emmanuelle Walker": 1,
       "Filip Sterckx": 1,
@@ -10920,6 +11242,7 @@
       "Studio Smack": 1,
       "Floris Kaayk": 1,
       "Torre Florim": 1,
+      "Mattis Dovier": 1,
       "Aaron Duffy": 2,
       "Bob Partington": 1,
       "Ballard C. Boyd": 1,
@@ -10935,15 +11258,15 @@
       "Nelson De Castro": 1,
       "Carlos López Estrada": 1,
       "Nathan Johnson": 1,
+      "Oscar Hudson": 3,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
       "Lernert & Sander": 1,
       "Director X": 1,
       "Hideki Inaba": 1,
-      "Oscar Hudson": 2,
       "J.A.C.K.": 1,
       "Winston Hacking": 2,
-      "Najeeb Tarazi": 1,
+      "Najeeb Tarazi": 2,
       "Dom & Nic": 1,
       "Dress Code": 1,
       "Hiérophante": 1,
@@ -10987,9 +11310,11 @@
       "Saad Moosajee": 1,
       "Danae Gosset": 1,
       "Art Camp": 1,
+      "Páraic McGloughlin": 2,
       "Andy Fisher": 1,
       "Daito Manabe": 1,
       "Joanna Nordahl": 1,
+      "Colin Read": 1,
       "Erin S. Murray": 1,
       "Jeremy Schaulin-Rioux": 1,
       "Keith Schofield": 1,
