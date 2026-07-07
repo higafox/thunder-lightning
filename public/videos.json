@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 304,
-    "totalArtists": 227,
-    "totalDirectors": 260,
-    "totalTags": 112
+    "totalVideos": 307,
+    "totalArtists": 228,
+    "totalDirectors": 261,
+    "totalTags": 113
   },
   "videos": {
     "mette-van-gogh": {
@@ -645,6 +645,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/ruAi4VBoBSM/hqdefault.jpg",
       "tags": [
+        "california",
         "dance",
         "lofi brilliance"
       ],
@@ -802,6 +803,7 @@
       "vimeoId": "396912819",
       "thumbnailUrl": "https://img.youtube.com/vi/XQ7z57qrZU8/hqdefault.jpg",
       "tags": [
+        "california",
         "confidence",
         "dance"
       ],
@@ -5260,6 +5262,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/omfz62qu_Bc/hqdefault.jpg",
       "tags": [
+        "california",
         "cars",
         "desert",
         "poc director"
@@ -6498,6 +6501,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/GrC_yuzO-Ss/hqdefault.jpg",
       "tags": [
+        "gothy",
         "ice skates",
         "monochrome",
         "psychedelic",
@@ -6949,7 +6953,7 @@
       "id": "sour-hibi-no-neiro",
       "artist": "SOUR",
       "song": "日々の音色 (Hibi no neiro)",
-      "director": "Masashi Kawamura + Hal Kirkland + Magico Nakamura + Masayoshi Nakamura",
+      "director": "Masashi Kawamura, Hal Kirkland, Magico Nakamura & Masayoshi Nakamura",
       "directors": [
         "Masashi Kawamura",
         "Hal Kirkland",
@@ -7016,6 +7020,78 @@
         "splitscreen"
       ],
       "embedBroken": false
+    },
+    "missy-elliott-work-it": {
+      "id": "missy-elliott-work-it",
+      "artist": "Missy Elliott",
+      "song": "Work It",
+      "director": "Missy Elliott & Dave Meyers",
+      "directors": [
+        "Missy Elliott",
+        "Dave Meyers"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2002",
+      "sortDate": "2002-01-01",
+      "year": 2002,
+      "provider": "youtube",
+      "youtubeId": "cjIvu7e6Wq8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/cjIvu7e6Wq8/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "kids",
+        "poc director",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "missy-elliott-da-brat-sock-it-2-me": {
+      "id": "missy-elliott-da-brat-sock-it-2-me",
+      "artist": "Missy Elliott & Da Brat",
+      "song": "Sock It 2 Me",
+      "director": "Hype Williams",
+      "directors": [
+        "Hype Williams"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1997",
+      "sortDate": "1997-01-01",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "9UvBX3REqSY",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9UvBX3REqSY/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "poc director",
+        "space",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "missy-elliott-get-ur-freak-on": {
+      "id": "missy-elliott-get-ur-freak-on",
+      "artist": "Missy Elliott",
+      "song": "Get Ur Freak On",
+      "director": "Dave Meyers",
+      "directors": [
+        "Dave Meyers"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2001",
+      "sortDate": "2001-01-01",
+      "year": 2001,
+      "provider": "youtube",
+      "youtubeId": "FPoKiGQzbSQ",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/FPoKiGQzbSQ/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "surreal"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -7073,6 +7149,7 @@
       "smashing-pumpkins-tonight-tonight",
       "jamiroquai-virtual-insanity",
       "marilyn-manson-the-beautiful-people",
+      "missy-elliott-da-brat-sock-it-2-me",
       "radiohead-no-surprises",
       "radiohead-karma-police",
       "daft-punk-around-the-world",
@@ -7093,8 +7170,10 @@
       "dangelo-untitled-how-does-it-feel",
       "the-avalanches-frontier-psychiatrist",
       "daft-punk-one-more-time",
+      "missy-elliott-get-ur-freak-on",
       "fatboy-slim-weapon-of-choice",
       "the-chemical-brothers-star-guitar",
+      "missy-elliott-work-it",
       "the-white-stripes-fell-in-love-with-a-girl",
       "autechre-gantz-graf",
       "r-yksopp-remind-me",
@@ -7445,7 +7524,9 @@
         "daft-punk-around-the-world",
         "fatboy-slim-praise-you",
         "the-chemical-brothers-let-forever-be",
+        "missy-elliott-get-ur-freak-on",
         "fatboy-slim-weapon-of-choice",
+        "missy-elliott-work-it",
         "ok-go-here-it-goes-again",
         "feist-1234",
         "r2j2-work-it-out",
@@ -7513,6 +7594,7 @@
         "marilyn-manson-the-beautiful-people",
         "blur-song-2",
         "natalie-imbruglia-torn",
+        "missy-elliott-work-it",
         "yuki-sentimental-journey",
         "ok-go-here-it-goes-again",
         "ogiyahagi-i-love-your-face",
@@ -7616,7 +7698,9 @@
         "r-e-m-losing-my-religion",
         "2pac-ft-dr-dre-california-love",
         "the-roots-what-they-do",
+        "missy-elliott-da-brat-sock-it-2-me",
         "missy-elliott-the-rain-supa-dupa-fly",
+        "missy-elliott-work-it",
         "yuki-sentimental-journey",
         "outkast-hey-ya",
         "cornelius-fit-song",
@@ -7740,6 +7824,7 @@
       ],
       "gothy": [
         "depeche-mode-personal-jesus",
+        "depeche-mode-walking-in-my-shoes",
         "nine-inch-nails-closer",
         "soundgarden-black-hole-sun",
         "madonna-human-nature",
@@ -7839,6 +7924,7 @@
         "radiohead-karma-police",
         "daft-punk-around-the-world",
         "bj-rk-bachelorette",
+        "missy-elliott-get-ur-freak-on",
         "bj-rk-triumph-of-a-heart",
         "cornelius-fit-song",
         "ogiyahagi-i-love-your-face",
@@ -7897,6 +7983,11 @@
         "ok-go-the-one-moment",
         "5nizza-samoliot"
       ],
+      "california": [
+        "2pac-ft-dr-dre-california-love",
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice"
+      ],
       "cars": [
         "2pac-ft-dr-dre-california-love",
         "radiohead-karma-police",
@@ -7949,6 +8040,7 @@
       ],
       "vfx": [
         "massive-attack-protection",
+        "missy-elliott-da-brat-sock-it-2-me",
         "moby-honey",
         "the-chemical-brothers-let-forever-be",
         "kylie-minogue-come-into-my-world",
@@ -7995,6 +8087,24 @@
         "feist-my-moon-my-man",
         "battles-my-machines",
         "willow-sweater"
+      ],
+      "3D animation": [
+        "missy-elliott-da-brat-sock-it-2-me",
+        "autechre-gantz-graf",
+        "twerk-from-brown-to-green",
+        "mickey-3d-respire",
+        "bj-rk-mutual-core",
+        "panda-bear-boys-latin",
+        "n-lannon-another-love"
+      ],
+      "space": [
+        "missy-elliott-da-brat-sock-it-2-me",
+        "daft-punk-one-more-time",
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "muse-knights-of-cydonia",
+        "apparat-granular-bastard",
+        "vessels-4am",
+        "the-chemical-brothers-weve-got-to-try"
       ],
       "water": [
         "radiohead-no-surprises",
@@ -8119,13 +8229,33 @@
         "thunder-tillman-alignments",
         "luc-glow"
       ],
-      "space": [
-        "daft-punk-one-more-time",
-        "the-darkness-i-believe-in-a-thing-called-love",
-        "muse-knights-of-cydonia",
-        "apparat-granular-bastard",
-        "vessels-4am",
-        "the-chemical-brothers-weve-got-to-try"
+      "kids": [
+        "missy-elliott-work-it",
+        "mickey-3d-respire",
+        "tune-yards-bizness",
+        "son-of-kick-playing-the-villain",
+        "y-n-richkids-my-bike",
+        "tigerilla-tulips",
+        "bomba-est-reo-soy-yo",
+        "young-thug-wyclef-jean",
+        "benjamin-booker-believe",
+        "the-smile-friend-of-a-friend",
+        "gener8ion-yung-lean-storm"
+      ],
+      "woc director": [
+        "missy-elliott-work-it",
+        "yuki-sentimental-journey",
+        "ogiyahagi-i-love-your-face",
+        "snoop-dogg-sensual-seduction",
+        "yeasayer-wait-for-the-summer",
+        "janelle-mon-e-tightrope",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "huma-huma-hello-i-like-you",
+        "beyonc-formation",
+        "janelle-mon-e-i-like-that",
+        "janelle-mon-e-lipstick-lover",
+        "dua-lipa-illusion",
+        "mette-coming-of-age"
       ],
       "lego": [
         "the-white-stripes-fell-in-love-with-a-girl"
@@ -8137,14 +8267,6 @@
         "ok-go-obsession",
         "joep-beving-max-cooper-hanging-d-max-cooper-remix",
         "oneohtrix-point-never-d-i-s"
-      ],
-      "3D animation": [
-        "autechre-gantz-graf",
-        "twerk-from-brown-to-green",
-        "mickey-3d-respire",
-        "bj-rk-mutual-core",
-        "panda-bear-boys-latin",
-        "n-lannon-another-love"
       ],
       "abstract": [
         "autechre-gantz-graf",
@@ -8196,32 +8318,6 @@
         "max-cooper-waves",
         "milk-bone-pressure",
         "kendrick-lamar-squabble-up"
-      ],
-      "woc director": [
-        "yuki-sentimental-journey",
-        "ogiyahagi-i-love-your-face",
-        "snoop-dogg-sensual-seduction",
-        "yeasayer-wait-for-the-summer",
-        "janelle-mon-e-tightrope",
-        "the-pains-of-being-pure-at-heart-say-no-to-love",
-        "huma-huma-hello-i-like-you",
-        "beyonc-formation",
-        "janelle-mon-e-i-like-that",
-        "janelle-mon-e-lipstick-lover",
-        "dua-lipa-illusion",
-        "mette-coming-of-age"
-      ],
-      "kids": [
-        "mickey-3d-respire",
-        "tune-yards-bizness",
-        "son-of-kick-playing-the-villain",
-        "y-n-richkids-my-bike",
-        "tigerilla-tulips",
-        "bomba-est-reo-soy-yo",
-        "young-thug-wyclef-jean",
-        "benjamin-booker-believe",
-        "the-smile-friend-of-a-friend",
-        "gener8ion-yung-lean-storm"
       ],
       "kaiju": [
         "the-darkness-i-believe-in-a-thing-called-love",
@@ -8573,6 +8669,9 @@
       "Marilyn Manson": [
         "marilyn-manson-the-beautiful-people"
       ],
+      "Missy Elliott & Da Brat": [
+        "missy-elliott-da-brat-sock-it-2-me"
+      ],
       "Daft Punk": [
         "daft-punk-around-the-world",
         "daft-punk-one-more-time",
@@ -8585,7 +8684,9 @@
         "fiona-apple-criminal"
       ],
       "Missy Elliott": [
-        "missy-elliott-the-rain-supa-dupa-fly"
+        "missy-elliott-the-rain-supa-dupa-fly",
+        "missy-elliott-get-ur-freak-on",
+        "missy-elliott-work-it"
       ],
       "The Verve": [
         "the-verve-bitter-sweet-symphony"
@@ -9316,6 +9417,7 @@
       ],
       "Hype Williams": [
         "2pac-ft-dr-dre-california-love",
+        "missy-elliott-da-brat-sock-it-2-me",
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
       "David Mould": [
@@ -9401,6 +9503,14 @@
       ],
       "Kazuhisa Takenouchi": [
         "daft-punk-one-more-time"
+      ],
+      "Dave Meyers": [
+        "missy-elliott-get-ur-freak-on",
+        "missy-elliott-work-it",
+        "kendrick-lamar-humble"
+      ],
+      "Missy Elliott": [
+        "missy-elliott-work-it"
       ],
       "Alex Rutterford": [
         "autechre-gantz-graf"
@@ -9905,9 +10015,6 @@
       "Young Thug": [
         "young-thug-wyclef-jean"
       ],
-      "Dave Meyers": [
-        "kendrick-lamar-humble"
-      ],
       "The Little Homies": [
         "kendrick-lamar-humble"
       ],
@@ -10083,11 +10190,11 @@
       "confidence": 28,
       "guitar solo": 3,
       "hair": 4,
-      "dance": 54,
+      "dance": 56,
       "greenscreen": 3,
       "joy": 6,
       "lasers": 5,
-      "womxn director": 38,
+      "womxn director": 39,
       "wut": 11,
       "legs": 2,
       "machine": 8,
@@ -10096,33 +10203,36 @@
       "motorcycle": 1,
       "cel animation": 15,
       "collage": 9,
-      "poc director": 39,
+      "poc director": 41,
       "tableau": 22,
       "stop motion": 20,
       "plane": 2,
       "pixilation": 7,
       "narrative": 12,
       "new york": 11,
-      "gothy": 13,
+      "gothy": 14,
       "horses": 3,
       "monochrome": 23,
       "potential nsfw": 16,
       "body-ody": 8,
       "ice skates": 1,
       "psychedelic": 15,
-      "surreal": 47,
+      "surreal": 48,
       "dogs": 4,
       "slowmo": 9,
+      "california": 3,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 7,
       "crowd": 11,
       "surveillance": 3,
       "architecture": 5,
-      "vfx": 25,
+      "vfx": 26,
       "reverse": 3,
       "splitscreen": 8,
       "treadmill/escalator": 5,
+      "3D animation": 7,
+      "space": 7,
       "water": 7,
       "explosions": 5,
       "fisheye": 1,
@@ -10137,17 +10247,15 @@
       "mirrors": 3,
       "night vision": 1,
       "soundsync": 15,
-      "space": 6,
+      "kids": 11,
+      "woc director": 13,
       "lego": 1,
       "pixel": 6,
-      "3D animation": 6,
       "abstract": 12,
       "isometric": 3,
       "projection mapping": 5,
       "orbiting": 10,
       "loops": 11,
-      "woc director": 12,
-      "kids": 10,
       "kaiju": 2,
       "claps": 3,
       "textiles": 4,
@@ -10225,10 +10333,11 @@
       "Smashing Pumpkins": 1,
       "Jamiroquai": 1,
       "Marilyn Manson": 1,
+      "Missy Elliott & Da Brat": 1,
       "Daft Punk": 3,
       "Michael Penn": 1,
       "Fiona Apple": 1,
-      "Missy Elliott": 1,
+      "Missy Elliott": 3,
       "The Verve": 1,
       "Natalie Imbruglia": 1,
       "Lauryn Hill": 1,
@@ -10451,7 +10560,7 @@
       "Howard Greenhalgh": 1,
       "Ethan Hawke": 1,
       "Spike Jonze": 6,
-      "Hype Williams": 2,
+      "Hype Williams": 3,
       "David Mould": 1,
       "Michel Gondry": 13,
       "Jamie Thraves": 1,
@@ -10475,6 +10584,8 @@
       "Mike Maguire": 1,
       "Leiji Matsumoto": 1,
       "Kazuhisa Takenouchi": 1,
+      "Dave Meyers": 3,
+      "Missy Elliott": 1,
       "Alex Rutterford": 1,
       "H5": 1,
       "Shynola": 1,
@@ -10625,7 +10736,6 @@
       "DEDO CIEGO": 1,
       "Ryan Staake": 1,
       "Young Thug": 1,
-      "Dave Meyers": 1,
       "The Little Homies": 1,
       "Pablo Maestres": 1,
       "Sander Houtkruijer": 1,
