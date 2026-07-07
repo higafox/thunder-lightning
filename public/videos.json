@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 307,
-    "totalArtists": 228,
-    "totalDirectors": 261,
-    "totalTags": 113
+    "totalVideos": 313,
+    "totalArtists": 231,
+    "totalDirectors": 268,
+    "totalTags": 114
   },
   "videos": {
     "mette-van-gogh": {
@@ -7092,6 +7092,151 @@
         "surreal"
       ],
       "embedBroken": false
+    },
+    "chappell-roan-super-graphic-ultra-modern-girl": {
+      "id": "chappell-roan-super-graphic-ultra-modern-girl",
+      "artist": "Chappell Roan",
+      "song": "Super Graphic Ultra Modern Girl",
+      "director": "Jackie! Zhou",
+      "directors": [
+        "Jackie! Zhou"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "September 2023",
+      "sortDate": "2023-09-22",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "kWLai0XoZmg",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/kWLai0XoZmg/hqdefault.jpg",
+      "tags": [
+        "360",
+        "california",
+        "confidence",
+        "joy",
+        "poc director",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "chappell-roan-the-subway": {
+      "id": "chappell-roan-the-subway",
+      "artist": "Chappell Roan",
+      "song": "The Subway",
+      "director": "Amber Grace Johnson",
+      "directors": [
+        "Amber Grace Johnson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2025",
+      "sortDate": "2025-08-01",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "woLfAvD5iXI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/woLfAvD5iXI/hqdefault.jpg",
+      "tags": [
+        "hair",
+        "new york",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "pinkpantheress-girl-like-me": {
+      "id": "pinkpantheress-girl-like-me",
+      "artist": "PinkPantheress",
+      "song": "Girl Like Me",
+      "director": "Laurie Lotus",
+      "directors": [
+        "Laurie Lotus"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2026",
+      "sortDate": "2026-05-08",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "qRAJowgHqxA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/qRAJowgHqxA/hqdefault.jpg",
+      "tags": [
+        "treadmill/escalator",
+        "vfx",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "lady-gaga-abracadabra": {
+      "id": "lady-gaga-abracadabra",
+      "artist": "Lady Gaga",
+      "song": "Abracadabra",
+      "director": "Lady Gaga, Parris Goebel, Bethany Vargas",
+      "directors": [
+        "Lady Gaga",
+        "Parris Goebel",
+        "Bethany Vargas"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "February 2025",
+      "sortDate": "2025-02-03",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "vBynw9Isr28",
+      "vimeoId": "1053083053",
+      "thumbnailUrl": "https://img.youtube.com/vi/vBynw9Isr28/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "dance",
+        "gothy",
+        "whip pan"
+      ],
+      "embedBroken": false
+    },
+    "thom-yorke-anima": {
+      "id": "thom-yorke-anima",
+      "artist": "Thom Yorke",
+      "song": "ANIMA",
+      "director": "Paul Thomas Anderson",
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2019",
+      "sortDate": "2019-06-27",
+      "year": 2019,
+      "provider": "vimeo",
+      "youtubeId": null,
+      "vimeoId": "733917128",
+      "thumbnailUrl": null,
+      "tags": [
+        "dance",
+        "glitch",
+        "repeat"
+      ],
+      "embedBroken": false
+    },
+    "radiohead-weird-fishes-arpeggi": {
+      "id": "radiohead-weird-fishes-arpeggi",
+      "artist": "Radiohead",
+      "song": "Weird Fishes / Arpeggi",
+      "director": "Robert Hodgin",
+      "directors": [
+        "Robert Hodgin"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2009",
+      "sortDate": "2009-04-12",
+      "year": 2009,
+      "provider": "youtube",
+      "youtubeId": "y4FMsxm4Jss",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/y4FMsxm4Jss/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "abstract",
+        "soundsync"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -7228,6 +7373,7 @@
       "fleet-foxes-mykonos",
       "chairlift-evident-utensil",
       "fever-ray-when-i-grow-up",
+      "radiohead-weird-fishes-arpeggi",
       "yeasayer-wait-for-the-summer",
       "matt-and-kim-lessons-learned",
       "moray-mclaren-we-got-time",
@@ -7368,6 +7514,7 @@
       "bas-ft-correy-c-fragrance",
       "mitski-a-pearl",
       "the-chemical-brothers-weve-got-to-try",
+      "thom-yorke-anima",
       "max-cooper-repetition",
       "beck-uneventful-days-jimmy-kimmel-performance",
       "squarepusher-terminal-slam",
@@ -7385,6 +7532,7 @@
       "paul-kalkbrenner-schwer",
       "mette-van-gogh",
       "jungle-back-on-74",
+      "chappell-roan-super-graphic-ultra-modern-girl",
       "jacques-absolve",
       "the-smile-friend-of-a-friend",
       "fred-again-lil-yachty-and-overmono-stayinit",
@@ -7395,16 +7543,22 @@
       "kendrick-lamar-not-like-us",
       "kendrick-lamar-squabble-up",
       "ok-go-a-stone-only-rolls-downhill",
+      "lady-gaga-abracadabra",
       "doechii-anxiety",
       "ok-go-love",
+      "chappell-roan-the-subway",
       "oneohtrix-point-never-d-i-s",
       "daft-punk-human-after-all",
       "mette-coming-of-age",
       "gener8ion-yung-lean-storm",
+      "pinkpantheress-girl-like-me",
       "bonobo-me-and-you",
       "balming-tiger-oui"
     ],
     "tags": {
+      "360": [
+        "chappell-roan-super-graphic-ultra-modern-girl"
+      ],
       "long take": [
         "bob-dylan-subterranean-homesick-blues",
         "lisa-loeb-stay-i-missed-you",
@@ -7492,7 +7646,8 @@
         "childish-gambino-this-is-america",
         "mette-mamas-eyes",
         "mette-van-gogh",
-        "jungle-back-on-74"
+        "jungle-back-on-74",
+        "chappell-roan-super-graphic-ultra-modern-girl"
       ],
       "guitar solo": [
         "queen-bohemian-rhapsody",
@@ -7503,7 +7658,8 @@
         "prince-i-wanna-be-your-lover",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "vitalic-poney-part-1-birds",
-        "thunderheist-jerk-it"
+        "thunderheist-jerk-it",
+        "chappell-roan-the-subway"
       ],
       "dance": [
         "michael-jackson-dont-stop-til-you-get-enough",
@@ -7553,12 +7709,14 @@
         "benjamin-booker-believe",
         "childish-gambino-this-is-america",
         "the-peach-kings-dirty-secret",
+        "thom-yorke-anima",
         "mette-mamas-eyes",
         "mette-van-gogh",
         "jungle-back-on-74",
         "dua-lipa-illusion",
         "tourist-valentine",
         "kendrick-lamar-squabble-up",
+        "lady-gaga-abracadabra",
         "doechii-anxiety",
         "mette-coming-of-age",
         "gener8ion-yung-lean-storm"
@@ -7574,7 +7732,8 @@
         "brite-futures-sophisticated-side-ponytail",
         "huma-huma-hello-i-like-you",
         "y-n-richkids-my-bike",
-        "mette-mamas-eyes"
+        "mette-mamas-eyes",
+        "chappell-roan-super-graphic-ultra-modern-girl"
       ],
       "lasers": [
         "michael-jackson-rock-with-you",
@@ -7620,9 +7779,12 @@
         "mette-mamas-eyes",
         "janelle-mon-e-lipstick-lover",
         "mette-van-gogh",
+        "chappell-roan-super-graphic-ultra-modern-girl",
         "dua-lipa-illusion",
         "mette-bet",
-        "mette-coming-of-age"
+        "chappell-roan-the-subway",
+        "mette-coming-of-age",
+        "pinkpantheress-girl-like-me"
       ],
       "wut": [
         "talking-heads-once-in-a-lifetime",
@@ -7732,6 +7894,7 @@
         "childish-gambino-this-is-america",
         "mitski-a-pearl",
         "janelle-mon-e-lipstick-lover",
+        "chappell-roan-super-graphic-ultra-modern-girl",
         "dua-lipa-illusion",
         "kendrick-lamar-squabble-up",
         "mette-coming-of-age"
@@ -7820,7 +7983,8 @@
         "flight-of-the-conchords-not-crying",
         "dick-annegarn-soleil-du-soir",
         "bomba-est-reo-soy-yo",
-        "the-peach-kings-dirty-secret"
+        "the-peach-kings-dirty-secret",
+        "chappell-roan-the-subway"
       ],
       "gothy": [
         "depeche-mode-personal-jesus",
@@ -7836,7 +8000,8 @@
         "fever-ray-when-i-grow-up",
         "lady-gaga-bad-romance",
         "lorde-tennis-court",
-        "massive-attack-take-it-there"
+        "massive-attack-take-it-there",
+        "lady-gaga-abracadabra"
       ],
       "horses": [
         "depeche-mode-personal-jesus",
@@ -7986,7 +8151,8 @@
       "california": [
         "2pac-ft-dr-dre-california-love",
         "fatboy-slim-praise-you",
-        "fatboy-slim-weapon-of-choice"
+        "fatboy-slim-weapon-of-choice",
+        "chappell-roan-super-graphic-ultra-modern-girl"
       ],
       "cars": [
         "2pac-ft-dr-dre-california-love",
@@ -8024,6 +8190,7 @@
         "battles-the-yabba",
         "polo-pan-coeur-crois",
         "kendrick-lamar-not-like-us",
+        "lady-gaga-abracadabra",
         "gener8ion-yung-lean-storm"
       ],
       "surveillance": [
@@ -8064,7 +8231,8 @@
         "the-chemical-brothers-weve-got-to-try",
         "squarepusher-terminal-slam",
         "paul-kalkbrenner-schwer",
-        "mette-bet"
+        "mette-bet",
+        "pinkpantheress-girl-like-me"
       ],
       "reverse": [
         "the-pharcyde-drop",
@@ -8086,13 +8254,15 @@
         "ok-go-here-it-goes-again",
         "feist-my-moon-my-man",
         "battles-my-machines",
-        "willow-sweater"
+        "willow-sweater",
+        "pinkpantheress-girl-like-me"
       ],
       "3D animation": [
         "missy-elliott-da-brat-sock-it-2-me",
         "autechre-gantz-graf",
         "twerk-from-brown-to-green",
         "mickey-3d-respire",
+        "radiohead-weird-fishes-arpeggi",
         "bj-rk-mutual-core",
         "panda-bear-boys-latin",
         "n-lannon-another-love"
@@ -8168,6 +8338,7 @@
         "jones-melt",
         "bonobo-kerala",
         "bas-ft-correy-c-fragrance",
+        "thom-yorke-anima",
         "max-cooper-repetition",
         "beck-uneventful-days-jimmy-kimmel-performance",
         "paul-kalkbrenner-schwer",
@@ -8218,6 +8389,7 @@
         "the-white-stripes-seven-nation-army",
         "the-white-stripes-the-hardest-button-to-button",
         "feist-i-feel-it-all",
+        "radiohead-weird-fishes-arpeggi",
         "boys-noize-jeffer",
         "ok-go-needing-getting",
         "nigel-stanford-cymatics",
@@ -8254,6 +8426,7 @@
         "beyonc-formation",
         "janelle-mon-e-i-like-that",
         "janelle-mon-e-lipstick-lover",
+        "chappell-roan-super-graphic-ultra-modern-girl",
         "dua-lipa-illusion",
         "mette-coming-of-age"
       ],
@@ -8271,6 +8444,7 @@
       "abstract": [
         "autechre-gantz-graf",
         "twerk-from-brown-to-green",
+        "radiohead-weird-fishes-arpeggi",
         "boozoo-bajou-jan-mayen",
         "hundred-waters-cavity",
         "20syl-back-forth",
@@ -8421,6 +8595,7 @@
       "glitch": [
         "chairlift-evident-utensil",
         "boys-noize-jeffer",
+        "thom-yorke-anima",
         "squarepusher-terminal-slam"
       ],
       "zoetrope": [
@@ -8472,7 +8647,8 @@
       ],
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
-        "kings-of-leon-mustang"
+        "kings-of-leon-mustang",
+        "lady-gaga-abracadabra"
       ],
       "editing": [
         "el-guincho-bombay",
@@ -8639,7 +8815,8 @@
         "radiohead-high-and-dry",
         "radiohead-just",
         "radiohead-no-surprises",
-        "radiohead-karma-police"
+        "radiohead-karma-police",
+        "radiohead-weird-fishes-arpeggi"
       ],
       "Massive Attack": [
         "massive-attack-protection",
@@ -8912,7 +9089,8 @@
         "beck-uneventful-days-jimmy-kimmel-performance"
       ],
       "Lady Gaga": [
-        "lady-gaga-bad-romance"
+        "lady-gaga-bad-romance",
+        "lady-gaga-abracadabra"
       ],
       "The Presets": [
         "the-presets-girl-and-the-sea"
@@ -9230,6 +9408,9 @@
       "Mitski": [
         "mitski-a-pearl"
       ],
+      "Thom Yorke": [
+        "thom-yorke-anima"
+      ],
       "Squarepusher": [
         "squarepusher-terminal-slam"
       ],
@@ -9268,6 +9449,10 @@
       "Jungle": [
         "jungle-back-on-74"
       ],
+      "Chappell Roan": [
+        "chappell-roan-super-graphic-ultra-modern-girl",
+        "chappell-roan-the-subway"
+      ],
       "Jacques": [
         "jacques-absolve"
       ],
@@ -9297,6 +9482,9 @@
       ],
       "GENER8ION & Yung Lean": [
         "gener8ion-yung-lean-storm"
+      ],
+      "PinkPantheress": [
+        "pinkpantheress-girl-like-me"
       ],
       "Balming Tiger": [
         "balming-tiger-oui"
@@ -9463,6 +9651,7 @@
       ],
       "Paul Thomas Anderson": [
         "michael-penn-try",
+        "thom-yorke-anima",
         "the-smile-friend-of-a-friend"
       ],
       "Walter Stern": [
@@ -9645,6 +9834,9 @@
       ],
       "Martin de Thurah": [
         "fever-ray-when-i-grow-up"
+      ],
+      "Robert Hodgin": [
+        "radiohead-weird-fishes-arpeggi"
       ],
       "Mixtape Club": [
         "yeasayer-wait-for-the-summer",
@@ -10135,6 +10327,9 @@
       "Charlie Di Placido": [
         "jungle-back-on-74"
       ],
+      "Jackie! Zhou": [
+        "chappell-roan-super-graphic-ultra-modern-girl"
+      ],
       "LOOSE & UNCANNY": [
         "fred-again-lil-yachty-and-overmono-stayinit"
       ],
@@ -10156,11 +10351,23 @@
       "Chris Buongiorno": [
         "ok-go-a-stone-only-rolls-downhill"
       ],
+      "Lady Gaga": [
+        "lady-gaga-abracadabra"
+      ],
+      "Parris Goebel": [
+        "lady-gaga-abracadabra"
+      ],
+      "Bethany Vargas": [
+        "lady-gaga-abracadabra"
+      ],
       "James Mackel": [
         "doechii-anxiety"
       ],
       "Miguel Espada": [
         "ok-go-love"
+      ],
+      "Amber Grace Johnson": [
+        "chappell-roan-the-subway"
       ],
       "Elliott Elder": [
         "oneohtrix-point-never-d-i-s"
@@ -10174,6 +10381,9 @@
       "METTE": [
         "mette-coming-of-age"
       ],
+      "Laurie Lotus": [
+        "pinkpantheress-girl-like-me"
+      ],
       "in/out": [
         "bonobo-me-and-you"
       ],
@@ -10184,17 +10394,18 @@
   },
   "counts": {
     "tags": {
+      "360": 1,
       "long take": 33,
       "retro": 12,
       "lighting": 8,
-      "confidence": 28,
+      "confidence": 29,
       "guitar solo": 3,
-      "hair": 4,
-      "dance": 56,
+      "hair": 5,
+      "dance": 58,
       "greenscreen": 3,
-      "joy": 6,
+      "joy": 7,
       "lasers": 5,
-      "womxn director": 39,
+      "womxn director": 42,
       "wut": 11,
       "legs": 2,
       "machine": 8,
@@ -10203,14 +10414,14 @@
       "motorcycle": 1,
       "cel animation": 15,
       "collage": 9,
-      "poc director": 41,
+      "poc director": 42,
       "tableau": 22,
       "stop motion": 20,
       "plane": 2,
       "pixilation": 7,
       "narrative": 12,
-      "new york": 11,
-      "gothy": 14,
+      "new york": 12,
+      "gothy": 15,
       "horses": 3,
       "monochrome": 23,
       "potential nsfw": 16,
@@ -10220,18 +10431,18 @@
       "surreal": 48,
       "dogs": 4,
       "slowmo": 9,
-      "california": 3,
+      "california": 4,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 7,
-      "crowd": 11,
+      "crowd": 12,
       "surveillance": 3,
       "architecture": 5,
-      "vfx": 26,
+      "vfx": 27,
       "reverse": 3,
       "splitscreen": 8,
-      "treadmill/escalator": 5,
-      "3D animation": 7,
+      "treadmill/escalator": 6,
+      "3D animation": 8,
       "space": 7,
       "water": 7,
       "explosions": 5,
@@ -10239,19 +10450,19 @@
       "walk/run": 8,
       "meta": 8,
       "sports": 3,
-      "repeat": 21,
+      "repeat": 22,
       "twinsies": 7,
       "lofi brilliance": 7,
       "puppets": 5,
       "kaleidoscope": 4,
       "mirrors": 3,
       "night vision": 1,
-      "soundsync": 15,
+      "soundsync": 16,
       "kids": 11,
-      "woc director": 13,
+      "woc director": 14,
       "lego": 1,
       "pixel": 6,
-      "abstract": 12,
+      "abstract": 13,
       "isometric": 3,
       "projection mapping": 5,
       "orbiting": 10,
@@ -10272,7 +10483,7 @@
       "fluid dynamics": 5,
       "shapes": 6,
       "datamoshing": 1,
-      "glitch": 3,
+      "glitch": 4,
       "zoetrope": 2,
       "interactive": 8,
       "ascii": 2,
@@ -10282,7 +10493,7 @@
       "slitscan": 4,
       "match cut": 4,
       "timelapse": 1,
-      "whip pan": 2,
+      "whip pan": 3,
       "editing": 9,
       "timeslice": 3,
       "macro": 3,
@@ -10324,7 +10535,7 @@
       "Weezer": 1,
       "2Pac ft. Dr. Dre": 1,
       "Björk": 5,
-      "Radiohead": 4,
+      "Radiohead": 5,
       "Massive Attack": 2,
       "The Pharcyde": 1,
       "Blur": 4,
@@ -10402,7 +10613,7 @@
       "Kid Cudi": 1,
       "Boys Noize": 1,
       "Beck": 2,
-      "Lady Gaga": 1,
+      "Lady Gaga": 2,
       "The Presets": 1,
       "Paul Dempsey": 1,
       "Kumisolo": 1,
@@ -10504,6 +10715,7 @@
       "The Carters": 1,
       "Bas (ft. Correy C)": 1,
       "Mitski": 1,
+      "Thom Yorke": 1,
       "Squarepusher": 1,
       "Four Tet": 1,
       "Thao & The Get Down Stay Down": 1,
@@ -10516,6 +10728,7 @@
       "Mette": 3,
       "Paul Kalkbrenner": 1,
       "Jungle": 1,
+      "Chappell Roan": 2,
       "Jacques": 1,
       "The Smile": 1,
       "Fred Again, Lil Yachty, and Overmono": 1,
@@ -10526,6 +10739,7 @@
       "Oneohtrix Point Never": 1,
       "METTE": 1,
       "GENER8ION & Yung Lean": 1,
+      "PinkPantheress": 1,
       "Balming Tiger": 1
     },
     "directors": {
@@ -10570,7 +10784,7 @@
       "Floria Sigismondi": 1,
       "Grant Gee": 1,
       "Sophie Muller": 1,
-      "Paul Thomas Anderson": 2,
+      "Paul Thomas Anderson": 3,
       "Walter Stern": 1,
       "Alison Maclean": 1,
       "Big TV!": 1,
@@ -10626,6 +10840,7 @@
       "Clemens Habicht": 1,
       "Ray Tintori": 1,
       "Martin de Thurah": 1,
+      "Robert Hodgin": 1,
       "Mixtape Club": 3,
       "Taylor Cohen": 1,
       "Otto Arsenault": 1,
@@ -10775,6 +10990,7 @@
       "Jovan Todorović": 1,
       "J Lloyd": 1,
       "Charlie Di Placido": 1,
+      "Jackie! Zhou": 1,
       "LOOSE & UNCANNY": 1,
       "Tanu Muiño": 1,
       "C Prinz": 1,
@@ -10782,12 +10998,17 @@
       "Ozzie Pullin": 1,
       "Calmatic": 1,
       "Chris Buongiorno": 1,
+      "Lady Gaga": 1,
+      "Parris Goebel": 1,
+      "Bethany Vargas": 1,
       "James Mackel": 1,
       "Miguel Espada": 1,
+      "Amber Grace Johnson": 1,
       "Elliott Elder": 1,
       "Cédric Hervet": 1,
       "Helen Morales": 1,
       "METTE": 1,
+      "Laurie Lotus": 1,
       "in/out": 1,
       "Lee Suho": 1
     }
