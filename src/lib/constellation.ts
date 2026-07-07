@@ -219,39 +219,27 @@ export function buildConstellation(params: {
   // ends up too close to flat (0/180deg), the connector is a long thin
   // near-horizontal line -- the hardest case for antialiasing, since a tiny
   // deviation from exactly flat makes the rasterizer stair-step between
-  // pixel rows over its length instead of blending smoothly. Nudge the pill
-  // vertically just enough to clear that danger zone. (Ambient decorative
-  // rays don't get this treatment -- excluding them entirely left visible
-  // gaps in the sunburst, and they're background flavor, not something
-  // users read as a line to a specific place the way a pill connector is.)
+  // pixel rows over its length instead of blending smoothly. (Ambient
+  // decorative rays don't get this treatment -- excluding them entirely left
+  // visible gaps in the sunburst, and they're background flavor, not
+  // something users read as a line to a specific place the way a pill
+  // connector is.)
+  //
+  // Dense rails (3+) are evenly spaced top-to-bottom; naively nudging just
+  // the one pill that would've landed in the danger zone around center left
+  // its neighbors at their original spacing, so the rail read as two
+  // different gap sizes instead of one rhythm. Split into two independently
+  // evenly-spaced groups clearing the zone instead, picking whichever nearby
+  // split point leaves the two groups' internal gaps closest to each other
+  // so the rail still reads as one consistent rhythm.
   const FLAT_EPS = 0.11; // ~6.3deg off exactly horizontal
-  const avoidFlatAngle = (cxPill: number, y: number): number => {
-    const dx = (cxPill - CX) * AR;
-    if (Math.abs(dx) < 0.001) return y;
-    const minDy = Math.abs(dx) * Math.tan(FLAT_EPS);
-    const dy = y - CY;
-    if (Math.abs(dy) >= minDy) return y;
-    return CY + (dy >= 0 ? minDy : -minDy);
-  };
-
-  // rails: place pills down each side. Sparse rails (1-2 pills) get a random
-  // diagonal angle (20-50deg off horizontal) so connectors never run flat.
   const layRail = (arr: ConstNode[], side: "L" | "R") => {
     const n = arr.length;
-    arr.forEach((node, i) => {
-      let y: number;
-      if (n >= 3) {
-        const top = 24, bottom = 68;
-        y = top + ((bottom - top) / (n - 1)) * i;
-      } else {
-        const deg = 20 + rand() * 30;
-        const up = n === 2 ? i === 0 : rand() < 0.5;
-        const rad = (deg * Math.PI) / 180;
-        const dxPct = 42;
-        const dyPct = dxPct * Math.tan(rad) * 0.62;
-        y = 42 + (up ? -dyPct : dyPct);
-        y = Math.max(20, Math.min(70, y));
-      }
+    const top = 24, bottom = 68;
+    // x/cxPill only depend on index + label, not y, so compute them up front
+    // -- the clearance math below needs each pill's ACTUAL horizontal
+    // distance from center, not an approximate stand-in.
+    const laid = arr.map((node, i) => {
       const variation = [0, 3, 0.8, 3.4, 1.6, 2.4, 0.4, 2][(i * 2 + (side === "L" ? 0 : 1)) % 8];
       const hw = halfW(node.label, vw2);
       // long labels get pushed further toward the viewport edge so their
@@ -259,8 +247,68 @@ export function buildConstellation(params: {
       const extraPush = Math.min(10, Math.max(0, hw - 4) * 1.3);
       const x = side === "L" ? Math.max(1, 2 + variation - extraPush) : Math.min(99, 98 - variation + extraPush);
       const cxPill = side === "L" ? x + hw : x - hw;
-      y = avoidFlatAngle(cxPill, y);
-      placed.push({ x, y, anchor: side, cxPill, cyPill: y, node });
+      return { node, x, cxPill };
+    });
+
+    let ys: number[];
+    // On a dense page (9+ pills total), splitting into two evenly-spaced
+    // groups still leaves the two group's gaps noticeably different sizes
+    // from each other -- there's no way to keep a single consistent rhythm
+    // AND clear the danger zone once the natural gap is smaller than the
+    // zone itself, since shifting the whole rail just moves which pill lands
+    // in it instead of escaping. Falling back to plain uniform spacing here
+    // and accepting the rare near-flat connector reads better than that.
+    if (n >= 3 && left.length + right.length < 9) {
+      const naiveGap = (bottom - top) / (n - 1);
+      const naiveNAbove = Array.from({ length: n }, (_, i) => top + naiveGap * i).filter((y) => y < CY).length;
+      const halfDeadAt = (i: number) => Math.abs(laid[i].cxPill - CX) * AR * Math.tan(FLAT_EPS);
+      const buildYs = (nAbove: number): number[] => {
+        const aboveEnd = CY - halfDeadAt(nAbove - 1);
+        const belowStart = CY + halfDeadAt(nAbove);
+        const aboveGap = nAbove > 1 ? (aboveEnd - top) / (nAbove - 1) : 0;
+        const belowGap = n - nAbove > 1 ? (bottom - belowStart) / (n - nAbove - 1) : 0;
+        const out = Array.from({ length: n }, (_, i) =>
+          i < nAbove ? top + aboveGap * i : belowStart + belowGap * (i - nAbove)
+        );
+        if (nAbove === 1) out[0] = (top + aboveEnd) / 2; // single-point group: center it in its span
+        if (n - nAbove === 1) out[n - 1] = (belowStart + bottom) / 2;
+        return out;
+      };
+      // score the whole resulting gap sequence (not just the two group
+      // averages) -- a degenerate 1-point group has no internal gap to
+      // compare, but can still leave one huge leftover gap to its neighbor.
+      const spread = (candYs: number[]) => {
+        const gaps = candYs.slice(1).map((y, i) => y - candYs[i]);
+        return Math.max(...gaps) - Math.min(...gaps);
+      };
+      let bestYs = buildYs(naiveNAbove);
+      let bestCost = spread(bestYs);
+      for (let cand = Math.max(1, naiveNAbove - 1); cand <= Math.min(n - 1, naiveNAbove + 1); cand++) {
+        const candYs = buildYs(cand);
+        const cost = spread(candYs);
+        if (cost < bestCost) {
+          bestCost = cost;
+          bestYs = candYs;
+        }
+      }
+      ys = bestYs;
+    } else if (n >= 3) {
+      const naiveGap = (bottom - top) / (n - 1);
+      ys = Array.from({ length: n }, (_, i) => top + naiveGap * i);
+    } else {
+      ys = laid.map((_, i) => {
+        const deg = 20 + rand() * 30;
+        const up = n === 2 ? i === 0 : rand() < 0.5;
+        const rad = (deg * Math.PI) / 180;
+        const dxPct = 42;
+        const dyPct = dxPct * Math.tan(rad) * 0.62;
+        const raw = 42 + (up ? -dyPct : dyPct);
+        return Math.max(20, Math.min(70, raw));
+      });
+    }
+
+    laid.forEach(({ node, x, cxPill }, i) => {
+      placed.push({ x, y: ys[i], anchor: side, cxPill, cyPill: ys[i], node });
     });
   };
   layRail(left, "L");
