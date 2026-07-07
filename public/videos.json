@@ -5,7 +5,7 @@
     "totalVideos": 313,
     "totalArtists": 231,
     "totalDirectors": 268,
-    "totalTags": 114
+    "totalTags": 115
   },
   "videos": {
     "mette-van-gogh": {
@@ -1832,7 +1832,6 @@
       "tags": [
         "confidence",
         "dance",
-        "gothy",
         "tableau"
       ],
       "embedBroken": false
@@ -2557,6 +2556,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/0ttGgIQpAUc/hqdefault.jpg",
       "tags": [
         "crowd",
+        "long take",
         "vfx"
       ],
       "embedBroken": false
@@ -2607,7 +2607,9 @@
         "drone",
         "long take",
         "machine",
-        "poc director"
+        "pixel",
+        "poc director",
+        "umbrella"
       ],
       "embedBroken": false
     },
@@ -2748,6 +2750,7 @@
       "vimeoId": "58115286",
       "thumbnailUrl": "https://img.youtube.com/vi/WF34N4gJAKE/hqdefault.jpg",
       "tags": [
+        "collage",
         "psychedelic",
         "repeat"
       ],
@@ -4769,6 +4772,7 @@
       "vimeoId": "24637555",
       "thumbnailUrl": "https://img.youtube.com/vi/XpOH2lWFEl8/hqdefault.jpg",
       "tags": [
+        "new york",
         "surreal",
         "vfx"
       ],
@@ -5397,6 +5401,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/kbMqWXnpXcA/hqdefault.jpg",
       "tags": [
         "architecture",
+        "body-ody",
+        "dance",
         "tableau"
       ],
       "embedBroken": false
@@ -5871,8 +5877,8 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/H58vbez_m4E/hqdefault.jpg",
       "tags": [
-        "crowd",
-        "splitscreen"
+        "california",
+        "crowd"
       ],
       "embedBroken": false
     },
@@ -7579,6 +7585,7 @@
         "ok-go-white-knuckles",
         "battles-my-machines",
         "lorde-tennis-court",
+        "de-staat-witch-doctor",
         "ok-go-the-writings-on-the-wall",
         "ok-go-i-wont-let-you-down",
         "alt-j-pusher",
@@ -7709,6 +7716,7 @@
         "benjamin-booker-believe",
         "childish-gambino-this-is-america",
         "the-peach-kings-dirty-secret",
+        "the-carters-apeshit",
         "thom-yorke-anima",
         "mette-mamas-eyes",
         "mette-van-gogh",
@@ -7849,6 +7857,7 @@
         "talking-heads-and-she-was",
         "brite-futures-sophisticated-side-ponytail",
         "yeasayer-wait-for-the-summer",
+        "bonobo-cirrus",
         "soupcans-siamese-brutality",
         "andy-shauf-the-worst-in-you",
         "green-day-bang-bang",
@@ -7982,6 +7991,7 @@
         "the-rapture-whoo-alright-yeah-uh-huh",
         "flight-of-the-conchords-not-crying",
         "dick-annegarn-soleil-du-soir",
+        "memory-tapes-yes-i-know",
         "bomba-est-reo-soy-yo",
         "the-peach-kings-dirty-secret",
         "chappell-roan-the-subway"
@@ -7998,7 +8008,6 @@
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "bat-for-lashes-whats-a-girl-to-do",
         "fever-ray-when-i-grow-up",
-        "lady-gaga-bad-romance",
         "lorde-tennis-court",
         "massive-attack-take-it-there",
         "lady-gaga-abracadabra"
@@ -8056,6 +8065,7 @@
         "dangelo-untitled-how-does-it-feel",
         "janelle-mon-e-make-me-feel",
         "janelle-mon-e-i-like-that",
+        "the-carters-apeshit",
         "mette-mamas-eyes",
         "janelle-mon-e-lipstick-lover",
         "mette-van-gogh",
@@ -8152,7 +8162,8 @@
         "2pac-ft-dr-dre-california-love",
         "fatboy-slim-praise-you",
         "fatboy-slim-weapon-of-choice",
-        "chappell-roan-super-graphic-ultra-modern-girl"
+        "chappell-roan-super-graphic-ultra-modern-girl",
+        "kendrick-lamar-not-like-us"
       ],
       "cars": [
         "2pac-ft-dr-dre-california-love",
@@ -8246,8 +8257,7 @@
         "kid-cudi-make-her-say",
         "grizzly-bear-while-you-wait-for-the-others",
         "casey-veggies-euphoria-ii",
-        "thao-the-get-down-stay-down-phenom",
-        "kendrick-lamar-not-like-us"
+        "thao-the-get-down-stay-down-phenom"
       ],
       "treadmill/escalator": [
         "jamiroquai-virtual-insanity",
@@ -8437,6 +8447,7 @@
         "the-white-stripes-fell-in-love-with-a-girl",
         "junior-senior-move-your-feet",
         "beck-black-tambourine",
+        "ok-go-i-wont-let-you-down",
         "ok-go-obsession",
         "joep-beving-max-cooper-hanging-d-max-cooper-remix",
         "oneohtrix-point-never-d-i-s"
@@ -8684,6 +8695,9 @@
         "vessels-4am",
         "max-cooper-repetition",
         "four-tet-baby"
+      ],
+      "umbrella": [
+        "ok-go-i-wont-let-you-down"
       ],
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
@@ -10395,13 +10409,13 @@
   "counts": {
     "tags": {
       "360": 1,
-      "long take": 33,
+      "long take": 34,
       "retro": 12,
       "lighting": 8,
       "confidence": 29,
       "guitar solo": 3,
       "hair": 5,
-      "dance": 58,
+      "dance": 59,
       "greenscreen": 3,
       "joy": 7,
       "lasers": 5,
@@ -10413,25 +10427,25 @@
       "birds": 3,
       "motorcycle": 1,
       "cel animation": 15,
-      "collage": 9,
+      "collage": 10,
       "poc director": 42,
       "tableau": 22,
       "stop motion": 20,
       "plane": 2,
       "pixilation": 7,
       "narrative": 12,
-      "new york": 12,
-      "gothy": 15,
+      "new york": 13,
+      "gothy": 14,
       "horses": 3,
       "monochrome": 23,
       "potential nsfw": 16,
-      "body-ody": 8,
+      "body-ody": 9,
       "ice skates": 1,
       "psychedelic": 15,
       "surreal": 48,
       "dogs": 4,
       "slowmo": 9,
-      "california": 4,
+      "california": 5,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 7,
@@ -10440,7 +10454,7 @@
       "architecture": 5,
       "vfx": 27,
       "reverse": 3,
-      "splitscreen": 8,
+      "splitscreen": 7,
       "treadmill/escalator": 6,
       "3D animation": 8,
       "space": 7,
@@ -10461,7 +10475,7 @@
       "kids": 11,
       "woc director": 14,
       "lego": 1,
-      "pixel": 6,
+      "pixel": 7,
       "abstract": 13,
       "isometric": 3,
       "projection mapping": 5,
@@ -10500,6 +10514,7 @@
       "optical illusion": 3,
       "long exposure": 1,
       "drone": 4,
+      "umbrella": 1,
       "bus": 1,
       "crime": 2,
       "marbles": 1,
