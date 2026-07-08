@@ -26,7 +26,12 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   const { videos: V, playlists: PL, counts: CT, meta: META } = data;
 
   const [search, setSearch] = useState("");
-  const [selTag, setSelTag] = useState<string | null>(null);
+  // initialized from the URL (?tag=...) so a filtered archive link is
+  // shareable/refreshable, same idea as the /video/[slug] URL sync in
+  // Player.tsx. ArchiveGridReady only ever mounts client-side (see
+  // ArchiveGrid above), so reading window here can't cause a hydration
+  // mismatch.
+  const [selTag, setSelTag] = useState<string | null>(() => new URLSearchParams(window.location.search).get("tag"));
   const [shuffled, setShuffled] = useState<string[] | null>(null);
   // null = untouched (defaults to newest-first, same ordering as "desc" below
   // but shown unhighlighted); once clicked it only ever alternates asc/desc,
@@ -45,6 +50,19 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     window.addEventListener("resize", update);
     return () => window.removeEventListener("resize", update);
   }, []);
+
+  // keep ?tag= in sync with the current filter so a filtered view is
+  // shareable/refreshable, without triggering Next's router (no remount).
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (selTag) params.set("tag", selTag);
+    else params.delete("tag");
+    const qs = params.toString();
+    const newUrl = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+    if (window.location.pathname + window.location.search !== newUrl) {
+      window.history.replaceState(null, "", newUrl);
+    }
+  }, [selTag]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
