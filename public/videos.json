@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 369,
-    "totalArtists": 276,
-    "totalDirectors": 314,
-    "totalTags": 124
+    "totalVideos": 371,
+    "totalArtists": 278,
+    "totalDirectors": 319,
+    "totalTags": 125
   },
   "videos": {
     "mette-van-gogh": {
@@ -2843,7 +2843,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/RoLTPcD1S4Q/hqdefault.jpg",
       "tags": [
         "narrative",
-        "poc director"
+        "poc director",
+        "retro"
       ],
       "embedBroken": false
     },
@@ -6285,7 +6286,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/9RBzsjga73s/hqdefault.jpg",
       "tags": [
         "dance",
-        "monochrome"
+        "monochrome",
+        "platform"
       ],
       "embedBroken": false
     },
@@ -7561,7 +7563,7 @@
         "vfx",
         "wut"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "woodkid-iron": {
       "id": "woodkid-iron",
@@ -7681,6 +7683,7 @@
       "tags": [
         "chronophotography",
         "glitch",
+        "platform",
         "retro",
         "womxn director"
       ],
@@ -8553,7 +8556,7 @@
       "tags": [
         "narrative"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "passion-pit-sleepyhead": {
       "id": "passion-pit-sleepyhead",
@@ -8573,6 +8576,56 @@
       "thumbnailUrl": "https://img.youtube.com/vi/T0RvPYRRRbE/hqdefault.jpg",
       "tags": [
         "zoetrope"
+      ],
+      "embedBroken": false
+    },
+    "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone": {
+      "id": "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
+      "artist": "UAF Nanook Hockey Open ‘07-’08",
+      "song": "Highway to the Danger Zone",
+      "director": "Mike Martinez",
+      "directors": [
+        "Mike Martinez"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2008",
+      "sortDate": "2008-06-09",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "O5YjPteCPLo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/O5YjPteCPLo/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "explosions",
+        "poc director",
+        "space",
+        "wut"
+      ],
+      "embedBroken": false
+    },
+    "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone": {
+      "id": "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
+      "artist": "UAF Nanook Hockey Open ‘09-’10",
+      "song": "Highway to the Danger Zone",
+      "director": "Michael Martinez, Jon Dorfman and Szymon Weglarski",
+      "directors": [
+        "Michael Martinez",
+        "Jon Dorfman",
+        "Szymon Weglarski"
+      ],
+      "directorAffiliate": "HiFi3D",
+      "dateDisplay": "January 2010",
+      "sortDate": "2010-01-20",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "8THGqrjUDGI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/8THGqrjUDGI/hqdefault.jpg",
+      "tags": [
+        "explosions",
+        "space",
+        "wut"
       ],
       "embedBroken": false
     }
@@ -8725,6 +8778,7 @@
       "feist-i-feel-it-all",
       "goldfrapp-happiness",
       "bj-rk-wanderlust",
+      "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
       "thunderheist-jerk-it",
       "fleet-foxes-white-winter-hymnal",
       "brite-futures-sophisticated-side-ponytail",
@@ -8751,6 +8805,7 @@
       "the-presets-girl-and-the-sea",
       "lcd-soundsystem-drunk-girls-holy-ghost-remix",
       "ok-go-this-too-shall-pass",
+      "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
       "paul-dempsey-bats",
       "kumisolo-cheap-pop-song",
       "ok-go-this-too-shall-pass-rube-goldberg",
@@ -9014,6 +9069,7 @@
         "muse-knights-of-cydonia",
         "snoop-dogg-sensual-seduction",
         "beyonc-countdown",
+        "the-shins-simple-song",
         "gerard-way-millions",
         "donnie-trumpet-the-social-experiment-sunday-candy",
         "miike-snow-genghis-khan"
@@ -9094,6 +9150,8 @@
         "daft-punk-one-more-time",
         "the-darkness-i-believe-in-a-thing-called-love",
         "muse-knights-of-cydonia",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "apparat-granular-bastard",
         "vessels-4am",
         "the-chemical-brothers-weve-got-to-try"
@@ -9448,7 +9506,9 @@
         "the-darkness-i-believe-in-a-thing-called-love",
         "r-kelly-trapped-in-the-closet",
         "vitalic-poney-part-1-birds",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "thunderheist-jerk-it",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "fm-belfast-underwear",
         "duck-sauce-big-bad-wolf",
         "psy-gangnam-style",
@@ -9524,6 +9584,7 @@
         "j-dilla-nothing-like-this",
         "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "chairlift-evident-utensil",
         "radiohead-weird-fishes-arpeggi",
         "yeasayer-wait-for-the-summer",
@@ -9904,6 +9965,7 @@
         "mickey-3d-respire",
         "el-p-feat-trent-reznor-flyentology",
         "tv-on-the-radio-me-i",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "radiohead-weird-fishes-arpeggi",
         "bj-rk-mutual-core",
         "panda-bear-boys-latin",
@@ -9923,6 +9985,8 @@
       "explosions": [
         "blur-song-2",
         "feist-i-feel-it-all",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "the-hundred-in-the-hands-pigeons",
         "woodkid-iron",
         "psy-gangnam-style",
@@ -10288,6 +10352,10 @@
       ],
       "long exposure": [
         "sarh-u-and-i"
+      ],
+      "platform": [
+        "gerard-way-millions",
+        "christine-and-the-queens-tilted"
       ],
       "drone": [
         "ok-go-i-wont-let-you-down",
@@ -10720,6 +10788,9 @@
       "Goldfrapp": [
         "goldfrapp-happiness"
       ],
+      "UAF Nanook Hockey Open ‘07-’08": [
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone"
+      ],
       "Thunderheist": [
         "thunderheist-jerk-it"
       ],
@@ -10793,6 +10864,9 @@
       ],
       "LCD Soundsystem": [
         "lcd-soundsystem-drunk-girls-holy-ghost-remix"
+      ],
+      "UAF Nanook Hockey Open ‘09-’10": [
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
       ],
       "Paul Dempsey": [
         "paul-dempsey-bats"
@@ -11658,6 +11732,9 @@
       "SSSR": [
         "bellx1-rocky-took-a-lover"
       ],
+      "Mike Martinez": [
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone"
+      ],
       "that go": [
         "thunderheist-jerk-it",
         "brite-futures-sophisticated-side-ponytail"
@@ -11746,6 +11823,18 @@
       "Brian L. Perkins": [
         "ok-go-this-too-shall-pass",
         "ok-go-needing-getting"
+      ],
+      "Michael Martinez": [
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
+      ],
+      "Jon Dorfman": [
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
+      ],
+      "Szymon Weglarski": [
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
+      ],
+      "HiFi3D": [
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
       ],
       "We Buy Your Kids": [
         "paul-dempsey-bats"
@@ -12322,11 +12411,11 @@
     "tags": {
       "360": 1,
       "long take": 40,
-      "retro": 21,
+      "retro": 22,
       "confidence": 32,
       "pixilation": 8,
       "tableau": 24,
-      "space": 8,
+      "space": 10,
       "editing": 11,
       "guitar solo": 3,
       "cel animation": 18,
@@ -12344,7 +12433,7 @@
       "lasers": 5,
       "body-ody": 10,
       "womxn director": 51,
-      "wut": 15,
+      "wut": 17,
       "mirrors": 4,
       "legs": 2,
       "machine": 9,
@@ -12352,7 +12441,7 @@
       "birds": 5,
       "motorcycle": 1,
       "collage": 13,
-      "poc director": 55,
+      "poc director": 56,
       "stop motion": 20,
       "top 10": 10,
       "plane": 2,
@@ -12380,9 +12469,9 @@
       "splitscreen": 9,
       "treadmill/escalator": 6,
       "walk/run": 11,
-      "3D animation": 10,
+      "3D animation": 11,
       "water": 9,
-      "explosions": 6,
+      "explosions": 8,
       "fisheye": 1,
       "meta": 10,
       "sports": 3,
@@ -12432,6 +12521,7 @@
       "macro": 3,
       "dither": 1,
       "long exposure": 1,
+      "platform": 2,
       "drone": 4,
       "umbrella": 1,
       "bus": 1,
@@ -12552,6 +12642,7 @@
       "My Morning Jacket": 1,
       "BellX1": 1,
       "Goldfrapp": 1,
+      "UAF Nanook Hockey Open ‘07-’08": 1,
       "Thunderheist": 1,
       "Fleet Foxes": 3,
       "Brite Futures": 1,
@@ -12574,6 +12665,7 @@
       "Lady Gaga": 2,
       "The Presets": 1,
       "LCD Soundsystem": 1,
+      "UAF Nanook Hockey Open ‘09-’10": 1,
       "Paul Dempsey": 1,
       "Kumisolo": 1,
       "Sebastien Tellier": 1,
@@ -12836,6 +12928,7 @@
       "Joey Garfield": 1,
       "Melina": 1,
       "SSSR": 1,
+      "Mike Martinez": 1,
       "that go": 2,
       "Sean Pecknold": 4,
       "Jake Nava": 1,
@@ -12861,6 +12954,10 @@
       "Lee Lennox": 1,
       "Damian Kulash": 9,
       "Brian L. Perkins": 2,
+      "Michael Martinez": 1,
+      "Jon Dorfman": 1,
+      "Szymon Weglarski": 1,
+      "HiFi3D": 1,
       "We Buy Your Kids": 1,
       "Mighty Nice": 1,
       "Rhett Dashwood": 1,
