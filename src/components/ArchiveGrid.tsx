@@ -57,16 +57,11 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
 
   // #archive is its own scrollable container (position: fixed + overflow-y:
   // auto), not the window -- show a floating "scroll to top" once you've
-  // scrolled past ~3 viewport heights of it. Hidden again near the true
-  // bottom so it doesn't sit right on top of the in-flow button there.
+  // scrolled past ~3 viewport heights of it.
   useEffect(() => {
     const el = archiveRef.current;
     if (!el) return;
-    const onScroll = () => {
-      const pastThreshold = el.scrollTop > el.clientHeight * 3;
-      const nearBottom = el.scrollTop + el.clientHeight >= el.scrollHeight - 200;
-      setShowFloatingTop(pastThreshold && !nearBottom);
-    };
+    const onScroll = () => setShowFloatingTop(el.scrollTop > el.clientHeight * 3);
     el.addEventListener("scroll", onScroll);
     return () => el.removeEventListener("scroll", onScroll);
   }, []);
@@ -175,12 +170,6 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
               </div>
             ))}
           </div>
-          <button
-            className="arcToTop"
-            onClick={(e) => e.currentTarget.closest("#archive")?.scrollTo({ top: 0, behavior: "smooth" })}
-          >
-            ↑ Scroll to top
-          </button>
           <button
             className={`arcToTopFloat${showFloatingTop ? " show" : ""}`}
             onClick={() => archiveRef.current?.scrollTo({ top: 0, behavior: "smooth" })}
