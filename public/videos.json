@@ -5,7 +5,7 @@
     "totalVideos": 370,
     "totalArtists": 277,
     "totalDirectors": 318,
-    "totalTags": 125
+    "totalTags": 126
   },
   "videos": {
     "mette-van-gogh": {
@@ -4675,7 +4675,7 @@
       "tags": [
         "birds",
         "hair",
-        "lighting",
+        "lightning",
         "slowmo",
         "wut"
       ],
@@ -6858,7 +6858,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Q3oItpVa9fs/hqdefault.jpg",
       "tags": [
         "fluid dynamics",
-        "lighting",
+        "lightning",
         "macro",
         "poc director",
         "soundsync"
@@ -8458,6 +8458,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/hwnuRkZqApE/hqdefault.jpg",
       "tags": [
         "bike",
+        "lighting",
         "new york"
       ],
       "embedBroken": false
@@ -8624,7 +8625,7 @@
       "tags": [
         "3D animation",
         "explosions",
-        "lighting",
+        "lightning",
         "plane",
         "poc director",
         "space",
@@ -10275,15 +10276,10 @@
         "mette-van-gogh",
         "jungle-back-on-74"
       ],
-      "lighting": [
+      "lightning": [
         "thunderheist-jerk-it",
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
-        "lorde-tennis-court",
-        "nigel-stanford-cymatics",
-        "drake-hotline-bling",
-        "blonde-redhead-golden-light",
-        "janelle-mon-e-make-me-feel",
-        "fred-again-lil-yachty-and-overmono-stayinit"
+        "nigel-stanford-cymatics"
       ],
       "yuri norstein-esque": [
         "fleet-foxes-white-winter-hymnal",
@@ -10336,6 +10332,14 @@
       "ascii": [
         "beck-black-tambourine",
         "oneohtrix-point-never-d-i-s"
+      ],
+      "lighting": [
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "lorde-tennis-court",
+        "drake-hotline-bling",
+        "blonde-redhead-golden-light",
+        "janelle-mon-e-make-me-feel",
+        "fred-again-lil-yachty-and-overmono-stayinit"
       ],
       "marching band": [
         "ok-go-this-too-shall-pass",
@@ -12523,7 +12527,7 @@
       "keytar": 1,
       "d&ad": 4,
       "ukmva": 11,
-      "lighting": 8,
+      "lightning": 3,
       "yuri norstein-esque": 2,
       "zoetrope": 3,
       "fluid dynamics": 5,
@@ -12533,6 +12537,7 @@
       "interactive": 6,
       "crowdsource": 3,
       "ascii": 2,
+      "lighting": 6,
       "marching band": 2,
       "rube goldberg": 2,
       "match cut": 6,
