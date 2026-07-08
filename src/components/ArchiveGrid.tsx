@@ -57,11 +57,16 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
 
   // #archive is its own scrollable container (position: fixed + overflow-y:
   // auto), not the window -- show a floating "scroll to top" once you've
-  // scrolled past ~3 viewport heights of it.
+  // scrolled past ~3 viewport heights of it. Hidden again near the true
+  // bottom so it doesn't sit right on top of the in-flow button there.
   useEffect(() => {
     const el = archiveRef.current;
     if (!el) return;
-    const onScroll = () => setShowFloatingTop(el.scrollTop > el.clientHeight * 3);
+    const onScroll = () => {
+      const pastThreshold = el.scrollTop > el.clientHeight * 3;
+      const nearBottom = el.scrollTop + el.clientHeight >= el.scrollHeight - 200;
+      setShowFloatingTop(pastThreshold && !nearBottom);
+    };
     el.addEventListener("scroll", onScroll);
     return () => el.removeEventListener("scroll", onScroll);
   }, []);
@@ -182,7 +187,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
             aria-hidden={!showFloatingTop}
             tabIndex={showFloatingTop ? 0 : -1}
           >
-            ↑ Top
+            ↑ Scroll to top
           </button>
         </>
       )}
