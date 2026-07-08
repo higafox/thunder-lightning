@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 322,
-    "totalArtists": 238,
-    "totalDirectors": 275,
-    "totalTags": 119
+    "totalVideos": 360,
+    "totalArtists": 269,
+    "totalDirectors": 310,
+    "totalTags": 123
   },
   "videos": {
     "mette-van-gogh": {
@@ -59,6 +59,7 @@
         "dance",
         "editing",
         "joy",
+        "top 10",
         "ukmva",
         "womxn director"
       ],
@@ -132,7 +133,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/cl3B_FTDKD0/hqdefault.jpg",
       "tags": [
         "collage",
-        "stop motion"
+        "stop motion",
+        "top 10"
       ],
       "embedBroken": false
     },
@@ -180,7 +182,8 @@
         "dance",
         "flute",
         "kids",
-        "new york"
+        "new york",
+        "top 10"
       ],
       "embedBroken": false
     },
@@ -254,6 +257,7 @@
       "tags": [
         "interactive",
         "meta",
+        "top 10",
         "ukmva"
       ],
       "embedBroken": false
@@ -280,6 +284,7 @@
         "kaiju",
         "lasers",
         "space",
+        "top 10",
         "wut"
       ],
       "embedBroken": false
@@ -509,6 +514,7 @@
         "lofi brilliance",
         "mixed media",
         "puppets",
+        "top 10",
         "twinsies"
       ],
       "embedBroken": false
@@ -554,7 +560,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6oqXVx3sBOk/hqdefault.jpg",
       "tags": [
         "narrative",
-        "puppets"
+        "puppets",
+        "top 10"
       ],
       "embedBroken": false
     },
@@ -590,7 +597,8 @@
       "song": "Tonight Tonight",
       "director": "Jonathan Dayton & Valerie Farris",
       "directors": [
-        "Jonathan Dayton & Valerie Farris"
+        "Jonathan Dayton",
+        "Valerie Farris"
       ],
       "directorAffiliate": null,
       "dateDisplay": "May 1996",
@@ -624,7 +632,8 @@
       "vimeoId": "19846387",
       "thumbnailUrl": "https://img.youtube.com/vi/BUxdcwao0bE/hqdefault.jpg",
       "tags": [
-        "surreal"
+        "surreal",
+        "top 10"
       ],
       "embedBroken": false
     },
@@ -956,7 +965,9 @@
       "youtubeId": "r8ys3B2q_2k",
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/r8ys3B2q_2k/hqdefault.jpg",
-      "tags": [],
+      "tags": [
+        "illustration"
+      ],
       "embedBroken": false
     },
     "outkast-hey-ya": {
@@ -1269,6 +1280,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ux0ijnseN-Y/hqdefault.jpg",
       "tags": [
         "cel animation",
+        "dance",
+        "joy",
         "matchmove",
         "new york"
       ],
@@ -1899,7 +1912,8 @@
       "vimeoId": "277532502",
       "thumbnailUrl": "https://img.youtube.com/vi/diYAc7gB-0A/hqdefault.jpg",
       "tags": [
-        "confidence"
+        "confidence",
+        "lip sync"
       ],
       "embedBroken": false
     },
@@ -2181,7 +2195,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/_9L3j-lVLwk/hqdefault.jpg",
       "tags": [
         "kids",
-        "meta"
+        "meta",
+        "poc director"
       ],
       "embedBroken": false
     },
@@ -2202,6 +2217,7 @@
       "vimeoId": "1202127936",
       "thumbnailUrl": "https://img.youtube.com/vi/WKZXRgQ7_uw/hqdefault.jpg",
       "tags": [
+        "poc director",
         "surreal",
         "tableau"
       ],
@@ -3664,7 +3680,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/cl8ptneR1Kk/hqdefault.jpg",
       "tags": [
         "projection mapping",
-        "treadmill/escalator"
+        "treadmill/escalator",
+        "walk/run",
+        "water"
       ],
       "embedBroken": false
     },
@@ -3775,6 +3793,7 @@
         "abstract",
         "cel animation",
         "loops",
+        "poc director",
         "psychedelic"
       ],
       "embedBroken": false
@@ -3989,7 +4008,8 @@
       "thumbnailUrl": "https://vumbnail.com/23526690.jpg",
       "tags": [
         "editing",
-        "potential nsfw"
+        "potential nsfw",
+        "top 10"
       ],
       "embedBroken": true
     },
@@ -4278,7 +4298,8 @@
       "song": "Pressure",
       "director": "Julien Vallée & Eve Duhamel",
       "directors": [
-        "Julien Vallée & Eve Duhamel"
+        "Julien Vallée",
+        "Eve Duhamel"
       ],
       "directorAffiliate": null,
       "dateDisplay": "June 2017",
@@ -4291,7 +4312,8 @@
       "tags": [
         "loops",
         "surreal",
-        "tableau"
+        "tableau",
+        "zbig rybczynski"
       ],
       "embedBroken": false
     },
@@ -4612,7 +4634,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ReIwYj7BACM/hqdefault.jpg",
       "tags": [
         "interactive",
-        "meta"
+        "meta",
+        "top 10",
+        "walk/run"
       ],
       "embedBroken": false
     },
@@ -5837,7 +5861,8 @@
         "dance",
         "loops",
         "poc director",
-        "tableau"
+        "tableau",
+        "zbig rybczynski"
       ],
       "embedBroken": false
     },
@@ -5976,20 +6001,20 @@
       "id": "david-bowie-space-oddity",
       "artist": "David Bowie",
       "song": "Space Oddity",
-      "director": "Mick Rock",
+      "director": "Malcolm J. Thomson",
       "directors": [
-        "Mick Rock"
+        "Malcolm J. Thomson"
       ],
       "directorAffiliate": null,
-      "dateDisplay": "December 1972",
-      "sortDate": "1972-12-01",
-      "year": 1972,
+      "dateDisplay": "July 1969",
+      "sortDate": "1969-07-11",
+      "year": 1969,
       "provider": "youtube",
-      "youtubeId": "iYYRH4apXDo",
+      "youtubeId": "vIO_wiIxW60",
       "vimeoId": null,
-      "thumbnailUrl": "https://img.youtube.com/vi/iYYRH4apXDo/hqdefault.jpg",
+      "thumbnailUrl": "https://img.youtube.com/vi/vIO_wiIxW60/hqdefault.jpg",
       "tags": [
-        "lighting"
+        "space"
       ],
       "embedBroken": false
     },
@@ -6510,9 +6535,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/GrC_yuzO-Ss/hqdefault.jpg",
       "tags": [
         "gothy",
-        "ice skates",
         "monochrome",
         "psychedelic",
+        "skates",
         "wut"
       ],
       "embedBroken": false
@@ -6905,6 +6930,7 @@
       "tags": [
         "glitch",
         "matchmove",
+        "poc director",
         "surveillance",
         "vfx"
       ],
@@ -6927,10 +6953,10 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/OMLgliKYqaI/hqdefault.jpg",
       "tags": [
-        "interactive",
         "soundsync",
         "twinsies",
-        "vfx"
+        "vfx",
+        "vr"
       ],
       "embedBroken": false
     },
@@ -6978,9 +7004,9 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/WfBlUQguvyw/hqdefault.jpg",
       "tags": [
-        "crowd",
-        "interactive",
+        "crowdsource",
         "lofi brilliance",
+        "poc director",
         "splitscreen"
       ],
       "embedBroken": false
@@ -7243,6 +7269,7 @@
       "tags": [
         "3D animation",
         "abstract",
+        "poc director",
         "soundsync"
       ],
       "embedBroken": false
@@ -7452,7 +7479,889 @@
       "thumbnailUrl": "https://img.youtube.com/vi/NQ8xD6FVic8/hqdefault.jpg",
       "tags": [
         "long take",
-        "loops"
+        "loops",
+        "zbig rybczynski"
+      ],
+      "embedBroken": false
+    },
+    "beyonc-countdown": {
+      "id": "beyonc-countdown",
+      "artist": "Beyoncé",
+      "song": "Countdown",
+      "director": "Adria Petty, Beyoncé",
+      "directors": [
+        "Adria Petty",
+        "Beyoncé"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2011",
+      "sortDate": "2011-10-06",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "2XY3AvVgDns",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/2XY3AvVgDns/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "editing",
+        "poc director",
+        "retro",
+        "splitscreen",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "foster-the-people-houdini": {
+      "id": "foster-the-people-houdini",
+      "artist": "Foster The People",
+      "song": "Houdini",
+      "director": "Daniels",
+      "directors": [
+        "Daniels"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2012",
+      "sortDate": "2012-04-26",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "_GMQLjzVGfw",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/_GMQLjzVGfw/hqdefault.jpg",
+      "tags": [
+        "machine",
+        "surreal",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "duck-sauce-big-bad-wolf": {
+      "id": "duck-sauce-big-bad-wolf",
+      "artist": "Duck Sauce",
+      "song": "Big Bad Wolf",
+      "director": "Keith Schofield",
+      "directors": [
+        "Keith Schofield"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2011",
+      "sortDate": "2011-10-24",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "XKMoVAObbhE",
+      "vimeoId": "31087437",
+      "thumbnailUrl": "https://img.youtube.com/vi/XKMoVAObbhE/hqdefault.jpg",
+      "tags": [
+        "d&ad",
+        "dance",
+        "potential nsfw",
+        "vfx",
+        "wut"
+      ],
+      "embedBroken": false
+    },
+    "woodkid-iron": {
+      "id": "woodkid-iron",
+      "artist": "Woodkid",
+      "song": "Iron",
+      "director": "Yoann Lemoine",
+      "directors": [
+        "Yoann Lemoine"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2011",
+      "sortDate": "2011-03-28",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "vSkb0kDacjs",
+      "vimeoId": "21604065",
+      "thumbnailUrl": "https://img.youtube.com/vi/vSkb0kDacjs/hqdefault.jpg",
+      "tags": [
+        "birds",
+        "dogs",
+        "explosions",
+        "horses",
+        "monochrome",
+        "slowmo",
+        "tableau"
+      ],
+      "embedBroken": false
+    },
+    "vince-staples-fun": {
+      "id": "vince-staples-fun",
+      "artist": "Vince Staples",
+      "song": "FUN!",
+      "director": "Calmatic",
+      "directors": [
+        "Calmatic"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "November 2018",
+      "sortDate": "2018-11-01",
+      "year": 2018,
+      "provider": "youtube",
+      "youtubeId": "vz9-pXuvFEU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/vz9-pXuvFEU/hqdefault.jpg",
+      "tags": [
+        "meta",
+        "poc director",
+        "surveillance"
+      ],
+      "embedBroken": false
+    },
+    "kiesza-hideaway": {
+      "id": "kiesza-hideaway",
+      "artist": "Kiesza",
+      "song": "Hideaway",
+      "director": "Kiesza, Ljuba Castot, Rami Samir Afuni",
+      "directors": [
+        "Kiesza",
+        "Ljuba Castot",
+        "Rami Samir Afuni"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "February 2014",
+      "sortDate": "2014-02-12",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "ESXgJ9-H-2U",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/ESXgJ9-H-2U/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "dance",
+        "long take",
+        "new york",
+        "ukmva"
+      ],
+      "embedBroken": false
+    },
+    "kwes-rollerblades": {
+      "id": "kwes-rollerblades",
+      "artist": "kwes.",
+      "song": "rollerblades",
+      "director": "Ian Pons Jewell",
+      "directors": [
+        "Ian Pons Jewell"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2014",
+      "sortDate": "2014-01-22",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "eNGrSAfW62E",
+      "vimeoId": "84815680",
+      "thumbnailUrl": "https://img.youtube.com/vi/eNGrSAfW62E/hqdefault.jpg",
+      "tags": [
+        "skates",
+        "slowmo"
+      ],
+      "embedBroken": false
+    },
+    "gerard-way-millions": {
+      "id": "gerard-way-millions",
+      "artist": "Gerard Way",
+      "song": "Millions",
+      "director": "Jennifer Juniper Stratford",
+      "directors": [
+        "Jennifer Juniper Stratford"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2014",
+      "sortDate": "2014-10-06",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "aZcB9maO1-E",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/aZcB9maO1-E/hqdefault.jpg",
+      "tags": [
+        "chronophotography",
+        "retro",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "gesaffelstein-pursuit": {
+      "id": "gesaffelstein-pursuit",
+      "artist": "Gesaffelstein",
+      "song": "Pursuit",
+      "director": "",
+      "directors": [],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2013",
+      "sortDate": "2013-06-17",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "yB8Ci7X5HUU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/yB8Ci7X5HUU/hqdefault.jpg",
+      "tags": [
+        "long take",
+        "potential nsfw"
+      ],
+      "embedBroken": false
+    },
+    "wolf-alice-bloom-baby-bloom": {
+      "id": "wolf-alice-bloom-baby-bloom",
+      "artist": "Wolf Alice",
+      "song": "Bloom Baby Bloom",
+      "director": "Colin Solal Cardo",
+      "directors": [
+        "Colin Solal Cardo"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2025",
+      "sortDate": "2025-05-16",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "lBGcloF8LIY",
+      "vimeoId": "1095698002",
+      "thumbnailUrl": "https://img.youtube.com/vi/lBGcloF8LIY/hqdefault.jpg",
+      "tags": [
+        "crowd",
+        "dance"
+      ],
+      "embedBroken": false
+    },
+    "goose-british-mode": {
+      "id": "goose-british-mode",
+      "artist": "Goose",
+      "song": "British Mode",
+      "director": "Keith Schofield",
+      "directors": [
+        "Keith Schofield"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2006",
+      "sortDate": "2006-06-01",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "I0eMErWfA-k",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/I0eMErWfA-k/hqdefault.jpg",
+      "tags": [
+        "slitscan"
+      ],
+      "embedBroken": false
+    },
+    "sia-chandelier": {
+      "id": "sia-chandelier",
+      "artist": "Sia",
+      "song": "Chandelier",
+      "director": "Sia, Daniel Askill",
+      "directors": [
+        "Sia",
+        "Daniel Askill"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2014",
+      "sortDate": "2014-05-06",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "2vjPBrBU-TM",
+      "vimeoId": "95363505",
+      "thumbnailUrl": "https://img.youtube.com/vi/2vjPBrBU-TM/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "kids",
+        "long take",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "the-shoes-drifted": {
+      "id": "the-shoes-drifted",
+      "artist": "The Shoes",
+      "song": "Drifted",
+      "director": "Dent de Cuir",
+      "directors": [
+        "Dent de Cuir"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "September 2015",
+      "sortDate": "2015-09-15",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "hLy4zvz_xZ0",
+      "vimeoId": "139624203",
+      "thumbnailUrl": "https://img.youtube.com/vi/hLy4zvz_xZ0/hqdefault.jpg",
+      "tags": [
+        "collage",
+        "meta",
+        "potential nsfw",
+        "wut"
+      ],
+      "embedBroken": false
+    },
+    "donnie-trumpet-the-social-experiment-sunday-candy": {
+      "id": "donnie-trumpet-the-social-experiment-sunday-candy",
+      "artist": "Donnie Trumpet & The Social Experiment",
+      "song": "Sunday Candy",
+      "director": "Austin Vesely",
+      "directors": [
+        "Austin Vesely"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2015",
+      "sortDate": "2015-04-12",
+      "year": 2015,
+      "provider": "youtube",
+      "youtubeId": "i4ooH8frBWg",
+      "vimeoId": "124663811",
+      "thumbnailUrl": "https://img.youtube.com/vi/i4ooH8frBWg/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "long take",
+        "retro"
+      ],
+      "embedBroken": false
+    },
+    "michael-kiwanuka-black-man-in-a-white-world": {
+      "id": "michael-kiwanuka-black-man-in-a-white-world",
+      "artist": "Michael Kiwanuka",
+      "song": "Black Man In A White World",
+      "director": "Hiro Murai",
+      "directors": [
+        "Hiro Murai"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2016",
+      "sortDate": "2016-03-29",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "-TYlcVNI2AM",
+      "vimeoId": "163118371",
+      "thumbnailUrl": "https://img.youtube.com/vi/-TYlcVNI2AM/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "monochrome",
+        "poc director",
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "leon-bridges-river": {
+      "id": "leon-bridges-river",
+      "artist": "Leon Bridges",
+      "song": "River",
+      "director": "Miles Jay",
+      "directors": [
+        "Miles Jay"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "February 2016",
+      "sortDate": "2016-02-01",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "0Hegd4xNfRo",
+      "vimeoId": "152895814",
+      "thumbnailUrl": "https://img.youtube.com/vi/0Hegd4xNfRo/hqdefault.jpg",
+      "tags": [
+        "narrative"
+      ],
+      "embedBroken": false
+    },
+    "vince-staples-lift-me-up": {
+      "id": "vince-staples-lift-me-up",
+      "artist": "Vince Staples",
+      "song": "Lift Me Up",
+      "director": "David M. Helman",
+      "directors": [
+        "David M. Helman"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2016",
+      "sortDate": "2016-01-29",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "bn15IvVrprw",
+      "vimeoId": "153476616",
+      "thumbnailUrl": "https://img.youtube.com/vi/bn15IvVrprw/hqdefault.jpg",
+      "tags": [
+        "california",
+        "surreal",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "lany-thick-and-thin": {
+      "id": "lany-thick-and-thin",
+      "artist": "LANY",
+      "song": "Thick And Thin",
+      "director": "Isaac Ravishankara",
+      "directors": [
+        "Isaac Ravishankara"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "February 2019",
+      "sortDate": "2019-02-04",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "ZpUxgAXCK2E",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/ZpUxgAXCK2E/hqdefault.jpg",
+      "tags": [
+        "california",
+        "dance",
+        "long take",
+        "poc director"
+      ],
+      "embedBroken": true
+    },
+    "mashrou-leila-roman": {
+      "id": "mashrou-leila-roman",
+      "artist": "Mashrou Leila",
+      "song": "Roman",
+      "director": "Jessy Mousallem",
+      "directors": [
+        "Jessy Mousallem"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2017",
+      "sortDate": "2017-07-18",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "NF__cpsDmZk",
+      "vimeoId": "226458557",
+      "thumbnailUrl": "https://img.youtube.com/vi/NF__cpsDmZk/hqdefault.jpg",
+      "tags": [
+        "architecture",
+        "crowd",
+        "dance",
+        "horses",
+        "poc director",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "sylvan-esso-kick-jump-twist": {
+      "id": "sylvan-esso-kick-jump-twist",
+      "artist": "Sylvan Esso",
+      "song": "Kick Jump Twist",
+      "director": "Mimi Cave",
+      "directors": [
+        "Mimi Cave"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2017",
+      "sortDate": "2017-01-24",
+      "year": 2017,
+      "provider": "youtube",
+      "youtubeId": "_wyijgutlSM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/_wyijgutlSM/hqdefault.jpg",
+      "tags": [
+        "dance",
+        "slowmo",
+        "whip pan",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "serge-gainsbourg-brigitte-bardot-comic-strip": {
+      "id": "serge-gainsbourg-brigitte-bardot-comic-strip",
+      "artist": "Serge Gainsbourg & Brigitte Bardot",
+      "song": "Comic Strip",
+      "director": "François Reichenbach",
+      "directors": [
+        "François Reichenbach"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1968",
+      "sortDate": "1968-01-01",
+      "year": 1968,
+      "provider": "youtube",
+      "youtubeId": "22Uf4-khGAk",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/22Uf4-khGAk/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "pixilation",
+        "retro",
+        "tableau"
+      ],
+      "embedBroken": false
+    },
+    "the-pointer-sisters-pinball-animation-countdown": {
+      "id": "the-pointer-sisters-pinball-animation-countdown",
+      "artist": "The Pointer Sisters",
+      "song": "Pinball Animation Countdown",
+      "director": "Jeff Hale",
+      "directors": [
+        "Jeff Hale"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1977",
+      "sortDate": "1977-01-01",
+      "year": 1977,
+      "provider": "youtube",
+      "youtubeId": "mTr_HS_O4Ek",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/mTr_HS_O4Ek/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "illustration",
+        "marbles",
+        "retro"
+      ],
+      "embedBroken": false
+    },
+    "david-bowie-im-afraid-of-americans": {
+      "id": "david-bowie-im-afraid-of-americans",
+      "artist": "David Bowie",
+      "song": "I'm Afraid of Americans",
+      "director": "Dom & Nic",
+      "directors": [
+        "Dom & Nic"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1997",
+      "sortDate": "1997-01-01",
+      "year": 1997,
+      "provider": "youtube",
+      "youtubeId": "LT3cERVRoQo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/LT3cERVRoQo/hqdefault.jpg",
+      "tags": [
+        "new york",
+        "slowmo",
+        "surreal",
+        "walk/run"
+      ],
+      "embedBroken": false
+    },
+    "kate-bush-hammer-horror": {
+      "id": "kate-bush-hammer-horror",
+      "artist": "Kate Bush",
+      "song": "Hammer Horror",
+      "director": "Keith MacMillan",
+      "directors": [
+        "Keith MacMillan"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1978",
+      "sortDate": "1978-01-01",
+      "year": 1978,
+      "provider": "youtube",
+      "youtubeId": "XR4KnfcgLm0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/XR4KnfcgLm0/hqdefault.jpg",
+      "tags": [
+        "chronophotography",
+        "dance",
+        "gothy",
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "elvis-costello-the-attractions-pump-it-up": {
+      "id": "elvis-costello-the-attractions-pump-it-up",
+      "artist": "Elvis Costello & The Attractions",
+      "song": "Pump It Up",
+      "director": "Paul Flattery",
+      "directors": [
+        "Paul Flattery"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 1978",
+      "sortDate": "1978-04-28",
+      "year": 1978,
+      "provider": "youtube",
+      "youtubeId": "3Y71iDvCYXA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/3Y71iDvCYXA/hqdefault.jpg",
+      "tags": [
+        "confidence"
+      ],
+      "embedBroken": false
+    },
+    "pink-floyd-money": {
+      "id": "pink-floyd-money",
+      "artist": "Pink Floyd",
+      "song": "Money",
+      "director": "Wayne Isham",
+      "directors": [
+        "Wayne Isham"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 1973",
+      "sortDate": "1973-05-01",
+      "year": 1973,
+      "provider": "youtube",
+      "youtubeId": "-0kcet4aPpQ",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/-0kcet4aPpQ/hqdefault.jpg",
+      "tags": [
+        "editing"
+      ],
+      "embedBroken": false
+    },
+    "pink-floyd-welcome-to-the-machine": {
+      "id": "pink-floyd-welcome-to-the-machine",
+      "artist": "Pink Floyd",
+      "song": "Welcome to the Machine",
+      "director": "Justin Daashuur Hopkins",
+      "directors": [
+        "Justin Daashuur Hopkins"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2026",
+      "sortDate": "2026-01-01",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "Jh20cMEgvqc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Jh20cMEgvqc/hqdefault.jpg",
+      "tags": [
+        "landscape"
+      ],
+      "embedBroken": false
+    },
+    "pink-floyd-another-brick-in-the-wall-part-two": {
+      "id": "pink-floyd-another-brick-in-the-wall-part-two",
+      "artist": "Pink Floyd",
+      "song": "Another Brick In The Wall, Part Two",
+      "director": "Sir Alan Parker",
+      "directors": [
+        "Sir Alan Parker"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1979",
+      "sortDate": "1979-01-01",
+      "year": 1979,
+      "provider": "youtube",
+      "youtubeId": "HrxX9TBj2zY",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/HrxX9TBj2zY/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "kids"
+      ],
+      "embedBroken": false
+    },
+    "pink-floyd-high-hopes": {
+      "id": "pink-floyd-high-hopes",
+      "artist": "Pink Floyd",
+      "song": "High Hopes",
+      "director": "Storm Thorgerson",
+      "directors": [
+        "Storm Thorgerson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1994",
+      "sortDate": "1994-01-01",
+      "year": 1994,
+      "provider": "youtube",
+      "youtubeId": "7jMlFXouPk8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/7jMlFXouPk8/hqdefault.jpg",
+      "tags": [
+        "landscape",
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "gary-numan-cars": {
+      "id": "gary-numan-cars",
+      "artist": "Gary Numan",
+      "song": "Cars",
+      "director": "Derek Burbidge",
+      "directors": [
+        "Derek Burbidge"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1979",
+      "sortDate": "1979-01-01",
+      "year": 1979,
+      "provider": "youtube",
+      "youtubeId": "Im3JzxlatUs",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/Im3JzxlatUs/hqdefault.jpg",
+      "tags": [
+        "confidence",
+        "kaleidoscope"
+      ],
+      "embedBroken": false
+    },
+    "meat-loaf-id-do-anything-for-love-but-i-wont-do-that": {
+      "id": "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
+      "artist": "Meat Loaf",
+      "song": "I'd Do Anything for Love (But I Won't Do That)",
+      "director": "Michael Bay",
+      "directors": [
+        "Michael Bay"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1993",
+      "sortDate": "1993-01-01",
+      "year": 1993,
+      "provider": "youtube",
+      "youtubeId": "9X_ViIPA-Gc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9X_ViIPA-Gc/hqdefault.jpg",
+      "tags": [
+        "gothy",
+        "narrative",
+        "vfx",
+        "wut"
+      ],
+      "embedBroken": false
+    },
+    "orchestral-manoeuvres-in-the-dark-enola-gay": {
+      "id": "orchestral-manoeuvres-in-the-dark-enola-gay",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "song": "Enola Gay",
+      "director": "Steve Barron",
+      "directors": [
+        "Steve Barron"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1980",
+      "sortDate": "1980-01-01",
+      "year": 1980,
+      "provider": "youtube",
+      "youtubeId": "d5XJ2GiR6Bo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/d5XJ2GiR6Bo/hqdefault.jpg",
+      "tags": [
+        "greenscreen",
+        "retro"
+      ],
+      "embedBroken": false
+    },
+    "olivia-newton-john-physical": {
+      "id": "olivia-newton-john-physical",
+      "artist": "Olivia Newton-John",
+      "song": "Physical",
+      "director": "Brian Grant",
+      "directors": [
+        "Brian Grant"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1981",
+      "sortDate": "1981-01-01",
+      "year": 1981,
+      "provider": "youtube",
+      "youtubeId": "vWz9VN40nCA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/vWz9VN40nCA/hqdefault.jpg",
+      "tags": [
+        "body-ody",
+        "dance",
+        "retro"
+      ],
+      "embedBroken": false
+    },
+    "a-flock-of-seagulls-i-ran": {
+      "id": "a-flock-of-seagulls-i-ran",
+      "artist": "A Flock Of Seagulls",
+      "song": "I Ran",
+      "director": "Tony van den Ende",
+      "directors": [
+        "Tony van den Ende"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1982",
+      "sortDate": "1982-01-01",
+      "year": 1982,
+      "provider": "youtube",
+      "youtubeId": "iIpfWORQWhU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/iIpfWORQWhU/hqdefault.jpg",
+      "tags": [
+        "kaleidoscope",
+        "mirrors",
+        "retro",
+        "wut"
+      ],
+      "embedBroken": false
+    },
+    "irene-cara-flashdance-what-a-feeling": {
+      "id": "irene-cara-flashdance-what-a-feeling",
+      "artist": "Irene Cara",
+      "song": "Flashdance (What A Feeling)",
+      "director": "Adrian Lyne",
+      "directors": [
+        "Adrian Lyne"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1983",
+      "sortDate": "1983-01-01",
+      "year": 1983,
+      "provider": "youtube",
+      "youtubeId": "ILWSp0m9G2U",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/ILWSp0m9G2U/hqdefault.jpg",
+      "tags": [
+        "dance"
+      ],
+      "embedBroken": false
+    },
+    "selena-bidi-bidi-bom-bom": {
+      "id": "selena-bidi-bidi-bom-bom",
+      "artist": "Selena",
+      "song": "Bidi Bidi Bom Bom",
+      "director": "Cecilia Miniucchi",
+      "directors": [
+        "Cecilia Miniucchi"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1993",
+      "sortDate": "1993-01-01",
+      "year": 1993,
+      "provider": "youtube",
+      "youtubeId": "RKGbjJarMeA",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/RKGbjJarMeA/hqdefault.jpg",
+      "tags": [
+        "california",
+        "joy",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "the-cure-boys-dont-cry": {
+      "id": "the-cure-boys-dont-cry",
+      "artist": "The Cure",
+      "song": "Boys Don't Cry",
+      "director": "Tim Pope",
+      "directors": [
+        "Tim Pope"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1986",
+      "sortDate": "1986-01-01",
+      "year": 1986,
+      "provider": "youtube",
+      "youtubeId": "9GkVhgIeGJQ",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/9GkVhgIeGJQ/hqdefault.jpg",
+      "tags": [
+        "gothy",
+        "kids"
+      ],
+      "embedBroken": false
+    },
+    "when-in-rome-the-promise": {
+      "id": "when-in-rome-the-promise",
+      "artist": "When In Rome",
+      "song": "The Promise",
+      "director": "uncredited",
+      "directors": [
+        "uncredited"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1988",
+      "sortDate": "1988-01-01",
+      "year": 1988,
+      "provider": "youtube",
+      "youtubeId": "5HI_xFQWiYU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/5HI_xFQWiYU/hqdefault.jpg",
+      "tags": [
+        "tracking shot"
       ],
       "embedBroken": false
     }
@@ -7460,14 +8369,25 @@
   "playlists": {
     "timeline": [
       "bob-dylan-subterranean-homesick-blues",
+      "serge-gainsbourg-brigitte-bardot-comic-strip",
       "david-bowie-space-oddity",
+      "pink-floyd-money",
       "queen-bohemian-rhapsody",
+      "the-pointer-sisters-pinball-animation-countdown",
+      "kate-bush-hammer-horror",
+      "elvis-costello-the-attractions-pump-it-up",
+      "gary-numan-cars",
+      "pink-floyd-another-brick-in-the-wall-part-two",
       "prince-i-wanna-be-your-lover",
       "michael-jackson-dont-stop-til-you-get-enough",
       "michael-jackson-rock-with-you",
+      "orchestral-manoeuvres-in-the-dark-enola-gay",
       "devo-whip-it",
+      "olivia-newton-john-physical",
       "talking-heads-once-in-a-lifetime",
+      "a-flock-of-seagulls-i-ran",
       "prince-1999",
+      "irene-cara-flashdance-what-a-feeling",
       "michael-jackson-billie-jean",
       "herbie-hancock-rockit",
       "madonna-holiday",
@@ -7477,11 +8397,13 @@
       "prince-and-the-revolution-raspberry-beret",
       "robert-palmer-addicted-to-love",
       "talking-heads-and-she-was",
+      "the-cure-boys-dont-cry",
       "prince-and-the-revolution-kiss",
       "harold-faltermeyer-steve-stevens-top-gun-anthem",
       "janet-jackson-nasty",
       "peter-gabriel-sledgehammer",
       "madonna-papa-dont-preach",
+      "when-in-rome-the-promise",
       "michael-jackson-smooth-criminal",
       "madonna-like-a-prayer",
       "paula-abdul-cold-hearted",
@@ -7493,8 +8415,11 @@
       "madonna-justify-my-love",
       "prince-the-new-power-generation-cream",
       "r-e-m-losing-my-religion",
+      "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
+      "selena-bidi-bidi-bom-bom",
       "janet-jackson-thats-the-way-love-goes",
       "depeche-mode-walking-in-my-shoes",
+      "pink-floyd-high-hopes",
       "nine-inch-nails-closer",
       "soundgarden-black-hole-sun",
       "lisa-loeb-stay-i-missed-you",
@@ -7512,6 +8437,7 @@
       "smashing-pumpkins-tonight-tonight",
       "jamiroquai-virtual-insanity",
       "marilyn-manson-the-beautiful-people",
+      "david-bowie-im-afraid-of-americans",
       "missy-elliott-da-brat-sock-it-2-me",
       "radiohead-no-surprises",
       "radiohead-karma-police",
@@ -7562,6 +8488,7 @@
       "the-rapture-whoo-alright-yeah-uh-huh",
       "vitalic-poney-part-1-birds",
       "gnarls-barkley-crazy",
+      "goose-british-mode",
       "muse-knights-of-cydonia",
       "ok-go-here-it-goes-again",
       "the-horrors-sheena-is-a-parasite",
@@ -7625,6 +8552,7 @@
       "michael-langan-dahlia",
       "memory-tapes-yes-i-know",
       "tune-yards-bizness",
+      "woodkid-iron",
       "huma-huma-hello-i-like-you",
       "son-of-kick-playing-the-villain",
       "danger-beach-apache",
@@ -7635,8 +8563,10 @@
       "ok-go-all-is-not-lost",
       "apparat-granular-bastard",
       "battles-my-machines",
+      "beyonc-countdown",
       "casey-veggies-euphoria-ii",
       "we-cut-corners-pirates-life",
+      "duck-sauce-big-bad-wolf",
       "friendly-fires-hurting",
       "marian-ruzzi-y-sr-amable-una-pieza-mas",
       "fleet-foxes-the-shrine-an-argument",
@@ -7645,6 +8575,7 @@
       "m-i-a-bad-girls",
       "ok-go-needing-getting",
       "the-shins-simple-song",
+      "foster-the-people-houdini",
       "royksopp-so-easy-unofficial-video",
       "willow-sweater",
       "psy-gangnam-style",
@@ -7656,18 +8587,23 @@
       "light-light-kilo-do-not-touch",
       "karl-westman-ibm-research-a-boy-and-his-atom",
       "y-n-richkids-my-bike",
+      "gesaffelstein-pursuit",
       "vial-of-sound-a-lifetime-passed",
       "lorde-tennis-court",
       "arcade-fire-reflektor",
       "boozoo-bajou-jan-mayen",
       "de-staat-witch-doctor",
+      "kwes-rollerblades",
       "metronomy-love-letters",
+      "kiesza-hideaway",
       "dj-snake-lil-jon-turn-down-for-what",
+      "sia-chandelier",
       "hundred-waters-cavity",
       "plurabelle-our-fires",
       "ok-go-the-writings-on-the-wall",
       "self-runaway",
       "sarh-u-and-i",
+      "gerard-way-millions",
       "ok-go-i-wont-let-you-down",
       "nigel-stanford-cymatics",
       "panda-bear-boys-latin",
@@ -7677,11 +8613,13 @@
       "a-love-like-pi-jack-and-the-giant",
       "20syl-back-forth",
       "alb-the-road",
+      "donnie-trumpet-the-social-experiment-sunday-candy",
       "hook-n-sling-feat-far-east-movement-break-yourself",
       "son-lux-change-is-everything",
       "gilligan-moss-choreograph",
       "jr-jr-gone",
       "battles-the-yabba",
+      "the-shoes-drifted",
       "de-jeugd-van-tegenwoordig-manon",
       "drake-hotline-bling",
       "beatsofreen-slowly-rising",
@@ -7695,11 +8633,14 @@
       "hi-rophante-clich-s",
       "miike-snow-genghis-khan",
       "massive-attack-take-it-there",
+      "vince-staples-lift-me-up",
+      "leon-bridges-river",
       "beyonc-formation",
       "mount-moriah-precita",
       "vessels-4am",
       "wintergatan-marble-machine",
       "charles-x-can-you-do-it",
+      "michael-kiwanuka-black-man-in-a-white-world",
       "andy-shauf-the-worst-in-you",
       "reeps-one-does-not-exist",
       "no-te-va-gustar-la-puerta-de-atras",
@@ -7715,11 +8656,13 @@
       "jmii-bailar",
       "young-thug-wyclef-jean",
       "bonobo-no-reason",
+      "sylvan-esso-kick-jump-twist",
       "kendrick-lamar-humble",
       "polo-pan-coeur-crois",
       "clark-peak-magnetic",
       "milk-bone-pressure",
       "washed-out-floating-by",
+      "mashrou-leila-roman",
       "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
       "5nizza-samoliot",
       "so-much-light-full-body-mirror",
@@ -7736,7 +8679,9 @@
       "the-peach-kings-dirty-secret",
       "the-carters-apeshit",
       "bas-ft-correy-c-fragrance",
+      "vince-staples-fun",
       "mitski-a-pearl",
+      "lany-thick-and-thin",
       "the-chemical-brothers-weve-got-to-try",
       "weval-someday",
       "thom-yorke-anima",
@@ -7773,8 +8718,10 @@
       "lady-gaga-abracadabra",
       "doechii-anxiety",
       "ok-go-love",
+      "wolf-alice-bloom-baby-bloom",
       "chappell-roan-the-subway",
       "oneohtrix-point-never-d-i-s",
+      "pink-floyd-welcome-to-the-machine",
       "daft-punk-human-after-all",
       "mette-coming-of-age",
       "gener8ion-yung-lean-storm",
@@ -7805,11 +8752,15 @@
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-white-knuckles",
         "battles-my-machines",
+        "gesaffelstein-pursuit",
         "lorde-tennis-court",
         "de-staat-witch-doctor",
+        "kiesza-hideaway",
+        "sia-chandelier",
         "ok-go-the-writings-on-the-wall",
         "ok-go-i-wont-let-you-down",
         "alt-j-pusher",
+        "donnie-trumpet-the-social-experiment-sunday-candy",
         "hook-n-sling-feat-far-east-movement-break-yourself",
         "gilligan-moss-choreograph",
         "ok-go-upside-down-inside-out",
@@ -7818,6 +8769,7 @@
         "ok-go-the-one-moment",
         "bonobo-no-reason",
         "childish-gambino-this-is-america",
+        "lany-thick-and-thin",
         "los-misterios-m-talos-y-vuelve",
         "jungle-back-on-74",
         "mette-bet",
@@ -7825,7 +8777,12 @@
       ],
       "retro": [
         "bob-dylan-subterranean-homesick-blues",
+        "serge-gainsbourg-brigitte-bardot-comic-strip",
+        "the-pointer-sisters-pinball-animation-countdown",
+        "orchestral-manoeuvres-in-the-dark-enola-gay",
         "devo-whip-it",
+        "olivia-newton-john-physical",
+        "a-flock-of-seagulls-i-ran",
         "madonna-material-girl",
         "smashing-pumpkins-tonight-tonight",
         "daft-punk-around-the-world",
@@ -7835,20 +8792,16 @@
         "peter-bjorn-and-john-young-folks",
         "muse-knights-of-cydonia",
         "snoop-dogg-sensual-seduction",
+        "beyonc-countdown",
+        "gerard-way-millions",
+        "donnie-trumpet-the-social-experiment-sunday-candy",
         "miike-snow-genghis-khan"
       ],
-      "lighting": [
-        "david-bowie-space-oddity",
-        "thunderheist-jerk-it",
-        "lorde-tennis-court",
-        "nigel-stanford-cymatics",
-        "drake-hotline-bling",
-        "blonde-redhead-golden-light",
-        "janelle-mon-e-make-me-feel",
-        "fred-again-lil-yachty-and-overmono-stayinit"
-      ],
       "confidence": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip",
         "queen-bohemian-rhapsody",
+        "elvis-costello-the-attractions-pump-it-up",
+        "gary-numan-cars",
         "prince-i-wanna-be-your-lover",
         "prince-1999",
         "robert-palmer-addicted-to-love",
@@ -7878,21 +8831,124 @@
         "jungle-back-on-74",
         "chappell-roan-super-graphic-ultra-modern-girl"
       ],
+      "pixilation": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip",
+        "peter-gabriel-sledgehammer",
+        "the-white-stripes-the-hardest-button-to-button",
+        "dick-annegarn-soleil-du-soir",
+        "grizzly-bear-while-you-wait-for-the-others",
+        "ok-go-end-love",
+        "tune-yards-bizness",
+        "ok-go-obsession"
+      ],
+      "tableau": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip",
+        "robert-palmer-addicted-to-love",
+        "r-e-m-losing-my-religion",
+        "soundgarden-black-hole-sun",
+        "yuki-sentimental-journey",
+        "grizzly-bear-knife",
+        "lady-gaga-bad-romance",
+        "scissor-sisters-invisible-light",
+        "woodkid-iron",
+        "beyonc-formation",
+        "blonde-redhead-golden-light",
+        "kendrick-lamar-humble",
+        "polo-pan-coeur-crois",
+        "milk-bone-pressure",
+        "5nizza-samoliot",
+        "so-much-light-full-body-mirror",
+        "janelle-mon-e-make-me-feel",
+        "janelle-mon-e-pynk",
+        "janelle-mon-e-i-like-that",
+        "the-carters-apeshit",
+        "paul-kalkbrenner-schwer",
+        "kendrick-lamar-squabble-up",
+        "doechii-anxiety",
+        "balming-tiger-oui"
+      ],
+      "space": [
+        "david-bowie-space-oddity",
+        "missy-elliott-da-brat-sock-it-2-me",
+        "daft-punk-one-more-time",
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "muse-knights-of-cydonia",
+        "apparat-granular-bastard",
+        "vessels-4am",
+        "the-chemical-brothers-weve-got-to-try"
+      ],
+      "editing": [
+        "pink-floyd-money",
+        "el-guincho-bombay",
+        "scissor-sisters-invisible-light",
+        "michael-langan-dahlia",
+        "battles-ice-cream",
+        "beyonc-countdown",
+        "psy-gangnam-style",
+        "battles-the-yabba",
+        "bonobo-kerala",
+        "mette-mamas-eyes",
+        "mette-van-gogh"
+      ],
       "guitar solo": [
         "queen-bohemian-rhapsody",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "the-darkness-i-believe-in-a-thing-called-love"
       ],
-      "hair": [
-        "prince-i-wanna-be-your-lover",
-        "harold-faltermeyer-steve-stevens-top-gun-anthem",
-        "vitalic-poney-part-1-birds",
-        "thunderheist-jerk-it",
-        "chappell-roan-the-subway"
+      "cel animation": [
+        "the-pointer-sisters-pinball-animation-countdown",
+        "pink-floyd-another-brick-in-the-wall-part-two",
+        "prince-and-the-revolution-raspberry-beret",
+        "daft-punk-one-more-time",
+        "the-rapture-whoo-alright-yeah-uh-huh",
+        "bellx1-rocky-took-a-lover",
+        "sebastien-tellier-look",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "blockhead-the-music-scene",
+        "we-cut-corners-pirates-life",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "royksopp-so-easy-unofficial-video",
+        "iron-wine-joy",
+        "vial-of-sound-a-lifetime-passed",
+        "beatsofreen-slowly-rising",
+        "washed-out-floating-by",
+        "dayglow-something"
+      ],
+      "illustration": [
+        "the-pointer-sisters-pinball-animation-countdown",
+        "kid-koala-basin-street-blues",
+        "peter-bjorn-and-john-young-folks",
+        "i-love-you-but-ive-chosen-darkness-the-owl",
+        "justice-d-a-n-c-e",
+        "fleet-foxes-mykonos",
+        "labuat-soy-tu-aire",
+        "paul-dempsey-bats",
+        "danger-beach-apache",
+        "apparat-granular-bastard",
+        "marian-ruzzi-y-sr-amable-una-pieza-mas",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "royksopp-so-easy-unofficial-video",
+        "panda-bear-boys-latin",
+        "charles-x-can-you-do-it"
+      ],
+      "marbles": [
+        "the-pointer-sisters-pinball-animation-countdown",
+        "wintergatan-marble-machine"
+      ],
+      "chronophotography": [
+        "kate-bush-hammer-horror",
+        "fm-belfast-underwear",
+        "battles-ice-cream",
+        "sarh-u-and-i",
+        "gerard-way-millions",
+        "washed-out-floating-by"
       ],
       "dance": [
+        "kate-bush-hammer-horror",
         "michael-jackson-dont-stop-til-you-get-enough",
+        "olivia-newton-john-physical",
         "talking-heads-once-in-a-lifetime",
+        "irene-cara-flashdance-what-a-feeling",
         "michael-jackson-billie-jean",
         "madonna-holiday",
         "michael-jackson-thriller",
@@ -7912,16 +8968,22 @@
         "missy-elliott-get-ur-freak-on",
         "fatboy-slim-weapon-of-choice",
         "missy-elliott-work-it",
+        "the-rapture-whoo-alright-yeah-uh-huh",
         "ok-go-here-it-goes-again",
         "feist-1234",
         "r2j2-work-it-out",
         "beyonc-single-ladies-put-a-ring-on-it",
         "lady-gaga-bad-romance",
         "tune-yards-bizness",
+        "beyonc-countdown",
+        "duck-sauce-big-bad-wolf",
         "psy-gangnam-style",
         "flying-lotus-until-the-quiet-comes",
+        "kiesza-hideaway",
+        "sia-chandelier",
         "sarh-u-and-i",
         "childish-gambino-sober",
+        "donnie-trumpet-the-social-experiment-sunday-candy",
         "jr-jr-gone",
         "christine-and-the-queens-tilted",
         "n-lannon-another-love",
@@ -7930,15 +8992,19 @@
         "miike-snow-genghis-khan",
         "massive-attack-take-it-there",
         "beyonc-formation",
+        "michael-kiwanuka-black-man-in-a-white-world",
         "jones-melt",
         "tigerilla-tulips",
         "bomba-est-reo-soy-yo",
+        "sylvan-esso-kick-jump-twist",
         "polo-pan-coeur-crois",
+        "mashrou-leila-roman",
         "n-e-r-d-rihanna-lemon",
         "benjamin-booker-believe",
         "childish-gambino-this-is-america",
         "the-peach-kings-dirty-secret",
         "the-carters-apeshit",
+        "lany-thick-and-thin",
         "thom-yorke-anima",
         "mette-mamas-eyes",
         "mette-van-gogh",
@@ -7948,17 +9014,128 @@
         "kendrick-lamar-squabble-up",
         "lady-gaga-abracadabra",
         "doechii-anxiety",
+        "wolf-alice-bloom-baby-bloom",
         "mette-coming-of-age",
         "gener8ion-yung-lean-storm"
       ],
+      "gothy": [
+        "kate-bush-hammer-horror",
+        "the-cure-boys-dont-cry",
+        "depeche-mode-personal-jesus",
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
+        "depeche-mode-walking-in-my-shoes",
+        "nine-inch-nails-closer",
+        "soundgarden-black-hole-sun",
+        "madonna-human-nature",
+        "smashing-pumpkins-tonight-tonight",
+        "marilyn-manson-the-beautiful-people",
+        "the-horrors-sheena-is-a-parasite",
+        "i-love-you-but-ive-chosen-darkness-the-owl",
+        "bat-for-lashes-whats-a-girl-to-do",
+        "fever-ray-when-i-grow-up",
+        "champagne-valentine-black-material",
+        "lorde-tennis-court",
+        "plurabelle-our-fires",
+        "massive-attack-take-it-there",
+        "lady-gaga-abracadabra"
+      ],
+      "surreal": [
+        "kate-bush-hammer-horror",
+        "pink-floyd-high-hopes",
+        "soundgarden-black-hole-sun",
+        "massive-attack-protection",
+        "radiohead-just",
+        "david-bowie-im-afraid-of-americans",
+        "radiohead-no-surprises",
+        "radiohead-karma-police",
+        "daft-punk-around-the-world",
+        "bj-rk-bachelorette",
+        "missy-elliott-get-ur-freak-on",
+        "bj-rk-triumph-of-a-heart",
+        "cornelius-fit-song",
+        "ogiyahagi-i-love-your-face",
+        "grizzly-bear-knife",
+        "bat-for-lashes-whats-a-girl-to-do",
+        "bj-rk-wanderlust",
+        "fever-ray-when-i-grow-up",
+        "the-hundred-in-the-hands-pigeons",
+        "scissor-sisters-invisible-light",
+        "memory-tapes-yes-i-know",
+        "battles-ice-cream",
+        "rome-3-dreams-of-black",
+        "fulton-lights-staring-out-the-window",
+        "battles-my-machines",
+        "friendly-fires-hurting",
+        "foster-the-people-houdini",
+        "flying-lotus-until-the-quiet-comes",
+        "bj-rk-mutual-core",
+        "arcade-fire-reflektor",
+        "hundred-waters-cavity",
+        "childish-gambino-sober",
+        "dralms-crushed-pleats",
+        "alt-j-pusher",
+        "hook-n-sling-feat-far-east-movement-break-yourself",
+        "jr-jr-gone",
+        "battles-the-yabba",
+        "n-lannon-another-love",
+        "massive-attack-take-it-there",
+        "vince-staples-lift-me-up",
+        "michael-kiwanuka-black-man-in-a-white-world",
+        "blonde-redhead-golden-light",
+        "bonobo-no-reason",
+        "clark-peak-magnetic",
+        "milk-bone-pressure",
+        "5nizza-samoliot",
+        "benjamin-booker-believe",
+        "the-peach-kings-dirty-secret",
+        "alt-j-hard-drive-gold",
+        "jacques-absolve",
+        "mette-bet",
+        "daft-punk-human-after-all",
+        "balming-tiger-oui"
+      ],
+      "kaleidoscope": [
+        "gary-numan-cars",
+        "a-flock-of-seagulls-i-ran",
+        "the-chemical-brothers-let-forever-be",
+        "the-white-stripes-seven-nation-army",
+        "ok-go-all-is-not-lost",
+        "ok-go-love"
+      ],
+      "kids": [
+        "pink-floyd-another-brick-in-the-wall-part-two",
+        "the-cure-boys-dont-cry",
+        "missy-elliott-work-it",
+        "mickey-3d-respire",
+        "tune-yards-bizness",
+        "son-of-kick-playing-the-villain",
+        "y-n-richkids-my-bike",
+        "sia-chandelier",
+        "tigerilla-tulips",
+        "bomba-est-reo-soy-yo",
+        "young-thug-wyclef-jean",
+        "benjamin-booker-believe",
+        "the-smile-friend-of-a-friend",
+        "gener8ion-yung-lean-storm"
+      ],
+      "hair": [
+        "prince-i-wanna-be-your-lover",
+        "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "vitalic-poney-part-1-birds",
+        "thunderheist-jerk-it",
+        "chappell-roan-the-subway"
+      ],
       "greenscreen": [
         "michael-jackson-dont-stop-til-you-get-enough",
+        "orchestral-manoeuvres-in-the-dark-enola-gay",
         "talking-heads-once-in-a-lifetime",
         "bj-rk-its-oh-so-quiet"
       ],
       "joy": [
         "michael-jackson-dont-stop-til-you-get-enough",
+        "selena-bidi-bidi-bom-bom",
         "janet-jackson-thats-the-way-love-goes",
+        "the-rapture-whoo-alright-yeah-uh-huh",
         "brite-futures-sophisticated-side-ponytail",
         "huma-huma-hello-i-like-you",
         "y-n-richkids-my-bike",
@@ -7972,6 +9149,18 @@
         "psy-gangnam-style",
         "fred-again-lil-yachty-and-overmono-stayinit"
       ],
+      "body-ody": [
+        "olivia-newton-john-physical",
+        "janet-jackson-thats-the-way-love-goes",
+        "dangelo-untitled-how-does-it-feel",
+        "janelle-mon-e-make-me-feel",
+        "janelle-mon-e-i-like-that",
+        "the-carters-apeshit",
+        "mette-mamas-eyes",
+        "janelle-mon-e-lipstick-lover",
+        "mette-van-gogh",
+        "dua-lipa-illusion"
+      ],
       "womxn director": [
         "talking-heads-once-in-a-lifetime",
         "madonna-material-girl",
@@ -7979,6 +9168,7 @@
         "janet-jackson-nasty",
         "madonna-like-a-prayer",
         "prince-the-new-power-generation-cream",
+        "selena-bidi-bidi-bom-bom",
         "smashing-pumpkins-tonight-tonight",
         "marilyn-manson-the-beautiful-people",
         "blur-song-2",
@@ -7995,13 +9185,18 @@
         "huma-huma-hello-i-like-you",
         "ok-go-all-is-not-lost",
         "apparat-granular-bastard",
+        "beyonc-countdown",
         "we-cut-corners-pirates-life",
         "royksopp-so-easy-unofficial-video",
         "iron-wine-joy",
+        "sia-chandelier",
+        "gerard-way-millions",
         "ok-go-upside-down-inside-out",
         "beyonc-formation",
         "vessels-4am",
         "jmii-bailar",
+        "sylvan-esso-kick-jump-twist",
+        "mashrou-leila-roman",
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
         "janelle-mon-e-pynk",
         "janelle-mon-e-i-like-that",
@@ -8019,16 +9214,26 @@
       ],
       "wut": [
         "talking-heads-once-in-a-lifetime",
+        "a-flock-of-seagulls-i-ran",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
         "depeche-mode-walking-in-my-shoes",
         "the-darkness-i-believe-in-a-thing-called-love",
         "r-kelly-trapped-in-the-closet",
         "vitalic-poney-part-1-birds",
         "thunderheist-jerk-it",
         "fm-belfast-underwear",
+        "duck-sauce-big-bad-wolf",
         "psy-gangnam-style",
+        "the-shoes-drifted",
         "darwin-deez-the-mess-she-made",
         "duck-sauce-mesmerize"
+      ],
+      "mirrors": [
+        "a-flock-of-seagulls-i-ran",
+        "the-chemical-brothers-let-forever-be",
+        "ok-go-love",
+        "mette-coming-of-age"
       ],
       "legs": [
         "herbie-hancock-rockit",
@@ -8038,6 +9243,7 @@
         "herbie-hancock-rockit",
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-needing-getting",
+        "foster-the-people-houdini",
         "karl-westman-ibm-research-a-boy-and-his-atom",
         "ok-go-i-wont-let-you-down",
         "wintergatan-marble-machine",
@@ -8053,27 +9259,11 @@
       "birds": [
         "prince-and-the-revolution-when-doves-cry",
         "i-love-you-but-ive-chosen-darkness-the-owl",
-        "thunderheist-jerk-it"
+        "thunderheist-jerk-it",
+        "woodkid-iron"
       ],
       "motorcycle": [
         "prince-and-the-revolution-when-doves-cry"
-      ],
-      "cel animation": [
-        "prince-and-the-revolution-raspberry-beret",
-        "daft-punk-one-more-time",
-        "the-rapture-whoo-alright-yeah-uh-huh",
-        "bellx1-rocky-took-a-lover",
-        "sebastien-tellier-look",
-        "the-pains-of-being-pure-at-heart-say-no-to-love",
-        "blockhead-the-music-scene",
-        "we-cut-corners-pirates-life",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "royksopp-so-easy-unofficial-video",
-        "iron-wine-joy",
-        "vial-of-sound-a-lifetime-passed",
-        "beatsofreen-slowly-rising",
-        "washed-out-floating-by",
-        "dayglow-something"
       ],
       "collage": [
         "prince-and-the-revolution-raspberry-beret",
@@ -8081,6 +9271,7 @@
         "brite-futures-sophisticated-side-ponytail",
         "yeasayer-wait-for-the-summer",
         "bonobo-cirrus",
+        "the-shoes-drifted",
         "soupcans-siamese-brutality",
         "andy-shauf-the-worst-in-you",
         "green-day-bang-bang",
@@ -8104,11 +9295,14 @@
         "ogiyahagi-i-love-your-face",
         "snoop-dogg-sensual-seduction",
         "chairlift-evident-utensil",
+        "radiohead-weird-fishes-arpeggi",
         "yeasayer-wait-for-the-summer",
+        "sour-hibi-no-neiro",
         "kid-cudi-make-her-say",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
         "huma-huma-hello-i-like-you",
+        "beyonc-countdown",
         "the-shins-simple-song",
         "psy-gangnam-style",
         "flying-lotus-until-the-quiet-comes",
@@ -8118,43 +9312,27 @@
         "nigel-stanford-cymatics",
         "childish-gambino-sober",
         "drake-hotline-bling",
+        "beatsofreen-slowly-rising",
         "massive-attack-take-it-there",
         "beyonc-formation",
+        "michael-kiwanuka-black-man-in-a-white-world",
         "jay-z-moonlight",
         "jmii-bailar",
+        "young-thug-wyclef-jean",
         "kendrick-lamar-humble",
+        "mashrou-leila-roman",
         "janelle-mon-e-make-me-feel",
         "janelle-mon-e-i-like-that",
         "childish-gambino-this-is-america",
+        "vince-staples-fun",
         "mitski-a-pearl",
+        "lany-thick-and-thin",
+        "squarepusher-terminal-slam",
         "janelle-mon-e-lipstick-lover",
         "chappell-roan-super-graphic-ultra-modern-girl",
         "dua-lipa-illusion",
         "kendrick-lamar-squabble-up",
-        "mette-coming-of-age"
-      ],
-      "tableau": [
-        "robert-palmer-addicted-to-love",
-        "r-e-m-losing-my-religion",
-        "soundgarden-black-hole-sun",
-        "yuki-sentimental-journey",
-        "grizzly-bear-knife",
-        "lady-gaga-bad-romance",
-        "scissor-sisters-invisible-light",
-        "beyonc-formation",
-        "blonde-redhead-golden-light",
-        "kendrick-lamar-humble",
-        "polo-pan-coeur-crois",
-        "milk-bone-pressure",
-        "5nizza-samoliot",
-        "so-much-light-full-body-mirror",
-        "janelle-mon-e-make-me-feel",
-        "janelle-mon-e-pynk",
-        "janelle-mon-e-i-like-that",
-        "the-carters-apeshit",
-        "paul-kalkbrenner-schwer",
-        "kendrick-lamar-squabble-up",
-        "doechii-anxiety",
+        "mette-coming-of-age",
         "balming-tiger-oui"
       ],
       "stop motion": [
@@ -8179,28 +9357,33 @@
         "soupcans-siamese-brutality",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
+      "top 10": [
+        "talking-heads-and-she-was",
+        "bj-rk-bachelorette",
+        "blur-coffee-tv",
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "bellx1-rocky-took-a-lover",
+        "arcade-fire-we-used-to-wait",
+        "el-guincho-bombay",
+        "light-light-kilo-do-not-touch",
+        "bomba-est-reo-soy-yo",
+        "mette-mamas-eyes"
+      ],
       "plane": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "ok-go-upside-down-inside-out"
       ],
-      "pixilation": [
-        "peter-gabriel-sledgehammer",
-        "the-white-stripes-the-hardest-button-to-button",
-        "dick-annegarn-soleil-du-soir",
-        "grizzly-bear-while-you-wait-for-the-others",
-        "ok-go-end-love",
-        "tune-yards-bizness",
-        "ok-go-obsession"
-      ],
       "narrative": [
         "madonna-papa-dont-preach",
         "madonna-like-a-prayer",
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
         "radiohead-just",
         "blur-coffee-tv",
         "bj-rk-triumph-of-a-heart",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
         "flying-lotus-until-the-quiet-comes",
+        "leon-bridges-river",
         "mount-moriah-precita",
         "andy-shauf-the-worst-in-you",
         "benjamin-booker-believe",
@@ -8210,6 +9393,7 @@
         "madonna-papa-dont-preach",
         "depeche-mode-policy-of-truth",
         "the-roots-what-they-do",
+        "david-bowie-im-afraid-of-americans",
         "lauryn-hill-doo-wop-that-thing",
         "the-white-stripes-the-hardest-button-to-button",
         "jay-z-99-problems",
@@ -8217,32 +9401,22 @@
         "flight-of-the-conchords-not-crying",
         "dick-annegarn-soleil-du-soir",
         "memory-tapes-yes-i-know",
+        "kiesza-hideaway",
         "bomba-est-reo-soy-yo",
         "the-peach-kings-dirty-secret",
         "chappell-roan-the-subway"
       ],
-      "gothy": [
-        "depeche-mode-personal-jesus",
-        "depeche-mode-walking-in-my-shoes",
-        "nine-inch-nails-closer",
-        "soundgarden-black-hole-sun",
-        "madonna-human-nature",
-        "smashing-pumpkins-tonight-tonight",
-        "marilyn-manson-the-beautiful-people",
-        "the-horrors-sheena-is-a-parasite",
-        "i-love-you-but-ive-chosen-darkness-the-owl",
-        "bat-for-lashes-whats-a-girl-to-do",
-        "fever-ray-when-i-grow-up",
-        "champagne-valentine-black-material",
-        "lorde-tennis-court",
-        "plurabelle-our-fires",
-        "massive-attack-take-it-there",
-        "lady-gaga-abracadabra"
+      "tracking shot": [
+        "when-in-rome-the-promise",
+        "the-american-dollar-anything-you-synthesize",
+        "mild-minds-walls"
       ],
       "horses": [
         "depeche-mode-personal-jesus",
         "muse-knights-of-cydonia",
-        "charles-x-can-you-do-it"
+        "woodkid-iron",
+        "charles-x-can-you-do-it",
+        "mashrou-leila-roman"
       ],
       "monochrome": [
         "janet-jackson-rhythm-nation",
@@ -8259,6 +9433,7 @@
         "sebastien-tellier-look",
         "johnny-cash-aint-no-grave",
         "champagne-valentine-black-material",
+        "woodkid-iron",
         "we-cut-corners-pirates-life",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
         "arcade-fire-reflektor",
@@ -8266,10 +9441,14 @@
         "20syl-back-forth",
         "alb-the-road",
         "christine-and-the-queens-tilted",
+        "michael-kiwanuka-black-man-in-a-white-world",
         "max-cooper-waves",
         "jmii-bailar",
         "thunder-tillman-alignments",
         "luc-glow"
+      ],
+      "lip sync": [
+        "george-michael-freedom-90"
       ],
       "potential nsfw": [
         "madonna-justify-my-love",
@@ -8283,26 +9462,60 @@
         "the-hundred-in-the-hands-pigeons",
         "el-guincho-bombay",
         "scissor-sisters-invisible-light",
+        "duck-sauce-big-bad-wolf",
+        "gesaffelstein-pursuit",
         "dj-snake-lil-jon-turn-down-for-what",
         "plurabelle-our-fires",
         "alb-the-road",
+        "the-shoes-drifted",
         "janelle-mon-e-pynk",
         "duck-sauce-mesmerize",
         "janelle-mon-e-lipstick-lover"
       ],
-      "body-ody": [
-        "janet-jackson-thats-the-way-love-goes",
-        "dangelo-untitled-how-does-it-feel",
-        "janelle-mon-e-make-me-feel",
-        "janelle-mon-e-i-like-that",
-        "the-carters-apeshit",
-        "mette-mamas-eyes",
-        "janelle-mon-e-lipstick-lover",
-        "mette-van-gogh",
-        "dua-lipa-illusion"
+      "vfx": [
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
+        "massive-attack-protection",
+        "missy-elliott-da-brat-sock-it-2-me",
+        "moby-honey",
+        "the-chemical-brothers-let-forever-be",
+        "kylie-minogue-come-into-my-world",
+        "bj-rk-triumph-of-a-heart",
+        "cornelius-fit-song",
+        "bj-rk-wanderlust",
+        "fm-belfast-underwear",
+        "the-hundred-in-the-hands-pigeons",
+        "memory-tapes-yes-i-know",
+        "fulton-lights-staring-out-the-window",
+        "duck-sauce-big-bad-wolf",
+        "friendly-fires-hurting",
+        "foster-the-people-houdini",
+        "bj-rk-mutual-core",
+        "de-staat-witch-doctor",
+        "dralms-crushed-pleats",
+        "jr-jr-gone",
+        "the-chemical-brothers-wide-open",
+        "vince-staples-lift-me-up",
+        "reeps-one-does-not-exist",
+        "bonobo-no-reason",
+        "kendrick-lamar-humble",
+        "5nizza-samoliot",
+        "gaz-coombes-walk-the-walk",
+        "the-chemical-brothers-weve-got-to-try",
+        "squarepusher-terminal-slam",
+        "mild-minds-walls",
+        "paul-kalkbrenner-schwer",
+        "mette-bet",
+        "pinkpantheress-girl-like-me"
       ],
-      "ice skates": [
-        "depeche-mode-walking-in-my-shoes"
+      "california": [
+        "selena-bidi-bidi-bom-bom",
+        "2pac-ft-dr-dre-california-love",
+        "fatboy-slim-praise-you",
+        "fatboy-slim-weapon-of-choice",
+        "vince-staples-lift-me-up",
+        "lany-thick-and-thin",
+        "chappell-roan-super-graphic-ultra-modern-girl",
+        "kendrick-lamar-not-like-us"
       ],
       "psychedelic": [
         "depeche-mode-walking-in-my-shoes",
@@ -8321,79 +9534,38 @@
         "beatsofreen-slowly-rising",
         "washed-out-floating-by"
       ],
-      "surreal": [
-        "soundgarden-black-hole-sun",
-        "massive-attack-protection",
-        "radiohead-just",
-        "radiohead-no-surprises",
-        "radiohead-karma-police",
-        "daft-punk-around-the-world",
-        "bj-rk-bachelorette",
-        "missy-elliott-get-ur-freak-on",
-        "bj-rk-triumph-of-a-heart",
-        "cornelius-fit-song",
-        "ogiyahagi-i-love-your-face",
-        "grizzly-bear-knife",
-        "bat-for-lashes-whats-a-girl-to-do",
-        "bj-rk-wanderlust",
-        "fever-ray-when-i-grow-up",
-        "the-hundred-in-the-hands-pigeons",
-        "scissor-sisters-invisible-light",
-        "memory-tapes-yes-i-know",
-        "battles-ice-cream",
-        "rome-3-dreams-of-black",
-        "fulton-lights-staring-out-the-window",
-        "battles-my-machines",
-        "friendly-fires-hurting",
-        "flying-lotus-until-the-quiet-comes",
-        "bj-rk-mutual-core",
-        "arcade-fire-reflektor",
-        "hundred-waters-cavity",
-        "childish-gambino-sober",
-        "dralms-crushed-pleats",
-        "alt-j-pusher",
-        "hook-n-sling-feat-far-east-movement-break-yourself",
-        "jr-jr-gone",
-        "battles-the-yabba",
-        "n-lannon-another-love",
-        "massive-attack-take-it-there",
-        "blonde-redhead-golden-light",
-        "bonobo-no-reason",
-        "clark-peak-magnetic",
-        "milk-bone-pressure",
-        "5nizza-samoliot",
-        "benjamin-booker-believe",
-        "the-peach-kings-dirty-secret",
-        "alt-j-hard-drive-gold",
-        "jacques-absolve",
-        "mette-bet",
-        "daft-punk-human-after-all",
-        "balming-tiger-oui"
+      "skates": [
+        "depeche-mode-walking-in-my-shoes",
+        "kwes-rollerblades"
+      ],
+      "landscape": [
+        "pink-floyd-high-hopes",
+        "the-american-dollar-anything-you-synthesize",
+        "max-cooper-circular",
+        "pink-floyd-welcome-to-the-machine"
       ],
       "dogs": [
         "weezer-undone-the-sweater-song",
         "vitalic-poney-part-1-birds",
         "ok-go-white-knuckles",
+        "woodkid-iron",
         "the-chemical-brothers-weve-got-to-try"
       ],
       "slowmo": [
         "weezer-undone-the-sweater-song",
+        "david-bowie-im-afraid-of-americans",
         "air-kelly-watch-the-stars",
         "vitalic-poney-part-1-birds",
         "thunderheist-jerk-it",
         "fm-belfast-underwear",
+        "woodkid-iron",
+        "kwes-rollerblades",
         "dralms-crushed-pleats",
         "mount-moriah-precita",
         "ok-go-the-one-moment",
+        "sylvan-esso-kick-jump-twist",
         "5nizza-samoliot",
         "bonobo-me-and-you"
-      ],
-      "california": [
-        "2pac-ft-dr-dre-california-love",
-        "fatboy-slim-praise-you",
-        "fatboy-slim-weapon-of-choice",
-        "chappell-roan-super-graphic-ultra-modern-girl",
-        "kendrick-lamar-not-like-us"
       ],
       "cars": [
         "2pac-ft-dr-dre-california-love",
@@ -8423,60 +9595,33 @@
       "crowd": [
         "bj-rk-its-oh-so-quiet",
         "feist-1234",
-        "sour-hibi-no-neiro",
         "ok-go-this-too-shall-pass",
         "psy-gangnam-style",
         "de-staat-witch-doctor",
+        "kiesza-hideaway",
         "ok-go-i-wont-let-you-down",
         "battles-the-yabba",
         "polo-pan-coeur-crois",
+        "mashrou-leila-roman",
         "kendrick-lamar-not-like-us",
         "lady-gaga-abracadabra",
+        "wolf-alice-bloom-baby-bloom",
         "gener8ion-yung-lean-storm"
       ],
       "surveillance": [
         "radiohead-high-and-dry",
+        "vince-staples-fun",
         "squarepusher-terminal-slam",
         "kings-of-leon-mustang"
       ],
       "architecture": [
         "massive-attack-protection",
         "drake-hotline-bling",
+        "mashrou-leila-roman",
         "the-carters-apeshit",
         "weval-someday",
         "max-cooper-repetition",
         "dua-lipa-illusion"
-      ],
-      "vfx": [
-        "massive-attack-protection",
-        "missy-elliott-da-brat-sock-it-2-me",
-        "moby-honey",
-        "the-chemical-brothers-let-forever-be",
-        "kylie-minogue-come-into-my-world",
-        "bj-rk-triumph-of-a-heart",
-        "cornelius-fit-song",
-        "bj-rk-wanderlust",
-        "fm-belfast-underwear",
-        "the-hundred-in-the-hands-pigeons",
-        "memory-tapes-yes-i-know",
-        "fulton-lights-staring-out-the-window",
-        "friendly-fires-hurting",
-        "bj-rk-mutual-core",
-        "de-staat-witch-doctor",
-        "dralms-crushed-pleats",
-        "jr-jr-gone",
-        "the-chemical-brothers-wide-open",
-        "reeps-one-does-not-exist",
-        "bonobo-no-reason",
-        "kendrick-lamar-humble",
-        "5nizza-samoliot",
-        "gaz-coombes-walk-the-walk",
-        "the-chemical-brothers-weve-got-to-try",
-        "squarepusher-terminal-slam",
-        "mild-minds-walls",
-        "paul-kalkbrenner-schwer",
-        "mette-bet",
-        "pinkpantheress-girl-like-me"
       ],
       "reverse": [
         "the-pharcyde-drop",
@@ -8491,6 +9636,7 @@
         "kid-cudi-make-her-say",
         "grizzly-bear-while-you-wait-for-the-others",
         "champagne-valentine-black-material",
+        "beyonc-countdown",
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom"
       ],
@@ -8502,6 +9648,19 @@
         "willow-sweater",
         "pinkpantheress-girl-like-me"
       ],
+      "walk/run": [
+        "david-bowie-im-afraid-of-americans",
+        "the-verve-bitter-sweet-symphony",
+        "kylie-minogue-come-into-my-world",
+        "justice-d-a-n-c-e",
+        "matt-and-kim-lessons-learned",
+        "sebastien-tellier-look",
+        "arcade-fire-we-used-to-wait",
+        "willow-sweater",
+        "massive-attack-take-it-there",
+        "mount-moriah-precita",
+        "alt-j-hard-drive-gold"
+      ],
       "3D animation": [
         "missy-elliott-da-brat-sock-it-2-me",
         "autechre-gantz-graf",
@@ -8512,19 +9671,11 @@
         "panda-bear-boys-latin",
         "n-lannon-another-love"
       ],
-      "space": [
-        "missy-elliott-da-brat-sock-it-2-me",
-        "daft-punk-one-more-time",
-        "the-darkness-i-believe-in-a-thing-called-love",
-        "muse-knights-of-cydonia",
-        "apparat-granular-bastard",
-        "vessels-4am",
-        "the-chemical-brothers-weve-got-to-try"
-      ],
       "water": [
         "radiohead-no-surprises",
         "bj-rk-wanderlust",
         "fever-ray-when-i-grow-up",
+        "willow-sweater",
         "n-lannon-another-love",
         "beyonc-formation",
         "dua-lipa-illusion",
@@ -8534,28 +9685,21 @@
         "blur-song-2",
         "feist-i-feel-it-all",
         "the-hundred-in-the-hands-pigeons",
+        "woodkid-iron",
         "psy-gangnam-style",
         "ok-go-the-one-moment"
       ],
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
-      "walk/run": [
-        "the-verve-bitter-sweet-symphony",
-        "kylie-minogue-come-into-my-world",
-        "justice-d-a-n-c-e",
-        "matt-and-kim-lessons-learned",
-        "sebastien-tellier-look",
-        "massive-attack-take-it-there",
-        "mount-moriah-precita",
-        "alt-j-hard-drive-gold"
-      ],
       "meta": [
         "natalie-imbruglia-torn",
         "arcade-fire-we-used-to-wait",
         "light-light-kilo-do-not-touch",
+        "the-shoes-drifted",
         "jay-z-moonlight",
         "young-thug-wyclef-jean",
+        "vince-staples-fun",
         "duck-sauce-mesmerize",
         "the-smile-friend-of-a-friend",
         "doechii-anxiety"
@@ -8614,17 +9758,6 @@
         "fleet-foxes-white-winter-hymnal",
         "bj-rk-mutual-core"
       ],
-      "kaleidoscope": [
-        "the-chemical-brothers-let-forever-be",
-        "the-white-stripes-seven-nation-army",
-        "ok-go-all-is-not-lost",
-        "ok-go-love"
-      ],
-      "mirrors": [
-        "the-chemical-brothers-let-forever-be",
-        "ok-go-love",
-        "mette-coming-of-age"
-      ],
       "night vision": [
         "blur-no-distance-left-to-run"
       ],
@@ -8646,19 +9779,6 @@
         "thunder-tillman-alignments",
         "luc-glow"
       ],
-      "kids": [
-        "missy-elliott-work-it",
-        "mickey-3d-respire",
-        "tune-yards-bizness",
-        "son-of-kick-playing-the-villain",
-        "y-n-richkids-my-bike",
-        "tigerilla-tulips",
-        "bomba-est-reo-soy-yo",
-        "young-thug-wyclef-jean",
-        "benjamin-booker-believe",
-        "the-smile-friend-of-a-friend",
-        "gener8ion-yung-lean-storm"
-      ],
       "woc director": [
         "missy-elliott-work-it",
         "yuki-sentimental-journey",
@@ -8668,7 +9788,9 @@
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
         "huma-huma-hello-i-like-you",
+        "beyonc-countdown",
         "beyonc-formation",
+        "mashrou-leila-roman",
         "janelle-mon-e-i-like-that",
         "janelle-mon-e-lipstick-lover",
         "chappell-roan-super-graphic-ultra-modern-girl",
@@ -8771,24 +9893,16 @@
         "fulton-lights-staring-out-the-window",
         "squarepusher-terminal-slam"
       ],
-      "illustration": [
-        "peter-bjorn-and-john-young-folks",
-        "i-love-you-but-ive-chosen-darkness-the-owl",
-        "justice-d-a-n-c-e",
-        "fleet-foxes-mykonos",
-        "labuat-soy-tu-aire",
-        "paul-dempsey-bats",
-        "danger-beach-apache",
-        "apparat-granular-bastard",
-        "marian-ruzzi-y-sr-amable-una-pieza-mas",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "royksopp-so-easy-unofficial-video",
-        "panda-bear-boys-latin",
-        "charles-x-can-you-do-it"
-      ],
       "jump": [
         "vitalic-poney-part-1-birds",
         "goldfrapp-happiness"
+      ],
+      "slitscan": [
+        "goose-british-mode",
+        "fm-belfast-underwear",
+        "violet-sands-no-matter-what",
+        "washed-out-floating-by",
+        "dayglow-something"
       ],
       "mixed media": [
         "modest-mouse-dashboard",
@@ -8808,12 +9922,14 @@
       ],
       "d&ad": [
         "bj-rk-wanderlust",
+        "duck-sauce-big-bad-wolf",
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
       "ukmva": [
         "bj-rk-wanderlust",
         "light-light-kilo-do-not-touch",
+        "kiesza-hideaway",
         "childish-gambino-this-is-america",
         "mild-minds-walls",
         "duck-sauce-mesmerize",
@@ -8822,17 +9938,18 @@
         "mette-van-gogh",
         "jungle-back-on-74"
       ],
+      "lighting": [
+        "thunderheist-jerk-it",
+        "lorde-tennis-court",
+        "nigel-stanford-cymatics",
+        "drake-hotline-bling",
+        "blonde-redhead-golden-light",
+        "janelle-mon-e-make-me-feel",
+        "fred-again-lil-yachty-and-overmono-stayinit"
+      ],
       "yuri norstein-esque": [
         "fleet-foxes-white-winter-hymnal",
         "the-presets-girl-and-the-sea"
-      ],
-      "landscape": [
-        "the-american-dollar-anything-you-synthesize",
-        "max-cooper-circular"
-      ],
-      "tracking shot": [
-        "the-american-dollar-anything-you-synthesize",
-        "mild-minds-walls"
       ],
       "fluid dynamics": [
         "friendly-fires-skeleton-boy",
@@ -8865,13 +9982,15 @@
       ],
       "interactive": [
         "labuat-soy-tu-aire",
-        "sour-hibi-no-neiro",
         "johnny-cash-aint-no-grave",
         "arcade-fire-we-used-to-wait",
         "rome-3-dreams-of-black",
         "light-light-kilo-do-not-touch",
-        "reeps-one-does-not-exist",
         "tune-yards-medley-for-google-i-o"
+      ],
+      "crowdsource": [
+        "sour-hibi-no-neiro",
+        "dear-lament-coffee"
       ],
       "ascii": [
         "beck-black-tambourine",
@@ -8884,18 +10003,6 @@
       "rube goldberg": [
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-needing-getting"
-      ],
-      "chronophotography": [
-        "fm-belfast-underwear",
-        "battles-ice-cream",
-        "sarh-u-and-i",
-        "washed-out-floating-by"
-      ],
-      "slitscan": [
-        "fm-belfast-underwear",
-        "violet-sands-no-matter-what",
-        "washed-out-floating-by",
-        "dayglow-something"
       ],
       "match cut": [
         "johnny-cash-aint-no-grave",
@@ -8916,22 +10023,9 @@
       ],
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
+        "sylvan-esso-kick-jump-twist",
         "kings-of-leon-mustang",
         "lady-gaga-abracadabra"
-      ],
-      "editing": [
-        "el-guincho-bombay",
-        "scissor-sisters-invisible-light",
-        "michael-langan-dahlia",
-        "battles-ice-cream",
-        "psy-gangnam-style",
-        "battles-the-yabba",
-        "bonobo-kerala",
-        "mette-mamas-eyes",
-        "mette-van-gogh"
-      ],
-      "crowdsource": [
-        "dear-lament-coffee"
       ],
       "macro": [
         "karl-westman-ibm-research-a-boy-and-his-atom",
@@ -8961,12 +10055,17 @@
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
+      "zbig rybczynski": [
+        "gilligan-moss-choreograph",
+        "milk-bone-pressure",
+        "kendrick-lamar-squabble-up"
+      ],
       "crime": [
         "mount-moriah-precita",
         "gener8ion-yung-lean-storm"
       ],
-      "marbles": [
-        "wintergatan-marble-machine"
+      "vr": [
+        "reeps-one-does-not-exist"
       ],
       "3D printing": [
         "no-te-va-gustar-la-puerta-de-atras",
@@ -8991,11 +10090,33 @@
       "Bob Dylan": [
         "bob-dylan-subterranean-homesick-blues"
       ],
+      "Serge Gainsbourg & Brigitte Bardot": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip"
+      ],
       "David Bowie": [
-        "david-bowie-space-oddity"
+        "david-bowie-space-oddity",
+        "david-bowie-im-afraid-of-americans"
+      ],
+      "Pink Floyd": [
+        "pink-floyd-money",
+        "pink-floyd-another-brick-in-the-wall-part-two",
+        "pink-floyd-high-hopes",
+        "pink-floyd-welcome-to-the-machine"
       ],
       "Queen": [
         "queen-bohemian-rhapsody"
+      ],
+      "The Pointer Sisters": [
+        "the-pointer-sisters-pinball-animation-countdown"
+      ],
+      "Kate Bush": [
+        "kate-bush-hammer-horror"
+      ],
+      "Elvis Costello & The Attractions": [
+        "elvis-costello-the-attractions-pump-it-up"
+      ],
+      "Gary Numan": [
+        "gary-numan-cars"
       ],
       "Prince": [
         "prince-i-wanna-be-your-lover",
@@ -9008,12 +10129,24 @@
         "michael-jackson-thriller",
         "michael-jackson-smooth-criminal"
       ],
+      "Orchestral Manoeuvres In The Dark": [
+        "orchestral-manoeuvres-in-the-dark-enola-gay"
+      ],
       "Devo": [
         "devo-whip-it"
+      ],
+      "Olivia Newton-John": [
+        "olivia-newton-john-physical"
       ],
       "Talking Heads": [
         "talking-heads-once-in-a-lifetime",
         "talking-heads-and-she-was"
+      ],
+      "A Flock Of Seagulls": [
+        "a-flock-of-seagulls-i-ran"
+      ],
+      "Irene Cara": [
+        "irene-cara-flashdance-what-a-feeling"
       ],
       "Herbie Hancock": [
         "herbie-hancock-rockit"
@@ -9035,6 +10168,9 @@
       "Robert Palmer": [
         "robert-palmer-addicted-to-love"
       ],
+      "The Cure": [
+        "the-cure-boys-dont-cry"
+      ],
       "Harold Faltermeyer & Steve Stevens": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem"
       ],
@@ -9045,6 +10181,9 @@
       ],
       "Peter Gabriel": [
         "peter-gabriel-sledgehammer"
+      ],
+      "When In Rome": [
+        "when-in-rome-the-promise"
       ],
       "Paula Abdul": [
         "paula-abdul-cold-hearted"
@@ -9062,6 +10201,12 @@
       ],
       "R.E.M.": [
         "r-e-m-losing-my-religion"
+      ],
+      "Meat Loaf": [
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that"
+      ],
+      "Selena": [
+        "selena-bidi-bidi-bom-bom"
       ],
       "Nine Inch Nails": [
         "nine-inch-nails-closer"
@@ -9236,6 +10381,9 @@
       "Gnarls Barkley": [
         "gnarls-barkley-crazy"
       ],
+      "Goose": [
+        "goose-british-mode"
+      ],
       "Muse": [
         "muse-knights-of-cydonia"
       ],
@@ -9319,6 +10467,7 @@
       ],
       "Beyoncé": [
         "beyonc-single-ladies-put-a-ring-on-it",
+        "beyonc-countdown",
         "beyonc-formation"
       ],
       "Dick Annegarn": [
@@ -9425,6 +10574,9 @@
       "tUnE-yArDs": [
         "tune-yards-bizness"
       ],
+      "Woodkid": [
+        "woodkid-iron"
+      ],
       "Huma-Huma": [
         "huma-huma-hello-i-like-you"
       ],
@@ -9452,6 +10604,10 @@
       "We Cut Corners": [
         "we-cut-corners-pirates-life"
       ],
+      "Duck Sauce": [
+        "duck-sauce-big-bad-wolf",
+        "duck-sauce-mesmerize"
+      ],
       "Marian Ruzzi y Sr. Amable": [
         "marian-ruzzi-y-sr-amable-una-pieza-mas"
       ],
@@ -9466,6 +10622,9 @@
       ],
       "The Shins": [
         "the-shins-simple-song"
+      ],
+      "Foster The People": [
+        "foster-the-people-houdini"
       ],
       "Royksopp": [
         "royksopp-so-easy-unofficial-video"
@@ -9500,6 +10659,9 @@
       "Y.N.RichKids": [
         "y-n-richkids-my-bike"
       ],
+      "Gesaffelstein": [
+        "gesaffelstein-pursuit"
+      ],
       "Vial of Sound": [
         "vial-of-sound-a-lifetime-passed"
       ],
@@ -9512,11 +10674,20 @@
       "De Staat": [
         "de-staat-witch-doctor"
       ],
+      "kwes.": [
+        "kwes-rollerblades"
+      ],
       "Metronomy": [
         "metronomy-love-letters"
       ],
+      "Kiesza": [
+        "kiesza-hideaway"
+      ],
       "DJ Snake & Lil Jon": [
         "dj-snake-lil-jon-turn-down-for-what"
+      ],
+      "Sia": [
+        "sia-chandelier"
       ],
       "Hundred Waters": [
         "hundred-waters-cavity"
@@ -9529,6 +10700,9 @@
       ],
       "SARH": [
         "sarh-u-and-i"
+      ],
+      "Gerard Way": [
+        "gerard-way-millions"
       ],
       "Nigel Stanford": [
         "nigel-stanford-cymatics"
@@ -9556,6 +10730,9 @@
       "ALB": [
         "alb-the-road"
       ],
+      "Donnie Trumpet & The Social Experiment": [
+        "donnie-trumpet-the-social-experiment-sunday-candy"
+      ],
       "Hook N Sling feat. Far East Movement": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
       ],
@@ -9567,6 +10744,9 @@
       ],
       "JR JR": [
         "jr-jr-gone"
+      ],
+      "The Shoes": [
+        "the-shoes-drifted"
       ],
       "De Jeugd Van Tegenwoordig": [
         "de-jeugd-van-tegenwoordig-manon"
@@ -9598,6 +10778,13 @@
       "Miike Snow": [
         "miike-snow-genghis-khan"
       ],
+      "Vince Staples": [
+        "vince-staples-lift-me-up",
+        "vince-staples-fun"
+      ],
+      "Leon Bridges": [
+        "leon-bridges-river"
+      ],
       "Mount Moriah": [
         "mount-moriah-precita"
       ],
@@ -9609,6 +10796,9 @@
       ],
       "Charles X": [
         "charles-x-can-you-do-it"
+      ],
+      "Michael Kiwanuka": [
+        "michael-kiwanuka-black-man-in-a-white-world"
       ],
       "Andy Shauf": [
         "andy-shauf-the-worst-in-you"
@@ -9648,6 +10838,9 @@
       "Young Thug": [
         "young-thug-wyclef-jean"
       ],
+      "Sylvan Esso": [
+        "sylvan-esso-kick-jump-twist"
+      ],
       "Kendrick Lamar": [
         "kendrick-lamar-humble",
         "kendrick-lamar-not-like-us",
@@ -9664,6 +10857,9 @@
       ],
       "Washed Out": [
         "washed-out-floating-by"
+      ],
+      "Mashrou Leila": [
+        "mashrou-leila-roman"
       ],
       "IFHT ft. Micayla Gatto": [
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
@@ -9701,6 +10897,9 @@
       "Mitski": [
         "mitski-a-pearl"
       ],
+      "LANY": [
+        "lany-thick-and-thin"
+      ],
       "Weval": [
         "weval-someday"
       ],
@@ -9718,9 +10917,6 @@
       ],
       "Thao & The Get Down Stay Down": [
         "thao-the-get-down-stay-down-phenom"
-      ],
-      "Duck Sauce": [
-        "duck-sauce-mesmerize"
       ],
       "Los Misterios": [
         "los-misterios-m-talos-y-vuelve"
@@ -9774,6 +10970,9 @@
       "Doechii": [
         "doechii-anxiety"
       ],
+      "Wolf Alice": [
+        "wolf-alice-bloom-baby-bloom"
+      ],
       "Oneohtrix Point Never": [
         "oneohtrix-point-never-d-i-s"
       ],
@@ -9791,13 +10990,34 @@
       "D.A. Pennebaker": [
         "bob-dylan-subterranean-homesick-blues"
       ],
-      "Mick Rock": [
+      "François Reichenbach": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip"
+      ],
+      "Malcolm J. Thomson": [
         "david-bowie-space-oddity"
+      ],
+      "Wayne Isham": [
+        "pink-floyd-money"
       ],
       "Bruce Gowers": [
         "queen-bohemian-rhapsody",
         "michael-jackson-rock-with-you",
         "prince-1999"
+      ],
+      "Jeff Hale": [
+        "the-pointer-sisters-pinball-animation-countdown"
+      ],
+      "Keith MacMillan": [
+        "kate-bush-hammer-horror"
+      ],
+      "Paul Flattery": [
+        "elvis-costello-the-attractions-pump-it-up"
+      ],
+      "Derek Burbidge": [
+        "gary-numan-cars"
+      ],
+      "Sir Alan Parker": [
+        "pink-floyd-another-brick-in-the-wall-part-two"
       ],
       "Peter Clarson": [
         "prince-i-wanna-be-your-lover"
@@ -9805,8 +11025,15 @@
       "Nick Saxton": [
         "michael-jackson-dont-stop-til-you-get-enough"
       ],
+      "Steve Barron": [
+        "orchestral-manoeuvres-in-the-dark-enola-gay",
+        "michael-jackson-billie-jean"
+      ],
       "Gerald V. Casale": [
         "devo-whip-it"
+      ],
+      "Brian Grant": [
+        "olivia-newton-john-physical"
       ],
       "Toni Basil": [
         "talking-heads-once-in-a-lifetime"
@@ -9814,8 +11041,11 @@
       "David Byrne": [
         "talking-heads-once-in-a-lifetime"
       ],
-      "Steve Barron": [
-        "michael-jackson-billie-jean"
+      "Tony van den Ende": [
+        "a-flock-of-seagulls-i-ran"
+      ],
+      "Adrian Lyne": [
+        "irene-cara-flashdance-what-a-feeling"
       ],
       "Godley & Creme": [
         "herbie-hancock-rockit"
@@ -9843,6 +11073,9 @@
       "Jim Blashfield": [
         "talking-heads-and-she-was"
       ],
+      "Tim Pope": [
+        "the-cure-boys-dont-cry"
+      ],
       "Rebecca Blake": [
         "prince-and-the-revolution-kiss",
         "prince-the-new-power-generation-cream"
@@ -9856,6 +11089,9 @@
       ],
       "James Foley": [
         "madonna-papa-dont-preach"
+      ],
+      "uncredited": [
+        "when-in-rome-the-promise"
       ],
       "Colin Chilvers": [
         "michael-jackson-smooth-criminal"
@@ -9878,8 +11114,17 @@
       "Tarsem Singh": [
         "r-e-m-losing-my-religion"
       ],
+      "Michael Bay": [
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that"
+      ],
+      "Cecilia Miniucchi": [
+        "selena-bidi-bidi-bom-bom"
+      ],
       "René Elizondo, Jr.": [
         "janet-jackson-thats-the-way-love-goes"
+      ],
+      "Storm Thorgerson": [
+        "pink-floyd-high-hopes"
       ],
       "Mark Romanek": [
         "nine-inch-nails-closer",
@@ -9934,11 +11179,18 @@
       "Charles Stone III": [
         "the-roots-what-they-do"
       ],
-      "Jonathan Dayton & Valerie Farris": [
+      "Jonathan Dayton": [
+        "smashing-pumpkins-tonight-tonight"
+      ],
+      "Valerie Farris": [
         "smashing-pumpkins-tonight-tonight"
       ],
       "Floria Sigismondi": [
         "marilyn-manson-the-beautiful-people"
+      ],
+      "Dom & Nic": [
+        "david-bowie-im-afraid-of-americans",
+        "the-chemical-brothers-wide-open"
       ],
       "Grant Gee": [
         "radiohead-no-surprises"
@@ -10058,6 +11310,11 @@
       ],
       "Robert Hales": [
         "gnarls-barkley-crazy"
+      ],
+      "Keith Schofield": [
+        "goose-british-mode",
+        "duck-sauce-big-bad-wolf",
+        "duck-sauce-mesmerize"
       ],
       "Joseph Kahn": [
         "muse-knights-of-cydonia"
@@ -10231,6 +11488,7 @@
         "the-hundred-in-the-hands-pigeons",
         "battles-my-machines",
         "the-shins-simple-song",
+        "foster-the-people-houdini",
         "dj-snake-lil-jon-turn-down-for-what"
       ],
       "Chris Milk": [
@@ -10269,7 +11527,11 @@
         "memory-tapes-yes-i-know"
       ],
       "Mimi Cave": [
-        "tune-yards-bizness"
+        "tune-yards-bizness",
+        "sylvan-esso-kick-jump-twist"
+      ],
+      "Yoann Lemoine": [
+        "woodkid-iron"
       ],
       "Matt Devine": [
         "son-of-kick-playing-the-villain"
@@ -10297,6 +11559,12 @@
       ],
       "Céline Desrumaux": [
         "apparat-granular-bastard"
+      ],
+      "Adria Petty": [
+        "beyonc-countdown"
+      ],
+      "Beyoncé": [
+        "beyonc-countdown"
       ],
       "John Bollozos": [
         "casey-veggies-euphoria-ii"
@@ -10369,6 +11637,24 @@
       "Torre Florim": [
         "de-staat-witch-doctor"
       ],
+      "Ian Pons Jewell": [
+        "kwes-rollerblades"
+      ],
+      "Kiesza": [
+        "kiesza-hideaway"
+      ],
+      "Ljuba Castot": [
+        "kiesza-hideaway"
+      ],
+      "Rami Samir Afuni": [
+        "kiesza-hideaway"
+      ],
+      "Sia": [
+        "sia-chandelier"
+      ],
+      "Daniel Askill": [
+        "sia-chandelier"
+      ],
       "Mattis Dovier": [
         "plurabelle-our-fires"
       ],
@@ -10388,6 +11674,9 @@
         "bas-ft-correy-c-fragrance",
         "jacques-absolve"
       ],
+      "Jennifer Juniper Stratford": [
+        "gerard-way-millions"
+      ],
       "Kazuaki Seki": [
         "ok-go-i-wont-let-you-down"
       ],
@@ -10397,6 +11686,7 @@
       "Hiro Murai": [
         "childish-gambino-sober",
         "massive-attack-take-it-there",
+        "michael-kiwanuka-black-man-in-a-white-world",
         "childish-gambino-this-is-america"
       ],
       "Ewan Jones Morris": [
@@ -10413,6 +11703,9 @@
       ],
       "Julien Lassort": [
         "alb-the-road"
+      ],
+      "Austin Vesely": [
+        "donnie-trumpet-the-social-experiment-sunday-candy"
       ],
       "Nelson De Castro": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
@@ -10434,6 +11727,9 @@
       "Roger Guàrdia": [
         "battles-the-yabba"
       ],
+      "Dent de Cuir": [
+        "the-shoes-drifted"
+      ],
       "Lernert & Sander": [
         "de-jeugd-van-tegenwoordig-manon"
       ],
@@ -10454,14 +11750,17 @@
         "n-lannon-another-love",
         "gaz-coombes-walk-the-walk"
       ],
-      "Dom & Nic": [
-        "the-chemical-brothers-wide-open"
-      ],
       "Dress Code": [
         "violet-sands-no-matter-what"
       ],
       "Hiérophante": [
         "hi-rophante-clich-s"
+      ],
+      "David M. Helman": [
+        "vince-staples-lift-me-up"
+      ],
+      "Miles Jay": [
+        "leon-bridges-river"
       ],
       "Melina Matsoukas": [
         "beyonc-formation"
@@ -10530,12 +11829,18 @@
       "Sander Houtkruijer": [
         "clark-peak-magnetic"
       ],
-      "Julien Vallée & Eve Duhamel": [
+      "Julien Vallée": [
+        "milk-bone-pressure"
+      ],
+      "Eve Duhamel": [
         "milk-bone-pressure"
       ],
       "Drew Tyndell": [
         "washed-out-floating-by",
         "dayglow-something"
+      ],
+      "Jessy Mousallem": [
+        "mashrou-leila-roman"
       ],
       "IFHT Films": [
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
@@ -10577,6 +11882,10 @@
       "Ricky Saiz": [
         "the-carters-apeshit"
       ],
+      "Calmatic": [
+        "vince-staples-fun",
+        "kendrick-lamar-squabble-up"
+      ],
       "Saad Moosajee": [
         "mitski-a-pearl"
       ],
@@ -10585,6 +11894,9 @@
       ],
       "Art Camp": [
         "mitski-a-pearl"
+      ],
+      "Isaac Ravishankara": [
+        "lany-thick-and-thin"
       ],
       "Páraic McGloughlin": [
         "weval-someday",
@@ -10607,9 +11919,6 @@
       ],
       "Jeremy Schaulin-Rioux": [
         "thao-the-get-down-stay-down-phenom"
-      ],
-      "Keith Schofield": [
-        "duck-sauce-mesmerize"
       ],
       "Xabier Mendibe": [
         "los-misterios-m-talos-y-vuelve"
@@ -10666,9 +11975,6 @@
       "Ozzie Pullin": [
         "tourist-valentine"
       ],
-      "Calmatic": [
-        "kendrick-lamar-squabble-up"
-      ],
       "Chris Buongiorno": [
         "ok-go-a-stone-only-rolls-downhill"
       ],
@@ -10687,11 +11993,17 @@
       "Miguel Espada": [
         "ok-go-love"
       ],
+      "Colin Solal Cardo": [
+        "wolf-alice-bloom-baby-bloom"
+      ],
       "Amber Grace Johnson": [
         "chappell-roan-the-subway"
       ],
       "Elliott Elder": [
         "oneohtrix-point-never-d-i-s"
+      ],
+      "Justin Daashuur Hopkins": [
+        "pink-floyd-welcome-to-the-machine"
       ],
       "Cédric Hervet": [
         "daft-punk-human-after-all"
@@ -10716,71 +12028,78 @@
   "counts": {
     "tags": {
       "360": 1,
-      "long take": 35,
-      "retro": 12,
-      "lighting": 8,
-      "confidence": 29,
+      "long take": 40,
+      "retro": 20,
+      "confidence": 32,
+      "pixilation": 8,
+      "tableau": 24,
+      "space": 8,
+      "editing": 11,
       "guitar solo": 3,
+      "cel animation": 17,
+      "illustration": 15,
+      "marbles": 2,
+      "chronophotography": 6,
+      "dance": 73,
+      "gothy": 19,
+      "surreal": 53,
+      "kaleidoscope": 6,
+      "kids": 14,
       "hair": 5,
-      "dance": 59,
-      "greenscreen": 3,
-      "joy": 7,
+      "greenscreen": 4,
+      "joy": 9,
       "lasers": 5,
-      "womxn director": 43,
-      "wut": 11,
+      "body-ody": 10,
+      "womxn director": 49,
+      "wut": 15,
+      "mirrors": 4,
       "legs": 2,
-      "machine": 8,
+      "machine": 9,
       "prosthetics": 4,
-      "birds": 3,
+      "birds": 4,
       "motorcycle": 1,
-      "cel animation": 15,
-      "collage": 12,
-      "poc director": 42,
-      "tableau": 22,
+      "collage": 13,
+      "poc director": 53,
       "stop motion": 20,
+      "top 10": 10,
       "plane": 2,
-      "pixilation": 7,
-      "narrative": 12,
-      "new york": 13,
-      "gothy": 16,
-      "horses": 3,
-      "monochrome": 25,
-      "potential nsfw": 17,
-      "body-ody": 9,
-      "ice skates": 1,
+      "narrative": 14,
+      "new york": 15,
+      "tracking shot": 3,
+      "horses": 5,
+      "monochrome": 27,
+      "lip sync": 1,
+      "potential nsfw": 20,
+      "vfx": 33,
+      "california": 8,
       "psychedelic": 15,
-      "surreal": 47,
-      "dogs": 4,
-      "slowmo": 10,
-      "california": 5,
+      "skates": 2,
+      "landscape": 4,
+      "dogs": 5,
+      "slowmo": 14,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 7,
-      "crowd": 12,
-      "surveillance": 3,
-      "architecture": 6,
-      "vfx": 29,
+      "crowd": 14,
+      "surveillance": 4,
+      "architecture": 7,
       "reverse": 4,
-      "splitscreen": 8,
+      "splitscreen": 9,
       "treadmill/escalator": 6,
+      "walk/run": 11,
       "3D animation": 8,
-      "space": 7,
-      "water": 7,
-      "explosions": 5,
+      "water": 8,
+      "explosions": 6,
       "fisheye": 1,
-      "walk/run": 8,
-      "meta": 8,
+      "meta": 10,
       "sports": 3,
       "repeat": 22,
       "twinsies": 7,
       "lofi brilliance": 7,
       "puppets": 5,
-      "kaleidoscope": 4,
-      "mirrors": 3,
       "night vision": 1,
       "soundsync": 16,
-      "kids": 11,
-      "woc director": 14,
+      "woc director": 16,
       "lego": 1,
       "pixel": 8,
       "abstract": 14,
@@ -10793,33 +12112,29 @@
       "textiles": 4,
       "cats": 3,
       "matchmove": 6,
-      "illustration": 13,
       "jump": 2,
+      "slitscan": 5,
       "mixed media": 5,
       "bike": 4,
       "keytar": 1,
-      "d&ad": 3,
-      "ukmva": 9,
+      "d&ad": 4,
+      "ukmva": 10,
+      "lighting": 7,
       "yuri norstein-esque": 2,
-      "landscape": 2,
-      "tracking shot": 2,
       "fluid dynamics": 5,
       "shapes": 6,
       "datamoshing": 1,
       "glitch": 5,
       "zoetrope": 2,
-      "interactive": 8,
+      "interactive": 6,
+      "crowdsource": 2,
       "ascii": 2,
       "marching band": 2,
       "rube goldberg": 2,
-      "chronophotography": 4,
-      "slitscan": 4,
       "match cut": 6,
       "timelapse": 1,
       "timeslice": 4,
-      "whip pan": 3,
-      "editing": 9,
-      "crowdsource": 1,
+      "whip pan": 4,
       "macro": 3,
       "dither": 1,
       "optical illusion": 3,
@@ -10827,8 +12142,9 @@
       "drone": 4,
       "umbrella": 1,
       "bus": 1,
+      "zbig rybczynski": 3,
       "crime": 2,
-      "marbles": 1,
+      "vr": 1,
       "3D printing": 2,
       "flute": 1,
       "hockney": 3,
@@ -10837,24 +12153,38 @@
     },
     "artists": {
       "Bob Dylan": 1,
-      "David Bowie": 1,
+      "Serge Gainsbourg & Brigitte Bardot": 1,
+      "David Bowie": 2,
+      "Pink Floyd": 4,
       "Queen": 1,
+      "The Pointer Sisters": 1,
+      "Kate Bush": 1,
+      "Elvis Costello & The Attractions": 1,
+      "Gary Numan": 1,
       "Prince": 2,
       "Michael Jackson": 5,
+      "Orchestral Manoeuvres In The Dark": 1,
       "Devo": 1,
+      "Olivia Newton-John": 1,
       "Talking Heads": 2,
+      "A Flock Of Seagulls": 1,
+      "Irene Cara": 1,
       "Herbie Hancock": 1,
       "Madonna": 7,
       "Prince and the Revolution": 3,
       "Robert Palmer": 1,
+      "The Cure": 1,
       "Harold Faltermeyer & Steve Stevens": 1,
       "Janet Jackson": 3,
       "Peter Gabriel": 1,
+      "When In Rome": 1,
       "Paula Abdul": 1,
       "Depeche Mode": 3,
       "George Michael": 1,
       "Prince & The New Power Generation": 1,
       "R.E.M.": 1,
+      "Meat Loaf": 1,
+      "Selena": 1,
       "Nine Inch Nails": 1,
       "Soundgarden": 1,
       "Lisa Loeb": 1,
@@ -10905,6 +12235,7 @@
       "The Rapture": 1,
       "Vitalic": 1,
       "Gnarls Barkley": 1,
+      "Goose": 1,
       "Muse": 1,
       "OK Go": 14,
       "The Horrors": 1,
@@ -10925,7 +12256,7 @@
       "Thunderheist": 1,
       "Fleet Foxes": 3,
       "Brite Futures": 1,
-      "Beyoncé": 2,
+      "Beyoncé": 3,
       "Dick Annegarn": 1,
       "The American Dollar": 1,
       "Friendly Fires": 2,
@@ -10958,6 +12289,7 @@
       "Michael Langan": 1,
       "Memory Tapes": 1,
       "tUnE-yArDs": 1,
+      "Woodkid": 1,
       "Huma-Huma": 1,
       "Son Of Kick": 1,
       "Danger Beach": 1,
@@ -10967,11 +12299,13 @@
       "Apparat": 1,
       "Casey Veggies": 1,
       "We Cut Corners": 1,
+      "Duck Sauce": 2,
       "Marian Ruzzi y Sr. Amable": 1,
       "Dear Lament": 1,
       "Danger Mouse & Daniele Luppi feat. Jack White": 1,
       "M.I.A.": 1,
       "The Shins": 1,
+      "Foster The People": 1,
       "Royksopp": 1,
       "Willow": 1,
       "PSY": 1,
@@ -10982,16 +12316,21 @@
       "Light Light": 1,
       "Karl Westman & IBM Research": 1,
       "Y.N.RichKids": 1,
+      "Gesaffelstein": 1,
       "Vial of Sound": 1,
       "Lorde": 1,
       "Boozoo Bajou": 1,
       "De Staat": 1,
+      "kwes.": 1,
       "Metronomy": 1,
+      "Kiesza": 1,
       "DJ Snake & Lil Jon": 1,
+      "Sia": 1,
       "Hundred Waters": 1,
       "Plurabelle": 1,
       "sElf": 1,
       "SARH": 1,
+      "Gerard Way": 1,
       "Nigel Stanford": 1,
       "Panda Bear": 1,
       "Childish Gambino": 2,
@@ -11000,10 +12339,12 @@
       "A Love Like Pi": 1,
       "20syl": 1,
       "ALB": 1,
+      "Donnie Trumpet & The Social Experiment": 1,
       "Hook N Sling feat. Far East Movement": 1,
       "Son Lux": 1,
       "Gilligan Moss": 1,
       "JR JR": 1,
+      "The Shoes": 1,
       "De Jeugd Van Tegenwoordig": 1,
       "Drake": 1,
       "BEATSOFREEN": 1,
@@ -11014,10 +12355,13 @@
       "Violet Sands": 1,
       "Hiérophante": 1,
       "Miike Snow": 1,
+      "Vince Staples": 2,
+      "Leon Bridges": 1,
       "Mount Moriah": 1,
       "Vessels": 1,
       "Wintergatan": 1,
       "Charles X": 1,
+      "Michael Kiwanuka": 1,
       "Andy Shauf": 1,
       "Reeps One": 1,
       "No Te Va Gustar": 1,
@@ -11030,11 +12374,13 @@
       "JAY-Z": 1,
       "JMII": 1,
       "Young Thug": 1,
+      "Sylvan Esso": 1,
       "Kendrick Lamar": 3,
       "POLO & PAN": 1,
       "Clark": 1,
       "Milk & Bone": 1,
       "Washed Out": 1,
+      "Mashrou Leila": 1,
       "IFHT ft. Micayla Gatto": 1,
       "5’Nizza": 1,
       "So Much Light": 1,
@@ -11047,13 +12393,13 @@
       "The Carters": 1,
       "Bas (ft. Correy C)": 1,
       "Mitski": 1,
+      "LANY": 1,
       "Weval": 1,
       "Thom Yorke": 1,
       "Squarepusher": 1,
       "Four Tet": 1,
       "Mild Minds": 1,
       "Thao & The Get Down Stay Down": 1,
-      "Duck Sauce": 1,
       "Los Misterios": 1,
       "Dayglow": 1,
       "Tune-Yards": 1,
@@ -11070,6 +12416,7 @@
       "Kings Of Leon": 1,
       "Tourist": 1,
       "Doechii": 1,
+      "Wolf Alice": 1,
       "Oneohtrix Point Never": 1,
       "GENER8ION & Yung Lean": 1,
       "PinkPantheress": 1,
@@ -11077,14 +12424,24 @@
     },
     "directors": {
       "D.A. Pennebaker": 1,
-      "Mick Rock": 1,
+      "François Reichenbach": 1,
+      "Malcolm J. Thomson": 1,
+      "Wayne Isham": 1,
       "Bruce Gowers": 3,
+      "Jeff Hale": 1,
+      "Keith MacMillan": 1,
+      "Paul Flattery": 1,
+      "Derek Burbidge": 1,
+      "Sir Alan Parker": 1,
       "Peter Clarson": 1,
       "Nick Saxton": 1,
+      "Steve Barron": 2,
       "Gerald V. Casale": 1,
+      "Brian Grant": 1,
       "Toni Basil": 1,
       "David Byrne": 1,
-      "Steve Barron": 1,
+      "Tony van den Ende": 1,
+      "Adrian Lyne": 1,
       "Godley & Creme": 1,
       "Uncredited": 1,
       "John Landis": 1,
@@ -11093,16 +12450,21 @@
       "Drew Takahashi": 1,
       "Terence Donovan": 1,
       "Jim Blashfield": 1,
+      "Tim Pope": 1,
       "Rebecca Blake": 2,
       "Dominic Sena": 2,
       "Stephen R. Johnson": 1,
       "James Foley": 1,
+      "uncredited": 1,
       "Colin Chilvers": 1,
       "David Fincher": 3,
       "Anton Corbijn": 4,
       "Jean-Baptiste Mondino": 2,
       "Tarsem Singh": 1,
+      "Michael Bay": 1,
+      "Cecilia Miniucchi": 1,
       "René Elizondo, Jr.": 1,
+      "Storm Thorgerson": 1,
       "Mark Romanek": 3,
       "Howard Greenhalgh": 1,
       "Ethan Hawke": 1,
@@ -11113,8 +12475,10 @@
       "Jamie Thraves": 1,
       "Jonathan Glazer": 3,
       "Charles Stone III": 1,
-      "Jonathan Dayton & Valerie Farris": 1,
+      "Jonathan Dayton": 1,
+      "Valerie Farris": 1,
       "Floria Sigismondi": 1,
+      "Dom & Nic": 2,
       "Grant Gee": 1,
       "Sophie Muller": 1,
       "Paul Thomas Anderson": 3,
@@ -11152,6 +12516,7 @@
       "Ben Dickinson": 1,
       "Pleix": 1,
       "Robert Hales": 1,
+      "Keith Schofield": 3,
       "Joseph Kahn": 1,
       "Trish Sie": 4,
       "Chris Cunningham": 1,
@@ -11200,7 +12565,7 @@
       "Syyn Labs": 1,
       "Mrzyk & Moriceau": 1,
       "Wendy Morgan": 1,
-      "Daniels": 5,
+      "Daniels": 6,
       "Chris Milk": 4,
       "Eric Gunther": 1,
       "Jeff Lieberman": 1,
@@ -11210,7 +12575,8 @@
       "Nicolas Mendez": 1,
       "Michael Langan": 3,
       "Eric Epstein": 1,
-      "Mimi Cave": 1,
+      "Mimi Cave": 2,
+      "Yoann Lemoine": 1,
       "Matt Devine": 1,
       "The Glue Society": 1,
       "Ned Wenlock": 1,
@@ -11219,6 +12585,8 @@
       "Ninian Doff": 3,
       "Pilobolus": 1,
       "Céline Desrumaux": 1,
+      "Adria Petty": 1,
+      "Beyoncé": 1,
       "John Bollozos": 1,
       "Kijek / Adamski": 2,
       "David Lewandowski": 1,
@@ -11242,34 +12610,44 @@
       "Studio Smack": 1,
       "Floris Kaayk": 1,
       "Torre Florim": 1,
+      "Ian Pons Jewell": 1,
+      "Kiesza": 1,
+      "Ljuba Castot": 1,
+      "Rami Samir Afuni": 1,
+      "Sia": 1,
+      "Daniel Askill": 1,
       "Mattis Dovier": 1,
       "Aaron Duffy": 2,
       "Bob Partington": 1,
       "Ballard C. Boyd": 1,
       "Paul Trillo": 4,
+      "Jennifer Juniper Stratford": 1,
       "Kazuaki Seki": 1,
       "Shahir Daud": 1,
-      "Hiro Murai": 3,
+      "Hiro Murai": 4,
       "Ewan Jones Morris": 1,
       "Thomas Rhazi": 1,
       "Kim Pimmel": 1,
       "Thomas Porthé": 1,
       "Julien Lassort": 1,
+      "Austin Vesely": 1,
       "Nelson De Castro": 1,
       "Carlos López Estrada": 1,
       "Nathan Johnson": 1,
       "Oscar Hudson": 3,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
+      "Dent de Cuir": 1,
       "Lernert & Sander": 1,
       "Director X": 1,
       "Hideki Inaba": 1,
       "J.A.C.K.": 1,
       "Winston Hacking": 2,
       "Najeeb Tarazi": 2,
-      "Dom & Nic": 1,
       "Dress Code": 1,
       "Hiérophante": 1,
+      "David M. Helman": 1,
+      "Miles Jay": 1,
       "Melina Matsoukas": 1,
       "Fidel Ruiz-Healy": 1,
       "Chloe Hayward": 1,
@@ -11292,8 +12670,10 @@
       "The Little Homies": 1,
       "Pablo Maestres": 1,
       "Sander Houtkruijer": 1,
-      "Julien Vallée & Eve Duhamel": 1,
+      "Julien Vallée": 1,
+      "Eve Duhamel": 1,
       "Drew Tyndell": 2,
+      "Jessy Mousallem": 1,
       "IFHT Films": 1,
       "Max Ksjonda": 1,
       "Jane Qian": 1,
@@ -11307,9 +12687,11 @@
       "Lacey Duke": 1,
       "Vincenzo Lodigiani": 1,
       "Ricky Saiz": 1,
+      "Calmatic": 2,
       "Saad Moosajee": 1,
       "Danae Gosset": 1,
       "Art Camp": 1,
+      "Isaac Ravishankara": 1,
       "Páraic McGloughlin": 2,
       "Andy Fisher": 1,
       "Daito Manabe": 1,
@@ -11317,7 +12699,6 @@
       "Colin Read": 1,
       "Erin S. Murray": 1,
       "Jeremy Schaulin-Rioux": 1,
-      "Keith Schofield": 1,
       "Xabier Mendibe": 1,
       "David Li": 1,
       "with Google Arts & Culture, Done & Dusted, and Acronym": 1,
@@ -11336,15 +12717,16 @@
       "C Prinz": 1,
       "Brook Linder": 1,
       "Ozzie Pullin": 1,
-      "Calmatic": 1,
       "Chris Buongiorno": 1,
       "Lady Gaga": 1,
       "Parris Goebel": 1,
       "Bethany Vargas": 1,
       "James Mackel": 1,
       "Miguel Espada": 1,
+      "Colin Solal Cardo": 1,
       "Amber Grace Johnson": 1,
       "Elliott Elder": 1,
+      "Justin Daashuur Hopkins": 1,
       "Cédric Hervet": 1,
       "Helen Morales": 1,
       "METTE": 1,
