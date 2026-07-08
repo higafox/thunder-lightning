@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Video, VideoData } from "@/lib/types";
 import { useVideoData } from "@/lib/useVideoData";
 
@@ -24,6 +24,8 @@ export function ArchiveGrid() {
 function ArchiveGridReady({ data }: { data: VideoData }) {
   const router = useRouter();
   const { videos: V, playlists: PL, counts: CT, meta: META } = data;
+  const archiveRef = useRef<HTMLDivElement>(null);
+  const [showFloatingTop, setShowFloatingTop] = useState(false);
 
   const [search, setSearch] = useState("");
   // initialized from the URL (?tag=...) so a filtered archive link is
@@ -49,6 +51,17 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     update();
     window.addEventListener("resize", update);
     return () => window.removeEventListener("resize", update);
+  }, []);
+
+  // #archive is its own scrollable container (position: fixed + overflow-y:
+  // auto), not the window -- show a floating "scroll to top" once you've
+  // scrolled past ~3 viewport heights of it.
+  useEffect(() => {
+    const el = archiveRef.current;
+    if (!el) return;
+    const onScroll = () => setShowFloatingTop(el.scrollTop > el.clientHeight * 3);
+    el.addEventListener("scroll", onScroll);
+    return () => el.removeEventListener("scroll", onScroll);
   }, []);
 
   // keep ?tag= in sync with the current filter so a filtered view is
@@ -98,7 +111,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   }, [list, numCols]);
 
   return (
-    <div id="archive">
+    <div id="archive" ref={archiveRef}>
       <div className="arcHead">
         <div className="t">{META.title}</div>
         <div className="st">{META.subtitle}</div>
@@ -160,6 +173,14 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
             onClick={(e) => e.currentTarget.closest("#archive")?.scrollTo({ top: 0, behavior: "smooth" })}
           >
             ↑ Scroll to top
+          </button>
+          <button
+            className={`arcToTopFloat${showFloatingTop ? " show" : ""}`}
+            onClick={() => archiveRef.current?.scrollTo({ top: 0, behavior: "smooth" })}
+            aria-hidden={!showFloatingTop}
+            tabIndex={showFloatingTop ? 0 : -1}
+          >
+            ↑ Top
           </button>
         </>
       )}
