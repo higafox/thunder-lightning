@@ -145,15 +145,23 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
       {list.length === 0 ? (
         <div className="empty">Nothing matches that thread.</div>
       ) : (
-        <div className="archiveGrid">
-          {columns.map((col, i) => (
-            <div className="archiveCol" key={i}>
-              {col.map((id) => (
-                <Cell key={id} video={V[id]} />
-              ))}
-            </div>
-          ))}
-        </div>
+        <>
+          <div className="archiveGrid">
+            {columns.map((col, i) => (
+              <div className="archiveCol" key={i}>
+                {col.map((id) => (
+                  <Cell key={id} video={V[id]} />
+                ))}
+              </div>
+            ))}
+          </div>
+          <button
+            className="arcToTop"
+            onClick={(e) => e.currentTarget.closest("#archive")?.scrollTo({ top: 0, behavior: "smooth" })}
+          >
+            ↑ Scroll to top
+          </button>
+        </>
       )}
     </div>
   );
