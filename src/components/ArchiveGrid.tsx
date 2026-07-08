@@ -34,7 +34,9 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   // ArchiveGrid above), so reading window here can't cause a hydration
   // mismatch.
   const [selTag, setSelTag] = useState<string | null>(() => new URLSearchParams(window.location.search).get("tag"));
-  const [shuffled, setShuffled] = useState<string[] | null>(null);
+  // shuffled on mount so each fresh visit to the archive looks different by
+  // default, rather than always opening on the same newest-first order.
+  const [shuffled, setShuffled] = useState<string[] | null>(() => shuffleArray(PL.timeline));
   // null = untouched (defaults to newest-first, same ordering as "desc" below
   // but shown unhighlighted); once clicked it only ever alternates asc/desc,
   // it never falls back to the unhighlighted default.
