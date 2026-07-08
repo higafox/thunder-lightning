@@ -550,14 +550,16 @@ a {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--dim);
-  border: 1px solid var(--line);
+  background: var(--pill);
+  border: 1px solid rgba(232, 210, 106, 0.35);
   border-radius: var(--radius);
   padding: 9px 16px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
   transition: all 0.2s;
 }
 .arcToTop:hover {
   color: var(--ink);
-  border-color: var(--dim);
+  border-color: var(--active);
 }
 .arcToTopFloat {
   position: fixed;
@@ -568,11 +570,11 @@ a {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink);
-  background: var(--bg2);
-  border: 1px solid rgba(232, 210, 106, 0.55);
+  background: var(--pill);
+  border: 1px solid rgba(232, 210, 106, 0.45);
   border-radius: var(--radius);
   padding: 11px 20px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 20px var(--activeglow);
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.35), 0 0 12px var(--activeglow);
   opacity: 0;
   transform: translate(-50%, 8px);
   pointer-events: none;
