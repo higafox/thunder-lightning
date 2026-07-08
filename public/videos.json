@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 360,
-    "totalArtists": 269,
-    "totalDirectors": 310,
-    "totalTags": 123
+    "totalVideos": 369,
+    "totalArtists": 276,
+    "totalDirectors": 314,
+    "totalTags": 124
   },
   "videos": {
     "mette-van-gogh": {
@@ -468,6 +468,7 @@
       "vimeoId": "149637214",
       "thumbnailUrl": "https://img.youtube.com/vi/-N4jf6rtyuw/hqdefault.jpg",
       "tags": [
+        "kaleidoscope",
         "psychedelic"
       ],
       "embedBroken": false
@@ -1283,7 +1284,8 @@
         "dance",
         "joy",
         "matchmove",
-        "new york"
+        "new york",
+        "top 10"
       ],
       "embedBroken": false
     },
@@ -1821,8 +1823,7 @@
       "tags": [
         "busby berkeley",
         "crowd",
-        "dance",
-        "greenscreen"
+        "dance"
       ],
       "embedBroken": true
     },
@@ -2125,6 +2126,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BwZkIEQDj10/hqdefault.jpg",
       "tags": [
         "ai",
+        "louvre",
         "surreal"
       ],
       "embedBroken": false
@@ -4335,7 +4337,6 @@
       "thumbnailUrl": "https://vumbnail.com/145304321.jpg",
       "tags": [
         "lofi brilliance",
-        "optical illusion",
         "wut"
       ],
       "embedBroken": true
@@ -4635,7 +4636,6 @@
       "tags": [
         "interactive",
         "meta",
-        "top 10",
         "walk/run"
       ],
       "embedBroken": false
@@ -5429,6 +5429,7 @@
         "architecture",
         "body-ody",
         "dance",
+        "louvre",
         "tableau"
       ],
       "embedBroken": false
@@ -5836,6 +5837,7 @@
       "tags": [
         "dance",
         "greenscreen",
+        "retro",
         "womxn director",
         "wut"
       ],
@@ -6980,7 +6982,8 @@
         "abstract",
         "architecture",
         "drone",
-        "repeat"
+        "repeat",
+        "vfx"
       ],
       "embedBroken": false
     },
@@ -7677,6 +7680,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/aZcB9maO1-E/hqdefault.jpg",
       "tags": [
         "chronophotography",
+        "glitch",
         "retro",
         "womxn director"
       ],
@@ -7733,14 +7737,15 @@
         "Keith Schofield"
       ],
       "directorAffiliate": null,
-      "dateDisplay": "June 2006",
-      "sortDate": "2006-06-01",
+      "dateDisplay": "September 2006",
+      "sortDate": "2006-09-03",
       "year": 2006,
       "provider": "youtube",
       "youtubeId": "I0eMErWfA-k",
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/I0eMErWfA-k/hqdefault.jpg",
       "tags": [
+        "optical illusion",
         "slitscan"
       ],
       "embedBroken": false
@@ -8364,6 +8369,212 @@
         "tracking shot"
       ],
       "embedBroken": false
+    },
+    "j-dilla-nothing-like-this": {
+      "id": "j-dilla-nothing-like-this",
+      "artist": "J Dilla",
+      "song": "Nothing Like This",
+      "director": "Mixtape Club & Daniel Garcia",
+      "directors": [
+        "Mixtape Club",
+        "Daniel Garcia"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "November 2006",
+      "sortDate": "2006-11-17",
+      "year": 2006,
+      "provider": "youtube",
+      "youtubeId": "_ncSt5xC8Uk",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/_ncSt5xC8Uk/hqdefault.jpg",
+      "tags": [
+        "kaiju",
+        "poc director",
+        "water",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "el-p-feat-trent-reznor-flyentology": {
+      "id": "el-p-feat-trent-reznor-flyentology",
+      "artist": "EL-P feat. Trent Reznor",
+      "song": "Flyentology",
+      "director": "Daniel Garcia & Nathan Love",
+      "directors": [
+        "Daniel Garcia & Nathan Love"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2007",
+      "sortDate": "2007-01-01",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "2dBqGINeDvg",
+      "vimeoId": "23579068",
+      "thumbnailUrl": "https://img.youtube.com/vi/2dBqGINeDvg/hqdefault.jpg",
+      "tags": [
+        "3D animation"
+      ],
+      "embedBroken": false
+    },
+    "killer-mike-reagan": {
+      "id": "killer-mike-reagan",
+      "artist": "Killer Mike",
+      "song": "Reagan",
+      "director": "Daniel Garcia & Harry Teitelman",
+      "directors": [
+        "Daniel Garcia",
+        "Harry Teitelman"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2012",
+      "sortDate": "2012-10-03",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "6lIqNjC1RKU",
+      "vimeoId": "49052101",
+      "thumbnailUrl": "https://img.youtube.com/vi/6lIqNjC1RKU/hqdefault.jpg",
+      "tags": [
+        "cel animation",
+        "illustration",
+        "ukmva"
+      ],
+      "embedBroken": false
+    },
+    "lcd-soundsystem-drunk-girls-holy-ghost-remix": {
+      "id": "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+      "artist": "LCD Soundsystem",
+      "song": "Drunk Girls (Holy Ghost! Remix)",
+      "director": "Daniel Garcia",
+      "directors": [
+        "Daniel Garcia"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2010",
+      "sortDate": "2010-01-01",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "hwnuRkZqApE",
+      "vimeoId": "13867332",
+      "thumbnailUrl": "https://img.youtube.com/vi/hwnuRkZqApE/hqdefault.jpg",
+      "tags": [
+        "bike",
+        "new york"
+      ],
+      "embedBroken": false
+    },
+    "flying-lotus-infinitum": {
+      "id": "flying-lotus-infinitum",
+      "artist": "Flying Lotus",
+      "song": "Infinitum",
+      "director": "Daniel Garcia",
+      "directors": [
+        "Daniel Garcia"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2008",
+      "sortDate": "2008-01-01",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "UfH3I0oRihc",
+      "vimeoId": "11686865",
+      "thumbnailUrl": "https://img.youtube.com/vi/UfH3I0oRihc/hqdefault.jpg",
+      "tags": [
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "tv-on-the-radio-me-i": {
+      "id": "tv-on-the-radio-me-i",
+      "artist": "TV on the Radio",
+      "song": "Me-I",
+      "director": "Mixtape Club & Daniel Garcia",
+      "directors": [
+        "Mixtape Club",
+        "Daniel Garcia"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2007",
+      "sortDate": "2007-05-01",
+      "year": 2007,
+      "provider": "youtube",
+      "youtubeId": "ntLBI-TmMg8",
+      "vimeoId": "4272075",
+      "thumbnailUrl": "https://img.youtube.com/vi/ntLBI-TmMg8/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "birds",
+        "busby berkeley",
+        "poc director",
+        "surreal",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "passion-pit-take-a-walk": {
+      "id": "passion-pit-take-a-walk",
+      "artist": "Passion Pit",
+      "song": "Take a Walk",
+      "director": "David Wilson",
+      "directors": [
+        "David Wilson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2012",
+      "sortDate": "2012-06-14",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "dZX6Q-Bj_xg",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/dZX6Q-Bj_xg/hqdefault.jpg",
+      "tags": [
+        "landscape",
+        "tracking shot"
+      ],
+      "embedBroken": false
+    },
+    "my-morning-jacket-touch-me-im-going-to-scream-part-2": {
+      "id": "my-morning-jacket-touch-me-im-going-to-scream-part-2",
+      "artist": "My Morning Jacket",
+      "song": "Touch Me I’m Going To Scream, Part 2",
+      "director": "Mixtape Club",
+      "directors": [
+        "Mixtape Club"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2008",
+      "sortDate": "2008-01-01",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "zs7FG7usAAw",
+      "vimeoId": "4265517",
+      "thumbnailUrl": "https://img.youtube.com/vi/zs7FG7usAAw/hqdefault.jpg",
+      "tags": [
+        "narrative"
+      ],
+      "embedBroken": false
+    },
+    "passion-pit-sleepyhead": {
+      "id": "passion-pit-sleepyhead",
+      "artist": "Passion Pit",
+      "song": "Sleepyhead",
+      "director": "The Wilderness",
+      "directors": [
+        "The Wilderness"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2008",
+      "sortDate": "2008-10-15",
+      "year": 2008,
+      "provider": "youtube",
+      "youtubeId": "T0RvPYRRRbE",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/T0RvPYRRRbE/hqdefault.jpg",
+      "tags": [
+        "zoetrope"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -8488,23 +8699,28 @@
       "the-rapture-whoo-alright-yeah-uh-huh",
       "vitalic-poney-part-1-birds",
       "gnarls-barkley-crazy",
-      "goose-british-mode",
       "muse-knights-of-cydonia",
       "ok-go-here-it-goes-again",
       "the-horrors-sheena-is-a-parasite",
       "ogiyahagi-i-love-your-face",
+      "goose-british-mode",
       "i-love-you-but-ive-chosen-darkness-the-owl",
       "regina-spektor-samson",
+      "j-dilla-nothing-like-this",
+      "el-p-feat-trent-reznor-flyentology",
       "modest-mouse-dashboard",
       "battles-atlas",
       "feist-1234",
       "justice-d-a-n-c-e",
+      "tv-on-the-radio-me-i",
       "grizzly-bear-knife",
       "feist-my-moon-my-man",
       "flight-of-the-conchords-not-crying",
       "bat-for-lashes-whats-a-girl-to-do",
       "r2j2-work-it-out",
       "snoop-dogg-sensual-seduction",
+      "flying-lotus-infinitum",
+      "my-morning-jacket-touch-me-im-going-to-scream-part-2",
       "bellx1-rocky-took-a-lover",
       "feist-i-feel-it-all",
       "goldfrapp-happiness",
@@ -8513,6 +8729,7 @@
       "fleet-foxes-white-winter-hymnal",
       "brite-futures-sophisticated-side-ponytail",
       "beyonc-single-ladies-put-a-ring-on-it",
+      "passion-pit-sleepyhead",
       "dick-annegarn-soleil-du-soir",
       "the-american-dollar-anything-you-synthesize",
       "friendly-fires-skeleton-boy",
@@ -8532,6 +8749,7 @@
       "beck-black-tambourine",
       "lady-gaga-bad-romance",
       "the-presets-girl-and-the-sea",
+      "lcd-soundsystem-drunk-girls-holy-ghost-remix",
       "ok-go-this-too-shall-pass",
       "paul-dempsey-bats",
       "kumisolo-cheap-pop-song",
@@ -8577,9 +8795,11 @@
       "the-shins-simple-song",
       "foster-the-people-houdini",
       "royksopp-so-easy-unofficial-video",
+      "passion-pit-take-a-walk",
       "willow-sweater",
       "psy-gangnam-style",
       "flying-lotus-until-the-quiet-comes",
+      "killer-mike-reagan",
       "bj-rk-mutual-core",
       "shugo-tokumaru-katachi",
       "bonobo-cirrus",
@@ -8782,6 +9002,7 @@
         "orchestral-manoeuvres-in-the-dark-enola-gay",
         "devo-whip-it",
         "olivia-newton-john-physical",
+        "talking-heads-once-in-a-lifetime",
         "a-flock-of-seagulls-i-ran",
         "madonna-material-girl",
         "smashing-pumpkins-tonight-tonight",
@@ -8908,6 +9129,7 @@
         "we-cut-corners-pirates-life",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
         "royksopp-so-easy-unofficial-video",
+        "killer-mike-reagan",
         "iron-wine-joy",
         "vial-of-sound-a-lifetime-passed",
         "beatsofreen-slowly-rising",
@@ -8928,6 +9150,7 @@
         "marian-ruzzi-y-sr-amable-una-pieza-mas",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
         "royksopp-so-easy-unofficial-video",
+        "killer-mike-reagan",
         "panda-bear-boys-latin",
         "charles-x-can-you-do-it"
       ],
@@ -9054,8 +9277,10 @@
         "bj-rk-triumph-of-a-heart",
         "cornelius-fit-song",
         "ogiyahagi-i-love-your-face",
+        "tv-on-the-radio-me-i",
         "grizzly-bear-knife",
         "bat-for-lashes-whats-a-girl-to-do",
+        "flying-lotus-infinitum",
         "bj-rk-wanderlust",
         "fever-ray-when-i-grow-up",
         "the-hundred-in-the-hands-pigeons",
@@ -9099,6 +9324,7 @@
         "a-flock-of-seagulls-i-ran",
         "the-chemical-brothers-let-forever-be",
         "the-white-stripes-seven-nation-army",
+        "gnarls-barkley-crazy",
         "ok-go-all-is-not-lost",
         "ok-go-love"
       ],
@@ -9128,8 +9354,7 @@
       "greenscreen": [
         "michael-jackson-dont-stop-til-you-get-enough",
         "orchestral-manoeuvres-in-the-dark-enola-gay",
-        "talking-heads-once-in-a-lifetime",
-        "bj-rk-its-oh-so-quiet"
+        "talking-heads-once-in-a-lifetime"
       ],
       "joy": [
         "michael-jackson-dont-stop-til-you-get-enough",
@@ -9177,6 +9402,8 @@
         "yuki-sentimental-journey",
         "ok-go-here-it-goes-again",
         "ogiyahagi-i-love-your-face",
+        "j-dilla-nothing-like-this",
+        "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
         "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
@@ -9259,6 +9486,7 @@
       "birds": [
         "prince-and-the-revolution-when-doves-cry",
         "i-love-you-but-ive-chosen-darkness-the-owl",
+        "tv-on-the-radio-me-i",
         "thunderheist-jerk-it",
         "woodkid-iron"
       ],
@@ -9293,6 +9521,8 @@
         "cornelius-fit-song",
         "muse-knights-of-cydonia",
         "ogiyahagi-i-love-your-face",
+        "j-dilla-nothing-like-this",
+        "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
         "chairlift-evident-utensil",
         "radiohead-weird-fishes-arpeggi",
@@ -9362,8 +9592,8 @@
         "bj-rk-bachelorette",
         "blur-coffee-tv",
         "the-darkness-i-believe-in-a-thing-called-love",
+        "the-rapture-whoo-alright-yeah-uh-huh",
         "bellx1-rocky-took-a-lover",
-        "arcade-fire-we-used-to-wait",
         "el-guincho-bombay",
         "light-light-kilo-do-not-touch",
         "bomba-est-reo-soy-yo",
@@ -9380,6 +9610,7 @@
         "radiohead-just",
         "blur-coffee-tv",
         "bj-rk-triumph-of-a-heart",
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
         "flying-lotus-until-the-quiet-comes",
@@ -9400,6 +9631,7 @@
         "the-rapture-whoo-alright-yeah-uh-huh",
         "flight-of-the-conchords-not-crying",
         "dick-annegarn-soleil-du-soir",
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
         "memory-tapes-yes-i-know",
         "kiesza-hideaway",
         "bomba-est-reo-soy-yo",
@@ -9409,6 +9641,7 @@
       "tracking shot": [
         "when-in-rome-the-promise",
         "the-american-dollar-anything-you-synthesize",
+        "passion-pit-take-a-walk",
         "mild-minds-walls"
       ],
       "horses": [
@@ -9501,6 +9734,7 @@
         "5nizza-samoliot",
         "gaz-coombes-walk-the-walk",
         "the-chemical-brothers-weve-got-to-try",
+        "max-cooper-repetition",
         "squarepusher-terminal-slam",
         "mild-minds-walls",
         "paul-kalkbrenner-schwer",
@@ -9541,6 +9775,7 @@
       "landscape": [
         "pink-floyd-high-hopes",
         "the-american-dollar-anything-you-synthesize",
+        "passion-pit-take-a-walk",
         "max-cooper-circular",
         "pink-floyd-welcome-to-the-machine"
       ],
@@ -9587,6 +9822,7 @@
         "bj-rk-its-oh-so-quiet",
         "daft-punk-around-the-world",
         "the-chemical-brothers-let-forever-be",
+        "tv-on-the-radio-me-i",
         "ok-go-this-too-shall-pass",
         "ok-go-i-wont-let-you-down",
         "tourist-valentine",
@@ -9666,6 +9902,8 @@
         "autechre-gantz-graf",
         "twerk-from-brown-to-green",
         "mickey-3d-respire",
+        "el-p-feat-trent-reznor-flyentology",
+        "tv-on-the-radio-me-i",
         "radiohead-weird-fishes-arpeggi",
         "bj-rk-mutual-core",
         "panda-bear-boys-latin",
@@ -9673,6 +9911,7 @@
       ],
       "water": [
         "radiohead-no-surprises",
+        "j-dilla-nothing-like-this",
         "bj-rk-wanderlust",
         "fever-ray-when-i-grow-up",
         "willow-sweater",
@@ -9783,6 +10022,8 @@
         "missy-elliott-work-it",
         "yuki-sentimental-journey",
         "ogiyahagi-i-love-your-face",
+        "j-dilla-nothing-like-this",
+        "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
         "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
@@ -9867,7 +10108,8 @@
       ],
       "kaiju": [
         "the-darkness-i-believe-in-a-thing-called-love",
-        "stereogram-walkie-talkie-man"
+        "stereogram-walkie-talkie-man",
+        "j-dilla-nothing-like-this"
       ],
       "claps": [
         "outkast-hey-ya",
@@ -9897,6 +10139,11 @@
         "vitalic-poney-part-1-birds",
         "goldfrapp-happiness"
       ],
+      "optical illusion": [
+        "goose-british-mode",
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-love"
+      ],
       "slitscan": [
         "goose-british-mode",
         "fm-belfast-underwear",
@@ -9913,6 +10160,7 @@
       ],
       "bike": [
         "bat-for-lashes-whats-a-girl-to-do",
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
         "y-n-richkids-my-bike",
         "bomba-est-reo-soy-yo",
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
@@ -9928,6 +10176,7 @@
       ],
       "ukmva": [
         "bj-rk-wanderlust",
+        "killer-mike-reagan",
         "light-light-kilo-do-not-touch",
         "kiesza-hideaway",
         "childish-gambino-this-is-america",
@@ -9951,6 +10200,11 @@
         "fleet-foxes-white-winter-hymnal",
         "the-presets-girl-and-the-sea"
       ],
+      "zoetrope": [
+        "passion-pit-sleepyhead",
+        "moray-mclaren-we-got-time",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
       "fluid dynamics": [
         "friendly-fires-skeleton-boy",
         "bj-rk-mutual-core",
@@ -9972,13 +10226,10 @@
       "glitch": [
         "chairlift-evident-utensil",
         "boys-noize-jeffer",
+        "gerard-way-millions",
         "thom-yorke-anima",
         "squarepusher-terminal-slam",
         "bonobo-me-and-you"
-      ],
-      "zoetrope": [
-        "moray-mclaren-we-got-time",
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "interactive": [
         "labuat-soy-tu-aire",
@@ -10035,11 +10286,6 @@
       "dither": [
         "plurabelle-our-fires"
       ],
-      "optical illusion": [
-        "ok-go-the-writings-on-the-wall",
-        "darwin-deez-the-mess-she-made",
-        "ok-go-love"
-      ],
       "long exposure": [
         "sarh-u-and-i"
       ],
@@ -10078,6 +10324,10 @@
         "gaz-coombes-walk-the-walk",
         "bas-ft-correy-c-fragrance",
         "ok-go-a-stone-only-rolls-downhill"
+      ],
+      "louvre": [
+        "the-carters-apeshit",
+        "jacques-absolve"
       ],
       "rotoscoping": [
         "mitski-a-pearl"
@@ -10381,9 +10631,6 @@
       "Gnarls Barkley": [
         "gnarls-barkley-crazy"
       ],
-      "Goose": [
-        "goose-british-mode"
-      ],
       "Muse": [
         "muse-knights-of-cydonia"
       ],
@@ -10409,11 +10656,20 @@
       "Ogiyahagi": [
         "ogiyahagi-i-love-your-face"
       ],
+      "Goose": [
+        "goose-british-mode"
+      ],
       "I Love You But I’ve Chosen Darkness": [
         "i-love-you-but-ive-chosen-darkness-the-owl"
       ],
       "Regina Spektor": [
         "regina-spektor-samson"
+      ],
+      "J Dilla": [
+        "j-dilla-nothing-like-this"
+      ],
+      "EL-P feat. Trent Reznor": [
+        "el-p-feat-trent-reznor-flyentology"
       ],
       "Modest Mouse": [
         "modest-mouse-dashboard"
@@ -10432,6 +10688,9 @@
       "Justice": [
         "justice-d-a-n-c-e"
       ],
+      "TV on the Radio": [
+        "tv-on-the-radio-me-i"
+      ],
       "Grizzly Bear": [
         "grizzly-bear-knife",
         "grizzly-bear-while-you-wait-for-the-others"
@@ -10447,6 +10706,13 @@
       ],
       "Snoop Dogg": [
         "snoop-dogg-sensual-seduction"
+      ],
+      "Flying Lotus": [
+        "flying-lotus-infinitum",
+        "flying-lotus-until-the-quiet-comes"
+      ],
+      "My Morning Jacket": [
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2"
       ],
       "BellX1": [
         "bellx1-rocky-took-a-lover"
@@ -10469,6 +10735,10 @@
         "beyonc-single-ladies-put-a-ring-on-it",
         "beyonc-countdown",
         "beyonc-formation"
+      ],
+      "Passion Pit": [
+        "passion-pit-sleepyhead",
+        "passion-pit-take-a-walk"
       ],
       "Dick Annegarn": [
         "dick-annegarn-soleil-du-soir"
@@ -10520,6 +10790,9 @@
       ],
       "The Presets": [
         "the-presets-girl-and-the-sea"
+      ],
+      "LCD Soundsystem": [
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix"
       ],
       "Paul Dempsey": [
         "paul-dempsey-bats"
@@ -10635,8 +10908,8 @@
       "PSY": [
         "psy-gangnam-style"
       ],
-      "Flying Lotus": [
-        "flying-lotus-until-the-quiet-comes"
+      "Killer Mike": [
+        "killer-mike-reagan"
       ],
       "Shugo Tokumaru": [
         "shugo-tokumaru-katachi"
@@ -11311,11 +11584,6 @@
       "Robert Hales": [
         "gnarls-barkley-crazy"
       ],
-      "Keith Schofield": [
-        "goose-british-mode",
-        "duck-sauce-big-bad-wolf",
-        "duck-sauce-mesmerize"
-      ],
       "Joseph Kahn": [
         "muse-knights-of-cydonia"
       ],
@@ -11328,11 +11596,34 @@
       "Chris Cunningham": [
         "the-horrors-sheena-is-a-parasite"
       ],
+      "Keith Schofield": [
+        "goose-british-mode",
+        "duck-sauce-big-bad-wolf",
+        "duck-sauce-mesmerize"
+      ],
       "Emmanuel Ho": [
         "i-love-you-but-ive-chosen-darkness-the-owl"
       ],
       "Peter Sluzka": [
         "regina-spektor-samson"
+      ],
+      "Mixtape Club": [
+        "j-dilla-nothing-like-this",
+        "tv-on-the-radio-me-i",
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2",
+        "yeasayer-wait-for-the-summer",
+        "the-pains-of-being-pure-at-heart-say-no-to-love",
+        "huma-huma-hello-i-like-you"
+      ],
+      "Daniel Garcia": [
+        "j-dilla-nothing-like-this",
+        "tv-on-the-radio-me-i",
+        "flying-lotus-infinitum",
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "killer-mike-reagan"
+      ],
+      "Daniel Garcia & Nathan Love": [
+        "el-p-feat-trent-reznor-flyentology"
       ],
       "Matthew Cullen": [
         "modest-mouse-dashboard"
@@ -11380,6 +11671,9 @@
       "Jake Nava": [
         "beyonc-single-ladies-put-a-ring-on-it"
       ],
+      "The Wilderness": [
+        "passion-pit-sleepyhead"
+      ],
       "Onesize": [
         "the-american-dollar-anything-you-synthesize"
       ],
@@ -11395,11 +11689,6 @@
       "Robert Hodgin": [
         "radiohead-weird-fishes-arpeggi"
       ],
-      "Mixtape Club": [
-        "yeasayer-wait-for-the-summer",
-        "the-pains-of-being-pure-at-heart-say-no-to-love",
-        "huma-huma-hello-i-like-you"
-      ],
       "Taylor Cohen": [
         "matt-and-kim-lessons-learned"
       ],
@@ -11407,7 +11696,8 @@
         "matt-and-kim-lessons-learned"
       ],
       "David Wilson": [
-        "moray-mclaren-we-got-time"
+        "moray-mclaren-we-got-time",
+        "passion-pit-take-a-walk"
       ],
       "Herraiz&Soto": [
         "labuat-soy-tu-aire"
@@ -11603,6 +11893,9 @@
       ],
       "Kahlil Joseph": [
         "flying-lotus-until-the-quiet-comes"
+      ],
+      "Harry Teitelman": [
+        "killer-mike-reagan"
       ],
       "Andrew Thomas Huang": [
         "bj-rk-mutual-core"
@@ -12029,57 +12322,57 @@
     "tags": {
       "360": 1,
       "long take": 40,
-      "retro": 20,
+      "retro": 21,
       "confidence": 32,
       "pixilation": 8,
       "tableau": 24,
       "space": 8,
       "editing": 11,
       "guitar solo": 3,
-      "cel animation": 17,
-      "illustration": 15,
+      "cel animation": 18,
+      "illustration": 16,
       "marbles": 2,
       "chronophotography": 6,
       "dance": 73,
       "gothy": 19,
-      "surreal": 53,
-      "kaleidoscope": 6,
+      "surreal": 55,
+      "kaleidoscope": 7,
       "kids": 14,
       "hair": 5,
-      "greenscreen": 4,
+      "greenscreen": 3,
       "joy": 9,
       "lasers": 5,
       "body-ody": 10,
-      "womxn director": 49,
+      "womxn director": 51,
       "wut": 15,
       "mirrors": 4,
       "legs": 2,
       "machine": 9,
       "prosthetics": 4,
-      "birds": 4,
+      "birds": 5,
       "motorcycle": 1,
       "collage": 13,
-      "poc director": 53,
+      "poc director": 55,
       "stop motion": 20,
       "top 10": 10,
       "plane": 2,
-      "narrative": 14,
-      "new york": 15,
-      "tracking shot": 3,
+      "narrative": 15,
+      "new york": 16,
+      "tracking shot": 4,
       "horses": 5,
       "monochrome": 27,
       "lip sync": 1,
       "potential nsfw": 20,
-      "vfx": 33,
+      "vfx": 34,
       "california": 8,
       "psychedelic": 15,
       "skates": 2,
-      "landscape": 4,
+      "landscape": 5,
       "dogs": 5,
       "slowmo": 14,
       "cars": 6,
       "desert": 6,
-      "busby berkeley": 7,
+      "busby berkeley": 8,
       "crowd": 14,
       "surveillance": 4,
       "architecture": 7,
@@ -12087,8 +12380,8 @@
       "splitscreen": 9,
       "treadmill/escalator": 6,
       "walk/run": 11,
-      "3D animation": 8,
-      "water": 8,
+      "3D animation": 10,
+      "water": 9,
       "explosions": 6,
       "fisheye": 1,
       "meta": 10,
@@ -12099,7 +12392,7 @@
       "puppets": 5,
       "night vision": 1,
       "soundsync": 16,
-      "woc director": 16,
+      "woc director": 18,
       "lego": 1,
       "pixel": 8,
       "abstract": 14,
@@ -12107,25 +12400,26 @@
       "projection mapping": 5,
       "orbiting": 10,
       "loops": 13,
-      "kaiju": 2,
+      "kaiju": 3,
       "claps": 3,
       "textiles": 4,
       "cats": 3,
       "matchmove": 6,
       "jump": 2,
+      "optical illusion": 3,
       "slitscan": 5,
       "mixed media": 5,
-      "bike": 4,
+      "bike": 5,
       "keytar": 1,
       "d&ad": 4,
-      "ukmva": 10,
+      "ukmva": 11,
       "lighting": 7,
       "yuri norstein-esque": 2,
+      "zoetrope": 3,
       "fluid dynamics": 5,
       "shapes": 6,
       "datamoshing": 1,
-      "glitch": 5,
-      "zoetrope": 2,
+      "glitch": 6,
       "interactive": 6,
       "crowdsource": 2,
       "ascii": 2,
@@ -12137,7 +12431,6 @@
       "whip pan": 4,
       "macro": 3,
       "dither": 1,
-      "optical illusion": 3,
       "long exposure": 1,
       "drone": 4,
       "umbrella": 1,
@@ -12148,6 +12441,7 @@
       "3D printing": 2,
       "flute": 1,
       "hockney": 3,
+      "louvre": 2,
       "rotoscoping": 1,
       "ai": 1
     },
@@ -12235,28 +12529,34 @@
       "The Rapture": 1,
       "Vitalic": 1,
       "Gnarls Barkley": 1,
-      "Goose": 1,
       "Muse": 1,
       "OK Go": 14,
       "The Horrors": 1,
       "Ogiyahagi": 1,
+      "Goose": 1,
       "I Love You But I’ve Chosen Darkness": 1,
       "Regina Spektor": 1,
+      "J Dilla": 1,
+      "EL-P feat. Trent Reznor": 1,
       "Modest Mouse": 1,
       "Battles": 4,
       "Feist": 3,
       "Justice": 1,
+      "TV on the Radio": 1,
       "Grizzly Bear": 2,
       "Flight of the Conchords": 1,
       "Bat for Lashes": 1,
       "R2J2": 1,
       "Snoop Dogg": 1,
+      "Flying Lotus": 2,
+      "My Morning Jacket": 1,
       "BellX1": 1,
       "Goldfrapp": 1,
       "Thunderheist": 1,
       "Fleet Foxes": 3,
       "Brite Futures": 1,
       "Beyoncé": 3,
+      "Passion Pit": 2,
       "Dick Annegarn": 1,
       "The American Dollar": 1,
       "Friendly Fires": 2,
@@ -12273,6 +12573,7 @@
       "Beck": 2,
       "Lady Gaga": 2,
       "The Presets": 1,
+      "LCD Soundsystem": 1,
       "Paul Dempsey": 1,
       "Kumisolo": 1,
       "Sebastien Tellier": 1,
@@ -12309,7 +12610,7 @@
       "Royksopp": 1,
       "Willow": 1,
       "PSY": 1,
-      "Flying Lotus": 1,
+      "Killer Mike": 1,
       "Shugo Tokumaru": 1,
       "Bonobo": 4,
       "Iron & Wine": 1,
@@ -12516,12 +12817,15 @@
       "Ben Dickinson": 1,
       "Pleix": 1,
       "Robert Hales": 1,
-      "Keith Schofield": 3,
       "Joseph Kahn": 1,
       "Trish Sie": 4,
       "Chris Cunningham": 1,
+      "Keith Schofield": 3,
       "Emmanuel Ho": 1,
       "Peter Sluzka": 1,
+      "Mixtape Club": 6,
+      "Daniel Garcia": 5,
+      "Daniel Garcia & Nathan Love": 1,
       "Matthew Cullen": 1,
       "Grady Hall": 1,
       "Timothy Saccenti": 1,
@@ -12535,15 +12839,15 @@
       "that go": 2,
       "Sean Pecknold": 4,
       "Jake Nava": 1,
+      "The Wilderness": 1,
       "Onesize": 1,
       "Clemens Habicht": 1,
       "Ray Tintori": 1,
       "Martin de Thurah": 1,
       "Robert Hodgin": 1,
-      "Mixtape Club": 3,
       "Taylor Cohen": 1,
       "Otto Arsenault": 1,
-      "David Wilson": 1,
+      "David Wilson": 2,
       "Herraiz&Soto": 1,
       "Dirk Rauscher": 1,
       "Masashi Kawamura": 1,
@@ -12599,6 +12903,7 @@
       "Filip Sterckx": 1,
       "Cho Soo-hyun": 1,
       "Kahlil Joseph": 1,
+      "Harry Teitelman": 1,
       "Andrew Thomas Huang": 1,
       "Hayley Morris": 1,
       "Moniker": 1,
