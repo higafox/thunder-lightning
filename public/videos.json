@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 371,
-    "totalArtists": 278,
-    "totalDirectors": 319,
+    "totalVideos": 370,
+    "totalArtists": 277,
+    "totalDirectors": 318,
     "totalTags": 125
   },
   "videos": {
@@ -402,7 +402,9 @@
       "vimeoId": "15073200",
       "thumbnailUrl": "https://img.youtube.com/vi/penvn9VL32Y/hqdefault.jpg",
       "tags": [
-        "mixed media"
+        "mixed media",
+        "narrative",
+        "water"
       ],
       "embedBroken": false
     },
@@ -725,7 +727,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Iwb6u1Jo1Mc/hqdefault.jpg",
       "tags": [
         "3D animation",
-        "kids"
+        "kids",
+        "meta"
       ],
       "embedBroken": false
     },
@@ -1687,6 +1690,7 @@
       "tags": [
         "new york",
         "pixilation",
+        "repeat",
         "soundsync",
         "stop motion"
       ],
@@ -2502,6 +2506,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/SptdUuiKzOw/hqdefault.jpg",
       "tags": [
         "lighting",
+        "monochrome",
         "surreal",
         "tableau"
       ],
@@ -3164,7 +3169,8 @@
       "tags": [
         "illustration",
         "long take",
-        "psychedelic"
+        "psychedelic",
+        "tracking shot"
       ],
       "embedBroken": false
     },
@@ -3465,6 +3471,7 @@
         "3D animation",
         "dance",
         "surreal",
+        "vr",
         "water"
       ],
       "embedBroken": false
@@ -3562,7 +3569,10 @@
       "vimeoId": "1199880146",
       "thumbnailUrl": "https://img.youtube.com/vi/asYhvTfUaXI/hqdefault.jpg",
       "tags": [
+        "3D animation",
         "glitch",
+        "landscape",
+        "reverse",
         "slowmo"
       ],
       "embedBroken": false
@@ -3612,6 +3622,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/zAfEvvnzlwQ/hqdefault.jpg",
       "tags": [
         "explosions",
+        "new york",
         "potential nsfw",
         "surreal",
         "vfx",
@@ -3682,6 +3693,7 @@
       "vimeoId": "45569479",
       "thumbnailUrl": "https://img.youtube.com/vi/cl8ptneR1Kk/hqdefault.jpg",
       "tags": [
+        "long take",
         "projection mapping",
         "treadmill/escalator",
         "walk/run",
@@ -4452,6 +4464,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/DGwQZrDNLO8/hqdefault.jpg",
       "tags": [
+        "crowdsource",
         "splitscreen",
         "womxn director"
       ],
@@ -4475,6 +4488,7 @@
       "thumbnailUrl": "https://vumbnail.com/157039826.jpg",
       "tags": [
         "drone",
+        "landscape",
         "space",
         "womxn director"
       ],
@@ -4544,6 +4558,7 @@
       "vimeoId": "6334633",
       "thumbnailUrl": "https://img.youtube.com/vi/bJkymylTNU4/hqdefault.jpg",
       "tags": [
+        "new york",
         "potential nsfw",
         "walk/run"
       ],
@@ -6086,30 +6101,8 @@
         "confidence",
         "gothy",
         "lighting",
+        "lip sync",
         "long take"
-      ],
-      "embedBroken": false
-    },
-    "weezer-undone-the-sweater-song": {
-      "id": "weezer-undone-the-sweater-song",
-      "artist": "Weezer",
-      "song": "Undone - The Sweater Song",
-      "director": "Spike Jonze",
-      "directors": [
-        "Spike Jonze"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "June 1994",
-      "sortDate": "1994-06-28",
-      "year": 1994,
-      "provider": "youtube",
-      "youtubeId": "LHQqqM5sr7g",
-      "vimeoId": null,
-      "thumbnailUrl": "https://img.youtube.com/vi/LHQqqM5sr7g/hqdefault.jpg",
-      "tags": [
-        "dogs",
-        "long take",
-        "slowmo"
       ],
       "embedBroken": false
     },
@@ -6563,6 +6556,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/7E0fVfectDo/hqdefault.jpg",
       "tags": [
+        "mirrors",
         "monochrome",
         "surreal"
       ],
@@ -6817,7 +6811,8 @@
       "vimeoId": "396505866",
       "thumbnailUrl": "https://img.youtube.com/vi/i1gVxKhdGPs/hqdefault.jpg",
       "tags": [
-        "drone"
+        "drone",
+        "landscape"
       ],
       "embedBroken": false
     },
@@ -7986,6 +7981,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/22Uf4-khGAk/hqdefault.jpg",
       "tags": [
         "confidence",
+        "illustration",
         "pixilation",
         "retro",
         "tableau"
@@ -8532,8 +8528,7 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/dZX6Q-Bj_xg/hqdefault.jpg",
       "tags": [
-        "landscape",
-        "tracking shot"
+        "jump"
       ],
       "embedBroken": false
     },
@@ -8554,7 +8549,10 @@
       "vimeoId": "4265517",
       "thumbnailUrl": "https://img.youtube.com/vi/zs7FG7usAAw/hqdefault.jpg",
       "tags": [
-        "narrative"
+        "narrative",
+        "poc director",
+        "woc director",
+        "womxn director"
       ],
       "embedBroken": true
     },
@@ -8583,9 +8581,9 @@
       "id": "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
       "artist": "UAF Nanook Hockey Open ‘07-’08",
       "song": "Highway to the Danger Zone",
-      "director": "Mike Martinez",
+      "director": "Michael Martinez",
       "directors": [
-        "Mike Martinez"
+        "Michael Martinez"
       ],
       "directorAffiliate": null,
       "dateDisplay": "June 2008",
@@ -8600,6 +8598,7 @@
         "explosions",
         "poc director",
         "space",
+        "sports",
         "wut"
       ],
       "embedBroken": false
@@ -8623,8 +8622,13 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/8THGqrjUDGI/hqdefault.jpg",
       "tags": [
+        "3D animation",
         "explosions",
+        "lighting",
+        "plane",
+        "poc director",
         "space",
+        "sports",
         "wut"
       ],
       "embedBroken": false
@@ -8687,7 +8691,6 @@
       "nine-inch-nails-closer",
       "soundgarden-black-hole-sun",
       "lisa-loeb-stay-i-missed-you",
-      "weezer-undone-the-sweater-song",
       "2pac-ft-dr-dre-california-love",
       "bj-rk-its-oh-so-quiet",
       "radiohead-high-and-dry",
@@ -9011,7 +9014,6 @@
       "long take": [
         "bob-dylan-subterranean-homesick-blues",
         "lisa-loeb-stay-i-missed-you",
-        "weezer-undone-the-sweater-song",
         "radiohead-no-surprises",
         "michael-penn-try",
         "natalie-imbruglia-torn",
@@ -9027,6 +9029,7 @@
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-white-knuckles",
         "battles-my-machines",
+        "willow-sweater",
         "gesaffelstein-pursuit",
         "lorde-tennis-court",
         "de-staat-witch-doctor",
@@ -9107,6 +9110,25 @@
         "mette-van-gogh",
         "jungle-back-on-74",
         "chappell-roan-super-graphic-ultra-modern-girl"
+      ],
+      "illustration": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip",
+        "the-pointer-sisters-pinball-animation-countdown",
+        "kid-koala-basin-street-blues",
+        "peter-bjorn-and-john-young-folks",
+        "i-love-you-but-ive-chosen-darkness-the-owl",
+        "justice-d-a-n-c-e",
+        "fleet-foxes-mykonos",
+        "labuat-soy-tu-aire",
+        "paul-dempsey-bats",
+        "danger-beach-apache",
+        "apparat-granular-bastard",
+        "marian-ruzzi-y-sr-amable-una-pieza-mas",
+        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "royksopp-so-easy-unofficial-video",
+        "killer-mike-reagan",
+        "panda-bear-boys-latin",
+        "charles-x-can-you-do-it"
       ],
       "pixilation": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
@@ -9193,24 +9215,6 @@
         "beatsofreen-slowly-rising",
         "washed-out-floating-by",
         "dayglow-something"
-      ],
-      "illustration": [
-        "the-pointer-sisters-pinball-animation-countdown",
-        "kid-koala-basin-street-blues",
-        "peter-bjorn-and-john-young-folks",
-        "i-love-you-but-ive-chosen-darkness-the-owl",
-        "justice-d-a-n-c-e",
-        "fleet-foxes-mykonos",
-        "labuat-soy-tu-aire",
-        "paul-dempsey-bats",
-        "danger-beach-apache",
-        "apparat-granular-bastard",
-        "marian-ruzzi-y-sr-amable-una-pieza-mas",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "royksopp-so-easy-unofficial-video",
-        "killer-mike-reagan",
-        "panda-bear-boys-latin",
-        "charles-x-can-you-do-it"
       ],
       "marbles": [
         "the-pointer-sisters-pinball-animation-countdown",
@@ -9463,6 +9467,7 @@
         "j-dilla-nothing-like-this",
         "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
@@ -9519,6 +9524,7 @@
       "mirrors": [
         "a-flock-of-seagulls-i-ran",
         "the-chemical-brothers-let-forever-be",
+        "arcade-fire-reflektor",
         "ok-go-love",
         "mette-coming-of-age"
       ],
@@ -9584,12 +9590,14 @@
         "j-dilla-nothing-like-this",
         "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "chairlift-evident-utensil",
         "radiohead-weird-fishes-arpeggi",
         "yeasayer-wait-for-the-summer",
         "sour-hibi-no-neiro",
         "kid-cudi-make-her-say",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
         "huma-huma-hello-i-like-you",
@@ -9662,6 +9670,7 @@
       ],
       "plane": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "ok-go-upside-down-inside-out"
       ],
       "narrative": [
@@ -9671,6 +9680,7 @@
         "radiohead-just",
         "blur-coffee-tv",
         "bj-rk-triumph-of-a-heart",
+        "modest-mouse-dashboard",
         "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
@@ -9692,7 +9702,9 @@
         "the-rapture-whoo-alright-yeah-uh-huh",
         "flight-of-the-conchords-not-crying",
         "dick-annegarn-soleil-du-soir",
+        "matt-and-kim-lessons-learned",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "the-hundred-in-the-hands-pigeons",
         "memory-tapes-yes-i-know",
         "kiesza-hideaway",
         "bomba-est-reo-soy-yo",
@@ -9702,7 +9714,7 @@
       "tracking shot": [
         "when-in-rome-the-promise",
         "the-american-dollar-anything-you-synthesize",
-        "passion-pit-take-a-walk",
+        "paul-dempsey-bats",
         "mild-minds-walls"
       ],
       "horses": [
@@ -9737,12 +9749,14 @@
         "christine-and-the-queens-tilted",
         "michael-kiwanuka-black-man-in-a-white-world",
         "max-cooper-waves",
+        "blonde-redhead-golden-light",
         "jmii-bailar",
         "thunder-tillman-alignments",
         "luc-glow"
       ],
       "lip sync": [
-        "george-michael-freedom-90"
+        "george-michael-freedom-90",
+        "lorde-tennis-court"
       ],
       "potential nsfw": [
         "madonna-justify-my-love",
@@ -9836,31 +9850,10 @@
       "landscape": [
         "pink-floyd-high-hopes",
         "the-american-dollar-anything-you-synthesize",
-        "passion-pit-take-a-walk",
+        "vessels-4am",
         "max-cooper-circular",
-        "pink-floyd-welcome-to-the-machine"
-      ],
-      "dogs": [
-        "weezer-undone-the-sweater-song",
-        "vitalic-poney-part-1-birds",
-        "ok-go-white-knuckles",
-        "woodkid-iron",
-        "the-chemical-brothers-weve-got-to-try"
-      ],
-      "slowmo": [
-        "weezer-undone-the-sweater-song",
-        "david-bowie-im-afraid-of-americans",
-        "air-kelly-watch-the-stars",
-        "vitalic-poney-part-1-birds",
-        "thunderheist-jerk-it",
-        "fm-belfast-underwear",
-        "woodkid-iron",
-        "kwes-rollerblades",
-        "dralms-crushed-pleats",
-        "mount-moriah-precita",
-        "ok-go-the-one-moment",
-        "sylvan-esso-kick-jump-twist",
-        "5nizza-samoliot",
+        "four-tet-baby",
+        "pink-floyd-welcome-to-the-machine",
         "bonobo-me-and-you"
       ],
       "cars": [
@@ -9924,7 +9917,8 @@
         "the-pharcyde-drop",
         "cibo-matto-sugar-water",
         "flying-lotus-until-the-quiet-comes",
-        "bonobo-kerala"
+        "bonobo-kerala",
+        "bonobo-me-and-you"
       ],
       "splitscreen": [
         "cibo-matto-sugar-water",
@@ -9944,6 +9938,21 @@
         "battles-my-machines",
         "willow-sweater",
         "pinkpantheress-girl-like-me"
+      ],
+      "slowmo": [
+        "david-bowie-im-afraid-of-americans",
+        "air-kelly-watch-the-stars",
+        "vitalic-poney-part-1-birds",
+        "thunderheist-jerk-it",
+        "fm-belfast-underwear",
+        "woodkid-iron",
+        "kwes-rollerblades",
+        "dralms-crushed-pleats",
+        "mount-moriah-precita",
+        "ok-go-the-one-moment",
+        "sylvan-esso-kick-jump-twist",
+        "5nizza-samoliot",
+        "bonobo-me-and-you"
       ],
       "walk/run": [
         "david-bowie-im-afraid-of-americans",
@@ -9967,13 +9976,16 @@
         "tv-on-the-radio-me-i",
         "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "radiohead-weird-fishes-arpeggi",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "bj-rk-mutual-core",
         "panda-bear-boys-latin",
-        "n-lannon-another-love"
+        "n-lannon-another-love",
+        "bonobo-me-and-you"
       ],
       "water": [
         "radiohead-no-surprises",
         "j-dilla-nothing-like-this",
+        "modest-mouse-dashboard",
         "bj-rk-wanderlust",
         "fever-ray-when-i-grow-up",
         "willow-sweater",
@@ -9997,6 +10009,7 @@
       ],
       "meta": [
         "natalie-imbruglia-torn",
+        "mickey-3d-respire",
         "arcade-fire-we-used-to-wait",
         "light-light-kilo-do-not-touch",
         "the-shoes-drifted",
@@ -10009,6 +10022,8 @@
       ],
       "sports": [
         "air-kelly-watch-the-stars",
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
         "alt-j-hard-drive-gold"
       ],
@@ -10017,6 +10032,7 @@
         "the-chemical-brothers-let-forever-be",
         "kylie-minogue-come-into-my-world",
         "yuki-sentimental-journey",
+        "the-white-stripes-the-hardest-button-to-button",
         "grizzly-bear-while-you-wait-for-the-others",
         "fm-belfast-underwear",
         "ok-go-all-is-not-lost",
@@ -10089,6 +10105,7 @@
         "j-dilla-nothing-like-this",
         "tv-on-the-radio-me-i",
         "snoop-dogg-sensual-seduction",
+        "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "yeasayer-wait-for-the-summer",
         "janelle-mon-e-tightrope",
         "the-pains-of-being-pure-at-heart-say-no-to-love",
@@ -10199,9 +10216,16 @@
         "fulton-lights-staring-out-the-window",
         "squarepusher-terminal-slam"
       ],
+      "dogs": [
+        "vitalic-poney-part-1-birds",
+        "ok-go-white-knuckles",
+        "woodkid-iron",
+        "the-chemical-brothers-weve-got-to-try"
+      ],
       "jump": [
         "vitalic-poney-part-1-birds",
-        "goldfrapp-happiness"
+        "goldfrapp-happiness",
+        "passion-pit-take-a-walk"
       ],
       "optical illusion": [
         "goose-british-mode",
@@ -10253,6 +10277,7 @@
       ],
       "lighting": [
         "thunderheist-jerk-it",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "lorde-tennis-court",
         "nigel-stanford-cymatics",
         "drake-hotline-bling",
@@ -10305,7 +10330,8 @@
       ],
       "crowdsource": [
         "sour-hibi-no-neiro",
-        "dear-lament-coffee"
+        "dear-lament-coffee",
+        "thao-the-get-down-stay-down-phenom"
       ],
       "ascii": [
         "beck-black-tambourine",
@@ -10374,12 +10400,13 @@
         "milk-bone-pressure",
         "kendrick-lamar-squabble-up"
       ],
+      "vr": [
+        "n-lannon-another-love",
+        "reeps-one-does-not-exist"
+      ],
       "crime": [
         "mount-moriah-precita",
         "gener8ion-yung-lean-storm"
-      ],
-      "vr": [
-        "reeps-one-does-not-exist"
       ],
       "3D printing": [
         "no-te-va-gustar-la-puerta-de-atras",
@@ -10534,9 +10561,6 @@
       ],
       "Lisa Loeb": [
         "lisa-loeb-stay-i-missed-you"
-      ],
-      "Weezer": [
-        "weezer-undone-the-sweater-song"
       ],
       "2Pac ft. Dr. Dre": [
         "2pac-ft-dr-dre-california-love"
@@ -11484,18 +11508,17 @@
       "Ethan Hawke": [
         "lisa-loeb-stay-i-missed-you"
       ],
+      "Hype Williams": [
+        "2pac-ft-dr-dre-california-love",
+        "missy-elliott-da-brat-sock-it-2-me",
+        "missy-elliott-the-rain-supa-dupa-fly"
+      ],
       "Spike Jonze": [
-        "weezer-undone-the-sweater-song",
         "bj-rk-its-oh-so-quiet",
         "the-pharcyde-drop",
         "fatboy-slim-praise-you",
         "fatboy-slim-weapon-of-choice",
         "bj-rk-triumph-of-a-heart"
-      ],
-      "Hype Williams": [
-        "2pac-ft-dr-dre-california-love",
-        "missy-elliott-da-brat-sock-it-2-me",
-        "missy-elliott-the-rain-supa-dupa-fly"
       ],
       "David Mould": [
         "radiohead-high-and-dry"
@@ -11732,8 +11755,9 @@
       "SSSR": [
         "bellx1-rocky-took-a-lover"
       ],
-      "Mike Martinez": [
-        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone"
+      "Michael Martinez": [
+        "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
+        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
       ],
       "that go": [
         "thunderheist-jerk-it",
@@ -11823,9 +11847,6 @@
       "Brian L. Perkins": [
         "ok-go-this-too-shall-pass",
         "ok-go-needing-getting"
-      ],
-      "Michael Martinez": [
-        "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
       ],
       "Jon Dorfman": [
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone"
@@ -12413,13 +12434,13 @@
       "long take": 40,
       "retro": 22,
       "confidence": 32,
+      "illustration": 17,
       "pixilation": 8,
       "tableau": 24,
       "space": 10,
       "editing": 11,
       "guitar solo": 3,
       "cel animation": 18,
-      "illustration": 16,
       "marbles": 2,
       "chronophotography": 6,
       "dance": 73,
@@ -12432,56 +12453,55 @@
       "joy": 9,
       "lasers": 5,
       "body-ody": 10,
-      "womxn director": 51,
+      "womxn director": 52,
       "wut": 17,
-      "mirrors": 4,
+      "mirrors": 5,
       "legs": 2,
       "machine": 9,
       "prosthetics": 4,
       "birds": 5,
       "motorcycle": 1,
       "collage": 13,
-      "poc director": 56,
+      "poc director": 58,
       "stop motion": 20,
       "top 10": 10,
-      "plane": 2,
-      "narrative": 15,
-      "new york": 16,
+      "plane": 3,
+      "narrative": 16,
+      "new york": 18,
       "tracking shot": 4,
       "horses": 5,
-      "monochrome": 27,
-      "lip sync": 1,
+      "monochrome": 28,
+      "lip sync": 2,
       "potential nsfw": 20,
       "vfx": 34,
       "california": 8,
       "psychedelic": 15,
       "skates": 2,
-      "landscape": 5,
-      "dogs": 5,
-      "slowmo": 14,
+      "landscape": 7,
       "cars": 6,
       "desert": 6,
       "busby berkeley": 8,
       "crowd": 14,
       "surveillance": 4,
       "architecture": 7,
-      "reverse": 4,
+      "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
+      "slowmo": 13,
       "walk/run": 11,
-      "3D animation": 11,
-      "water": 9,
+      "3D animation": 13,
+      "water": 10,
       "explosions": 8,
       "fisheye": 1,
-      "meta": 10,
-      "sports": 3,
-      "repeat": 22,
+      "meta": 11,
+      "sports": 5,
+      "repeat": 23,
       "twinsies": 7,
       "lofi brilliance": 7,
       "puppets": 5,
       "night vision": 1,
       "soundsync": 16,
-      "woc director": 18,
+      "woc director": 19,
       "lego": 1,
       "pixel": 8,
       "abstract": 14,
@@ -12494,7 +12514,8 @@
       "textiles": 4,
       "cats": 3,
       "matchmove": 6,
-      "jump": 2,
+      "dogs": 4,
+      "jump": 3,
       "optical illusion": 3,
       "slitscan": 5,
       "mixed media": 5,
@@ -12502,7 +12523,7 @@
       "keytar": 1,
       "d&ad": 4,
       "ukmva": 11,
-      "lighting": 7,
+      "lighting": 8,
       "yuri norstein-esque": 2,
       "zoetrope": 3,
       "fluid dynamics": 5,
@@ -12510,7 +12531,7 @@
       "datamoshing": 1,
       "glitch": 6,
       "interactive": 6,
-      "crowdsource": 2,
+      "crowdsource": 3,
       "ascii": 2,
       "marching band": 2,
       "rube goldberg": 2,
@@ -12526,8 +12547,8 @@
       "umbrella": 1,
       "bus": 1,
       "zbig rybczynski": 3,
+      "vr": 2,
       "crime": 2,
-      "vr": 1,
       "3D printing": 2,
       "flute": 1,
       "hockney": 3,
@@ -12572,7 +12593,6 @@
       "Nine Inch Nails": 1,
       "Soundgarden": 1,
       "Lisa Loeb": 1,
-      "Weezer": 1,
       "2Pac ft. Dr. Dre": 1,
       "Björk": 5,
       "Radiohead": 5,
@@ -12861,8 +12881,8 @@
       "Mark Romanek": 3,
       "Howard Greenhalgh": 1,
       "Ethan Hawke": 1,
-      "Spike Jonze": 6,
       "Hype Williams": 3,
+      "Spike Jonze": 5,
       "David Mould": 1,
       "Michel Gondry": 13,
       "Jamie Thraves": 1,
@@ -12928,7 +12948,7 @@
       "Joey Garfield": 1,
       "Melina": 1,
       "SSSR": 1,
-      "Mike Martinez": 1,
+      "Michael Martinez": 2,
       "that go": 2,
       "Sean Pecknold": 4,
       "Jake Nava": 1,
@@ -12954,7 +12974,6 @@
       "Lee Lennox": 1,
       "Damian Kulash": 9,
       "Brian L. Perkins": 2,
-      "Michael Martinez": 1,
       "Jon Dorfman": 1,
       "Szymon Weglarski": 1,
       "HiFi3D": 1,
