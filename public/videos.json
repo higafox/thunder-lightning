@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 370,
-    "totalArtists": 277,
-    "totalDirectors": 318,
-    "totalTags": 126
+    "totalVideos": 373,
+    "totalArtists": 279,
+    "totalDirectors": 319,
+    "totalTags": 127
   },
   "videos": {
     "mette-van-gogh": {
@@ -1379,9 +1379,10 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/uovntV3ZMDc/hqdefault.jpg",
       "tags": [
-        "body-ody",
+        "birds",
         "poc director",
         "tableau",
+        "twinsies",
         "woc director",
         "womxn director"
       ],
@@ -3328,7 +3329,8 @@
       "tags": [
         "fluid dynamics",
         "lofi brilliance",
-        "monochrome"
+        "monochrome",
+        "skeleton"
       ],
       "embedBroken": false
     },
@@ -5443,7 +5445,6 @@
       "thumbnailUrl": "https://img.youtube.com/vi/kbMqWXnpXcA/hqdefault.jpg",
       "tags": [
         "architecture",
-        "body-ody",
         "dance",
         "louvre",
         "tableau"
@@ -5534,6 +5535,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/riCP9x31Kuk/hqdefault.jpg",
       "tags": [
         "busby berkeley",
+        "crowd",
         "dance",
         "meta",
         "tableau"
@@ -6168,6 +6170,7 @@
         "busby berkeley",
         "dance",
         "retro",
+        "skeleton",
         "surreal"
       ],
       "embedBroken": false
@@ -8633,6 +8636,75 @@
         "wut"
       ],
       "embedBroken": false
+    },
+    "the-rolling-stones-like-a-rolling-stone": {
+      "id": "the-rolling-stones-like-a-rolling-stone",
+      "artist": "The Rolling Stones",
+      "song": "Like a Rolling Stone",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 1995",
+      "sortDate": "1995-01-01",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "aRYokc3VBC4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/aRYokc3VBC4/hqdefault.jpg",
+      "tags": [
+        "timeslice",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "bj-rk-army-of-me": {
+      "id": "bj-rk-army-of-me",
+      "artist": "Björk",
+      "song": "Army of Me",
+      "director": "Michel Gondry",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 1995",
+      "sortDate": "1995-04-24",
+      "year": 1995,
+      "provider": "youtube",
+      "youtubeId": "jPeheoBa2_Y",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/jPeheoBa2_Y/hqdefault.jpg",
+      "tags": [
+        "mixed media",
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "animusic-pipe-dream": {
+      "id": "animusic-pipe-dream",
+      "artist": "Animusic",
+      "song": "Pipe Dream",
+      "director": "Wayne Lytle",
+      "directors": [
+        "Wayne Lytle"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2001",
+      "sortDate": "2001-01-01",
+      "year": 2001,
+      "provider": "youtube",
+      "youtubeId": "hyCIpKAIFyo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/hyCIpKAIFyo/hqdefault.jpg",
+      "tags": [
+        "3D animation",
+        "machine",
+        "marbles",
+        "rube goldberg",
+        "soundsync"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -8695,7 +8767,9 @@
       "2pac-ft-dr-dre-california-love",
       "bj-rk-its-oh-so-quiet",
       "radiohead-high-and-dry",
+      "the-rolling-stones-like-a-rolling-stone",
       "massive-attack-protection",
+      "bj-rk-army-of-me",
       "madonna-human-nature",
       "the-pharcyde-drop",
       "radiohead-just",
@@ -8727,6 +8801,7 @@
       "dangelo-untitled-how-does-it-feel",
       "the-avalanches-frontier-psychiatrist",
       "daft-punk-one-more-time",
+      "animusic-pipe-dream",
       "missy-elliott-get-ur-freak-on",
       "fatboy-slim-weapon-of-choice",
       "the-chemical-brothers-star-guitar",
@@ -9219,6 +9294,7 @@
       ],
       "marbles": [
         "the-pointer-sisters-pinball-animation-countdown",
+        "animusic-pipe-dream",
         "wintergatan-marble-machine"
       ],
       "chronophotography": [
@@ -9330,6 +9406,7 @@
         "pink-floyd-high-hopes",
         "soundgarden-black-hole-sun",
         "massive-attack-protection",
+        "bj-rk-army-of-me",
         "radiohead-just",
         "david-bowie-im-afraid-of-americans",
         "radiohead-no-surprises",
@@ -9442,8 +9519,6 @@
         "janet-jackson-thats-the-way-love-goes",
         "dangelo-untitled-how-does-it-feel",
         "janelle-mon-e-make-me-feel",
-        "janelle-mon-e-i-like-that",
-        "the-carters-apeshit",
         "mette-mamas-eyes",
         "janelle-mon-e-lipstick-lover",
         "mette-van-gogh",
@@ -9535,6 +9610,7 @@
       ],
       "machine": [
         "herbie-hancock-rockit",
+        "animusic-pipe-dream",
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-needing-getting",
         "foster-the-people-houdini",
@@ -9555,7 +9631,8 @@
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "tv-on-the-radio-me-i",
         "thunderheist-jerk-it",
-        "woodkid-iron"
+        "woodkid-iron",
+        "janelle-mon-e-i-like-that"
       ],
       "motorcycle": [
         "prince-and-the-revolution-when-doves-cry"
@@ -9783,6 +9860,7 @@
       ],
       "vfx": [
         "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
+        "the-rolling-stones-like-a-rolling-stone",
         "massive-attack-protection",
         "missy-elliott-da-brat-sock-it-2-me",
         "moby-honey",
@@ -9896,6 +9974,7 @@
         "mashrou-leila-roman",
         "kendrick-lamar-not-like-us",
         "lady-gaga-abracadabra",
+        "doechii-anxiety",
         "wolf-alice-bloom-baby-bloom",
         "gener8ion-yung-lean-storm"
       ],
@@ -9905,6 +9984,13 @@
         "squarepusher-terminal-slam",
         "kings-of-leon-mustang"
       ],
+      "timeslice": [
+        "the-rolling-stones-like-a-rolling-stone",
+        "champagne-valentine-black-material",
+        "shugo-tokumaru-katachi",
+        "boozoo-bajou-jan-mayen",
+        "jones-melt"
+      ],
       "architecture": [
         "massive-attack-protection",
         "drake-hotline-bling",
@@ -9913,6 +9999,14 @@
         "weval-someday",
         "max-cooper-repetition",
         "dua-lipa-illusion"
+      ],
+      "mixed media": [
+        "bj-rk-army-of-me",
+        "modest-mouse-dashboard",
+        "grizzly-bear-knife",
+        "bellx1-rocky-took-a-lover",
+        "bj-rk-wanderlust",
+        "bj-rk-mutual-core"
       ],
       "reverse": [
         "the-pharcyde-drop",
@@ -9970,6 +10064,7 @@
       ],
       "3D animation": [
         "missy-elliott-da-brat-sock-it-2-me",
+        "animusic-pipe-dream",
         "autechre-gantz-graf",
         "twerk-from-brown-to-green",
         "mickey-3d-respire",
@@ -9994,6 +10089,10 @@
         "beyonc-formation",
         "dua-lipa-illusion",
         "tourist-valentine"
+      ],
+      "skeleton": [
+        "daft-punk-around-the-world",
+        "friendly-fires-skeleton-boy"
       ],
       "explosions": [
         "blur-song-2",
@@ -10060,6 +10159,7 @@
         "yuki-sentimental-journey",
         "bellx1-rocky-took-a-lover",
         "reeps-one-does-not-exist",
+        "janelle-mon-e-i-like-that",
         "mette-bet"
       ],
       "lofi brilliance": [
@@ -10083,6 +10183,7 @@
       ],
       "soundsync": [
         "the-avalanches-frontier-psychiatrist",
+        "animusic-pipe-dream",
         "the-chemical-brothers-star-guitar",
         "the-white-stripes-seven-nation-army",
         "the-white-stripes-the-hardest-button-to-button",
@@ -10098,6 +10199,11 @@
         "jmii-bailar",
         "thunder-tillman-alignments",
         "luc-glow"
+      ],
+      "rube goldberg": [
+        "animusic-pipe-dream",
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-needing-getting"
       ],
       "woc director": [
         "missy-elliott-work-it",
@@ -10240,13 +10346,6 @@
         "washed-out-floating-by",
         "dayglow-something"
       ],
-      "mixed media": [
-        "modest-mouse-dashboard",
-        "grizzly-bear-knife",
-        "bellx1-rocky-took-a-lover",
-        "bj-rk-wanderlust",
-        "bj-rk-mutual-core"
-      ],
       "bike": [
         "bat-for-lashes-whats-a-girl-to-do",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
@@ -10345,10 +10444,6 @@
         "ok-go-this-too-shall-pass",
         "beyonc-formation"
       ],
-      "rube goldberg": [
-        "ok-go-this-too-shall-pass-rube-goldberg",
-        "ok-go-needing-getting"
-      ],
       "match cut": [
         "johnny-cash-aint-no-grave",
         "michael-langan-dahlia",
@@ -10359,12 +10454,6 @@
       ],
       "timelapse": [
         "ok-go-end-love"
-      ],
-      "timeslice": [
-        "champagne-valentine-black-material",
-        "shugo-tokumaru-katachi",
-        "boozoo-bajou-jan-mayen",
-        "jones-melt"
       ],
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
@@ -10571,6 +10660,7 @@
       ],
       "Björk": [
         "bj-rk-its-oh-so-quiet",
+        "bj-rk-army-of-me",
         "bj-rk-bachelorette",
         "bj-rk-triumph-of-a-heart",
         "bj-rk-wanderlust",
@@ -10582,6 +10672,9 @@
         "radiohead-no-surprises",
         "radiohead-karma-police",
         "radiohead-weird-fishes-arpeggi"
+      ],
+      "The Rolling Stones": [
+        "the-rolling-stones-like-a-rolling-stone"
       ],
       "Massive Attack": [
         "massive-attack-protection",
@@ -10660,6 +10753,9 @@
       ],
       "The Avalanches": [
         "the-avalanches-frontier-psychiatrist"
+      ],
+      "Animusic": [
+        "animusic-pipe-dream"
       ],
       "The White Stripes": [
         "the-white-stripes-fell-in-love-with-a-girl",
@@ -11528,7 +11624,9 @@
         "radiohead-high-and-dry"
       ],
       "Michel Gondry": [
+        "the-rolling-stones-like-a-rolling-stone",
         "massive-attack-protection",
+        "bj-rk-army-of-me",
         "cibo-matto-sugar-water",
         "daft-punk-around-the-world",
         "bj-rk-bachelorette",
@@ -11615,6 +11713,9 @@
       ],
       "Kazuhisa Takenouchi": [
         "daft-punk-one-more-time"
+      ],
+      "Wayne Lytle": [
+        "animusic-pipe-dream"
       ],
       "Dave Meyers": [
         "missy-elliott-get-ur-freak-on",
@@ -12445,25 +12546,25 @@
       "editing": 11,
       "guitar solo": 3,
       "cel animation": 18,
-      "marbles": 2,
+      "marbles": 3,
       "chronophotography": 6,
       "dance": 73,
       "gothy": 19,
-      "surreal": 55,
+      "surreal": 56,
       "kaleidoscope": 7,
       "kids": 14,
       "hair": 5,
       "greenscreen": 3,
       "joy": 9,
       "lasers": 5,
-      "body-ody": 10,
+      "body-ody": 8,
       "womxn director": 52,
       "wut": 17,
       "mirrors": 5,
       "legs": 2,
-      "machine": 9,
+      "machine": 10,
       "prosthetics": 4,
-      "birds": 5,
+      "birds": 6,
       "motorcycle": 1,
       "collage": 13,
       "poc director": 58,
@@ -12477,7 +12578,7 @@
       "monochrome": 28,
       "lip sync": 2,
       "potential nsfw": 20,
-      "vfx": 34,
+      "vfx": 35,
       "california": 8,
       "psychedelic": 15,
       "skates": 2,
@@ -12485,26 +12586,30 @@
       "cars": 6,
       "desert": 6,
       "busby berkeley": 8,
-      "crowd": 14,
+      "crowd": 15,
       "surveillance": 4,
+      "timeslice": 5,
       "architecture": 7,
+      "mixed media": 6,
       "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
       "slowmo": 13,
       "walk/run": 11,
-      "3D animation": 13,
+      "3D animation": 14,
       "water": 10,
+      "skeleton": 2,
       "explosions": 8,
       "fisheye": 1,
       "meta": 11,
       "sports": 5,
       "repeat": 23,
-      "twinsies": 7,
+      "twinsies": 8,
       "lofi brilliance": 7,
       "puppets": 5,
       "night vision": 1,
-      "soundsync": 16,
+      "soundsync": 17,
+      "rube goldberg": 3,
       "woc director": 19,
       "lego": 1,
       "pixel": 8,
@@ -12522,7 +12627,6 @@
       "jump": 3,
       "optical illusion": 3,
       "slitscan": 5,
-      "mixed media": 5,
       "bike": 5,
       "keytar": 1,
       "d&ad": 4,
@@ -12539,10 +12643,8 @@
       "ascii": 2,
       "lighting": 6,
       "marching band": 2,
-      "rube goldberg": 2,
       "match cut": 6,
       "timelapse": 1,
-      "timeslice": 4,
       "whip pan": 4,
       "macro": 3,
       "dither": 1,
@@ -12599,8 +12701,9 @@
       "Soundgarden": 1,
       "Lisa Loeb": 1,
       "2Pac ft. Dr. Dre": 1,
-      "Björk": 5,
+      "Björk": 6,
       "Radiohead": 5,
+      "The Rolling Stones": 1,
       "Massive Attack": 2,
       "The Pharcyde": 1,
       "Blur": 4,
@@ -12623,6 +12726,7 @@
       "The Chemical Brothers": 4,
       "D’Angelo": 1,
       "The Avalanches": 1,
+      "Animusic": 1,
       "The White Stripes": 4,
       "Autechre": 1,
       "Röyksopp": 1,
@@ -12889,7 +12993,7 @@
       "Hype Williams": 3,
       "Spike Jonze": 5,
       "David Mould": 1,
-      "Michel Gondry": 13,
+      "Michel Gondry": 15,
       "Jamie Thraves": 1,
       "Jonathan Glazer": 3,
       "Charles Stone III": 1,
@@ -12913,6 +13017,7 @@
       "Mike Maguire": 1,
       "Leiji Matsumoto": 1,
       "Kazuhisa Takenouchi": 1,
+      "Wayne Lytle": 1,
       "Dave Meyers": 3,
       "Missy Elliott": 1,
       "Alex Rutterford": 1,
