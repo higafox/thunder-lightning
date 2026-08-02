@@ -34,6 +34,15 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   // ArchiveGrid above), so reading window here can't cause a hydration
   // mismatch.
   const [selTag, setSelTag] = useState<string | null>(() => new URLSearchParams(window.location.search).get("tag"));
+  // set from the roster modal (see openRandomFor below) when a name has 2+
+  // videos -- rather than jumping straight to a random one of theirs, this
+  // filters the grid down to just their videos so you can pick.
+  const [personFilter, setPersonFilter] = useState<{ kind: "artists" | "directors"; name: string } | null>(() => {
+    const params = new URLSearchParams(window.location.search);
+    const name = params.get("person");
+    const kind = params.get("pkind");
+    return name && (kind === "artists" || kind === "directors") ? { kind, name } : null;
+  });
   // shuffled on mount so each fresh visit to the archive looks different by
   // default, rather than always opening on the same newest-first order.
   const [shuffled, setShuffled] = useState<string[] | null>(() => shuffleArray(PL.timeline));
@@ -79,6 +88,23 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     }
   }, [selTag]);
 
+  // same idea for ?person=/?pkind= (see personFilter above)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (personFilter) {
+      params.set("person", personFilter.name);
+      params.set("pkind", personFilter.kind);
+    } else {
+      params.delete("person");
+      params.delete("pkind");
+    }
+    const qs = params.toString();
+    const newUrl = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+    if (window.location.pathname + window.location.search !== newUrl) {
+      window.history.replaceState(null, "", newUrl);
+    }
+  }, [personFilter]);
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const target = e.target as HTMLElement | null;
@@ -118,8 +144,10 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   const list = useMemo(() => {
     const base = shuffled ? shuffled.slice() : chrono === true ? PL.timeline.slice() : PL.timeline.slice().reverse();
     const q = search.toLowerCase().trim();
+    const personIds = personFilter ? new Set(PL[personFilter.kind][personFilter.name] || []) : null;
     return base.filter((id) => {
       const v = V[id];
+      if (personIds && !personIds.has(id)) return false;
       if (selTag && !v.tags.includes(selTag)) return false;
       if (q) {
         const hay = `${v.artist} ${v.song} ${v.director} ${v.directorAffiliate ?? ""} ${v.tags.join(" ")}`.toLowerCase();
@@ -127,7 +155,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
       }
       return true;
     });
-  }, [shuffled, chrono, PL.timeline, search, selTag, V]);
+  }, [shuffled, chrono, PL, search, selTag, V, personFilter]);
 
   const columns = useMemo(() => {
     const cols: string[][] = Array.from({ length: numCols }, () => []);
@@ -156,12 +184,18 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     if (rosterSort === "least") return entries.sort((a, b) => a.count - b.count || a.name.localeCompare(b.name));
     return entries.sort((a, b) => a.name.localeCompare(b.name));
   }, [rosterOpen, rosterKind, rosterSort, PL]);
+  // a name with only one video has nothing to browse -- go straight there.
+  // 2+ videos instead filters the grid down to their videos so you can pick.
   const openRandomFor = (name: string) => {
     const ids = PL[rosterKind][name];
     if (!ids || !ids.length) return;
-    const id = ids[Math.floor(Math.random() * ids.length)];
     setRosterOpen(false);
-    router.push(`/video/${id}`);
+    if (ids.length === 1) {
+      router.push(`/video/${ids[0]}`);
+      return;
+    }
+    setPersonFilter({ kind: rosterKind, name });
+    archiveRef.current?.scrollTo({ top: 0 });
   };
 
   return (
@@ -213,6 +247,12 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
             {chrono === true ? "Chronological ↓" : chrono === false ? "Chronological ↑" : "Chronological"}
           </button>
         </div>
+        {personFilter && (
+          <div className="personFilter">
+            {personFilter.kind === "artists" ? "Artist" : "Director"}: {personFilter.name}
+            <button onClick={() => setPersonFilter(null)}>✕</button>
+          </div>
+        )}
         <div className="tagbar">
           <button className={`tg${selTag === null ? " sel" : ""}`} onClick={() => setSelTag(null)}>
             All

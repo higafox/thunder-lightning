@@ -442,11 +442,11 @@ a {
   font-family: var(--serif);
   font-weight: 400;
   font-size: 22px;
-  color: var(--dim);
+  color: var(--dimmer);
   transition: color 0.18s;
 }
 .rosterTab:hover {
-  color: var(--ink);
+  color: var(--dim);
 }
 .rosterTab.sel {
   color: var(--ink);
@@ -600,6 +600,29 @@ a {
 }
 .arcShuffle.sel:hover {
   color: #141208;
+}
+.personFilter {
+  max-width: 1400px;
+  margin: 16px auto 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  padding: 7px 8px 7px 14px;
+  border-radius: var(--radius);
+  background: var(--active);
+  color: #141208;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+.personFilter button {
+  font-size: 11px;
+  color: #141208;
+  opacity: 0.7;
+  padding: 2px 4px;
+}
+.personFilter button:hover {
+  opacity: 1;
 }
 .tagbar {
   max-width: 1400px;

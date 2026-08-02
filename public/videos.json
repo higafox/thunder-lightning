@@ -2,8 +2,8 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 448,
-    "totalArtists": 342,
+    "totalVideos": 451,
+    "totalArtists": 345,
     "totalDirectors": 383,
     "totalTags": 147
   },
@@ -7283,6 +7283,7 @@
         "collage",
         "meta",
         "potential nsfw",
+        "vimeo staff pick",
         "wut"
       ],
       "embedBroken": false
@@ -10541,6 +10542,7 @@
       "vimeoId": "95205304",
       "thumbnailUrl": null,
       "tags": [
+        "2010's",
         "3D animation",
         "fluid dynamics",
         "horses",
@@ -10960,6 +10962,72 @@
         "surreal"
       ],
       "embedBroken": false
+    },
+    "raleigh-ritchie-stronger-than-ever": {
+      "id": "raleigh-ritchie-stronger-than-ever",
+      "artist": "Raleigh Ritchie",
+      "song": "Stronger Than Ever",
+      "director": "Ninian Doff",
+      "directors": [
+        "Ninian Doff"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2014",
+      "sortDate": "2014-01-14",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "QoyMvE5g7f8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/QoyMvE5g7f8/hqdefault.jpg",
+      "tags": [
+        "2010's"
+      ],
+      "embedBroken": false
+    },
+    "dye-shes-bad": {
+      "id": "dye-shes-bad",
+      "artist": "DyE",
+      "song": "She's Bad",
+      "director": "Dent de Cuir",
+      "directors": [
+        "Dent de Cuir"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2014",
+      "sortDate": "2014-06-18",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "WFuWPhlsyEI",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/WFuWPhlsyEI/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "collage",
+        "surreal"
+      ],
+      "embedBroken": false
+    },
+    "modeselektor-feat-otto-von-schirach-evil-twin": {
+      "id": "modeselektor-feat-otto-von-schirach-evil-twin",
+      "artist": "Modeselektor feat. Otto von Schirach",
+      "song": "Evil Twin",
+      "director": "Dent de Cuir",
+      "directors": [
+        "Dent de Cuir"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2012",
+      "sortDate": "2012-01-13",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "3Sp8Vhwts6U",
+      "vimeoId": "35141744",
+      "thumbnailUrl": "https://img.youtube.com/vi/3Sp8Vhwts6U/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "meta"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -11204,6 +11272,7 @@
       "dear-lament-coffee",
       "stuck-in-the-sound-lets-go",
       "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+      "modeselektor-feat-otto-von-schirach-evil-twin",
       "m-i-a-bad-girls",
       "gotye-easy-way-out",
       "johnny-neon-hearts",
@@ -11244,6 +11313,7 @@
       "savages-marshal-dear",
       "boozoo-bajou-jan-mayen",
       "de-staat-witch-doctor",
+      "raleigh-ritchie-stronger-than-ever",
       "kwes-rollerblades",
       "metronomy-love-letters",
       "kiesza-hideaway",
@@ -11254,6 +11324,7 @@
       "hundred-waters-cavity",
       "jeffrey-brodsky-ill-be-strong",
       "young-marco-trippy-isolator",
+      "dye-shes-bad",
       "20syl-kodama",
       "plurabelle-our-fires",
       "ok-go-the-writings-on-the-wall",
@@ -11823,6 +11894,7 @@
         "bj-rk-mutual-core",
         "arcade-fire-reflektor",
         "hundred-waters-cavity",
+        "dye-shes-bad",
         "childish-gambino-sober",
         "dralms-crushed-pleats",
         "alt-j-pusher",
@@ -12097,6 +12169,7 @@
         "eskmo-we-got-more",
         "bonobo-cirrus",
         "bloc-party-ratchet",
+        "dye-shes-bad",
         "the-shoes-drifted",
         "soupcans-siamese-brutality",
         "andy-shauf-the-worst-in-you",
@@ -12708,6 +12781,7 @@
         "mickey-3d-respire",
         "arcade-fire-we-used-to-wait",
         "lenny-kravitz-let-love-rule-justice-remix",
+        "modeselektor-feat-otto-von-schirach-evil-twin",
         "light-light-kilo-do-not-touch",
         "the-shoes-drifted",
         "lyrical-school-run-and-run",
@@ -13127,6 +13201,7 @@
         "alb-the-road",
         "son-lux-change-is-everything",
         "lorn-acid-rain",
+        "the-shoes-drifted",
         "n-lannon-another-love",
         "the-chemical-brothers-wide-open",
         "hi-rophante-clich-s",
@@ -13305,6 +13380,7 @@
         "dear-lament-coffee",
         "stuck-in-the-sound-lets-go",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "modeselektor-feat-otto-von-schirach-evil-twin",
         "m-i-a-bad-girls",
         "gotye-easy-way-out",
         "johnny-neon-hearts",
@@ -13345,6 +13421,7 @@
         "savages-marshal-dear",
         "boozoo-bajou-jan-mayen",
         "de-staat-witch-doctor",
+        "raleigh-ritchie-stronger-than-ever",
         "kwes-rollerblades",
         "metronomy-love-letters",
         "kiesza-hideaway",
@@ -13353,7 +13430,9 @@
         "queens-of-the-stone-age-smooth-sailing",
         "sia-chandelier",
         "hundred-waters-cavity",
+        "jeffrey-brodsky-ill-be-strong",
         "young-marco-trippy-isolator",
+        "dye-shes-bad",
         "20syl-kodama",
         "plurabelle-our-fires",
         "ok-go-the-writings-on-the-wall",
@@ -14269,6 +14348,9 @@
       "Danger Mouse & Daniele Luppi feat. Jack White": [
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
+      "Modeselektor feat. Otto von Schirach": [
+        "modeselektor-feat-otto-von-schirach-evil-twin"
+      ],
       "M.I.A.": [
         "m-i-a-bad-girls"
       ],
@@ -14374,6 +14456,9 @@
       "De Staat": [
         "de-staat-witch-doctor"
       ],
+      "Raleigh Ritchie": [
+        "raleigh-ritchie-stronger-than-ever"
+      ],
       "kwes.": [
         "kwes-rollerblades"
       ],
@@ -14403,6 +14488,9 @@
       ],
       "Young Marco": [
         "young-marco-trippy-isolator"
+      ],
+      "DyE": [
+        "dye-shes-bad"
       ],
       "20syl": [
         "20syl-kodama",
@@ -15423,6 +15511,7 @@
       ],
       "Ninian Doff": [
         "fulton-lights-staring-out-the-window",
+        "raleigh-ritchie-stronger-than-ever",
         "miike-snow-genghis-khan",
         "the-chemical-brothers-weve-got-to-try"
       ],
@@ -15488,6 +15577,11 @@
       ],
       "Rémi Godin": [
         "stuck-in-the-sound-lets-go"
+      ],
+      "Dent de Cuir": [
+        "modeselektor-feat-otto-von-schirach-evil-twin",
+        "dye-shes-bad",
+        "the-shoes-drifted"
       ],
       "Romain Gavras": [
         "m-i-a-bad-girls",
@@ -15716,9 +15810,6 @@
       ],
       "Roger Guàrdia": [
         "battles-the-yabba"
-      ],
-      "Dent de Cuir": [
-        "the-shoes-drifted"
       ],
       "Lernert & Sander": [
         "de-jeugd-van-tegenwoordig-manon"
@@ -16080,7 +16171,7 @@
       "chronophotography": 6,
       "dance": 81,
       "gothy": 20,
-      "surreal": 61,
+      "surreal": 62,
       "kaleidoscope": 8,
       "hair": 5,
       "greenscreen": 3,
@@ -16098,7 +16189,7 @@
       "prosthetics": 4,
       "birds": 7,
       "motorcycle": 2,
-      "collage": 16,
+      "collage": 17,
       "poc director": 69,
       "my sweet 16": 16,
       "stop motion": 26,
@@ -16135,7 +16226,7 @@
       "skeleton": 2,
       "explosions": 6,
       "fisheye": 1,
-      "meta": 15,
+      "meta": 16,
       "loops": 20,
       "sports": 5,
       "repeat": 27,
@@ -16165,7 +16256,7 @@
       "slitscan": 5,
       "bike": 5,
       "keytar": 1,
-      "vimeo staff pick": 74,
+      "vimeo staff pick": 75,
       "fireworks": 4,
       "paper": 1,
       "d&ad": 4,
@@ -16182,7 +16273,7 @@
       "interactive": 6,
       "crowdsource": 3,
       "ascii": 2,
-      "2010's": 206,
+      "2010's": 210,
       "lighting": 8,
       "marching band": 2,
       "match cut": 9,
@@ -16395,6 +16486,7 @@
       "Dear Lament": 1,
       "Stuck in the Sound": 1,
       "Danger Mouse & Daniele Luppi feat. Jack White": 1,
+      "Modeselektor feat. Otto von Schirach": 1,
       "M.I.A.": 1,
       "Gotye": 1,
       "Johnny Neon": 1,
@@ -16429,6 +16521,7 @@
       "Savages": 1,
       "Boozoo Bajou": 1,
       "De Staat": 1,
+      "Raleigh Ritchie": 1,
       "kwes.": 1,
       "Metronomy": 1,
       "Kiesza": 1,
@@ -16439,6 +16532,7 @@
       "Hundred Waters": 1,
       "Jeffrey Brodsky": 1,
       "Young Marco": 1,
+      "DyE": 1,
       "20syl": 2,
       "Plurabelle": 1,
       "sElf": 1,
@@ -16739,7 +16833,7 @@
       "Ned Wenlock": 1,
       "Luis Cerveró": 1,
       "Cyriak": 3,
-      "Ninian Doff": 3,
+      "Ninian Doff": 4,
       "Zach Lieberman": 1,
       "Francisco Zamorano": 1,
       "Andy Wallace": 1,
@@ -16760,6 +16854,7 @@
       "Robert Goesch": 1,
       "Alexis Beaumont": 1,
       "Rémi Godin": 1,
+      "Dent de Cuir": 3,
       "Romain Gavras": 2,
       "Darcy Prendergast": 1,
       "Dave Meinert": 1,
@@ -16831,7 +16926,6 @@
       "Sherif Alabede": 1,
       "Los Pérez": 1,
       "Roger Guàrdia": 1,
-      "Dent de Cuir": 1,
       "Lernert & Sander": 1,
       "Director X": 1,
       "Hideki Inaba": 1,
