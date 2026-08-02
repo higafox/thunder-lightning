@@ -136,39 +136,11 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
                     <span className="song">{video.song}</span>
                   </div>
                   <div className="sub">
-                    {video.directors.map((d, i) => {
-                      const on = (CT.directors[d] || 0) > 1;
-                      const active = stream.type === "director" && stream.key === d;
-                      return (
-                        <span key={d}>
-                          {i > 0 && " + "}
-                          <span
-                            className={on ? `streamable${active ? " activeStream" : ""}` : undefined}
-                            onClick={on ? () => pickStream("director", d) : undefined}
-                          >
-                            {d}
-                          </span>
-                        </span>
-                      );
-                    })}
-                    {video.directorAffiliate &&
-                      (() => {
-                        const affiliate = video.directorAffiliate!;
-                        const on = (CT.directors[affiliate] || 0) > 1;
-                        const active = stream.type === "director" && stream.key === affiliate;
-                        return (
-                          <span>
-                            {" ("}
-                            <span
-                              className={on ? `streamable${active ? " activeStream" : ""}` : undefined}
-                              onClick={on ? () => pickStream("director", affiliate) : undefined}
-                            >
-                              {affiliate}
-                            </span>
-                            {")"}
-                          </span>
-                        );
-                      })()}
+                    {/* plain text, not clickable -- a followable director/affiliate
+                        already gets its own pill in the constellation, so making
+                        this a second, redundant click target just adds visual noise */}
+                    {video.directors.join(" + ")}
+                    {video.directorAffiliate && ` (${video.directorAffiliate})`}
                     {video.dateDisplay && <div>{video.dateDisplay}</div>}
                   </div>
                 </>
