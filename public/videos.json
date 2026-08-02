@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 451,
-    "totalArtists": 345,
-    "totalDirectors": 383,
-    "totalTags": 147
+    "totalVideos": 448,
+    "totalArtists": 340,
+    "totalDirectors": 379,
+    "totalTags": 151
   },
   "videos": {
     "mette-van-gogh": {
@@ -115,6 +115,7 @@
       "tags": [
         "2000's",
         "fireworks",
+        "in camera",
         "long take",
         "soundsync"
       ],
@@ -140,6 +141,7 @@
         "1980's",
         "collage",
         "my sweet 16",
+        "paper",
         "stop motion"
       ],
       "embedBroken": false
@@ -163,6 +165,7 @@
       "tags": [
         "2000's",
         "dance",
+        "in camera",
         "long take"
       ],
       "embedBroken": false
@@ -272,7 +275,8 @@
         "interactive",
         "meta",
         "my sweet 16",
-        "ukmva"
+        "ukmva",
+        "user interface"
       ],
       "embedBroken": false
     },
@@ -323,6 +327,7 @@
       "tags": [
         "2020's",
         "3D printing",
+        "loops",
         "stop motion",
         "ukmva",
         "zoetrope"
@@ -471,6 +476,7 @@
         "2000's",
         "crowd",
         "dance",
+        "in camera",
         "long take"
       ],
       "embedBroken": false
@@ -494,6 +500,7 @@
       "tags": [
         "2000's",
         "kaleidoscope",
+        "monochrome",
         "psychedelic"
       ],
       "embedBroken": false
@@ -516,7 +523,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dgA_DlR8WsM/hqdefault.jpg",
       "tags": [
         "1990's",
-        "night vision"
+        "night vision",
+        "surveillance"
       ],
       "embedBroken": false
     },
@@ -539,6 +547,7 @@
       "tags": [
         "2000's",
         "dance",
+        "in camera",
         "treadmill/escalator",
         "womxn director"
       ],
@@ -571,14 +580,14 @@
       ],
       "embedBroken": false
     },
-    "smashing-pumpkins-tonight-tonight": {
-      "id": "smashing-pumpkins-tonight-tonight",
-      "artist": "Smashing Pumpkins",
+    "the-smashing-pumpkins-tonight-tonight": {
+      "id": "the-smashing-pumpkins-tonight-tonight",
+      "artist": "The Smashing Pumpkins",
       "song": "Tonight Tonight",
-      "director": "Jonathan Dayton & Valerie Farris",
+      "director": "Jonathan Dayton & Valerie Faris",
       "directors": [
         "Jonathan Dayton",
-        "Valerie Farris"
+        "Valerie Faris"
       ],
       "directorAffiliate": null,
       "dateDisplay": "May 1996",
@@ -591,6 +600,7 @@
       "tags": [
         "1990's",
         "gothy",
+        "mixed media",
         "retro",
         "womxn director"
       ],
@@ -615,6 +625,7 @@
       "tags": [
         "1990's",
         "california",
+        "crowd",
         "dance",
         "lofi brilliance"
       ],
@@ -638,6 +649,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/SPlQpGeTbIE/hqdefault.jpg",
       "tags": [
         "2000's",
+        "illustration",
         "pixel"
       ],
       "embedBroken": false
@@ -710,6 +722,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/7OyytKqYjkE/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
         "projection mapping"
       ],
       "embedBroken": false
@@ -734,6 +747,7 @@
         "2000's",
         "matchmove",
         "poc director",
+        "soundsync",
         "surreal",
         "vfx"
       ],
@@ -758,6 +772,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/9mAyscj-NcU/hqdefault.jpg",
       "tags": [
         "2000's",
+        "narrative",
         "wut"
       ],
       "embedBroken": false
@@ -804,7 +819,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BrbxWOMpwfs/hqdefault.jpg",
       "tags": [
         "1990's",
-        "monochrome"
+        "monochrome",
+        "tableau"
       ],
       "embedBroken": false
     },
@@ -873,6 +889,7 @@
       "tags": [
         "2000's",
         "monochrome",
+        "paper",
         "stop motion"
       ],
       "embedBroken": false
@@ -943,6 +960,7 @@
       "tags": [
         "1990's",
         "gothy",
+        "monochrome",
         "potential nsfw"
       ],
       "embedBroken": false
@@ -965,6 +983,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ltYq-jalYm0/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
         "treadmill/escalator"
       ],
       "embedBroken": false
@@ -987,6 +1006,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/qZEi2fpl1bs/hqdefault.jpg",
       "tags": [
         "2000's",
+        "birds",
+        "in camera",
         "poc director",
         "repeat",
         "tableau",
@@ -1109,7 +1130,8 @@
       "tags": [
         "2000's",
         "long take",
-        "soundsync"
+        "soundsync",
+        "tracking shot"
       ],
       "embedBroken": false
     },
@@ -1153,6 +1175,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/wqVsfGQ_1SU/hqdefault.jpg",
       "tags": [
         "1990's",
+        "california",
+        "in camera",
         "reverse"
       ],
       "embedBroken": false
@@ -1275,6 +1299,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/pwnefUaKCbc/hqdefault.jpg",
       "tags": [
         "2010's",
+        "joy",
         "poc director",
         "woc director",
         "womxn director"
@@ -1381,6 +1406,7 @@
         "2010's",
         "confidence",
         "dance",
+        "in camera",
         "long take",
         "poc director",
         "ukmva"
@@ -1502,6 +1528,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/dF-7TRy7Ylg/hqdefault.jpg",
       "tags": [
         "2000's",
+        "illustration",
         "isometric"
       ],
       "embedBroken": false
@@ -1668,6 +1695,7 @@
         "2000's",
         "poc director",
         "surreal",
+        "twinsies",
         "woc director",
         "womxn director"
       ],
@@ -1880,6 +1908,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/sQRfp2Xp6U0/hqdefault.jpg",
       "tags": [
         "2020's",
+        "in camera",
         "lasers",
         "lighting"
       ],
@@ -1982,7 +2011,8 @@
         "chronophotography",
         "dance",
         "long exposure",
-        "repeat"
+        "repeat",
+        "space"
       ],
       "embedBroken": false
     },
@@ -2056,34 +2086,12 @@
       "tags": [
         "2010's",
         "fluid dynamics",
+        "in camera",
         "long take",
         "plane",
         "womxn director"
       ],
       "embedBroken": true
-    },
-    "los-misterios-m-talos-y-vuelve": {
-      "id": "los-misterios-m-talos-y-vuelve",
-      "artist": "Los Misterios",
-      "song": "Mátalos y vuelve",
-      "director": "Xabier Mendibe",
-      "directors": [
-        "Xabier Mendibe"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "November 2020",
-      "sortDate": "2020-11-27",
-      "year": 2020,
-      "provider": "youtube",
-      "youtubeId": "vF2Wjmv6yPo",
-      "vimeoId": null,
-      "thumbnailUrl": "https://img.youtube.com/vi/vF2Wjmv6yPo/hqdefault.jpg",
-      "tags": [
-        "2020's",
-        "collage",
-        "long take"
-      ],
-      "embedBroken": false
     },
     "dayglow-something": {
       "id": "dayglow-something",
@@ -2332,6 +2340,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/0ttGgIQpAUc/hqdefault.jpg",
       "tags": [
         "2010's",
+        "3D animation",
         "crowd",
         "long take",
         "vfx"
@@ -2384,6 +2393,7 @@
         "busby berkeley",
         "crowd",
         "drone",
+        "in camera",
         "long take",
         "machine",
         "pixel",
@@ -2412,6 +2422,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/m86ae_e_ptU/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "long take",
         "optical illusion"
       ],
@@ -2537,14 +2548,15 @@
       "tags": [
         "2010's",
         "collage",
+        "loops",
         "psychedelic",
         "repeat"
       ],
       "embedBroken": false
     },
-    "royksopp-so-easy-unofficial-video": {
-      "id": "royksopp-so-easy-unofficial-video",
-      "artist": "Royksopp",
+    "r-yksopp-so-easy-unofficial-video": {
+      "id": "r-yksopp-so-easy-unofficial-video",
+      "artist": "Röyksopp",
       "song": "So Easy (unofficial video)",
       "director": "Emmanuelle Walker",
       "directors": [
@@ -2682,6 +2694,7 @@
         "cel animation",
         "monochrome",
         "psychedelic",
+        "rotoscoping",
         "vimeo staff pick",
         "womxn director"
       ],
@@ -2729,6 +2742,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/ur-y7oOto14/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "kaleidoscope",
         "repeat",
         "womxn director"
@@ -2875,6 +2889,7 @@
         "2010's",
         "busby berkeley",
         "crowd",
+        "in camera",
         "long take",
         "marching band"
       ],
@@ -2971,6 +2986,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/21sjK_0jqOQ/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
         "projection mapping"
       ],
       "embedBroken": false
@@ -2993,8 +3009,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/vSqGU3CSbdc/hqdefault.jpg",
       "tags": [
         "2000's",
+        "fluid dynamics",
         "illustration",
-        "interactive"
+        "interactive",
+        "monochrome"
       ],
       "embedBroken": false
     },
@@ -3016,6 +3034,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/j9e38cuhnaU/hqdefault.jpg",
       "tags": [
         "2000's",
+        "illustration",
+        "in camera",
         "loops",
         "vimeo staff pick",
         "zoetrope"
@@ -3141,6 +3161,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/qybUFnY7Y8w/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "long take",
         "machine",
         "rube goldberg"
@@ -3246,6 +3267,7 @@
       "tags": [
         "2020's",
         "hockney",
+        "in camera",
         "repeat"
       ],
       "embedBroken": false
@@ -3270,6 +3292,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/gz9BRl7DVSM/hqdefault.jpg",
       "tags": [
         "2020's",
+        "in camera",
         "kaleidoscope",
         "long take",
         "machine",
@@ -3323,6 +3346,7 @@
       "tags": [
         "2010's",
         "chronophotography",
+        "match cut",
         "potential nsfw",
         "repeat",
         "slitscan",
@@ -3403,6 +3427,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Q-WM-x__BOk/hqdefault.jpg",
       "tags": [
         "2010's",
+        "shapes",
+        "soundsync",
         "stop motion",
         "timeslice",
         "vimeo staff pick",
@@ -3428,6 +3454,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/cl8ptneR1Kk/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "long take",
         "projection mapping",
         "treadmill/escalator",
@@ -3599,7 +3626,8 @@
         "2010's",
         "bus",
         "long take",
-        "surreal"
+        "surreal",
+        "tracking shot"
       ],
       "embedBroken": false
     },
@@ -3722,6 +3750,7 @@
       "tags": [
         "1990's",
         "dance",
+        "in camera",
         "treadmill/escalator"
       ],
       "embedBroken": false
@@ -3964,6 +3993,7 @@
       "thumbnailUrl": "https://vumbnail.com/136249183.jpg",
       "tags": [
         "2010's",
+        "monochrome",
         "stop motion",
         "textiles",
         "vimeo staff pick"
@@ -4015,6 +4045,7 @@
         "2020's",
         "crowdsource",
         "splitscreen",
+        "user interface",
         "womxn director"
       ],
       "embedBroken": false
@@ -4064,6 +4095,7 @@
       "tags": [
         "2010's",
         "joy",
+        "mixed media",
         "poc director",
         "stop motion",
         "vimeo staff pick",
@@ -4113,6 +4145,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bJkymylTNU4/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
         "new york",
         "potential nsfw",
         "walk/run"
@@ -4160,6 +4193,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bTiqBq5Nsoc/hqdefault.jpg",
       "tags": [
         "2010's",
+        "datamoshing",
         "slowmo",
         "surreal",
         "vfx"
@@ -4213,6 +4247,7 @@
         "2000's",
         "birds",
         "hair",
+        "in camera",
         "lightning",
         "slowmo",
         "vimeo staff pick",
@@ -4387,8 +4422,12 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Le5AGYxPCLI/hqdefault.jpg",
       "tags": [
         "2020's",
+        "loops",
         "repeat",
+        "surveillance",
         "tableau",
+        "tracking shot",
+        "twinsies",
         "vfx"
       ],
       "embedBroken": false
@@ -4461,6 +4500,7 @@
         "2010's",
         "machine",
         "macro",
+        "monochrome",
         "stop motion"
       ],
       "embedBroken": false
@@ -4505,7 +4545,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/IwAIwRrs6xs/maxresdefault.jpg",
       "tags": [
         "2010's",
-        "cats"
+        "cats",
+        "slowmo"
       ],
       "embedBroken": false
     },
@@ -4529,6 +4570,7 @@
       "tags": [
         "2010's",
         "dogs",
+        "in camera",
         "long take"
       ],
       "embedBroken": false
@@ -4576,7 +4618,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/MGxjIBEZvx0/maxresdefault.jpg",
       "tags": [
         "1960's",
+        "in camera",
         "long take",
+        "lyrics",
         "retro"
       ],
       "embedBroken": false
@@ -4810,6 +4854,7 @@
         "1980's",
         "cel animation",
         "collage",
+        "greenscreen",
         "poc director"
       ],
       "embedBroken": false
@@ -4923,6 +4968,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/7qFfFVSerQo/hqdefault.jpg",
       "tags": [
         "1990's",
+        "monochrome",
         "surveillance"
       ],
       "embedBroken": false
@@ -4946,6 +4992,7 @@
       "tags": [
         "1990's",
         "long take",
+        "lyrics",
         "surreal",
         "water"
       ],
@@ -4995,30 +5042,9 @@
       "tags": [
         "1990's",
         "cars",
+        "fire",
+        "snorri/stabilize",
         "surreal"
-      ],
-      "embedBroken": false
-    },
-    "the-roots-what-they-do": {
-      "id": "the-roots-what-they-do",
-      "artist": "The Roots",
-      "song": "What They Do",
-      "director": "Charles Stone III",
-      "directors": [
-        "Charles Stone III"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "January 1996",
-      "sortDate": "1996-01-01",
-      "year": 1996,
-      "provider": "youtube",
-      "youtubeId": "_qzacv8dtb4",
-      "vimeoId": null,
-      "thumbnailUrl": "https://img.youtube.com/vi/_qzacv8dtb4/hqdefault.jpg",
-      "tags": [
-        "1990's",
-        "new york",
-        "poc director"
       ],
       "embedBroken": false
     },
@@ -5089,7 +5115,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/j_QLzthSkfM/hqdefault.jpg",
       "tags": [
         "1980's",
-        "retro"
+        "retro",
+        "surreal",
+        "tableau"
       ],
       "embedBroken": false
     },
@@ -5203,6 +5231,7 @@
       "tags": [
         "1980's",
         "dance",
+        "meta",
         "retro",
         "womxn director"
       ],
@@ -5321,6 +5350,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/-pVHC1DXQ7U/hqdefault.jpg",
       "tags": [
         "2010's",
+        "california",
         "dance",
         "narrative",
         "poc director",
@@ -5399,6 +5429,7 @@
         "dance",
         "greenscreen",
         "retro",
+        "twinsies",
         "womxn director",
         "wut"
       ],
@@ -5450,7 +5481,8 @@
         "1970's",
         "dance",
         "greenscreen",
-        "joy"
+        "joy",
+        "twinsies"
       ],
       "embedBroken": false
     },
@@ -5496,6 +5528,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/EN9auBn6Jys/hqdefault.jpg",
       "tags": [
         "1990's",
+        "in camera",
         "reverse",
         "splitscreen"
       ],
@@ -5565,6 +5598,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/vIO_wiIxW60/hqdefault.jpg",
       "tags": [
         "1960's",
+        "mirrors",
         "space"
       ],
       "embedBroken": false
@@ -5587,6 +5621,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/wHO_RlYLFY4/hqdefault.jpg",
       "tags": [
         "2020's",
+        "in camera",
         "interactive",
         "machine",
         "orbiting"
@@ -5637,7 +5672,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Hox7UOaQffI/hqdefault.jpg",
       "tags": [
         "1990's",
-        "long take"
+        "california",
+        "in camera",
+        "long take",
+        "snorri/stabilize"
       ],
       "embedBroken": false
     },
@@ -5850,6 +5888,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/WwNVlNt9iDk/hqdefault.jpg",
       "tags": [
         "2010's",
+        "crowdsource",
         "desert",
         "interactive",
         "match cut",
@@ -5898,7 +5937,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/o7aShcmEksw/hqdefault.jpg",
       "tags": [
         "1980's",
-        "dance"
+        "dance",
+        "meta"
       ],
       "embedBroken": false
     },
@@ -6092,6 +6132,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/FFOzayDpWoI/hqdefault.jpg",
       "tags": [
         "1990's",
+        "california",
         "potential nsfw"
       ],
       "embedBroken": false
@@ -6117,6 +6158,7 @@
         "long take",
         "my sweet 16",
         "surreal",
+        "tracking shot",
         "vfx",
         "vimeo staff pick"
       ],
@@ -6142,6 +6184,7 @@
       "tags": [
         "2010's",
         "cars",
+        "in camera",
         "machine",
         "rube goldberg",
         "soundsync"
@@ -6215,6 +6258,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/LgmxMuW6Fsc/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
+        "paper",
         "pixel",
         "pixilation"
       ],
@@ -6239,6 +6284,7 @@
       "tags": [
         "2010's",
         "explosions",
+        "in camera",
         "long take",
         "slowmo"
       ],
@@ -6264,6 +6310,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/V2fpgpanZAw/hqdefault.jpg",
       "tags": [
         "2010's",
+        "california",
+        "in camera",
         "pixilation",
         "timelapse"
       ],
@@ -6387,9 +6435,10 @@
       "tags": [
         "2010's",
         "orbiting",
-        "surreal"
+        "surreal",
+        "whip pan"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "squarepusher-terminal-slam": {
       "id": "squarepusher-terminal-slam",
@@ -6493,6 +6542,7 @@
         "lofi brilliance",
         "poc director",
         "splitscreen",
+        "user interface",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -6515,9 +6565,11 @@
       "thumbnailUrl": "https://img.youtube.com/vi/T6QKqFPRZSA/hqdefault.jpg",
       "tags": [
         "1990's",
+        "joy",
         "new york",
         "retro",
-        "splitscreen"
+        "splitscreen",
+        "twinsies"
       ],
       "embedBroken": false
     },
@@ -6615,6 +6667,7 @@
       "tags": [
         "2000's",
         "dance",
+        "datamoshing",
         "surreal"
       ],
       "embedBroken": false
@@ -6641,6 +6694,7 @@
         "california",
         "confidence",
         "joy",
+        "meta",
         "poc director",
         "woc director",
         "womxn director"
@@ -6814,6 +6868,7 @@
       "tags": [
         "2010's",
         "abstract",
+        "architecture",
         "landscape",
         "loops",
         "match cut"
@@ -6986,6 +7041,7 @@
         "2010's",
         "long take",
         "loops",
+        "tableau",
         "zbig rybczynski"
       ],
       "embedBroken": false
@@ -7009,6 +7065,7 @@
       "tags": [
         "2010's",
         "machine",
+        "meta",
         "surreal",
         "vfx"
       ],
@@ -7088,7 +7145,8 @@
         "2010's",
         "meta",
         "poc director",
-        "surveillance"
+        "surveillance",
+        "user interface"
       ],
       "embedBroken": false
     },
@@ -7281,8 +7339,8 @@
       "tags": [
         "2010's",
         "collage",
-        "meta",
         "potential nsfw",
+        "user interface",
         "vimeo staff pick",
         "wut"
       ],
@@ -7306,7 +7364,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/i4ooH8frBWg/hqdefault.jpg",
       "tags": [
         "2010's",
+        "busby berkeley",
         "dance",
+        "in camera",
         "long take",
         "retro"
       ],
@@ -7378,6 +7438,8 @@
       "tags": [
         "2010's",
         "california",
+        "orbiting",
+        "snorri/stabilize",
         "surreal",
         "vfx"
       ],
@@ -7402,7 +7464,8 @@
       "tags": [
         "2010's",
         "california",
-        "dance",
+        "cars",
+        "in camera",
         "long take",
         "poc director"
       ],
@@ -7651,29 +7714,6 @@
       ],
       "embedBroken": false
     },
-    "pink-floyd-high-hopes": {
-      "id": "pink-floyd-high-hopes",
-      "artist": "Pink Floyd",
-      "song": "High Hopes",
-      "director": "Storm Thorgerson",
-      "directors": [
-        "Storm Thorgerson"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "January 1994",
-      "sortDate": "1994-01-01",
-      "year": 1994,
-      "provider": "youtube",
-      "youtubeId": "7jMlFXouPk8",
-      "vimeoId": null,
-      "thumbnailUrl": "https://img.youtube.com/vi/7jMlFXouPk8/hqdefault.jpg",
-      "tags": [
-        "1990's",
-        "landscape",
-        "surreal"
-      ],
-      "embedBroken": false
-    },
     "gary-numan-cars": {
       "id": "gary-numan-cars",
       "artist": "Gary Numan",
@@ -7717,6 +7757,7 @@
         "1990's",
         "gothy",
         "narrative",
+        "prosthetics",
         "vfx",
         "wut"
       ],
@@ -7759,7 +7800,7 @@
       "year": 1981,
       "provider": "youtube",
       "youtubeId": "vWz9VN40nCA",
-      "vimeoId": null,
+      "vimeoId": "199571345",
       "thumbnailUrl": "https://img.youtube.com/vi/vWz9VN40nCA/hqdefault.jpg",
       "tags": [
         "1980's",
@@ -7834,7 +7875,9 @@
       "tags": [
         "1980's",
         "gothy",
-        "kids"
+        "kids",
+        "lip sync",
+        "shadows"
       ],
       "embedBroken": false
     },
@@ -7928,6 +7971,7 @@
       "tags": [
         "2010's",
         "bike",
+        "fire",
         "lighting",
         "new york"
       ],
@@ -7951,7 +7995,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/UfH3I0oRihc/hqdefault.jpg",
       "tags": [
         "2000's",
-        "surreal"
+        "surreal",
+        "water"
       ],
       "embedBroken": false
     },
@@ -8049,6 +8094,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/T0RvPYRRRbE/hqdefault.jpg",
       "tags": [
         "2000's",
+        "optical illusion",
         "zoetrope"
       ],
       "embedBroken": false
@@ -8130,6 +8176,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/aRYokc3VBC4/hqdefault.jpg",
       "tags": [
         "1990's",
+        "datamoshing",
         "timeslice",
         "vfx"
       ],
@@ -8177,7 +8224,8 @@
       "tags": [
         "2010's",
         "lighting",
-        "poc director"
+        "poc director",
+        "surreal"
       ],
       "embedBroken": false
     },
@@ -8323,6 +8371,7 @@
       "tags": [
         "2000's",
         "california",
+        "in camera",
         "piano",
         "snorri/stabilize"
       ],
@@ -8372,6 +8421,8 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/GoLJJRIWCLU/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
+        "monochrome",
         "snorri/stabilize"
       ],
       "embedBroken": false
@@ -8464,6 +8515,7 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/RfbMVOIJzzo/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "projection mapping"
       ],
       "embedBroken": false
@@ -8486,6 +8538,7 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/8VclSdfoExY/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "stop motion",
         "zoetrope"
       ],
@@ -8510,7 +8563,8 @@
       "tags": [
         "2010's",
         "illustration",
-        "monochrome"
+        "monochrome",
+        "orbiting"
       ],
       "embedBroken": false
     },
@@ -8558,6 +8612,7 @@
         "2000's",
         "abstract",
         "monochrome",
+        "shapes",
         "soundsync"
       ],
       "embedBroken": false
@@ -8653,6 +8708,7 @@
       "tags": [
         "2010's",
         "360",
+        "in camera",
         "loops",
         "pixilation",
         "stop motion",
@@ -8704,6 +8760,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/7eqNaglgfHY/hqdefault.jpg",
       "tags": [
         "2000's",
+        "retro",
         "vfx"
       ],
       "embedBroken": false
@@ -8726,11 +8783,12 @@
       "thumbnailUrl": "https://img.youtube.com/vi/TjKmQmsRlBk/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "lighting",
         "projection mapping",
         "walk/run"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "monogrenade-ce-soir": {
       "id": "monogrenade-ce-soir",
@@ -8807,7 +8865,7 @@
     },
     "tv-on-the-radio-second-song": {
       "id": "tv-on-the-radio-second-song",
-      "artist": "TV On The Radio",
+      "artist": "TV on the Radio",
       "song": "Second Song",
       "director": "Mikey Please",
       "directors": [
@@ -8823,6 +8881,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/uwYM2t22h_E/hqdefault.jpg",
       "tags": [
         "2010's",
+        "fluid dynamics",
         "stop motion",
         "zoetrope"
       ],
@@ -8923,6 +8982,7 @@
       "tags": [
         "2010's",
         "dance",
+        "in camera",
         "match cut"
       ],
       "embedBroken": false
@@ -9023,6 +9083,7 @@
         "2000's",
         "birds",
         "soundsync",
+        "user interface",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -9070,7 +9131,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/g57fYTgVbDk/hqdefault.jpg",
       "tags": [
         "2010's",
-        "meta",
+        "user interface",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -9095,6 +9156,7 @@
         "2010's",
         "kids",
         "monochrome",
+        "tracking shot",
         "vfx",
         "vimeo staff pick",
         "walk/run"
@@ -9143,6 +9205,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/PglfNDepTyQ/hqdefault.jpg",
       "tags": [
         "2000's",
+        "in camera",
         "joy",
         "long take",
         "orbiting",
@@ -9170,6 +9233,7 @@
         "2010's",
         "3D animation",
         "fluid dynamics",
+        "landscape",
         "monochrome",
         "vfx",
         "vimeo staff pick"
@@ -9195,6 +9259,7 @@
       "tags": [
         "2010's",
         "dogs",
+        "in camera",
         "joy",
         "snorri/stabilize",
         "vimeo staff pick"
@@ -9373,6 +9438,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/OePvsCfKHJg/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "long take",
         "vimeo staff pick"
       ],
@@ -9500,6 +9566,7 @@
       "tags": [
         "1990's",
         "loops",
+        "meta",
         "my sweet 16",
         "surreal"
       ],
@@ -9546,6 +9613,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/Rui0hzN-EFE/hqdefault.jpg",
       "tags": [
         "1990's",
+        "ping pong",
         "slowmo",
         "sports"
       ],
@@ -9621,7 +9689,8 @@
       "tags": [
         "2000's",
         "confidence",
-        "dance"
+        "dance",
+        "in camera"
       ],
       "embedBroken": false
     },
@@ -9647,7 +9716,8 @@
         "claps",
         "gothy",
         "long take",
-        "surreal"
+        "surreal",
+        "tracking shot"
       ],
       "embedBroken": false
     },
@@ -9671,7 +9741,9 @@
         "1990's",
         "busby berkeley",
         "crowd",
-        "dance"
+        "dance",
+        "in camera",
+        "snorri/stabilize"
       ],
       "embedBroken": true
     },
@@ -9899,6 +9971,7 @@
         "2010's",
         "abstract",
         "cel animation",
+        "flowers",
         "loops",
         "poc director",
         "psychedelic"
@@ -9923,10 +9996,12 @@
       "thumbnailUrl": "https://img.youtube.com/vi/vZHtjv4oJw8/hqdefault.jpg",
       "tags": [
         "2010's",
+        "birds",
         "loops",
         "monochrome",
         "potential nsfw",
         "repeat",
+        "tracking shot",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -10029,6 +10104,7 @@
         "2010's",
         "illustration",
         "space",
+        "vimeo staff pick",
         "womxn director"
       ],
       "embedBroken": false
@@ -10102,7 +10178,7 @@
       "tags": [
         "2010's",
         "interactive",
-        "meta",
+        "user interface",
         "walk/run"
       ],
       "embedBroken": false
@@ -10199,6 +10275,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6M3HW_YfZoI/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "orbiting",
         "repeat"
       ],
@@ -10301,6 +10378,7 @@
         "poc director",
         "retro",
         "splitscreen",
+        "twinsies",
         "woc director",
         "womxn director"
       ],
@@ -10425,6 +10503,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bhVgQW3UhFM/hqdefault.jpg",
       "tags": [
         "2010's",
+        "in camera",
         "lyrics",
         "match cut",
         "ukmva",
@@ -10474,6 +10553,7 @@
       "tags": [
         "2020's",
         "lofi brilliance",
+        "meta",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -10592,7 +10672,9 @@
       "tags": [
         "2010's",
         "collage",
+        "new york",
         "psychedelic",
+        "soundsync",
         "vfx",
         "vimeo staff pick"
       ],
@@ -10668,7 +10750,7 @@
         "dance",
         "vimeo staff pick"
       ],
-      "embedBroken": false
+      "embedBroken": true
     },
     "fjaak-snow": {
       "id": "fjaak-snow",
@@ -10738,7 +10820,10 @@
       "thumbnailUrl": null,
       "tags": [
         "2010's",
+        "birds",
+        "dance",
         "loops",
+        "lyrics",
         "tableau",
         "vimeo staff pick"
       ],
@@ -10788,7 +10873,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/5B2ua57s160/hqdefault.jpg",
       "tags": [
         "2010's",
+        "abstract",
         "kaleidoscope",
+        "landscape",
+        "vimeo staff pick",
         "water"
       ],
       "embedBroken": false
@@ -10859,6 +10947,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/32ZlqCh4jV8/hqdefault.jpg",
       "tags": [
         "2020's",
+        "glitch",
         "surreal",
         "vfx",
         "vimeo staff pick",
@@ -10908,6 +10997,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/LLgueEfT_xc/hqdefault.jpg",
       "tags": [
         "2010's",
+        "fluid dynamics",
         "illustration",
         "psychedelic"
       ],
@@ -11025,7 +11115,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/3Sp8Vhwts6U/hqdefault.jpg",
       "tags": [
         "2010's",
-        "meta"
+        "user interface"
       ],
       "embedBroken": false
     }
@@ -11083,7 +11173,6 @@
       "selena-bidi-bidi-bom-bom",
       "janet-jackson-thats-the-way-love-goes",
       "depeche-mode-walking-in-my-shoes",
-      "pink-floyd-high-hopes",
       "nine-inch-nails-closer",
       "soundgarden-black-hole-sun",
       "lisa-loeb-stay-i-missed-you",
@@ -11098,9 +11187,8 @@
       "radiohead-just",
       "blur-the-universal",
       "cibo-matto-sugar-water",
-      "the-roots-what-they-do",
       "the-smashing-pumpkins-1979",
-      "smashing-pumpkins-tonight-tonight",
+      "the-smashing-pumpkins-tonight-tonight",
       "jamiroquai-virtual-insanity",
       "marilyn-manson-the-beautiful-people",
       "david-bowie-im-afraid-of-americans",
@@ -11282,7 +11370,7 @@
       "kottarashky-the-rain-dogs-demoni",
       "rudimental-feat-john-newman-feel-the-love",
       "foster-the-people-houdini",
-      "royksopp-so-easy-unofficial-video",
+      "r-yksopp-so-easy-unofficial-video",
       "woodkid-run-boy-run",
       "passion-pit-take-a-walk",
       "willow-sweater",
@@ -11442,7 +11530,6 @@
       "leon-bridges-lucky-daye-all-about-you",
       "chris-lake-armand-van-helden-the-answer",
       "bad-bunny-yo-visto-as",
-      "los-misterios-m-talos-y-vuelve",
       "taylor-bennett-dont-wait-up",
       "dayglow-something",
       "bad-bunny-x-rosal-a-la-noche-de-anoche",
@@ -11494,6 +11581,57 @@
         "serge-gainsbourg-brigitte-bardot-comic-strip",
         "david-bowie-space-oddity"
       ],
+      "in camera": [
+        "bob-dylan-subterranean-homesick-blues",
+        "bj-rk-its-oh-so-quiet",
+        "the-pharcyde-drop",
+        "cibo-matto-sugar-water",
+        "jamiroquai-virtual-insanity",
+        "michael-penn-try",
+        "vanessa-carlton-a-thousand-miles",
+        "the-white-stripes-dead-leaves-and-the-dirty-ground",
+        "yuki-sentimental-journey",
+        "ok-go-here-it-goes-again",
+        "feist-1234",
+        "feist-my-moon-my-man",
+        "r2j2-work-it-out",
+        "radiohead-jigsaw-falling-into-place",
+        "feist-i-feel-it-all",
+        "thunderheist-jerk-it",
+        "beyonc-single-ladies-put-a-ring-on-it",
+        "nyle-let-the-beat-build",
+        "matt-and-kim-lessons-learned",
+        "moray-mclaren-we-got-time",
+        "dominik-eulberg-sansula-oder-der-letzte-grund",
+        "ok-go-this-too-shall-pass",
+        "ok-go-this-too-shall-pass-rube-goldberg",
+        "ok-go-end-love",
+        "ok-go-white-knuckles",
+        "yelle-que-veux-tu-madeon-remix",
+        "bell-chase-no-face",
+        "ok-go-all-is-not-lost",
+        "gotye-easy-way-out",
+        "johnny-neon-hearts",
+        "ok-go-needing-getting",
+        "kottarashky-the-rain-dogs-demoni",
+        "willow-sweater",
+        "lushlife-magnolia",
+        "phoenix-trying-to-be-cool",
+        "travis-moving",
+        "ok-go-the-writings-on-the-wall",
+        "ok-go-i-wont-let-you-down",
+        "donnie-trumpet-the-social-experiment-sunday-candy",
+        "ok-go-upside-down-inside-out",
+        "ok-go-the-one-moment",
+        "ok-go-obsession",
+        "childish-gambino-this-is-america",
+        "lany-thick-and-thin",
+        "beck-uneventful-days-jimmy-kimmel-performance",
+        "tune-yards-medley-for-google-i-o",
+        "fred-again-lil-yachty-and-overmono-stayinit",
+        "ok-go-a-stone-only-rolls-downhill",
+        "ok-go-love"
+      ],
       "long take": [
         "bob-dylan-subterranean-homesick-blues",
         "lisa-loeb-stay-i-missed-you",
@@ -11535,10 +11673,16 @@
         "bonobo-no-reason",
         "childish-gambino-this-is-america",
         "lany-thick-and-thin",
-        "los-misterios-m-talos-y-vuelve",
         "jungle-back-on-74",
         "mette-bet",
         "ok-go-love"
+      ],
+      "lyrics": [
+        "bob-dylan-subterranean-homesick-blues",
+        "radiohead-no-surprises",
+        "lushlife-magnolia",
+        "husbands-dream",
+        "russ-chimes-turn-me-out"
       ],
       "retro": [
         "bob-dylan-subterranean-homesick-blues",
@@ -11550,7 +11694,7 @@
         "talking-heads-once-in-a-lifetime",
         "a-flock-of-seagulls-i-ran",
         "madonna-material-girl",
-        "smashing-pumpkins-tonight-tonight",
+        "the-smashing-pumpkins-tonight-tonight",
         "daft-punk-around-the-world",
         "lauryn-hill-doo-wop-that-thing",
         "the-avalanches-frontier-psychiatrist",
@@ -11558,6 +11702,7 @@
         "peter-bjorn-and-john-young-folks",
         "muse-knights-of-cydonia",
         "snoop-dogg-sensual-seduction",
+        "pistol-youth-in-my-eyes",
         "beyonc-countdown",
         "the-shins-simple-song",
         "gerard-way-millions",
@@ -11601,11 +11746,14 @@
       "illustration": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
         "the-pointer-sisters-pinball-animation-countdown",
+        "r-yksopp-remind-me",
+        "junior-senior-move-your-feet",
         "kid-koala-basin-street-blues",
         "peter-bjorn-and-john-young-folks",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "justice-d-a-n-c-e",
         "fleet-foxes-mykonos",
+        "moray-mclaren-we-got-time",
         "labuat-soy-tu-aire",
         "paul-dempsey-bats",
         "danger-beach-apache",
@@ -11614,7 +11762,7 @@
         "marian-ruzzi-y-sr-amable-una-pieza-mas",
         "stuck-in-the-sound-lets-go",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "royksopp-so-easy-unofficial-video",
+        "r-yksopp-so-easy-unofficial-video",
         "rone-bye-bye-macadam",
         "savages-marshal-dear",
         "young-marco-trippy-isolator",
@@ -11638,15 +11786,18 @@
       ],
       "tableau": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
+        "devo-whip-it",
         "robert-palmer-addicted-to-love",
         "r-e-m-losing-my-religion",
         "soundgarden-black-hole-sun",
+        "blur-the-universal",
         "yuki-sentimental-journey",
         "grizzly-bear-knife",
         "lady-gaga-bad-romance",
         "scissor-sisters-invisible-light",
         "woodkid-iron",
         "russ-chimes-turn-me-out",
+        "gilligan-moss-choreograph",
         "beyonc-formation",
         "blonde-redhead-golden-light",
         "kendrick-lamar-humble",
@@ -11666,6 +11817,14 @@
         "doechii-anxiety",
         "balming-tiger-oui"
       ],
+      "mirrors": [
+        "david-bowie-space-oddity",
+        "a-flock-of-seagulls-i-ran",
+        "the-chemical-brothers-let-forever-be",
+        "arcade-fire-reflektor",
+        "ok-go-love",
+        "mette-coming-of-age"
+      ],
       "space": [
         "david-bowie-space-oddity",
         "missy-elliott-da-brat-sock-it-2-me",
@@ -11678,6 +11837,7 @@
         "rendezvous-the-murf",
         "stuck-in-the-sound-lets-go",
         "ryan-barger-dreams-are-real",
+        "sarh-u-and-i",
         "vessels-4am",
         "the-chemical-brothers-weve-got-to-try",
         "apashe-human"
@@ -11727,7 +11887,7 @@
         "we-cut-corners-pirates-life",
         "stuck-in-the-sound-lets-go",
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "royksopp-so-easy-unofficial-video",
+        "r-yksopp-so-easy-unofficial-video",
         "kingdom-crumbs-evoking-spirits",
         "iron-wine-joy",
         "vial-of-sound-a-lifetime-passed",
@@ -11790,6 +11950,7 @@
         "duck-sauce-big-bad-wolf",
         "psy-gangnam-style",
         "flying-lotus-until-the-quiet-comes",
+        "russ-chimes-turn-me-out",
         "kiesza-hideaway",
         "pillar-point-dreamin",
         "sia-chandelier",
@@ -11819,7 +11980,6 @@
         "the-peach-kings-dirty-secret",
         "the-carters-apeshit",
         "kuricorder-quartet-southpaw",
-        "lany-thick-and-thin",
         "thom-yorke-anima",
         "dolche-big-man",
         "chris-lake-armand-van-helden-the-answer",
@@ -11844,7 +12004,7 @@
         "nine-inch-nails-closer",
         "soundgarden-black-hole-sun",
         "madonna-human-nature",
-        "smashing-pumpkins-tonight-tonight",
+        "the-smashing-pumpkins-tonight-tonight",
         "marilyn-manson-the-beautiful-people",
         "the-horrors-sheena-is-a-parasite",
         "i-love-you-but-ive-chosen-darkness-the-owl",
@@ -11859,7 +12019,7 @@
       ],
       "surreal": [
         "kate-bush-hammer-horror",
-        "pink-floyd-high-hopes",
+        "devo-whip-it",
         "soundgarden-black-hole-sun",
         "massive-attack-protection",
         "bj-rk-army-of-me",
@@ -11914,6 +12074,7 @@
         "5nizza-samoliot",
         "benjamin-booker-believe",
         "the-peach-kings-dirty-secret",
+        "bad-bunny-vete",
         "yello-out-of-sight",
         "alt-j-hard-drive-gold",
         "jacques-absolve",
@@ -11941,15 +12102,18 @@
       "greenscreen": [
         "michael-jackson-dont-stop-til-you-get-enough",
         "orchestral-manoeuvres-in-the-dark-enola-gay",
-        "talking-heads-once-in-a-lifetime"
+        "talking-heads-once-in-a-lifetime",
+        "prince-and-the-revolution-raspberry-beret"
       ],
       "joy": [
         "michael-jackson-dont-stop-til-you-get-enough",
         "selena-bidi-bidi-bom-bom",
         "janet-jackson-thats-the-way-love-goes",
+        "lauryn-hill-doo-wop-that-thing",
         "the-rapture-whoo-alright-yeah-uh-huh",
         "brite-futures-sophisticated-side-ponytail",
         "nyle-let-the-beat-build",
+        "janelle-mon-e-tightrope",
         "huma-huma-hello-i-like-you",
         "johnny-neon-hearts",
         "rudimental-feat-john-newman-feel-the-love",
@@ -11957,6 +12121,22 @@
         "ariane-roy-ta-main",
         "mette-mamas-eyes",
         "chappell-roan-super-graphic-ultra-modern-girl"
+      ],
+      "twinsies": [
+        "michael-jackson-dont-stop-til-you-get-enough",
+        "talking-heads-once-in-a-lifetime",
+        "lauryn-hill-doo-wop-that-thing",
+        "moby-honey",
+        "the-chemical-brothers-let-forever-be",
+        "kylie-minogue-come-into-my-world",
+        "yuki-sentimental-journey",
+        "ogiyahagi-i-love-your-face",
+        "bellx1-rocky-took-a-lover",
+        "beyonc-countdown",
+        "reeps-one-does-not-exist",
+        "janelle-mon-e-i-like-that",
+        "paul-kalkbrenner-schwer",
+        "mette-bet"
       ],
       "lasers": [
         "michael-jackson-rock-with-you",
@@ -12034,7 +12214,7 @@
         "madonna-like-a-prayer",
         "prince-the-new-power-generation-cream",
         "selena-bidi-bidi-bom-bom",
-        "smashing-pumpkins-tonight-tonight",
+        "the-smashing-pumpkins-tonight-tonight",
         "marilyn-manson-the-beautiful-people",
         "blur-song-2",
         "natalie-imbruglia-torn",
@@ -12055,7 +12235,7 @@
         "apparat-granular-bastard",
         "beyonc-countdown",
         "we-cut-corners-pirates-life",
-        "royksopp-so-easy-unofficial-video",
+        "r-yksopp-so-easy-unofficial-video",
         "shugo-tokumaru-katachi",
         "iron-wine-joy",
         "sia-chandelier",
@@ -12104,21 +12284,16 @@
         "yello-out-of-sight",
         "duck-sauce-mesmerize"
       ],
-      "mirrors": [
-        "a-flock-of-seagulls-i-ran",
-        "the-chemical-brothers-let-forever-be",
-        "arcade-fire-reflektor",
-        "ok-go-love",
-        "mette-coming-of-age"
-      ],
       "orbiting": [
         "a-flock-of-seagulls-i-ran",
         "kylie-minogue-come-into-my-world",
         "battles-atlas",
         "nyle-let-the-beat-build",
+        "rone-bye-bye-macadam",
         "metronomy-love-letters",
         "alt-j-pusher",
         "battles-the-yabba",
+        "vince-staples-lift-me-up",
         "clark-peak-magnetic",
         "5nizza-samoliot",
         "beck-uneventful-days-jimmy-kimmel-performance",
@@ -12144,22 +12319,46 @@
       ],
       "prosthetics": [
         "michael-jackson-thriller",
+        "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
         "grizzly-bear-knife",
         "bj-rk-wanderlust",
         "miike-snow-genghis-khan"
       ],
       "birds": [
         "prince-and-the-revolution-when-doves-cry",
+        "yuki-sentimental-journey",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "tv-on-the-radio-me-i",
         "thunderheist-jerk-it",
         "jarbas-agnelli-birds-on-the-wires",
         "woodkid-iron",
+        "russ-chimes-turn-me-out",
+        "alb-the-road",
         "janelle-mon-e-i-like-that"
       ],
       "motorcycle": [
         "prince-and-the-revolution-when-doves-cry",
         "bad-bunny-yo-visto-as"
+      ],
+      "meta": [
+        "madonna-material-girl",
+        "paula-abdul-cold-hearted",
+        "natalie-imbruglia-torn",
+        "bj-rk-bachelorette",
+        "mickey-3d-respire",
+        "lenny-kravitz-let-love-rule-justice-remix",
+        "foster-the-people-houdini",
+        "light-light-kilo-do-not-touch",
+        "jay-z-moonlight",
+        "young-thug-wyclef-jean",
+        "vince-staples-fun",
+        "bad-bunny-la-dif-cil",
+        "bad-bunny-si-veo-a-tu-mam",
+        "duck-sauce-mesmerize",
+        "taylor-bennett-dont-wait-up",
+        "chappell-roan-super-graphic-ultra-modern-girl",
+        "the-smile-friend-of-a-friend",
+        "doechii-anxiety"
       ],
       "collage": [
         "prince-and-the-revolution-raspberry-beret",
@@ -12177,14 +12376,12 @@
         "la-chica-be-able",
         "gaz-coombes-walk-the-walk",
         "bas-ft-correy-c-fragrance",
-        "los-misterios-m-talos-y-vuelve",
         "dayglow-something"
       ],
       "poc director": [
         "prince-and-the-revolution-raspberry-beret",
         "r-e-m-losing-my-religion",
         "2pac-ft-dr-dre-california-love",
-        "the-roots-what-they-do",
         "missy-elliott-da-brat-sock-it-2-me",
         "missy-elliott-the-rain-supa-dupa-fly",
         "missy-elliott-work-it",
@@ -12269,6 +12466,12 @@
         "mormor-here-it-goes-again",
         "mette-mamas-eyes"
       ],
+      "paper": [
+        "talking-heads-and-she-was",
+        "regina-spektor-samson",
+        "shitdisco-ok",
+        "ok-go-obsession"
+      ],
       "stop motion": [
         "talking-heads-and-she-was",
         "peter-gabriel-sledgehammer",
@@ -12297,6 +12500,14 @@
         "leon-bridges-lucky-daye-all-about-you",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
+      "lip sync": [
+        "the-cure-boys-dont-cry",
+        "george-michael-freedom-90",
+        "lorde-tennis-court"
+      ],
+      "shadows": [
+        "the-cure-boys-dont-cry"
+      ],
       "plane": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
@@ -12309,6 +12520,7 @@
         "radiohead-just",
         "blur-coffee-tv",
         "bj-rk-triumph-of-a-heart",
+        "r-kelly-trapped-in-the-closet",
         "modest-mouse-dashboard",
         "my-morning-jacket-touch-me-im-going-to-scream-part-2",
         "son-of-kick-playing-the-villain",
@@ -12327,7 +12539,6 @@
       "new york": [
         "madonna-papa-dont-preach",
         "depeche-mode-policy-of-truth",
-        "the-roots-what-they-do",
         "david-bowie-im-afraid-of-americans",
         "lauryn-hill-doo-wop-that-thing",
         "the-white-stripes-the-hardest-button-to-button",
@@ -12338,6 +12549,7 @@
         "matt-and-kim-lessons-learned",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
         "the-hundred-in-the-hands-pigeons",
+        "eskmo-we-got-more",
         "memory-tapes-yes-i-know",
         "kiesza-hideaway",
         "pillar-point-dreamin",
@@ -12348,11 +12560,18 @@
       ],
       "tracking shot": [
         "when-in-rome-the-promise",
+        "the-chemical-brothers-star-guitar",
+        "bat-for-lashes-whats-a-girl-to-do",
         "the-american-dollar-anything-you-synthesize",
         "paul-dempsey-bats",
+        "woodkid-run-boy-run",
         "siska-unconditional-rebel",
+        "alb-the-road",
+        "hook-n-sling-feat-far-east-movement-break-yourself",
         "mount-moriah-precita",
-        "mild-minds-walls"
+        "bonobo-no-reason",
+        "mild-minds-walls",
+        "paul-kalkbrenner-schwer"
       ],
       "horses": [
         "depeche-mode-personal-jesus",
@@ -12370,13 +12589,18 @@
         "depeche-mode-policy-of-truth",
         "madonna-justify-my-love",
         "depeche-mode-walking-in-my-shoes",
+        "nine-inch-nails-closer",
+        "radiohead-high-and-dry",
         "madonna-human-nature",
         "blur-the-universal",
         "jay-z-99-problems",
+        "gnarls-barkley-crazy",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "regina-spektor-samson",
+        "radiohead-jigsaw-falling-into-place",
         "possible-metrics-sonar",
         "friendly-fires-skeleton-boy",
+        "labuat-soy-tu-aire",
         "sebastien-tellier-look",
         "johnny-cash-aint-no-grave",
         "champagne-valentine-black-material",
@@ -12388,12 +12612,14 @@
         "woodkid-run-boy-run",
         "rone-bye-bye-macadam",
         "husbands-dream",
+        "karl-westman-ibm-research-a-boy-and-his-atom",
         "the-vein-magma",
         "arcade-fire-reflektor",
         "savages-marshal-dear",
         "plurabelle-our-fires",
         "20syl-back-forth",
         "alb-the-road",
+        "son-lux-change-is-everything",
         "christine-and-the-queens-tilted",
         "michael-kiwanuka-black-man-in-a-white-world",
         "max-cooper-waves",
@@ -12416,7 +12642,6 @@
         "selena-bidi-bidi-bom-bom",
         "janet-jackson-thats-the-way-love-goes",
         "depeche-mode-walking-in-my-shoes",
-        "pink-floyd-high-hopes",
         "nine-inch-nails-closer",
         "soundgarden-black-hole-sun",
         "lisa-loeb-stay-i-missed-you",
@@ -12431,9 +12656,8 @@
         "radiohead-just",
         "blur-the-universal",
         "cibo-matto-sugar-water",
-        "the-roots-what-they-do",
         "the-smashing-pumpkins-1979",
-        "smashing-pumpkins-tonight-tonight",
+        "the-smashing-pumpkins-tonight-tonight",
         "jamiroquai-virtual-insanity",
         "marilyn-manson-the-beautiful-people",
         "david-bowie-im-afraid-of-americans",
@@ -12456,10 +12680,6 @@
         "the-chemical-brothers-let-forever-be",
         "blur-no-distance-left-to-run",
         "dangelo-untitled-how-does-it-feel"
-      ],
-      "lip sync": [
-        "george-michael-freedom-90",
-        "lorde-tennis-court"
       ],
       "potential nsfw": [
         "madonna-justify-my-love",
@@ -12535,10 +12755,15 @@
       "california": [
         "selena-bidi-bidi-bom-bom",
         "2pac-ft-dr-dre-california-love",
+        "the-pharcyde-drop",
         "the-smashing-pumpkins-1979",
+        "michael-penn-try",
+        "fiona-apple-criminal",
         "fatboy-slim-praise-you",
         "fatboy-slim-weapon-of-choice",
         "vanessa-carlton-a-thousand-miles",
+        "ok-go-end-love",
+        "flying-lotus-until-the-quiet-comes",
         "duke-dumont-wont-look-back",
         "vince-staples-lift-me-up",
         "lany-thick-and-thin",
@@ -12573,22 +12798,13 @@
         "depeche-mode-walking-in-my-shoes",
         "kwes-rollerblades"
       ],
-      "landscape": [
-        "pink-floyd-high-hopes",
-        "the-american-dollar-anything-you-synthesize",
-        "data-blood-theme",
-        "vessels-4am",
-        "max-cooper-circular",
-        "four-tet-baby",
-        "pink-floyd-welcome-to-the-machine",
-        "bonobo-me-and-you"
-      ],
       "cars": [
         "2pac-ft-dr-dre-california-love",
         "radiohead-karma-police",
         "son-of-kick-playing-the-villain",
         "m-i-a-bad-girls",
         "ok-go-needing-getting",
+        "lany-thick-and-thin",
         "mette-bet"
       ],
       "desert": [
@@ -12609,11 +12825,13 @@
         "tv-on-the-radio-me-i",
         "ok-go-this-too-shall-pass",
         "ok-go-i-wont-let-you-down",
+        "donnie-trumpet-the-social-experiment-sunday-candy",
         "tourist-valentine",
         "doechii-anxiety"
       ],
       "crowd": [
         "bj-rk-its-oh-so-quiet",
+        "fatboy-slim-praise-you",
         "feist-1234",
         "ok-go-this-too-shall-pass",
         "psy-gangnam-style",
@@ -12629,12 +12847,33 @@
         "wolf-alice-bloom-baby-bloom",
         "gener8ion-yung-lean-storm"
       ],
+      "snorri/stabilize": [
+        "bj-rk-its-oh-so-quiet",
+        "the-smashing-pumpkins-1979",
+        "radiohead-karma-police",
+        "michael-penn-try",
+        "vanessa-carlton-a-thousand-miles",
+        "radiohead-jigsaw-falling-into-place",
+        "supergrass-bad-blood",
+        "kid-cudi-pursuit-of-happiness",
+        "johnny-neon-hearts",
+        "queens-of-the-stone-age-smooth-sailing",
+        "vince-staples-lift-me-up"
+      ],
       "surveillance": [
         "radiohead-high-and-dry",
+        "blur-no-distance-left-to-run",
         "vince-staples-fun",
         "squarepusher-terminal-slam",
         "chris-lake-armand-van-helden-the-answer",
+        "paul-kalkbrenner-schwer",
         "kings-of-leon-mustang"
+      ],
+      "datamoshing": [
+        "the-rolling-stones-like-a-rolling-stone",
+        "missy-elliott-get-ur-freak-on",
+        "chairlift-evident-utensil",
+        "dralms-crushed-pleats"
       ],
       "timeslice": [
         "the-rolling-stones-like-a-rolling-stone",
@@ -12651,14 +12890,17 @@
         "the-carters-apeshit",
         "weval-someday",
         "max-cooper-repetition",
+        "max-cooper-circular",
         "dua-lipa-illusion"
       ],
       "mixed media": [
         "bj-rk-army-of-me",
+        "the-smashing-pumpkins-tonight-tonight",
         "modest-mouse-dashboard",
         "grizzly-bear-knife",
         "bellx1-rocky-took-a-lover",
         "bj-rk-wanderlust",
+        "huma-huma-hello-i-like-you",
         "bj-rk-mutual-core"
       ],
       "reverse": [
@@ -12679,15 +12921,6 @@
         "casey-veggies-euphoria-ii",
         "thao-the-get-down-stay-down-phenom"
       ],
-      "snorri/stabilize": [
-        "the-smashing-pumpkins-1979",
-        "vanessa-carlton-a-thousand-miles",
-        "radiohead-jigsaw-falling-into-place",
-        "supergrass-bad-blood",
-        "kid-cudi-pursuit-of-happiness",
-        "johnny-neon-hearts",
-        "queens-of-the-stone-age-smooth-sailing"
-      ],
       "treadmill/escalator": [
         "jamiroquai-virtual-insanity",
         "ok-go-here-it-goes-again",
@@ -12705,6 +12938,7 @@
         "woodkid-iron",
         "kwes-rollerblades",
         "pillar-point-dreamin",
+        "self-runaway",
         "dralms-crushed-pleats",
         "siska-unconditional-rebel",
         "lorn-acid-rain",
@@ -12743,6 +12977,7 @@
         "rome-3-dreams-of-black",
         "bj-rk-mutual-core",
         "the-vein-magma",
+        "de-staat-witch-doctor",
         "jeffrey-brodsky-ill-be-strong",
         "panda-bear-boys-latin",
         "n-lannon-another-love",
@@ -12752,6 +12987,7 @@
         "radiohead-no-surprises",
         "j-dilla-nothing-like-this",
         "modest-mouse-dashboard",
+        "flying-lotus-infinitum",
         "bj-rk-wanderlust",
         "fever-ray-when-i-grow-up",
         "slow-magic-corvette-cassette",
@@ -12760,6 +12996,11 @@
         "beyonc-formation",
         "dua-lipa-illusion",
         "tourist-valentine"
+      ],
+      "fire": [
+        "radiohead-karma-police",
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "bad-bunny-x-rosal-a-la-noche-de-anoche"
       ],
       "skeleton": [
         "daft-punk-around-the-world",
@@ -12776,24 +13017,6 @@
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
       ],
-      "meta": [
-        "natalie-imbruglia-torn",
-        "mickey-3d-respire",
-        "arcade-fire-we-used-to-wait",
-        "lenny-kravitz-let-love-rule-justice-remix",
-        "modeselektor-feat-otto-von-schirach-evil-twin",
-        "light-light-kilo-do-not-touch",
-        "the-shoes-drifted",
-        "lyrical-school-run-and-run",
-        "jay-z-moonlight",
-        "young-thug-wyclef-jean",
-        "vince-staples-fun",
-        "bad-bunny-la-dif-cil",
-        "bad-bunny-si-veo-a-tu-mam",
-        "duck-sauce-mesmerize",
-        "the-smile-friend-of-a-friend",
-        "doechii-anxiety"
-      ],
       "loops": [
         "bj-rk-bachelorette",
         "the-white-stripes-seven-nation-army",
@@ -12802,6 +13025,7 @@
         "panda-bear-alsatian-darn",
         "brite-futures-too-young-to-kill",
         "gotye-easy-way-out",
+        "bonobo-cirrus",
         "russ-chimes-turn-me-out",
         "vial-of-sound-a-lifetime-passed",
         "boozoo-bajou-jan-mayen",
@@ -12813,8 +13037,13 @@
         "max-cooper-waves",
         "milk-bone-pressure",
         "max-cooper-circular",
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "mormor-here-it-goes-again",
+        "paul-kalkbrenner-schwer",
         "kendrick-lamar-squabble-up"
+      ],
+      "ping pong": [
+        "air-kelly-watch-the-stars"
       ],
       "sports": [
         "air-kelly-watch-the-stars",
@@ -12851,16 +13080,6 @@
         "beck-uneventful-days-jimmy-kimmel-performance",
         "paul-kalkbrenner-schwer",
         "ok-go-a-stone-only-rolls-downhill"
-      ],
-      "twinsies": [
-        "moby-honey",
-        "the-chemical-brothers-let-forever-be",
-        "kylie-minogue-come-into-my-world",
-        "yuki-sentimental-journey",
-        "bellx1-rocky-took-a-lover",
-        "reeps-one-does-not-exist",
-        "janelle-mon-e-i-like-that",
-        "mette-bet"
       ],
       "lofi brilliance": [
         "fatboy-slim-praise-you",
@@ -12992,13 +13211,16 @@
         "the-chemical-brothers-star-guitar",
         "the-white-stripes-seven-nation-army",
         "the-white-stripes-the-hardest-button-to-button",
+        "cornelius-fit-song",
         "jemapur-aanaatt",
         "feist-i-feel-it-all",
         "possible-metrics-sonar",
         "radiohead-weird-fishes-arpeggi",
         "jarbas-agnelli-birds-on-the-wires",
         "boys-noize-jeffer",
+        "eskmo-we-got-more",
         "ok-go-needing-getting",
+        "shugo-tokumaru-katachi",
         "20syl-kodama",
         "nigel-stanford-cymatics",
         "20syl-back-forth",
@@ -13058,6 +13280,7 @@
         "possible-metrics-sonar",
         "radiohead-weird-fishes-arpeggi",
         "panda-bear-alsatian-darn",
+        "slow-magic-corvette-cassette",
         "vial-of-sound-a-lifetime-passed",
         "boozoo-bajou-jan-mayen",
         "hundred-waters-cavity",
@@ -13130,6 +13353,7 @@
       ],
       "optical illusion": [
         "goose-british-mode",
+        "passion-pit-sleepyhead",
         "ok-go-the-writings-on-the-wall",
         "ok-go-love"
       ],
@@ -13169,6 +13393,8 @@
         "memory-tapes-yes-i-know",
         "huma-huma-hello-i-like-you",
         "hooray-for-earth-true-loves-cereal-spiller-remix",
+        "slow-magic-corvette-cassette",
+        "apparat-granular-bastard",
         "battles-my-machines",
         "casey-veggies-euphoria-ii",
         "we-cut-corners-pirates-life",
@@ -13233,9 +13459,6 @@
         "bad-bunny-si-veo-a-tu-mam",
         "bad-bunny-yo-visto-as"
       ],
-      "paper": [
-        "shitdisco-ok"
-      ],
       "d&ad": [
         "bj-rk-wanderlust",
         "duck-sauce-big-bad-wolf",
@@ -13273,11 +13496,35 @@
         "kottarashky-the-rain-dogs-demoni",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
+      "landscape": [
+        "the-american-dollar-anything-you-synthesize",
+        "slow-magic-corvette-cassette",
+        "data-blood-theme",
+        "the-vein-magma",
+        "vessels-4am",
+        "max-cooper-circular",
+        "four-tet-baby",
+        "pink-floyd-welcome-to-the-machine",
+        "bonobo-me-and-you"
+      ],
+      "shapes": [
+        "possible-metrics-sonar",
+        "fleet-foxes-mykonos",
+        "shugo-tokumaru-katachi",
+        "20syl-back-forth",
+        "max-cooper-waves",
+        "jmii-bailar",
+        "thunder-tillman-alignments",
+        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
+      ],
       "fluid dynamics": [
         "friendly-fires-skeleton-boy",
+        "labuat-soy-tu-aire",
+        "tv-on-the-radio-second-song",
         "bj-rk-mutual-core",
         "the-vein-magma",
         "jeffrey-brodsky-ill-be-strong",
+        "young-marco-trippy-isolator",
         "nigel-stanford-cymatics",
         "a-love-like-pi-jack-and-the-giant",
         "ok-go-upside-down-inside-out"
@@ -13288,23 +13535,13 @@
       "tilt shift": [
         "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix"
       ],
-      "shapes": [
-        "fleet-foxes-mykonos",
-        "20syl-back-forth",
-        "max-cooper-waves",
-        "jmii-bailar",
-        "thunder-tillman-alignments",
-        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
-      ],
-      "datamoshing": [
-        "chairlift-evident-utensil"
-      ],
       "glitch": [
         "chairlift-evident-utensil",
         "boys-noize-jeffer",
         "gerard-way-millions",
         "thom-yorke-anima",
         "squarepusher-terminal-slam",
+        "yello-out-of-sight",
         "bonobo-me-and-you"
       ],
       "interactive": [
@@ -13317,7 +13554,19 @@
       ],
       "crowdsource": [
         "sour-hibi-no-neiro",
+        "johnny-cash-aint-no-grave",
         "dear-lament-coffee",
+        "thao-the-get-down-stay-down-phenom"
+      ],
+      "user interface": [
+        "sour-hibi-no-neiro",
+        "jarbas-agnelli-birds-on-the-wires",
+        "arcade-fire-we-used-to-wait",
+        "modeselektor-feat-otto-von-schirach-evil-twin",
+        "light-light-kilo-do-not-touch",
+        "the-shoes-drifted",
+        "lyrical-school-run-and-run",
+        "vince-staples-fun",
         "thao-the-get-down-stay-down-phenom"
       ],
       "ascii": [
@@ -13390,7 +13639,7 @@
         "kottarashky-the-rain-dogs-demoni",
         "rudimental-feat-john-newman-feel-the-love",
         "foster-the-people-houdini",
-        "royksopp-so-easy-unofficial-video",
+        "r-yksopp-so-easy-unofficial-video",
         "woodkid-run-boy-run",
         "passion-pit-take-a-walk",
         "willow-sweater",
@@ -13551,6 +13800,7 @@
         "beyonc-formation"
       ],
       "match cut": [
+        "fm-belfast-underwear",
         "johnny-cash-aint-no-grave",
         "michael-langan-dahlia",
         "yelle-que-veux-tu-madeon-remix",
@@ -13568,12 +13818,13 @@
       "whip pan": [
         "the-hundred-in-the-hands-pigeons",
         "sylvan-esso-kick-jump-twist",
+        "clark-peak-magnetic",
         "kings-of-leon-mustang",
         "lady-gaga-abracadabra"
       ],
-      "lyrics": [
-        "lushlife-magnolia",
-        "husbands-dream"
+      "rotoscoping": [
+        "we-cut-corners-pirates-life",
+        "mitski-a-pearl"
       ],
       "macro": [
         "karl-westman-ibm-research-a-boy-and-his-atom",
@@ -13606,7 +13857,8 @@
         "ok-go-i-wont-let-you-down"
       ],
       "flowers": [
-        "dana-williams-one-more"
+        "dana-williams-one-more",
+        "beatsofreen-slowly-rising"
       ],
       "bus": [
         "hook-n-sling-feat-far-east-movement-break-yourself"
@@ -13641,9 +13893,6 @@
         "the-carters-apeshit",
         "jacques-absolve"
       ],
-      "rotoscoping": [
-        "mitski-a-pearl"
-      ],
       "2020's": [
         "squarepusher-terminal-slam",
         "four-tet-baby",
@@ -13660,7 +13909,6 @@
         "leon-bridges-lucky-daye-all-about-you",
         "chris-lake-armand-van-helden-the-answer",
         "bad-bunny-yo-visto-as",
-        "los-misterios-m-talos-y-vuelve",
         "taylor-bennett-dont-wait-up",
         "dayglow-something",
         "bad-bunny-x-rosal-a-la-noche-de-anoche",
@@ -13705,9 +13953,6 @@
       "skateboard": [
         "bad-bunny-yo-visto-as"
       ],
-      "fire": [
-        "bad-bunny-x-rosal-a-la-noche-de-anoche"
-      ],
       "ai": [
         "jacques-absolve",
         "alessandro-bavari-suno-solid-light-from-space"
@@ -13727,7 +13972,6 @@
       "Pink Floyd": [
         "pink-floyd-money",
         "pink-floyd-another-brick-in-the-wall-part-two",
-        "pink-floyd-high-hopes",
         "pink-floyd-welcome-to-the-machine"
       ],
       "Queen": [
@@ -13882,14 +14126,9 @@
       "Cibo Matto": [
         "cibo-matto-sugar-water"
       ],
-      "The Roots": [
-        "the-roots-what-they-do"
-      ],
       "The Smashing Pumpkins": [
-        "the-smashing-pumpkins-1979"
-      ],
-      "Smashing Pumpkins": [
-        "smashing-pumpkins-tonight-tonight"
+        "the-smashing-pumpkins-1979",
+        "the-smashing-pumpkins-tonight-tonight"
       ],
       "Jamiroquai": [
         "jamiroquai-virtual-insanity"
@@ -13963,7 +14202,8 @@
         "autechre-gantz-graf"
       ],
       "Röyksopp": [
-        "r-yksopp-remind-me"
+        "r-yksopp-remind-me",
+        "r-yksopp-so-easy-unofficial-video"
       ],
       "Kylie Minogue": [
         "kylie-minogue-come-into-my-world"
@@ -14077,7 +14317,8 @@
         "justice-d-a-n-c-e"
       ],
       "TV on the Radio": [
-        "tv-on-the-radio-me-i"
+        "tv-on-the-radio-me-i",
+        "tv-on-the-radio-second-song"
       ],
       "Grizzly Bear": [
         "grizzly-bear-knife",
@@ -14273,9 +14514,6 @@
       "Memory Tapes": [
         "memory-tapes-yes-i-know"
       ],
-      "TV On The Radio": [
-        "tv-on-the-radio-second-song"
-      ],
       "tUnE-yArDs": [
         "tune-yards-bizness"
       ],
@@ -14374,9 +14612,6 @@
       ],
       "Foster The People": [
         "foster-the-people-houdini"
-      ],
-      "Royksopp": [
-        "royksopp-so-easy-unofficial-video"
       ],
       "Willow": [
         "willow-sweater"
@@ -14770,9 +15005,6 @@
       "Chris Lake & Armand Van Helden": [
         "chris-lake-armand-van-helden-the-answer"
       ],
-      "Los Misterios": [
-        "los-misterios-m-talos-y-vuelve"
-      ],
       "Taylor Bennett": [
         "taylor-bennett-dont-wait-up"
       ],
@@ -14993,9 +15225,6 @@
       "René Elizondo, Jr.": [
         "janet-jackson-thats-the-way-love-goes"
       ],
-      "Storm Thorgerson": [
-        "pink-floyd-high-hopes"
-      ],
       "Mark Romanek": [
         "nine-inch-nails-closer",
         "fiona-apple-criminal",
@@ -15047,18 +15276,13 @@
         "jamiroquai-virtual-insanity",
         "radiohead-karma-police"
       ],
-      "Charles Stone III": [
-        "the-roots-what-they-do"
-      ],
       "Jonathan Dayton": [
         "the-smashing-pumpkins-1979",
-        "smashing-pumpkins-tonight-tonight"
+        "the-smashing-pumpkins-tonight-tonight"
       ],
       "Valerie Faris": [
-        "the-smashing-pumpkins-1979"
-      ],
-      "Valerie Farris": [
-        "smashing-pumpkins-tonight-tonight"
+        "the-smashing-pumpkins-1979",
+        "the-smashing-pumpkins-tonight-tonight"
       ],
       "Floria Sigismondi": [
         "marilyn-manson-the-beautiful-people"
@@ -15608,7 +15832,7 @@
         "rudimental-feat-john-newman-feel-the-love"
       ],
       "Emmanuelle Walker": [
-        "royksopp-so-easy-unofficial-video"
+        "r-yksopp-so-easy-unofficial-video"
       ],
       "Filip Sterckx": [
         "willow-sweater"
@@ -16038,9 +16262,6 @@
         "apashe-human",
         "apashe-vladimir-cauchemar-bellatores"
       ],
-      "Xabier Mendibe": [
-        "los-misterios-m-talos-y-vuelve"
-      ],
       "David Li": [
         "tune-yards-medley-for-google-i-o"
       ],
@@ -16156,13 +16377,16 @@
     "tags": {
       "360": 2,
       "1960's": 3,
-      "long take": 44,
-      "retro": 22,
+      "in camera": 49,
+      "long take": 43,
+      "lyrics": 5,
+      "retro": 23,
       "confidence": 32,
-      "illustration": 23,
+      "illustration": 26,
       "pixilation": 11,
-      "tableau": 28,
-      "space": 14,
+      "tableau": 31,
+      "mirrors": 6,
+      "space": 15,
       "1970's": 10,
       "editing": 12,
       "guitar solo": 3,
@@ -16171,78 +16395,81 @@
       "chronophotography": 6,
       "dance": 81,
       "gothy": 20,
-      "surreal": 62,
+      "surreal": 63,
       "kaleidoscope": 8,
       "hair": 5,
-      "greenscreen": 3,
-      "joy": 13,
+      "greenscreen": 4,
+      "joy": 15,
+      "twinsies": 14,
       "lasers": 5,
       "kids": 19,
       "1980's": 28,
       "body-ody": 8,
       "womxn director": 54,
       "wut": 20,
-      "mirrors": 5,
-      "orbiting": 12,
+      "orbiting": 14,
       "legs": 2,
       "machine": 11,
-      "prosthetics": 4,
-      "birds": 7,
+      "prosthetics": 5,
+      "birds": 10,
       "motorcycle": 2,
-      "collage": 17,
-      "poc director": 69,
+      "meta": 18,
+      "collage": 16,
+      "poc director": 68,
       "my sweet 16": 16,
+      "paper": 4,
       "stop motion": 26,
+      "lip sync": 3,
+      "shadows": 1,
       "plane": 3,
-      "narrative": 20,
+      "narrative": 21,
       "new york": 20,
-      "tracking shot": 6,
+      "tracking shot": 13,
       "horses": 8,
-      "monochrome": 39,
-      "1990's": 50,
-      "lip sync": 2,
+      "monochrome": 46,
+      "1990's": 48,
       "potential nsfw": 20,
       "vfx": 47,
-      "california": 11,
+      "california": 16,
       "psychedelic": 22,
       "skates": 2,
-      "landscape": 8,
-      "cars": 6,
+      "cars": 7,
       "desert": 9,
-      "busby berkeley": 8,
-      "crowd": 15,
-      "surveillance": 5,
+      "busby berkeley": 9,
+      "crowd": 16,
+      "snorri/stabilize": 11,
+      "surveillance": 7,
+      "datamoshing": 4,
       "timeslice": 6,
-      "architecture": 7,
-      "mixed media": 6,
+      "architecture": 8,
+      "mixed media": 8,
       "reverse": 5,
       "splitscreen": 9,
-      "snorri/stabilize": 7,
       "treadmill/escalator": 6,
-      "slowmo": 16,
+      "slowmo": 17,
       "walk/run": 13,
-      "3D animation": 17,
-      "water": 11,
+      "3D animation": 18,
+      "water": 12,
+      "fire": 3,
       "skeleton": 2,
       "explosions": 6,
       "fisheye": 1,
-      "meta": 16,
-      "loops": 20,
+      "loops": 23,
+      "ping pong": 1,
       "sports": 5,
       "repeat": 27,
-      "twinsies": 8,
       "lofi brilliance": 9,
       "my top 5": 5,
       "puppets": 5,
       "night vision": 1,
       "2000's": 94,
-      "soundsync": 21,
+      "soundsync": 24,
       "rube goldberg": 3,
       "woc director": 19,
       "lego": 1,
       "pixel": 8,
       "piano": 1,
-      "abstract": 18,
+      "abstract": 19,
       "isometric": 3,
       "projection mapping": 7,
       "kaiju": 3,
@@ -16252,34 +16479,34 @@
       "matchmove": 6,
       "dogs": 5,
       "jump": 4,
-      "optical illusion": 3,
+      "optical illusion": 4,
       "slitscan": 5,
       "bike": 5,
       "keytar": 1,
-      "vimeo staff pick": 75,
+      "vimeo staff pick": 77,
       "fireworks": 4,
-      "paper": 1,
       "d&ad": 4,
       "ukmva": 12,
       "lightning": 4,
       "yuri norstein-esque": 2,
       "zoetrope": 5,
-      "fluid dynamics": 7,
+      "landscape": 9,
+      "shapes": 8,
+      "fluid dynamics": 10,
       "miniatures": 1,
       "tilt shift": 1,
-      "shapes": 6,
-      "datamoshing": 1,
-      "glitch": 6,
+      "glitch": 7,
       "interactive": 6,
-      "crowdsource": 3,
+      "crowdsource": 4,
+      "user interface": 9,
       "ascii": 2,
       "2010's": 210,
       "lighting": 8,
       "marching band": 2,
-      "match cut": 9,
+      "match cut": 10,
       "timelapse": 2,
-      "whip pan": 4,
-      "lyrics": 2,
+      "whip pan": 5,
+      "rotoscoping": 2,
       "macro": 3,
       "hockney": 4,
       "dither": 1,
@@ -16287,7 +16514,7 @@
       "platform": 2,
       "drone": 4,
       "umbrella": 1,
-      "flowers": 1,
+      "flowers": 2,
       "bus": 1,
       "zbig rybczynski": 3,
       "vr": 2,
@@ -16296,17 +16523,15 @@
       "flute": 1,
       "sapphic": 4,
       "louvre": 2,
-      "rotoscoping": 1,
-      "2020's": 56,
+      "2020's": 55,
       "skateboard": 1,
-      "fire": 1,
       "ai": 2
     },
     "artists": {
       "Bob Dylan": 1,
       "Serge Gainsbourg & Brigitte Bardot": 1,
       "David Bowie": 2,
-      "Pink Floyd": 4,
+      "Pink Floyd": 3,
       "Queen": 1,
       "The Pointer Sisters": 1,
       "Kate Bush": 1,
@@ -16347,9 +16572,7 @@
       "The Pharcyde": 1,
       "Blur": 4,
       "Cibo Matto": 1,
-      "The Roots": 1,
-      "The Smashing Pumpkins": 1,
-      "Smashing Pumpkins": 1,
+      "The Smashing Pumpkins": 2,
       "Jamiroquai": 1,
       "Marilyn Manson": 1,
       "Missy Elliott & Da Brat": 1,
@@ -16370,7 +16593,7 @@
       "The White Stripes": 4,
       "Vanessa Carlton": 1,
       "Autechre": 1,
-      "Röyksopp": 1,
+      "Röyksopp": 2,
       "Kylie Minogue": 1,
       "Junior Senior": 1,
       "Twerk": 1,
@@ -16402,7 +16625,7 @@
       "Battles": 4,
       "Feist": 3,
       "Justice": 1,
-      "TV on the Radio": 1,
+      "TV on the Radio": 2,
       "Grizzly Bear": 2,
       "Flight of the Conchords": 1,
       "Bat for Lashes": 1,
@@ -16462,7 +16685,6 @@
       "Scissor Sisters": 1,
       "Michael Langan": 1,
       "Memory Tapes": 1,
-      "TV On The Radio": 1,
       "tUnE-yArDs": 1,
       "Woodkid": 2,
       "Yelle": 1,
@@ -16495,7 +16717,6 @@
       "Kottarashky & The Rain Dogs": 1,
       "Rudimental feat. John Newman": 1,
       "Foster The People": 1,
-      "Royksopp": 1,
       "Willow": 1,
       "PSY": 1,
       "Kingdom Crumbs": 1,
@@ -16621,7 +16842,6 @@
       "Ariane Roy": 1,
       "Leon Bridges, Lucky Daye": 1,
       "Chris Lake & Armand Van Helden": 1,
-      "Los Misterios": 1,
       "Taylor Bennett": 1,
       "Dayglow": 1,
       "Bad Bunny x Rosalía": 1,
@@ -16691,7 +16911,6 @@
       "Michael Bay": 1,
       "Cecilia Miniucchi": 1,
       "René Elizondo, Jr.": 1,
-      "Storm Thorgerson": 1,
       "Mark Romanek": 3,
       "Howard Greenhalgh": 1,
       "Ethan Hawke": 1,
@@ -16701,10 +16920,8 @@
       "Michel Gondry": 15,
       "Jamie Thraves": 1,
       "Jonathan Glazer": 3,
-      "Charles Stone III": 1,
       "Jonathan Dayton": 2,
-      "Valerie Faris": 1,
-      "Valerie Farris": 1,
+      "Valerie Faris": 2,
       "Floria Sigismondi": 1,
       "Dom & Nic": 2,
       "Grant Gee": 1,
@@ -16996,7 +17213,6 @@
       "Chris Shimojima": 1,
       "Dirk Koy": 1,
       "Adrian Villagomez": 5,
-      "Xabier Mendibe": 1,
       "David Li": 1,
       "Google Arts & Culture, Done & Dusted, and Acronym": 1,
       "Ksawery Kirklewski": 1,

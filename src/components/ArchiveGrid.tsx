@@ -171,19 +171,31 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   // modals, so flipping between them doesn't require closing and reopening.
   const [rosterOpen, setRosterOpen] = useState(false);
   const [rosterKind, setRosterKind] = useState<"artists" | "directors">("artists");
-  // cycles the same way the tag cloud's sort control does: A-Z -> most -> least -> A-Z
-  const [rosterSort, setRosterSort] = useState<"alpha" | "most" | "least">("alpha");
-  const cycleRosterSort = () => {
-    setRosterSort((prev) => (prev === "alpha" ? "most" : prev === "most" ? "least" : "alpha"));
+  // two independent pills, both always visible (like Shuffle/Chronological in
+  // the main archive toolbar) rather than one button cycling through three
+  // labels. Clicking the inactive one switches to it at its default
+  // direction; clicking the already-active one flips its arrow, same as
+  // Chronological's ↑/↓ toggle.
+  const [rosterSortBy, setRosterSortBy] = useState<"alpha" | "count">("alpha");
+  const [alphaDir, setAlphaDir] = useState<"asc" | "desc">("asc");
+  const [countDir, setCountDir] = useState<"asc" | "desc">("desc");
+  const selectAlphaSort = () => {
+    if (rosterSortBy === "alpha") setAlphaDir((d) => (d === "asc" ? "desc" : "asc"));
+    else setRosterSortBy("alpha");
+  };
+  const selectCountSort = () => {
+    if (rosterSortBy === "count") setCountDir((d) => (d === "desc" ? "asc" : "desc"));
+    else setRosterSortBy("count");
   };
   const rosterNames = useMemo(() => {
     if (!rosterOpen) return [];
     const pl = PL[rosterKind];
     const entries = Object.keys(pl).map((name) => ({ name, count: pl[name].length }));
-    if (rosterSort === "most") return entries.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
-    if (rosterSort === "least") return entries.sort((a, b) => a.count - b.count || a.name.localeCompare(b.name));
-    return entries.sort((a, b) => a.name.localeCompare(b.name));
-  }, [rosterOpen, rosterKind, rosterSort, PL]);
+    if (rosterSortBy === "count") {
+      return entries.sort((a, b) => (countDir === "desc" ? b.count - a.count : a.count - b.count) || a.name.localeCompare(b.name));
+    }
+    return entries.sort((a, b) => (alphaDir === "asc" ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name)));
+  }, [rosterOpen, rosterKind, rosterSortBy, alphaDir, countDir, PL]);
   // a name with only one video has nothing to browse -- go straight there.
   // 2+ videos instead filters the grid down to their videos so you can pick.
   const openRandomFor = (name: string) => {
@@ -300,8 +312,11 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           onSwitchKind={setRosterKind}
           totalArtists={META.totalArtists}
           totalDirectors={META.totalDirectors}
-          sort={rosterSort}
-          onCycleSort={cycleRosterSort}
+          sortBy={rosterSortBy}
+          alphaDir={alphaDir}
+          countDir={countDir}
+          onSelectAlpha={selectAlphaSort}
+          onSelectCount={selectCountSort}
           names={rosterNames}
           onClose={() => setRosterOpen(false)}
           onPick={openRandomFor}
@@ -316,8 +331,11 @@ function RosterModal({
   onSwitchKind,
   totalArtists,
   totalDirectors,
-  sort,
-  onCycleSort,
+  sortBy,
+  alphaDir,
+  countDir,
+  onSelectAlpha,
+  onSelectCount,
   names,
   onClose,
   onPick,
@@ -326,8 +344,11 @@ function RosterModal({
   onSwitchKind: (k: "artists" | "directors") => void;
   totalArtists: number;
   totalDirectors: number;
-  sort: "alpha" | "most" | "least";
-  onCycleSort: () => void;
+  sortBy: "alpha" | "count";
+  alphaDir: "asc" | "desc";
+  countDir: "asc" | "desc";
+  onSelectAlpha: () => void;
+  onSelectCount: () => void;
   names: { name: string; count: number }[];
   onClose: () => void;
   onPick: (name: string) => void;
@@ -340,7 +361,8 @@ function RosterModal({
     return () => document.removeEventListener("keydown", onKey);
   }, [onClose]);
 
-  const sortLabel = sort === "alpha" ? "A–Z" : sort === "most" ? "Most" : "Least";
+  const alphaLabel = `A–Z ${alphaDir === "asc" ? "↓" : "↑"}`;
+  const countLabel = `Count ${countDir === "desc" ? "↓" : "↑"}`;
 
   return (
     <div
@@ -363,8 +385,11 @@ function RosterModal({
           </button>
         </div>
         <div className="rosterSortRow">
-          <button className="rosterSort" onClick={onCycleSort} title="Change sort order">
-            {sortLabel}
+          <button className={`rosterSort${sortBy === "alpha" ? " sel" : ""}`} onClick={onSelectAlpha} title="Sort alphabetically">
+            {alphaLabel}
+          </button>
+          <button className={`rosterSort${sortBy === "count" ? " sel" : ""}`} onClick={onSelectCount} title="Sort by video count">
+            {countLabel}
           </button>
         </div>
         <div className="rosterList">

@@ -459,6 +459,7 @@ a {
 .rosterSortRow {
   display: flex;
   justify-content: flex-start;
+  gap: 8px;
   margin-bottom: 10px;
 }
 .rosterSort {
@@ -475,6 +476,14 @@ a {
 .rosterSort:hover {
   color: var(--ink);
   border-color: var(--dim);
+}
+.rosterSort.sel {
+  background: var(--active);
+  border-color: var(--active);
+  color: #141208;
+}
+.rosterSort.sel:hover {
+  color: #141208;
 }
 .rosterList {
   margin-top: 6px;
