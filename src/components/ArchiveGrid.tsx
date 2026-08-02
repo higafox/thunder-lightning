@@ -90,7 +90,30 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     return () => document.removeEventListener("keydown", onKey);
   }, [router]);
 
-  const allTags = useMemo(() => Object.keys(CT.tags).sort((x, y) => CT.tags[y] - CT.tags[x]), [CT.tags]);
+  // tag cloud order is independent of the video sort/shuffle above -- it only
+  // rearranges the tag pills themselves. cycles popular (default, by usage
+  // count) -> A-Z -> shuffled -> back to popular; a fresh shuffle is drawn
+  // each time it lands on "shuffled" so re-cycling into it looks different.
+  const [tagSort, setTagSort] = useState<"count" | "alpha" | "shuffle">("count");
+  const [shuffledTags, setShuffledTags] = useState<string[]>([]);
+  const cycleTagSort = () => {
+    setTagSort((prev) => {
+      if (prev === "count") return "alpha";
+      if (prev === "alpha") {
+        setShuffledTags(shuffleArray(Object.keys(CT.tags)));
+        return "shuffle";
+      }
+      return "count";
+    });
+  };
+  const tagSortLabel = tagSort === "count" ? "Tag: Popular" : tagSort === "alpha" ? "Tag: A–Z" : "Tag: Shuffle";
+
+  const allTags = useMemo(() => {
+    const names = Object.keys(CT.tags);
+    if (tagSort === "alpha") return names.sort((a, b) => a.localeCompare(b));
+    if (tagSort === "shuffle") return shuffledTags.length ? shuffledTags : names;
+    return names.sort((x, y) => CT.tags[y] - CT.tags[x]);
+  }, [CT.tags, tagSort, shuffledTags]);
 
   const list = useMemo(() => {
     const base = shuffled ? shuffled.slice() : chrono === true ? PL.timeline.slice() : PL.timeline.slice().reverse();
@@ -112,14 +135,41 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     return cols;
   }, [list, numCols]);
 
+  // "342 artists" / "384 directors" in the stats line open an alphabetized
+  // roster of that type; picking a name jumps to a random video of theirs
+  // rather than filtering the grid, since there's no tag-style pill to
+  // filter by for every single artist/director.
+  const [roster, setRoster] = useState<"artists" | "directors" | null>(null);
+  const rosterNames = useMemo(() => {
+    if (!roster) return [];
+    const pl = PL[roster];
+    return Object.keys(pl)
+      .sort((a, b) => a.localeCompare(b))
+      .map((name) => ({ name, count: pl[name].length }));
+  }, [roster, PL]);
+  const openRandomFor = (kind: "artists" | "directors", name: string) => {
+    const ids = PL[kind][name];
+    if (!ids || !ids.length) return;
+    const id = ids[Math.floor(Math.random() * ids.length)];
+    setRoster(null);
+    router.push(`/video/${id}`);
+  };
+
   return (
     <div id="archive" ref={archiveRef}>
       <div className="arcHead">
         <div className="t">{META.title}</div>
         <div className="st">{META.subtitle}</div>
         <div className="stats">
-          {META.totalVideos} videos · {META.totalArtists} artists · {META.totalDirectors} directors · {META.totalTags}{" "}
-          connections
+          {META.totalVideos} videos ·{" "}
+          <button className="statsLink" onClick={() => setRoster("artists")}>
+            {META.totalArtists} artists
+          </button>{" "}
+          ·{" "}
+          <button className="statsLink" onClick={() => setRoster("directors")}>
+            {META.totalDirectors} directors
+          </button>{" "}
+          · {META.totalTags} connections
         </div>
         <div className="arcTools">
           <input
@@ -155,6 +205,9 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
               {t}
             </button>
           ))}
+          <button className="tgSort" onClick={cycleTagSort} title="Change tag order">
+            {tagSortLabel}
+          </button>
         </div>
       </div>
       {list.length === 0 ? (
@@ -180,6 +233,59 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           </button>
         </>
       )}
+      {roster && (
+        <RosterModal
+          kind={roster}
+          names={rosterNames}
+          onClose={() => setRoster(null)}
+          onPick={(name) => openRandomFor(roster, name)}
+        />
+      )}
+    </div>
+  );
+}
+
+function RosterModal({
+  kind,
+  names,
+  onClose,
+  onPick,
+}: {
+  kind: "artists" | "directors";
+  names: { name: string; count: number }[];
+  onClose: () => void;
+  onPick: (name: string) => void;
+}) {
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    };
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [onClose]);
+
+  return (
+    <div
+      className="scrim"
+      onClick={(e) => {
+        if (e.target === e.currentTarget) onClose();
+      }}
+    >
+      <div className="card roster">
+        <button className="cardx" onClick={onClose}>
+          ✕
+        </button>
+        <h2>{kind === "artists" ? "Artists" : "Directors"}</h2>
+        <div className="sub">{names.length} · click one for a random video of theirs</div>
+        <div className="rosterList">
+          {names.map(({ name, count }) => (
+            <button key={name} className="rosterItem" onClick={() => onPick(name)}>
+              <span className="n">{name}</span>
+              <span className="c">{count}</span>
+            </button>
+          ))}
+        </div>
+      </div>
     </div>
   );
 }

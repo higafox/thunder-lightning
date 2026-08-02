@@ -216,7 +216,7 @@ a {
 }
 .meta .sub {
   font-size: 13px;
-  color: var(--dim);
+  color: #9b9891;
   margin-top: 2px;
   font-weight: 300;
 }
@@ -249,18 +249,18 @@ a {
 }
 .ray {
   stroke: #c9a659;
-  stroke-width: 0.13;
+  stroke-width: 0.17;
   vector-effect: non-scaling-stroke;
 }
 .sun {
   stroke: #c9a659;
   stroke-opacity: 0.9;
-  stroke-width: 0.14;
+  stroke-width: 0.17;
   vector-effect: non-scaling-stroke;
 }
 .spoke {
   stroke: #c9a659;
-  stroke-width: 0.11;
+  stroke-width: 0.15;
   vector-effect: non-scaling-stroke;
 }
 .conn {
@@ -422,6 +422,49 @@ a {
   color: var(--active);
   text-decoration: none;
 }
+.card.roster {
+  max-width: 460px;
+  width: 100%;
+  max-height: 76vh;
+  display: flex;
+  flex-direction: column;
+}
+.rosterList {
+  margin-top: 6px;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+.rosterItem {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 4px;
+  border-bottom: 1px solid var(--line);
+  font-size: 13.5px;
+  color: var(--ink);
+  text-align: left;
+  transition: color 0.15s;
+}
+.rosterItem:last-child {
+  border-bottom: none;
+}
+.rosterItem:hover {
+  color: var(--active);
+}
+.rosterItem .n {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.rosterItem .c {
+  flex-shrink: 0;
+  font-size: 11px;
+  color: var(--dim);
+}
 .cardx {
   position: absolute;
   top: 16px;
@@ -462,6 +505,17 @@ a {
   letter-spacing: 0.06em;
   color: var(--dim);
   margin-top: 14px;
+}
+.statsLink {
+  color: var(--dim);
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 3px;
+  transition: color 0.18s, text-decoration-color 0.18s;
+}
+.statsLink:hover {
+  color: var(--active);
+  text-decoration-color: var(--active);
 }
 .arcTools {
   display: flex;
@@ -529,6 +583,22 @@ a {
 .tagbar .tg.sel {
   background: var(--active);
   color: #141208;
+}
+.tagbar .tgSort {
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 6px 13px;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--dim);
+  margin-left: 4px;
+  transition: all 0.18s;
+}
+.tagbar .tgSort:hover {
+  color: var(--ink);
+  border-color: var(--dim);
 }
 .archiveGrid {
   max-width: 1400px;
@@ -623,12 +693,12 @@ a {
 }
 .cell .ov .d {
   font-size: 11px;
-  color: var(--dim);
+  color: #9b9891;
   margin-top: 6px;
 }
 .cell .ov .tgs {
   font-size: 10px;
-  color: var(--dimmer);
+  color: #7d7a73;
   margin-top: 8px;
   line-height: 1.5;
 }

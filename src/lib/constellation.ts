@@ -114,7 +114,7 @@ export function buildConstellation(params: {
     if (Math.abs(Math.cos(ang)) < 0.12) continue;
     const inner = 6 + rand() * 10;
     const len = inner + 14 + rand() * 36;
-    addRay(ang, inner, len, "ray", 0.13 + rand() * 0.22);
+    addRay(ang, inner, len, "ray", 0.21 + rand() * 0.22);
   }
 
   // ornamental long spokes that go nowhere
@@ -124,7 +124,7 @@ export function buildConstellation(params: {
     if (Math.abs(Math.cos(ang)) < 0.14) continue;
     const inner = 8 + rand() * 8;
     const len = inner + 50 + rand() * 40;
-    addRay(ang, inner, len, "spoke", 0.13 + rand() * 0.16);
+    addRay(ang, inner, len, "spoke", 0.20 + rand() * 0.16);
   }
 
   // tags sorted by global popularity
