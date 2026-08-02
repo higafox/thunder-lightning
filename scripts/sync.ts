@@ -190,7 +190,10 @@ function main() {
       ? [director]
       : director
           .split(/\s*,\s*|\s+and\s+|\s*&\s*|\s*\+\s*|\s*\/\s*/i)
-          .map((d) => d.trim())
+          // an Oxford-comma list ("A, B, and C") splits the comma before "and"
+          // ever gets a chance to match as its own separator, leaving a stray
+          // "and " stuck to the last name -- strip it per-fragment.
+          .map((d) => d.replace(/^(and|&)\s+/i, "").trim())
           .filter(Boolean);
 
     let slug = slugify(artist, song);
