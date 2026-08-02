@@ -94,6 +94,11 @@ export function buildConstellation(params: {
     rays.push({ x1, y1, x2, y2, cls, opacity: op });
   };
 
+  // decorative background lines (sun/ray/spoke) share the connector lines'
+  // color/width, dialed back to ~75% opacity with a touch of per-line
+  // variation so the background reads as quieter than an actual connection.
+  const bgOpacity = () => 0.68 + rand() * 0.14;
+
   // sunburst: 120 thin radial lines fanning from center. lengths biased short
   // (squared random) so most stop soon past the frame, a few reach further.
   const SUN = 120;
@@ -104,17 +109,17 @@ export function buildConstellation(params: {
     const inner = 7;
     const r = rand() * rand();
     const len = 72 + r * 60;
-    addRay(a, inner, len, "sun");
+    addRay(a, inner, len, "sun", bgOpacity());
   }
 
-  // ambient short rays (dense, faint)
+  // ambient short rays (dense)
   const RAYS = 44;
   for (let i = 0; i < RAYS; i++) {
     const ang = (i / RAYS) * Math.PI * 2 + (rand() - 0.5) * 0.35;
     if (Math.abs(Math.cos(ang)) < 0.12) continue;
     const inner = 6 + rand() * 10;
     const len = inner + 14 + rand() * 36;
-    addRay(ang, inner, len, "ray", 0.21 + rand() * 0.22);
+    addRay(ang, inner, len, "ray", bgOpacity());
   }
 
   // ornamental long spokes that go nowhere
@@ -124,7 +129,7 @@ export function buildConstellation(params: {
     if (Math.abs(Math.cos(ang)) < 0.14) continue;
     const inner = 8 + rand() * 8;
     const len = inner + 50 + rand() * 40;
-    addRay(ang, inner, len, "spoke", 0.20 + rand() * 0.16);
+    addRay(ang, inner, len, "spoke", bgOpacity());
   }
 
   // tags sorted by global popularity

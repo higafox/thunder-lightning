@@ -61,8 +61,8 @@
         "dance",
         "editing",
         "joy",
-        "top 16",
-        "top 5",
+        "my sweet 16",
+        "my top 5",
         "ukmva",
         "womxn director"
       ],
@@ -139,8 +139,8 @@
       "tags": [
         "1980's",
         "collage",
-        "stop motion",
-        "top 16"
+        "my sweet 16",
+        "stop motion"
       ],
       "embedBroken": false
     },
@@ -190,9 +190,9 @@
         "dance",
         "flute",
         "kids",
-        "new york",
-        "top 16",
-        "top 5"
+        "my sweet 16",
+        "my top 5",
+        "new york"
       ],
       "embedBroken": false
     },
@@ -271,7 +271,7 @@
         "2010's",
         "interactive",
         "meta",
-        "top 16",
+        "my sweet 16",
         "ukmva"
       ],
       "embedBroken": false
@@ -298,8 +298,8 @@
         "guitar solo",
         "kaiju",
         "lasers",
+        "my sweet 16",
         "space",
-        "top 16",
         "wut"
       ],
       "embedBroken": false
@@ -1226,8 +1226,8 @@
         "dance",
         "joy",
         "matchmove",
-        "new york",
-        "top 16"
+        "my sweet 16",
+        "new york"
       ],
       "embedBroken": false
     },
@@ -2396,7 +2396,7 @@
       "id": "ok-go-the-writings-on-the-wall",
       "artist": "OK Go",
       "song": "The Writing's On the Wall",
-      "director": "Damian Kulash, Aaron Duffy, & Bob Partington",
+      "director": "Damian Kulash, Aaron Duffy & Bob Partington",
       "directors": [
         "Damian Kulash",
         "Aaron Duffy",
@@ -3254,7 +3254,7 @@
       "id": "ok-go-love",
       "artist": "OK Go",
       "song": "Love",
-      "director": "Damian Kulash, Aaron Duffy, & Miguel Espada",
+      "director": "Damian Kulash, Aaron Duffy & Miguel Espada",
       "directors": [
         "Damian Kulash",
         "Aaron Duffy",
@@ -3647,9 +3647,9 @@
       "tags": [
         "2010's",
         "editing",
-        "potential nsfw",
-        "top 16",
-        "top 5"
+        "my sweet 16",
+        "my top 5",
+        "potential nsfw"
       ],
       "embedBroken": true
     },
@@ -4098,7 +4098,7 @@
       "id": "matt-and-kim-lessons-learned",
       "artist": "Matt and Kim",
       "song": "Lessons Learned",
-      "director": "Taylor Cohen and Otto Arsenault",
+      "director": "Taylor Cohen & Otto Arsenault",
       "directors": [
         "Taylor Cohen",
         "Otto Arsenault"
@@ -4137,7 +4137,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mAt0BAVJ68w/hqdefault.jpg",
       "tags": [
         "2010's",
-        "tableau"
+        "tableau",
+        "vimeo staff pick"
       ],
       "embedBroken": false
     },
@@ -4187,6 +4188,7 @@
         "long take",
         "narrative",
         "slowmo",
+        "tracking shot",
         "walk/run"
       ],
       "embedBroken": false
@@ -4410,8 +4412,8 @@
       "tags": [
         "2010's",
         "matchmove",
+        "my sweet 16",
         "surreal",
-        "top 16",
         "vfx"
       ],
       "embedBroken": false
@@ -5331,7 +5333,7 @@
       "id": "n-e-r-d-rihanna-lemon",
       "artist": "N.E.R.D & Rihanna",
       "song": "Lemon",
-      "director": "Todd Tourso, Scott Cudmore",
+      "director": "Todd Tourso & Scott Cudmore",
       "directors": [
         "Todd Tourso",
         "Scott Cudmore"
@@ -5354,7 +5356,7 @@
       "id": "kendrick-lamar-humble",
       "artist": "Kendrick Lamar",
       "song": "HUMBLE.",
-      "director": "Dave Meyers, The Little Homies",
+      "director": "Dave Meyers & The Little Homies",
       "directors": [
         "Dave Meyers",
         "The Little Homies"
@@ -5575,7 +5577,7 @@
       "directors": [
         "David Li"
       ],
-      "directorAffiliate": "with Google Arts & Culture, Done & Dusted, and Acronym",
+      "directorAffiliate": "Google Arts & Culture, Done & Dusted, and Acronym",
       "dateDisplay": "May 2021",
       "sortDate": "2021-05-18",
       "year": 2021,
@@ -5736,7 +5738,7 @@
       "id": "daft-punk-one-more-time",
       "artist": "Daft Punk",
       "song": "One More Time",
-      "director": "Leiji Matsumoto / Kazuhisa Takenouchi",
+      "director": "Leiji Matsumoto & Kazuhisa Takenouchi",
       "directors": [
         "Leiji Matsumoto",
         "Kazuhisa Takenouchi"
@@ -5822,8 +5824,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/UGTg8iNPg1s/hqdefault.jpg",
       "tags": [
         "2010's",
+        "3D animation",
         "desert",
         "interactive",
+        "long take",
         "surreal"
       ],
       "embedBroken": false
@@ -6111,8 +6115,8 @@
       "tags": [
         "2010's",
         "long take",
+        "my sweet 16",
         "surreal",
-        "top 16",
         "vfx",
         "vimeo staff pick"
       ],
@@ -6695,7 +6699,7 @@
       "id": "lady-gaga-abracadabra",
       "artist": "Lady Gaga",
       "song": "Abracadabra",
-      "director": "Lady Gaga, Parris Goebel, Bethany Vargas",
+      "director": "Lady Gaga, Parris Goebel & Bethany Vargas",
       "directors": [
         "Lady Gaga",
         "Parris Goebel",
@@ -7092,7 +7096,7 @@
       "id": "kiesza-hideaway",
       "artist": "Kiesza",
       "song": "Hideaway",
-      "director": "Kiesza, Ljuba Castot, Rami Samir Afuni",
+      "director": "Kiesza, Ljuba Castot & Rami Samir Afuni",
       "directors": [
         "Kiesza",
         "Ljuba Castot",
@@ -8080,7 +8084,7 @@
       "id": "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
       "artist": "UAF Nanook Hockey Open ‘09-’10",
       "song": "Highway to the Danger Zone",
-      "director": "Michael Martinez, Jon Dorfman and Szymon Weglarski",
+      "director": "Michael Martinez, Jon Dorfman & Szymon Weglarski",
       "directors": [
         "Michael Martinez",
         "Jon Dorfman",
@@ -8442,7 +8446,7 @@
       "id": "bell-chase-no-face",
       "artist": "BELL",
       "song": "Chase No Face",
-      "director": "Zach Lieberman, Francisco Zamorano, Andy Wallace, and Michelle Calabro",
+      "director": "Zach Lieberman, Francisco Zamorano, Andy Wallace & Michelle Calabro",
       "directors": [
         "Zach Lieberman",
         "Francisco Zamorano",
@@ -9200,7 +9204,7 @@
       "id": "lorn-acid-rain",
       "artist": "Lorn",
       "song": "Acid Rain",
-      "director": "Pavel Brenner, Julian Flores, Sherif Alabede",
+      "director": "Pavel Brenner, Julian Flores & Sherif Alabede",
       "directors": [
         "Pavel Brenner",
         "Julian Flores",
@@ -9281,7 +9285,7 @@
       "id": "data-blood-theme",
       "artist": "Data",
       "song": "Blood Theme",
-      "director": "Dave Mossop, Eric Crosland",
+      "director": "Dave Mossop & Eric Crosland",
       "directors": [
         "Dave Mossop",
         "Eric Crosland"
@@ -9345,8 +9349,8 @@
       "tags": [
         "2020's",
         "loops",
-        "tableau",
-        "top 16"
+        "my sweet 16",
+        "tableau"
       ],
       "embedBroken": false
     },
@@ -9444,9 +9448,9 @@
         "cel animation",
         "lofi brilliance",
         "mixed media",
+        "my sweet 16",
+        "my top 5",
         "puppets",
-        "top 16",
-        "top 5",
         "twinsies"
       ],
       "embedBroken": false
@@ -9469,10 +9473,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6oqXVx3sBOk/hqdefault.jpg",
       "tags": [
         "1990's",
+        "my sweet 16",
+        "my top 5",
         "narrative",
-        "puppets",
-        "top 16",
-        "top 5"
+        "puppets"
       ],
       "embedBroken": false
     },
@@ -9494,8 +9498,9 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BUxdcwao0bE/hqdefault.jpg",
       "tags": [
         "1990's",
-        "surreal",
-        "top 16"
+        "loops",
+        "my sweet 16",
+        "surreal"
       ],
       "embedBroken": false
     },
@@ -10707,7 +10712,7 @@
         "2010's",
         "horses",
         "joy",
-        "top 16",
+        "my sweet 16",
         "vimeo staff pick"
       ],
       "embedBroken": false
@@ -10757,7 +10762,7 @@
         "2010's",
         "cel animation",
         "dance",
-        "top 16",
+        "my sweet 16",
         "vimeo staff pick",
         "wut"
       ],
@@ -10925,9 +10930,9 @@
       "tags": [
         "2020's",
         "dance",
+        "my sweet 16",
         "new york",
         "poc director",
-        "top 16",
         "vfx",
         "vimeo staff pick"
       ],
@@ -11436,6 +11441,7 @@
         "paul-dempsey-bats",
         "ok-go-this-too-shall-pass-rube-goldberg",
         "ok-go-white-knuckles",
+        "rome-3-dreams-of-black",
         "battles-my-machines",
         "willow-sweater",
         "gesaffelstein-pursuit",
@@ -12172,6 +12178,24 @@
         "mette-coming-of-age",
         "balming-tiger-oui"
       ],
+      "my sweet 16": [
+        "talking-heads-and-she-was",
+        "bj-rk-bachelorette",
+        "blur-coffee-tv",
+        "the-darkness-i-believe-in-a-thing-called-love",
+        "the-rapture-whoo-alright-yeah-uh-huh",
+        "bellx1-rocky-took-a-lover",
+        "el-guincho-bombay",
+        "fulton-lights-staring-out-the-window",
+        "rudimental-feat-john-newman-feel-the-love",
+        "light-light-kilo-do-not-touch",
+        "bomba-est-reo-soy-yo",
+        "bonobo-no-reason",
+        "kuricorder-quartet-southpaw",
+        "dolche-big-man",
+        "mormor-here-it-goes-again",
+        "mette-mamas-eyes"
+      ],
       "stop motion": [
         "talking-heads-and-she-was",
         "peter-gabriel-sledgehammer",
@@ -12199,24 +12223,6 @@
         "soupcans-siamese-brutality",
         "leon-bridges-lucky-daye-all-about-you",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
-      ],
-      "top 16": [
-        "talking-heads-and-she-was",
-        "bj-rk-bachelorette",
-        "blur-coffee-tv",
-        "the-darkness-i-believe-in-a-thing-called-love",
-        "the-rapture-whoo-alright-yeah-uh-huh",
-        "bellx1-rocky-took-a-lover",
-        "el-guincho-bombay",
-        "fulton-lights-staring-out-the-window",
-        "rudimental-feat-john-newman-feel-the-love",
-        "light-light-kilo-do-not-touch",
-        "bomba-est-reo-soy-yo",
-        "bonobo-no-reason",
-        "kuricorder-quartet-southpaw",
-        "dolche-big-man",
-        "mormor-here-it-goes-again",
-        "mette-mamas-eyes"
       ],
       "plane": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
@@ -12272,6 +12278,7 @@
         "the-american-dollar-anything-you-synthesize",
         "paul-dempsey-bats",
         "siska-unconditional-rebel",
+        "mount-moriah-precita",
         "mild-minds-walls"
       ],
       "horses": [
@@ -12660,6 +12667,7 @@
         "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "radiohead-weird-fishes-arpeggi",
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
+        "rome-3-dreams-of-black",
         "bj-rk-mutual-core",
         "the-vein-magma",
         "jeffrey-brodsky-ill-be-strong",
@@ -12711,6 +12719,28 @@
         "duck-sauce-mesmerize",
         "the-smile-friend-of-a-friend",
         "doechii-anxiety"
+      ],
+      "loops": [
+        "bj-rk-bachelorette",
+        "the-white-stripes-seven-nation-army",
+        "moray-mclaren-we-got-time",
+        "danger-beach-apache",
+        "panda-bear-alsatian-darn",
+        "brite-futures-too-young-to-kill",
+        "gotye-easy-way-out",
+        "russ-chimes-turn-me-out",
+        "vial-of-sound-a-lifetime-passed",
+        "boozoo-bajou-jan-mayen",
+        "20syl-back-forth",
+        "alb-the-road",
+        "gilligan-moss-choreograph",
+        "beatsofreen-slowly-rising",
+        "valentino-khan-deep-down-low",
+        "max-cooper-waves",
+        "milk-bone-pressure",
+        "max-cooper-circular",
+        "mormor-here-it-goes-again",
+        "kendrick-lamar-squabble-up"
       ],
       "sports": [
         "air-kelly-watch-the-stars",
@@ -12769,19 +12799,19 @@
         "soupcans-siamese-brutality",
         "taylor-bennett-dont-wait-up"
       ],
+      "my top 5": [
+        "blur-coffee-tv",
+        "bellx1-rocky-took-a-lover",
+        "el-guincho-bombay",
+        "bomba-est-reo-soy-yo",
+        "mette-mamas-eyes"
+      ],
       "puppets": [
         "blur-coffee-tv",
         "bellx1-rocky-took-a-lover",
         "bj-rk-wanderlust",
         "fleet-foxes-white-winter-hymnal",
         "bj-rk-mutual-core"
-      ],
-      "top 5": [
-        "blur-coffee-tv",
-        "bellx1-rocky-took-a-lover",
-        "el-guincho-bombay",
-        "bomba-est-reo-soy-yo",
-        "mette-mamas-eyes"
       ],
       "night vision": [
         "blur-no-distance-left-to-run"
@@ -12981,27 +13011,6 @@
         "travis-moving",
         "hundred-waters-cavity"
       ],
-      "loops": [
-        "the-white-stripes-seven-nation-army",
-        "moray-mclaren-we-got-time",
-        "danger-beach-apache",
-        "panda-bear-alsatian-darn",
-        "brite-futures-too-young-to-kill",
-        "gotye-easy-way-out",
-        "russ-chimes-turn-me-out",
-        "vial-of-sound-a-lifetime-passed",
-        "boozoo-bajou-jan-mayen",
-        "20syl-back-forth",
-        "alb-the-road",
-        "gilligan-moss-choreograph",
-        "beatsofreen-slowly-rising",
-        "valentino-khan-deep-down-low",
-        "max-cooper-waves",
-        "milk-bone-pressure",
-        "max-cooper-circular",
-        "mormor-here-it-goes-again",
-        "kendrick-lamar-squabble-up"
-      ],
       "kaiju": [
         "the-darkness-i-believe-in-a-thing-called-love",
         "stereogram-walkie-talkie-man",
@@ -13134,6 +13143,7 @@
         "milk-bone-pressure",
         "washed-out-floating-by",
         "5nizza-samoliot",
+        "so-much-light-full-body-mirror",
         "bas-ft-correy-c-fragrance",
         "kuricorder-quartet-southpaw",
         "mitski-a-pearl",
@@ -15943,7 +15953,7 @@
       "David Li": [
         "tune-yards-medley-for-google-i-o"
       ],
-      "with Google Arts & Culture, Done & Dusted, and Acronym": [
+      "Google Arts & Culture, Done & Dusted, and Acronym": [
         "tune-yards-medley-for-google-i-o"
       ],
       "Ksawery Kirklewski": [
@@ -16055,7 +16065,7 @@
     "tags": {
       "360": 2,
       "1960's": 3,
-      "long take": 43,
+      "long take": 44,
       "retro": 22,
       "confidence": 32,
       "illustration": 23,
@@ -16090,12 +16100,12 @@
       "motorcycle": 2,
       "collage": 16,
       "poc director": 69,
+      "my sweet 16": 16,
       "stop motion": 26,
-      "top 16": 16,
       "plane": 3,
       "narrative": 20,
       "new york": 20,
-      "tracking shot": 5,
+      "tracking shot": 6,
       "horses": 8,
       "monochrome": 39,
       "1990's": 50,
@@ -16120,18 +16130,19 @@
       "treadmill/escalator": 6,
       "slowmo": 16,
       "walk/run": 13,
-      "3D animation": 16,
+      "3D animation": 17,
       "water": 11,
       "skeleton": 2,
       "explosions": 6,
       "fisheye": 1,
       "meta": 15,
+      "loops": 20,
       "sports": 5,
       "repeat": 27,
       "twinsies": 8,
       "lofi brilliance": 9,
+      "my top 5": 5,
       "puppets": 5,
-      "top 5": 5,
       "night vision": 1,
       "2000's": 94,
       "soundsync": 21,
@@ -16143,7 +16154,6 @@
       "abstract": 18,
       "isometric": 3,
       "projection mapping": 7,
-      "loops": 19,
       "kaiju": 3,
       "claps": 3,
       "textiles": 4,
@@ -16155,7 +16165,7 @@
       "slitscan": 5,
       "bike": 5,
       "keytar": 1,
-      "vimeo staff pick": 73,
+      "vimeo staff pick": 74,
       "fireworks": 4,
       "paper": 1,
       "d&ad": 4,
@@ -16894,7 +16904,7 @@
       "Adrian Villagomez": 5,
       "Xabier Mendibe": 1,
       "David Li": 1,
-      "with Google Arts & Culture, Done & Dusted, and Acronym": 1,
+      "Google Arts & Culture, Done & Dusted, and Acronym": 1,
       "Ksawery Kirklewski": 1,
       "Joe Newman": 1,
       "Darcy Wallace": 1,

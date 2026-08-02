@@ -247,38 +247,42 @@ a {
   z-index: 1;
   shape-rendering: geometricPrecision;
 }
+/* decorative background wires (unconnected to any pill) carry the same
+   stroke qualities the connector lines used to have -- lighter than an
+   actual pill's border, so the background reads as quieter than the
+   followable connections drawn on top of it. */
 .ray {
-  stroke: #c9a659;
-  stroke-width: 0.17;
+  stroke: var(--active);
+  stroke-width: 0.34;
   vector-effect: non-scaling-stroke;
 }
 .sun {
-  stroke: #c9a659;
-  stroke-opacity: 0.9;
-  stroke-width: 0.17;
+  stroke: var(--active);
+  stroke-width: 0.34;
   vector-effect: non-scaling-stroke;
 }
 .spoke {
-  stroke: #c9a659;
-  stroke-width: 0.15;
+  stroke: var(--active);
+  stroke-width: 0.34;
   vector-effect: non-scaling-stroke;
 }
+/* connector lines match the pill border they lead to exactly (same
+   rgba/width as .node .pill's border) so the line reads as a continuation
+   of the pill, not a separately-styled wire. */
 .conn {
-  stroke: var(--active);
-  stroke-opacity: 1;
-  stroke-width: 0.34;
+  stroke: rgba(232, 210, 106, 0.55);
+  stroke-width: 1;
   vector-effect: non-scaling-stroke;
   transition: stroke-width 0.3s;
 }
 .conn.connTerminal {
-  stroke: var(--active);
-  stroke-opacity: 1;
-  stroke-width: 0.34;
+  stroke: rgba(232, 210, 106, 0.32);
+  stroke-width: 1;
 }
 .conn.connActive {
   stroke: var(--active);
   stroke-opacity: 1;
-  stroke-width: 0.5;
+  stroke-width: 1.5;
 }
 .node {
   position: absolute;
@@ -423,11 +427,54 @@ a {
   text-decoration: none;
 }
 .card.roster {
-  max-width: 460px;
+  max-width: 360px;
   width: 100%;
   max-height: 76vh;
   display: flex;
   flex-direction: column;
+}
+.rosterTabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.rosterTab {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 22px;
+  color: var(--dim);
+  transition: color 0.18s;
+}
+.rosterTab:hover {
+  color: var(--ink);
+}
+.rosterTab.sel {
+  color: var(--ink);
+}
+.rosterTabSep {
+  font-family: var(--serif);
+  font-size: 22px;
+  color: var(--line);
+}
+.rosterSortRow {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+.rosterSort {
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 6px 13px;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--dim);
+  transition: all 0.18s;
+}
+.rosterSort:hover {
+  color: var(--ink);
+  border-color: var(--dim);
 }
 .rosterList {
   margin-top: 6px;
@@ -438,10 +485,8 @@ a {
   flex-direction: column;
 }
 .rosterItem {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
+  display: block;
+  width: 100%;
   padding: 8px 4px;
   border-bottom: 1px solid var(--line);
   font-size: 13.5px;
@@ -455,15 +500,9 @@ a {
 .rosterItem:hover {
   color: var(--active);
 }
-.rosterItem .n {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
 .rosterItem .c {
-  flex-shrink: 0;
-  font-size: 11px;
-  color: var(--dim);
+  font-size: 12px;
+  color: #9b9891;
 }
 .cardx {
   position: absolute;
@@ -697,10 +736,10 @@ a {
   margin-top: 6px;
 }
 .cell .ov .tgs {
-  font-size: 10px;
+  font-size: 11px;
   color: #7d7a73;
-  margin-top: 8px;
-  line-height: 1.5;
+  margin-top: 4px;
+  line-height: 1.4;
 }
 .empty {
   text-align: center;

@@ -135,23 +135,32 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
     return cols;
   }, [list, numCols]);
 
-  // "342 artists" / "384 directors" in the stats line open an alphabetized
-  // roster of that type; picking a name jumps to a random video of theirs
-  // rather than filtering the grid, since there's no tag-style pill to
-  // filter by for every single artist/director.
-  const [roster, setRoster] = useState<"artists" | "directors" | null>(null);
+  // "342 artists" / "384 directors" in the stats line open a roster of that
+  // type; picking a name jumps to a random video of theirs rather than
+  // filtering the grid, since there's no tag-style pill to filter by for
+  // every single artist/director. Both stats share one modal instance with
+  // an Artists/Directors tab switcher, rather than being two separate
+  // modals, so flipping between them doesn't require closing and reopening.
+  const [rosterOpen, setRosterOpen] = useState(false);
+  const [rosterKind, setRosterKind] = useState<"artists" | "directors">("artists");
+  // cycles the same way the tag cloud's sort control does: A-Z -> most -> least -> A-Z
+  const [rosterSort, setRosterSort] = useState<"alpha" | "most" | "least">("alpha");
+  const cycleRosterSort = () => {
+    setRosterSort((prev) => (prev === "alpha" ? "most" : prev === "most" ? "least" : "alpha"));
+  };
   const rosterNames = useMemo(() => {
-    if (!roster) return [];
-    const pl = PL[roster];
-    return Object.keys(pl)
-      .sort((a, b) => a.localeCompare(b))
-      .map((name) => ({ name, count: pl[name].length }));
-  }, [roster, PL]);
-  const openRandomFor = (kind: "artists" | "directors", name: string) => {
-    const ids = PL[kind][name];
+    if (!rosterOpen) return [];
+    const pl = PL[rosterKind];
+    const entries = Object.keys(pl).map((name) => ({ name, count: pl[name].length }));
+    if (rosterSort === "most") return entries.sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+    if (rosterSort === "least") return entries.sort((a, b) => a.count - b.count || a.name.localeCompare(b.name));
+    return entries.sort((a, b) => a.name.localeCompare(b.name));
+  }, [rosterOpen, rosterKind, rosterSort, PL]);
+  const openRandomFor = (name: string) => {
+    const ids = PL[rosterKind][name];
     if (!ids || !ids.length) return;
     const id = ids[Math.floor(Math.random() * ids.length)];
-    setRoster(null);
+    setRosterOpen(false);
     router.push(`/video/${id}`);
   };
 
@@ -162,11 +171,23 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
         <div className="st">{META.subtitle}</div>
         <div className="stats">
           {META.totalVideos} videos ·{" "}
-          <button className="statsLink" onClick={() => setRoster("artists")}>
+          <button
+            className="statsLink"
+            onClick={() => {
+              setRosterKind("artists");
+              setRosterOpen(true);
+            }}
+          >
             {META.totalArtists} artists
           </button>{" "}
           ·{" "}
-          <button className="statsLink" onClick={() => setRoster("directors")}>
+          <button
+            className="statsLink"
+            onClick={() => {
+              setRosterKind("directors");
+              setRosterOpen(true);
+            }}
+          >
             {META.totalDirectors} directors
           </button>{" "}
           · {META.totalTags} connections
@@ -233,12 +254,17 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           </button>
         </>
       )}
-      {roster && (
+      {rosterOpen && (
         <RosterModal
-          kind={roster}
+          kind={rosterKind}
+          onSwitchKind={setRosterKind}
+          totalArtists={META.totalArtists}
+          totalDirectors={META.totalDirectors}
+          sort={rosterSort}
+          onCycleSort={cycleRosterSort}
           names={rosterNames}
-          onClose={() => setRoster(null)}
-          onPick={(name) => openRandomFor(roster, name)}
+          onClose={() => setRosterOpen(false)}
+          onPick={openRandomFor}
         />
       )}
     </div>
@@ -247,11 +273,21 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
 
 function RosterModal({
   kind,
+  onSwitchKind,
+  totalArtists,
+  totalDirectors,
+  sort,
+  onCycleSort,
   names,
   onClose,
   onPick,
 }: {
   kind: "artists" | "directors";
+  onSwitchKind: (k: "artists" | "directors") => void;
+  totalArtists: number;
+  totalDirectors: number;
+  sort: "alpha" | "most" | "least";
+  onCycleSort: () => void;
   names: { name: string; count: number }[];
   onClose: () => void;
   onPick: (name: string) => void;
@@ -264,6 +300,8 @@ function RosterModal({
     return () => document.removeEventListener("keydown", onKey);
   }, [onClose]);
 
+  const sortLabel = sort === "alpha" ? "A–Z" : sort === "most" ? "Most" : "Least";
+
   return (
     <div
       className="scrim"
@@ -275,13 +313,24 @@ function RosterModal({
         <button className="cardx" onClick={onClose}>
           ✕
         </button>
-        <h2>{kind === "artists" ? "Artists" : "Directors"}</h2>
-        <div className="sub">{names.length} · click one for a random video of theirs</div>
+        <div className="rosterTabs">
+          <button className={`rosterTab${kind === "artists" ? " sel" : ""}`} onClick={() => onSwitchKind("artists")}>
+            Artists ({totalArtists})
+          </button>
+          <span className="rosterTabSep">/</span>
+          <button className={`rosterTab${kind === "directors" ? " sel" : ""}`} onClick={() => onSwitchKind("directors")}>
+            Directors ({totalDirectors})
+          </button>
+        </div>
+        <div className="rosterSortRow">
+          <button className="rosterSort" onClick={onCycleSort} title="Change sort order">
+            {sortLabel}
+          </button>
+        </div>
         <div className="rosterList">
           {names.map(({ name, count }) => (
             <button key={name} className="rosterItem" onClick={() => onPick(name)}>
-              <span className="n">{name}</span>
-              <span className="c">{count}</span>
+              {name} <span className="c">({count})</span>
             </button>
           ))}
         </div>
