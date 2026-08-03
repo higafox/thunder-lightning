@@ -94,8 +94,13 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
     return () => document.removeEventListener("keydown", onKey);
   }, [timeline, pickStream, router]);
 
-  const artistOn = video ? (CT.artists[video.artist] || 0) > 1 : false;
-  const artistActive = video ? stream.type === "artist" && stream.key === video.artist : false;
+  // a compound credit ("Prince & The Revolution") is ambiguous to click --
+  // which of the several credited parties would it follow? Each gets its own
+  // pill in the constellation instead; the header stays clickable only for a
+  // single-credit artist, same as directors already work.
+  const soleArtist = video && video.artists.length === 1 ? video.artists[0] : null;
+  const artistOn = soleArtist ? (CT.artists[soleArtist] || 0) > 1 : false;
+  const artistActive = soleArtist ? stream.type === "artist" && stream.key === soleArtist : false;
 
   if (isMobile === null) return null; // viewport not yet determined; mount neither embed
 
@@ -129,7 +134,7 @@ function PlayerReady({ data, initialSlug }: { data: VideoData; initialSlug?: str
                   <div className="line1">
                     <span
                       className={`artist${artistOn ? " streamable" : ""}${artistActive ? " activeStream" : ""}`}
-                      onClick={artistOn ? () => pickStream("artist", video.artist) : undefined}
+                      onClick={artistOn ? () => pickStream("artist", soleArtist!) : undefined}
                     >
                       {video.artist}
                     </span>{" "}

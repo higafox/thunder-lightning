@@ -43,10 +43,12 @@ either a property of the current video or a path to another one.
 
 ### Source
 A Notion database exported as CSV. Columns actually present:
-`Name`, `Artist`, `Song`, `Director`, `Release Date`, `YouTube`, `Vimeo`, `Tags`,
-`Thumbnail URL` (usually empty), `Embed Broken` (checkbox, manual override —
-see below), `One Director Entity` (checkbox, see below), plus a `Rating`
-(ignored) and `Formula` (duplicate of Name, ignored).
+`Name`, `Artist`, `Song`, `Director`, `Director Affiliate`, `Release Date`,
+`YouTube`, `Vimeo`, `Tags`, `Thumbnail URL` (usually empty), `Embed Broken`
+(checkbox, manual override — see below), `One Director Entity` (checkbox, see
+below), `One Artist Entity` (checkbox, see below), `Archive` (checkbox, row
+excluded entirely when checked), plus a `Rating` (ignored) and `Formula`
+(duplicate of Name, ignored).
 
 ### Conversion (`convert.py`, included — superseded by `scripts/sync.ts`)
 `convert.py` was the original working converter; `npm run sync` (`scripts/sync.ts`)
@@ -56,18 +58,25 @@ Notion API/token). Key behaviors, all deliberate:
 - **Exclude** rows with no YouTube AND no Vimeo link (~1 skipped in current data).
 - **Keep BOTH** youtubeId and vimeoId when present — do not collapse to one provider.
   This is required for the playback waterfall (see below).
-- **Directors split on `/`, `&`, `and`, `+`, `,` — UNLESS `One Director Entity` is
-  checked.** "Dom & Nic", "Hammer & Tongs", "Kijek/Adamski", "AB/CD/CD" are duos/
-  groups whose own name happens to look like two names joined by a conjunction —
-  text alone can't tell that apart from "Trish Sie and Damian Kulash" (two actual
-  people). There's no reliable heuristic, so it's a manual call: check the box for
-  any director field that's a single duo/group name; leave it unchecked (default) to
-  split into individual directors. Get this wrong on an existing group and re-syncing
-  will fabricate directors that don't exist — check the box BEFORE the CSV export
-  covers a video's first sync. The script still strips URLs, parenthetical
-  annotations `(...)`, and social `@handles` out of the director field (data-entry
-  errors) before splitting, and cleans a dangling leading "and"/"&" left after URL
-  removal.
+- **Directors split on `/`, `&`, `and`, `feat.`/`ft.`, `+`, `,` — UNLESS
+  `One Director Entity` is checked.** "Dom & Nic", "Hammer & Tongs",
+  "Kijek/Adamski", "AB/CD/CD" are duos/groups whose own name happens to look
+  like two names joined by a conjunction — text alone can't tell that apart
+  from "Trish Sie and Damian Kulash" (two actual people). There's no reliable
+  heuristic, so it's a manual call: check the box for any director field
+  that's a single duo/group name; leave it unchecked (default) to split into
+  individual directors. Get this wrong on an existing group and re-syncing
+  will fabricate directors that don't exist — check the box BEFORE the CSV
+  export covers a video's first sync. The script still strips URLs,
+  parenthetical annotations `(...)`, and social `@handles` out of the
+  director field (data-entry errors) before splitting, and cleans a dangling
+  leading "and"/"&"/"feat." left after a split or URL removal.
+- **Artist splits the same way, on the same separators, via `One Artist
+  Entity`.** "Prince & The Revolution" and "Elvis Costello & The Attractions"
+  split into separately-followable people/acts; "Peter Bjorn and John",
+  "Iron & Wine", and "Matt and Kim" are single-act names that happen to
+  contain a separator word and need the box checked. Same fabrication risk as
+  directors — check the box before a group's first sync, not after.
 - **Dates**: parse "May 3, 2023" / "May 2023" / "2023" formats. Use the most specific
   clean display available. Missing dates sort last.
 - **Slugs**: `artist-song`, lowercased, punctuation stripped, deduped with numeric
@@ -79,7 +88,9 @@ Notion API/token). Key behaviors, all deliberate:
   meta: { title, subtitle, totalVideos, totalArtists, totalDirectors, totalTags },
   videos: {
     "slug": {
-      id, artist, song,
+      id, song,
+      artist,              // full raw string, always unsplit (flat display text)
+      artists,             // one entry if "One Artist Entity" was checked, else split
       director,            // full cleaned string, always unsplit (flat display text)
       directors,           // one entry if "One Director Entity" was checked, else split
       dateDisplay,         // "May 2023" or "2023" or null
@@ -108,8 +119,9 @@ All playlists are pre-sorted by date ascending. The player relies on this.
   CSV). Simpler than the original API-token plan and avoids a live Notion dependency.
 - Transforms rows into the exact JSON shape above (same logic as `convert.py`).
 - Writes `public/videos.json`. Commit and deploy (Vercel redeploys on push).
-- Property names mapped: Artist, Song, Director, Release Date, YouTube, Vimeo, Tags,
-  Thumbnail URL, Embed Broken, One Director Entity.
+- Property names mapped: Artist, Song, Director, Director Affiliate, Release Date,
+  YouTube, Vimeo, Tags, Thumbnail URL, Embed Broken, One Director Entity,
+  One Artist Entity.
 
 ---
 

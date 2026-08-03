@@ -117,28 +117,38 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
   }, [router]);
 
   // tag cloud order is independent of the video sort/shuffle above -- it only
-  // rearranges the tag pills themselves. cycles popular (default, by usage
-  // count) -> A-Z -> shuffled -> back to popular; a fresh shuffle is drawn
-  // each time it lands on "shuffled" so re-cycling into it looks different.
-  const [tagSort, setTagSort] = useState<"count" | "alpha" | "shuffle">("count");
+  // rearranges the tag pills themselves. cycles through 5 states: A-Z down
+  // arrow (ascending) -> A-Z up arrow (descending) -> Popular down arrow
+  // (most-used first) -> Popular up arrow (least-used first) -> Shuffle ->
+  // back to A-Z down arrow. down = the "forward" reading of each mode (A->Z,
+  // most first), up = its reverse -- same convention as the roster modal's
+  // A-Z/Count toggles. A fresh shuffle is drawn each time it lands on
+  // "shuffle" so re-cycling into it looks different.
+  const TAG_SORT_STATES = ["az-asc", "az-desc", "pop-desc", "pop-asc", "shuffle"] as const;
+  const [tagSort, setTagSort] = useState<(typeof TAG_SORT_STATES)[number]>("pop-desc");
   const [shuffledTags, setShuffledTags] = useState<string[]>([]);
   const cycleTagSort = () => {
     setTagSort((prev) => {
-      if (prev === "count") return "alpha";
-      if (prev === "alpha") {
-        setShuffledTags(shuffleArray(Object.keys(CT.tags)));
-        return "shuffle";
-      }
-      return "count";
+      const next = TAG_SORT_STATES[(TAG_SORT_STATES.indexOf(prev) + 1) % TAG_SORT_STATES.length];
+      if (next === "shuffle") setShuffledTags(shuffleArray(Object.keys(CT.tags)));
+      return next;
     });
   };
-  const tagSortLabel = tagSort === "count" ? "Tag: Popular" : tagSort === "alpha" ? "Tag: A–Z" : "Tag: Shuffle";
+  const tagSortLabel = {
+    "az-asc": "Tag: A–Z ↓",
+    "az-desc": "Tag: A–Z ↑",
+    "pop-desc": "Tag: Popular ↓",
+    "pop-asc": "Tag: Popular ↑",
+    shuffle: "Tag: Shuffle",
+  }[tagSort];
 
   const allTags = useMemo(() => {
     const names = Object.keys(CT.tags);
-    if (tagSort === "alpha") return names.sort((a, b) => a.localeCompare(b));
-    if (tagSort === "shuffle") return shuffledTags.length ? shuffledTags : names;
-    return names.sort((x, y) => CT.tags[y] - CT.tags[x]);
+    if (tagSort === "az-asc") return names.sort((a, b) => a.localeCompare(b));
+    if (tagSort === "az-desc") return names.sort((a, b) => b.localeCompare(a));
+    if (tagSort === "pop-asc") return names.sort((x, y) => CT.tags[x] - CT.tags[y]);
+    if (tagSort === "pop-desc") return names.sort((x, y) => CT.tags[y] - CT.tags[x]);
+    return shuffledTags.length ? shuffledTags : names;
   }, [CT.tags, tagSort, shuffledTags]);
 
   const list = useMemo(() => {

@@ -141,16 +141,22 @@ export function buildConstellation(params: {
       : { kind: "terminal" as const, label: t, active: false, action: null };
   });
 
-  // artist/director "person" pills: followable when they have 2+ videos
+  // artist/director "person" pills: followable when they have 2+ videos.
+  // A compound artist credit ("Prince & The Revolution") gets one pill per
+  // split name (see sync.ts) rather than one pill for the whole string, so
+  // each credited party pools with their other, separately-credited videos.
   const personNodes: ConstNode[] = [];
-  if ((CT.artists[v.artist] || 0) > 1) {
-    personNodes.push({
-      kind: "person",
-      label: v.artist.toLowerCase(),
-      active: s.type === "artist" && s.key === v.artist,
-      action: { kind: "stream", type: "artist", key: v.artist },
-    });
-  }
+  const artistNames = v.artists && v.artists.length ? v.artists : [v.artist];
+  artistNames.forEach((a) => {
+    if ((CT.artists[a] || 0) > 1) {
+      personNodes.push({
+        kind: "person",
+        label: a.toLowerCase(),
+        active: s.type === "artist" && s.key === a,
+        action: { kind: "stream", type: "artist", key: a },
+      });
+    }
+  });
   // A director affiliate pools into the same "directors" counts/playlist as
   // a regular director credit (see sync.ts), so it's followed with the same
   // "director" stream type -- the same name credited as director on one
@@ -161,8 +167,9 @@ export function buildConstellation(params: {
   }
   creditedNames.forEach((d) => {
     // a band that (co-)directs its own video (e.g. OK Go) is the same entity
-    // as the artist pill above -- don't show it a second time as a director.
-    if (d.toLowerCase() === v.artist.toLowerCase()) return;
+    // as one of the artist pills above -- don't show it a second time as a
+    // director.
+    if (artistNames.some((a) => a.toLowerCase() === d.toLowerCase())) return;
     if ((CT.directors[d] || 0) > 1) {
       personNodes.push({
         kind: "person",

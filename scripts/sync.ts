@@ -11,6 +11,12 @@
 // one entity), Release Date, YouTube, Vimeo, Tags, Thumbnail URL (usually
 // empty), Embed Broken (checkbox, manual override for embeds confirmed
 // broken -- see HANDOFF.md), One Director Entity (checkbox, see HANDOFF.md),
+// One Artist Entity (checkbox -- same idea as One Director Entity, but for
+// the Artist column: keeps a credit whole instead of splitting it on
+// "&"/"and"/"feat."/etc. Check this for a duo/group whose own name contains
+// one of those words, e.g. "Peter Bjorn and John", "Iron & Wine", "Matt and
+// Kim" -- default (unchecked) splits a credit like "Prince & The Revolution"
+// into separately-followable "Prince" and "The Revolution"),
 // Archive (checkbox -- row is excluded from the site entirely when checked),
 // Rating (ignored), Formula (ignored, duplicate of Name).
 
@@ -119,6 +125,32 @@ function cleanDirector(raw: string): string {
   return d;
 }
 
+const PAREN_FEAT = /\(\s*(?:feat\.?|ft\.?|f\.|featuring)\s*/gi;
+const NAME_SEP = /\s*,\s*|\s+(?:and|feat\.?|ft\.?|featuring)\s+|\s*&\s*|\s*\+\s*|\s*\/\s*/i;
+const DANGLING_SEP = /^(and|&|feat\.?|ft\.?|featuring)\s+/i;
+
+// shared by director and artist credits: "Dom & Nic" and "Trish Sie and
+// Damian Kulash" both join names with a conjunction, but one is a duo's
+// single name and the other is two people -- text alone can't tell them
+// apart. oneEntity checked keeps the field whole (duos/groups); unchecked
+// (default) splits it into individual people/acts.
+function splitNames(raw: string, oneEntity: boolean): string[] {
+  if (!raw) return [];
+  if (oneEntity) return [raw];
+  // "Kanye West (ft. Kid Cudi)" wraps the featured credit in parens rather
+  // than joining it with a plain separator -- normalize the opening paren +
+  // keyword into "&" up front so the split below catches it too, then drop
+  // the now-dangling closing paren from whatever fragment inherits it.
+  const normalized = raw.replace(PAREN_FEAT, "& ");
+  return normalized
+    .split(NAME_SEP)
+    // an Oxford-comma list ("A, B, and C") splits the comma before "and"
+    // ever gets a chance to match as its own separator, leaving a stray
+    // "and "/"feat. " stuck to the last name -- strip it per-fragment.
+    .map((d) => d.replace(DANGLING_SEP, "").replace(/\)\s*$/, "").trim())
+    .filter(Boolean);
+}
+
 function group(videos: Video[], getValues: (v: Video) => string[]): Record<string, string[]> {
   const g: Record<string, string[]> = {};
   for (const v of videos) {
@@ -178,23 +210,8 @@ function main() {
       .map((t) => t.trim())
       .filter(Boolean);
     const director = cleanDirector((r["Director"] || "").trim());
-    // "Dom & Nic" and "Trish Sie and Damian Kulash" both join names with a
-    // conjunction, but one is a duo's single name and the other is two
-    // people -- text alone can't tell them apart. "One Director Entity"
-    // checked keeps the field whole (duos/groups); unchecked (default)
-    // splits it into individual directors.
-    const oneEntity = isChecked(r["One Director Entity"]);
-    const directors = !director
-      ? []
-      : oneEntity
-      ? [director]
-      : director
-          .split(/\s*,\s*|\s+and\s+|\s*&\s*|\s*\+\s*|\s*\/\s*/i)
-          // an Oxford-comma list ("A, B, and C") splits the comma before "and"
-          // ever gets a chance to match as its own separator, leaving a stray
-          // "and " stuck to the last name -- strip it per-fragment.
-          .map((d) => d.replace(/^(and|&)\s+/i, "").trim())
-          .filter(Boolean);
+    const directors = splitNames(director, isChecked(r["One Director Entity"]));
+    const artists = splitNames(artist, isChecked(r["One Artist Entity"]));
 
     let slug = slugify(artist, song);
     const orig = slug;
@@ -217,6 +234,7 @@ function main() {
     videos[slug] = {
       id: slug,
       artist,
+      artists,
       song,
       director,
       directors,
@@ -242,7 +260,7 @@ function main() {
   const timeline = ordered.map((v) => v.id);
 
   const tagsPl = group(ordered, (v) => v.tags);
-  const artistsPl = group(ordered, (v) => [v.artist]);
+  const artistsPl = group(ordered, (v) => v.artists);
   // A director affiliate (e.g. CANADA) is credited under the same name whether
   // it appears in the Director column directly or as an affiliate of another
   // credited director -- both should pool into one followable entity/pill

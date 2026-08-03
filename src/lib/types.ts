@@ -3,6 +3,12 @@ export type Provider = "youtube" | "vimeo";
 export interface Video {
   id: string;
   artist: string;
+  // artist, split into individual credited parties (e.g. "Prince & The
+  // Revolution" -> ["Prince", "The Revolution"]) so each pools into its own
+  // followable entity/pill rather than one disconnected compound string. See
+  // "One Artist Entity" in sync.ts for the escape hatch (a duo/group whose
+  // own name contains "&"/"and", e.g. "Peter Bjorn and John").
+  artists: string[];
   song: string;
   director: string;
   directors: string[];

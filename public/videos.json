@@ -2,15 +2,18 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 453,
-    "totalArtists": 341,
-    "totalDirectors": 380,
+    "totalVideos": 457,
+    "totalArtists": 370,
+    "totalDirectors": 382,
     "totalTags": 152
   },
   "videos": {
     "mette-van-gogh": {
       "id": "mette-van-gogh",
       "artist": "Mette",
+      "artists": [
+        "Mette"
+      ],
       "song": "VAN GOGH",
       "director": "Camille Summers-Valli",
       "directors": [
@@ -40,6 +43,9 @@
     "mette-mamas-eyes": {
       "id": "mette-mamas-eyes",
       "artist": "Mette",
+      "artists": [
+        "Mette"
+      ],
       "song": "MAMA’S EYES",
       "director": "Camille Summers-Valli",
       "directors": [
@@ -71,6 +77,9 @@
     "mette-bet": {
       "id": "mette-bet",
       "artist": "Mette",
+      "artists": [
+        "Mette"
+      ],
       "song": "BET",
       "director": "C Prinz",
       "directors": [
@@ -99,6 +108,9 @@
     "feist-i-feel-it-all": {
       "id": "feist-i-feel-it-all",
       "artist": "Feist",
+      "artists": [
+        "Feist"
+      ],
       "song": "I Feel It All",
       "director": "Patrick Daughters",
       "directors": [
@@ -124,6 +136,9 @@
     "talking-heads-and-she-was": {
       "id": "talking-heads-and-she-was",
       "artist": "Talking Heads",
+      "artists": [
+        "Talking Heads"
+      ],
       "song": "And She Was",
       "director": "Jim Blashfield",
       "directors": [
@@ -149,6 +164,9 @@
     "r2j2-work-it-out": {
       "id": "r2j2-work-it-out",
       "artist": "R2J2",
+      "artists": [
+        "R2J2"
+      ],
       "song": "Work It Out",
       "director": "Joey Garfield",
       "directors": [
@@ -173,6 +191,9 @@
     "bomba-est-reo-soy-yo": {
       "id": "bomba-est-reo-soy-yo",
       "artist": "Bomba Estéreo",
+      "artists": [
+        "Bomba Estéreo"
+      ],
       "song": "Soy Yo",
       "director": "Torben Kjelstrup",
       "directors": [
@@ -202,6 +223,9 @@
     "psy-gangnam-style": {
       "id": "psy-gangnam-style",
       "artist": "PSY",
+      "artists": [
+        "PSY"
+      ],
       "song": "GANGNAM STYLE (강남스타일)",
       "director": "Cho Soo-hyun",
       "directors": [
@@ -230,6 +254,9 @@
     "vial-of-sound-a-lifetime-passed": {
       "id": "vial-of-sound-a-lifetime-passed",
       "artist": "Vial of Sound",
+      "artists": [
+        "Vial of Sound"
+      ],
       "song": "A Lifetime Passed",
       "director": "Ori Toor",
       "directors": [
@@ -257,6 +284,9 @@
     "light-light-kilo-do-not-touch": {
       "id": "light-light-kilo-do-not-touch",
       "artist": "Light Light",
+      "artists": [
+        "Light Light"
+      ],
       "song": "Kilo (Do Not Touch)",
       "director": "Moniker",
       "directors": [
@@ -283,6 +313,9 @@
     "the-darkness-i-believe-in-a-thing-called-love": {
       "id": "the-darkness-i-believe-in-a-thing-called-love",
       "artist": "The Darkness",
+      "artists": [
+        "The Darkness"
+      ],
       "song": "I Believe in a Thing Called Love",
       "director": "Alex Smith",
       "directors": [
@@ -310,7 +343,13 @@
     },
     "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas": {
       "id": "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
-      "artist": "Pharrell Williams ft. 21 Savage, Tyler, The Creator",
+      "artist": "Pharrell Williams (ft. 21 Savage, Tyler, The Creator)",
+      "artists": [
+        "Pharrell Williams",
+        "21 Savage",
+        "Tyler",
+        "The Creator"
+      ],
       "song": "Cash In Cash Out",
       "director": "François Rousselet",
       "directors": [
@@ -337,6 +376,9 @@
     "jungle-back-on-74": {
       "id": "jungle-back-on-74",
       "artist": "Jungle",
+      "artists": [
+        "Jungle"
+      ],
       "song": "Back on 74",
       "director": "J Lloyd & Charlie Di Placido",
       "directors": [
@@ -363,6 +405,10 @@
     "harold-faltermeyer-steve-stevens-top-gun-anthem": {
       "id": "harold-faltermeyer-steve-stevens-top-gun-anthem",
       "artist": "Harold Faltermeyer & Steve Stevens",
+      "artists": [
+        "Harold Faltermeyer",
+        "Steve Stevens"
+      ],
       "song": "Top Gun Anthem",
       "director": "Dominic Sena",
       "directors": [
@@ -389,6 +435,9 @@
     "michael-jackson-billie-jean": {
       "id": "michael-jackson-billie-jean",
       "artist": "Michael Jackson",
+      "artists": [
+        "Michael Jackson"
+      ],
       "song": "Billie Jean",
       "director": "Steve Barron",
       "directors": [
@@ -411,6 +460,9 @@
     "modest-mouse-dashboard": {
       "id": "modest-mouse-dashboard",
       "artist": "Modest Mouse",
+      "artists": [
+        "Modest Mouse"
+      ],
       "song": "Dashboard",
       "director": "Matthew Cullen & Grady Hall",
       "directors": [
@@ -436,6 +488,9 @@
     "blur-song-2": {
       "id": "blur-song-2",
       "artist": "Blur",
+      "artists": [
+        "Blur"
+      ],
       "song": "Song 2",
       "director": "Sophie Muller",
       "directors": [
@@ -459,6 +514,9 @@
     "feist-1234": {
       "id": "feist-1234",
       "artist": "Feist",
+      "artists": [
+        "Feist"
+      ],
       "song": "1234",
       "director": "Patrick Daughters",
       "directors": [
@@ -484,6 +542,9 @@
     "gnarls-barkley-crazy": {
       "id": "gnarls-barkley-crazy",
       "artist": "Gnarls Barkley",
+      "artists": [
+        "Gnarls Barkley"
+      ],
       "song": "Crazy",
       "director": "Robert Hales",
       "directors": [
@@ -508,6 +569,9 @@
     "blur-no-distance-left-to-run": {
       "id": "blur-no-distance-left-to-run",
       "artist": "Blur",
+      "artists": [
+        "Blur"
+      ],
       "song": "No Distance Left to Run",
       "director": "Thomas Vinterberg",
       "directors": [
@@ -531,6 +595,9 @@
     "ok-go-here-it-goes-again": {
       "id": "ok-go-here-it-goes-again",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "Here It Goes Again",
       "director": "Trish Sie",
       "directors": [
@@ -556,6 +623,9 @@
     "muse-knights-of-cydonia": {
       "id": "muse-knights-of-cydonia",
       "artist": "Muse",
+      "artists": [
+        "Muse"
+      ],
       "song": "Knights of Cydonia",
       "director": "Joseph Kahn",
       "directors": [
@@ -583,6 +653,9 @@
     "the-smashing-pumpkins-tonight-tonight": {
       "id": "the-smashing-pumpkins-tonight-tonight",
       "artist": "The Smashing Pumpkins",
+      "artists": [
+        "The Smashing Pumpkins"
+      ],
       "song": "Tonight Tonight",
       "director": "Jonathan Dayton & Valerie Faris",
       "directors": [
@@ -609,6 +682,9 @@
     "fatboy-slim-praise-you": {
       "id": "fatboy-slim-praise-you",
       "artist": "Fatboy Slim",
+      "artists": [
+        "Fatboy Slim"
+      ],
       "song": "Praise You",
       "director": "Spike Jonze",
       "directors": [
@@ -634,6 +710,9 @@
     "junior-senior-move-your-feet": {
       "id": "junior-senior-move-your-feet",
       "artist": "Junior Senior",
+      "artists": [
+        "Junior Senior"
+      ],
       "song": "Move Your Feet",
       "director": "Shynola",
       "directors": [
@@ -657,6 +736,9 @@
     "kylie-minogue-come-into-my-world": {
       "id": "kylie-minogue-come-into-my-world",
       "artist": "Kylie Minogue",
+      "artists": [
+        "Kylie Minogue"
+      ],
       "song": "Come Into My World",
       "director": "Michel Gondry",
       "directors": [
@@ -683,6 +765,9 @@
     "mickey-3d-respire": {
       "id": "mickey-3d-respire",
       "artist": "Mickey 3D",
+      "artists": [
+        "Mickey 3D"
+      ],
       "song": "Respire",
       "director": "Bessy & Combe",
       "directors": [
@@ -707,6 +792,9 @@
     "the-white-stripes-dead-leaves-and-the-dirty-ground": {
       "id": "the-white-stripes-dead-leaves-and-the-dirty-ground",
       "artist": "The White Stripes",
+      "artists": [
+        "The White Stripes"
+      ],
       "song": "Dead Leaves and the Dirty Ground",
       "director": "Michel Gondry",
       "directors": [
@@ -730,6 +818,9 @@
     "cornelius-fit-song": {
       "id": "cornelius-fit-song",
       "artist": "Cornelius",
+      "artists": [
+        "Cornelius"
+      ],
       "song": "Fit Song",
       "director": "Koichiro Tsujikawa",
       "directors": [
@@ -756,6 +847,9 @@
     "r-kelly-trapped-in-the-closet": {
       "id": "r-kelly-trapped-in-the-closet",
       "artist": "R. Kelly",
+      "artists": [
+        "R. Kelly"
+      ],
       "song": "Trapped in the Closet",
       "director": "R. Kelly & Jim Swaffield",
       "directors": [
@@ -780,6 +874,9 @@
     "fatboy-slim-weapon-of-choice": {
       "id": "fatboy-slim-weapon-of-choice",
       "artist": "Fatboy Slim",
+      "artists": [
+        "Fatboy Slim"
+      ],
       "song": "Weapon of Choice",
       "director": "Spike Jonze",
       "directors": [
@@ -804,6 +901,9 @@
     "blur-the-universal": {
       "id": "blur-the-universal",
       "artist": "Blur",
+      "artists": [
+        "Blur"
+      ],
       "song": "The Universal",
       "director": "Jonathan Glazer",
       "directors": [
@@ -827,6 +927,9 @@
     "twerk-from-brown-to-green": {
       "id": "twerk-from-brown-to-green",
       "artist": "Twerk",
+      "artists": [
+        "Twerk"
+      ],
       "song": "From Brown to Green",
       "director": "Scott Pagano",
       "directors": [
@@ -850,6 +953,9 @@
     "peter-gabriel-sledgehammer": {
       "id": "peter-gabriel-sledgehammer",
       "artist": "Peter Gabriel",
+      "artists": [
+        "Peter Gabriel"
+      ],
       "song": "Sledgehammer",
       "director": "Stephen R. Johnson",
       "directors": [
@@ -873,6 +979,9 @@
     "regina-spektor-samson": {
       "id": "regina-spektor-samson",
       "artist": "Regina Spektor",
+      "artists": [
+        "Regina Spektor"
+      ],
       "song": "Samson",
       "director": "Peter Sluzka",
       "directors": [
@@ -897,6 +1006,9 @@
     "kid-koala-basin-street-blues": {
       "id": "kid-koala-basin-street-blues",
       "artist": "Kid Koala",
+      "artists": [
+        "Kid Koala"
+      ],
       "song": "Basin Street Blues",
       "director": "Monkmus",
       "directors": [
@@ -919,6 +1031,9 @@
     "outkast-hey-ya": {
       "id": "outkast-hey-ya",
       "artist": "Outkast",
+      "artists": [
+        "Outkast"
+      ],
       "song": "Hey Ya!",
       "director": "Bryan Barber",
       "directors": [
@@ -944,6 +1059,9 @@
     "nine-inch-nails-closer": {
       "id": "nine-inch-nails-closer",
       "artist": "Nine Inch Nails",
+      "artists": [
+        "Nine Inch Nails"
+      ],
       "song": "Closer",
       "director": "Mark Romanek",
       "directors": [
@@ -968,6 +1086,9 @@
     "feist-my-moon-my-man": {
       "id": "feist-my-moon-my-man",
       "artist": "Feist",
+      "artists": [
+        "Feist"
+      ],
       "song": "My Moon My Man",
       "director": "Patrick Daughters",
       "directors": [
@@ -991,6 +1112,9 @@
     "yuki-sentimental-journey": {
       "id": "yuki-sentimental-journey",
       "artist": "Yuki",
+      "artists": [
+        "Yuki"
+      ],
       "song": "Sentimental Journey",
       "director": "Nagi Noda",
       "directors": [
@@ -1019,6 +1143,9 @@
     "michael-jackson-thriller": {
       "id": "michael-jackson-thriller",
       "artist": "Michael Jackson",
+      "artists": [
+        "Michael Jackson"
+      ],
       "song": "Thriller",
       "director": "John Landis",
       "directors": [
@@ -1042,6 +1169,9 @@
     "michael-jackson-smooth-criminal": {
       "id": "michael-jackson-smooth-criminal",
       "artist": "Michael Jackson",
+      "artists": [
+        "Michael Jackson"
+      ],
       "song": "Smooth Criminal",
       "director": "Colin Chilvers",
       "directors": [
@@ -1064,6 +1194,9 @@
     "snoop-dogg-sensual-seduction": {
       "id": "snoop-dogg-sensual-seduction",
       "artist": "Snoop Dogg",
+      "artists": [
+        "Snoop Dogg"
+      ],
       "song": "Sensual Seduction",
       "director": "Melina Matsoukas",
       "directors": [
@@ -1090,6 +1223,9 @@
     "devendra-banhart-a-ribbon": {
       "id": "devendra-banhart-a-ribbon",
       "artist": "Devendra Banhart",
+      "artists": [
+        "Devendra Banhart"
+      ],
       "song": "A Ribbon",
       "director": "Michel Gondry",
       "directors": [
@@ -1113,6 +1249,9 @@
     "the-chemical-brothers-star-guitar": {
       "id": "the-chemical-brothers-star-guitar",
       "artist": "The Chemical Brothers",
+      "artists": [
+        "The Chemical Brothers"
+      ],
       "song": "Star Guitar",
       "director": "Michel Gondry",
       "directors": [
@@ -1137,6 +1276,9 @@
     "the-presets-girl-and-the-sea": {
       "id": "the-presets-girl-and-the-sea",
       "artist": "The Presets",
+      "artists": [
+        "The Presets"
+      ],
       "song": "Girl and the Sea",
       "director": "Lee Lennox",
       "directors": [
@@ -1159,6 +1301,9 @@
     "the-pharcyde-drop": {
       "id": "the-pharcyde-drop",
       "artist": "The Pharcyde",
+      "artists": [
+        "The Pharcyde"
+      ],
       "song": "Drop",
       "director": "Spike Jonze",
       "directors": [
@@ -1183,6 +1328,9 @@
     "the-horrors-sheena-is-a-parasite": {
       "id": "the-horrors-sheena-is-a-parasite",
       "artist": "The Horrors",
+      "artists": [
+        "The Horrors"
+      ],
       "song": "Sheena is a Parasite",
       "director": "Chris Cunningham",
       "directors": [
@@ -1205,6 +1353,9 @@
     "grizzly-bear-knife": {
       "id": "grizzly-bear-knife",
       "artist": "Grizzly Bear",
+      "artists": [
+        "Grizzly Bear"
+      ],
       "song": "Knife",
       "director": "Encyclopedia Pictura",
       "directors": [
@@ -1230,6 +1381,9 @@
     "the-rapture-whoo-alright-yeah-uh-huh": {
       "id": "the-rapture-whoo-alright-yeah-uh-huh",
       "artist": "The Rapture",
+      "artists": [
+        "The Rapture"
+      ],
       "song": "Whoo! Alright - Yeah... Uh Huh",
       "director": "Ben Dickinson",
       "directors": [
@@ -1257,6 +1411,9 @@
     "janelle-mon-e-make-me-feel": {
       "id": "janelle-mon-e-make-me-feel",
       "artist": "Janelle Monáe",
+      "artists": [
+        "Janelle Monáe"
+      ],
       "song": "Make Me Feel",
       "director": "Alan Ferguson",
       "directors": [
@@ -1283,6 +1440,9 @@
     "janelle-mon-e-tightrope": {
       "id": "janelle-mon-e-tightrope",
       "artist": "Janelle Monáe",
+      "artists": [
+        "Janelle Monáe"
+      ],
       "song": "Tightrope",
       "director": "Wendy Morgan",
       "directors": [
@@ -1308,6 +1468,9 @@
     "janelle-mon-e-pynk": {
       "id": "janelle-mon-e-pynk",
       "artist": "Janelle Monáe",
+      "artists": [
+        "Janelle Monáe"
+      ],
       "song": "PYNK",
       "director": "Emma Westenberg",
       "directors": [
@@ -1333,6 +1496,9 @@
     "janelle-mon-e-i-like-that": {
       "id": "janelle-mon-e-i-like-that",
       "artist": "Janelle Monáe",
+      "artists": [
+        "Janelle Monáe"
+      ],
       "song": "I Like That",
       "director": "Lacey Duke",
       "directors": [
@@ -1360,6 +1526,9 @@
     "janelle-mon-e-lipstick-lover": {
       "id": "janelle-mon-e-lipstick-lover",
       "artist": "Janelle Monáe",
+      "artists": [
+        "Janelle Monáe"
+      ],
       "song": "Lipstick Lover",
       "director": "Janelle Monáe & Alan Ferguson",
       "directors": [
@@ -1388,6 +1557,9 @@
     "childish-gambino-this-is-america": {
       "id": "childish-gambino-this-is-america",
       "artist": "Childish Gambino",
+      "artists": [
+        "Childish Gambino"
+      ],
       "song": "This Is America",
       "director": "Hiro Murai",
       "directors": [
@@ -1415,6 +1587,9 @@
     "goldfrapp-happiness": {
       "id": "goldfrapp-happiness",
       "artist": "Goldfrapp",
+      "artists": [
+        "Goldfrapp"
+      ],
       "song": "Happiness",
       "director": "Dougal Wilson",
       "directors": [
@@ -1437,6 +1612,9 @@
     "vitalic-poney-part-1-birds": {
       "id": "vitalic-poney-part-1-birds",
       "artist": "Vitalic",
+      "artists": [
+        "Vitalic"
+      ],
       "song": "Poney Part 1 (Birds)",
       "director": "Pleix",
       "directors": [
@@ -1464,6 +1642,9 @@
     "dangelo-untitled-how-does-it-feel": {
       "id": "dangelo-untitled-how-does-it-feel",
       "artist": "D’Angelo",
+      "artists": [
+        "D’Angelo"
+      ],
       "song": "Untitled (How Does It Feel)",
       "director": "Paul Hunter",
       "directors": [
@@ -1488,6 +1669,9 @@
     "the-avalanches-frontier-psychiatrist": {
       "id": "the-avalanches-frontier-psychiatrist",
       "artist": "The Avalanches",
+      "artists": [
+        "The Avalanches"
+      ],
       "song": "Frontier Psychiatrist",
       "director": "Tom Kuntz & Mike Maguire",
       "directors": [
@@ -1512,6 +1696,9 @@
     "r-yksopp-remind-me": {
       "id": "r-yksopp-remind-me",
       "artist": "Röyksopp",
+      "artists": [
+        "Röyksopp"
+      ],
       "song": "Remind Me",
       "director": "H5",
       "directors": [
@@ -1535,6 +1722,9 @@
     "the-white-stripes-fell-in-love-with-a-girl": {
       "id": "the-white-stripes-fell-in-love-with-a-girl",
       "artist": "The White Stripes",
+      "artists": [
+        "The White Stripes"
+      ],
       "song": "Fell In Love With A Girl",
       "director": "Michel Gondry",
       "directors": [
@@ -1559,6 +1749,9 @@
     "the-white-stripes-the-hardest-button-to-button": {
       "id": "the-white-stripes-the-hardest-button-to-button",
       "artist": "The White Stripes",
+      "artists": [
+        "The White Stripes"
+      ],
       "song": "The Hardest Button To Button",
       "director": "Michel Gondry",
       "directors": [
@@ -1585,6 +1778,9 @@
     "queen-bohemian-rhapsody": {
       "id": "queen-bohemian-rhapsody",
       "artist": "Queen",
+      "artists": [
+        "Queen"
+      ],
       "song": "Bohemian Rhapsody",
       "director": "Bruce Gowers",
       "directors": [
@@ -1608,6 +1804,9 @@
     "r-e-m-losing-my-religion": {
       "id": "r-e-m-losing-my-religion",
       "artist": "R.E.M.",
+      "artists": [
+        "R.E.M."
+      ],
       "song": "Losing My Religion",
       "director": "Tarsem Singh",
       "directors": [
@@ -1631,6 +1830,9 @@
     "radiohead-just": {
       "id": "radiohead-just",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "Just",
       "director": "Jamie Thraves",
       "directors": [
@@ -1654,6 +1856,9 @@
     "janet-jackson-rhythm-nation": {
       "id": "janet-jackson-rhythm-nation",
       "artist": "Janet Jackson",
+      "artists": [
+        "Janet Jackson"
+      ],
       "song": "Rhythm Nation",
       "director": "Dominic Sena",
       "directors": [
@@ -1677,6 +1882,9 @@
     "ogiyahagi-i-love-your-face": {
       "id": "ogiyahagi-i-love-your-face",
       "artist": "Ogiyahagi",
+      "artists": [
+        "Ogiyahagi"
+      ],
       "song": "I Love Your Face",
       "director": "Nagi Noda",
       "directors": [
@@ -1703,6 +1911,9 @@
     "lady-gaga-bad-romance": {
       "id": "lady-gaga-bad-romance",
       "artist": "Lady Gaga",
+      "artists": [
+        "Lady Gaga"
+      ],
       "song": "Bad Romance",
       "director": "Francis Lawrence",
       "directors": [
@@ -1727,6 +1938,9 @@
     "drake-hotline-bling": {
       "id": "drake-hotline-bling",
       "artist": "Drake",
+      "artists": [
+        "Drake"
+      ],
       "song": "Hotline Bling",
       "director": "Director X",
       "directors": [
@@ -1751,6 +1965,9 @@
     "missy-elliott-the-rain-supa-dupa-fly": {
       "id": "missy-elliott-the-rain-supa-dupa-fly",
       "artist": "Missy Elliott",
+      "artists": [
+        "Missy Elliott"
+      ],
       "song": "The Rain (Supa Dupa Fly)",
       "director": "Hype Williams",
       "directors": [
@@ -1775,6 +1992,9 @@
     "george-michael-freedom-90": {
       "id": "george-michael-freedom-90",
       "artist": "George Michael",
+      "artists": [
+        "George Michael"
+      ],
       "song": "Freedom! ‘90",
       "director": "David Fincher",
       "directors": [
@@ -1798,6 +2018,9 @@
     "madonna-vogue": {
       "id": "madonna-vogue",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Vogue",
       "director": "David Fincher",
       "directors": [
@@ -1821,6 +2044,9 @@
     "the-smile-friend-of-a-friend": {
       "id": "the-smile-friend-of-a-friend",
       "artist": "The Smile",
+      "artists": [
+        "The Smile"
+      ],
       "song": "Friend of a Friend",
       "director": "Paul Thomas Anderson",
       "directors": [
@@ -1844,6 +2070,9 @@
     "kings-of-leon-mustang": {
       "id": "kings-of-leon-mustang",
       "artist": "Kings Of Leon",
+      "artists": [
+        "Kings Of Leon"
+      ],
       "song": "Mustang",
       "director": "Brook Linder",
       "directors": [
@@ -1867,6 +2096,9 @@
     "duck-sauce-mesmerize": {
       "id": "duck-sauce-mesmerize",
       "artist": "Duck Sauce",
+      "artists": [
+        "Duck Sauce"
+      ],
       "song": "Mesmerize",
       "director": "Keith Schofield",
       "directors": [
@@ -1889,9 +2121,14 @@
       ],
       "embedBroken": false
     },
-    "fred-again-lil-yachty-and-overmono-stayinit": {
-      "id": "fred-again-lil-yachty-and-overmono-stayinit",
-      "artist": "Fred Again, Lil Yachty, and Overmono",
+    "fred-again-lil-yachty-overmono-stayinit": {
+      "id": "fred-again-lil-yachty-overmono-stayinit",
+      "artist": "Fred Again, Lil Yachty & Overmono",
+      "artists": [
+        "Fred Again",
+        "Lil Yachty",
+        "Overmono"
+      ],
       "song": "Stayinit",
       "director": "LOOSE & UNCANNY",
       "directors": [
@@ -1916,6 +2153,9 @@
     "tourist-valentine": {
       "id": "tourist-valentine",
       "artist": "Tourist",
+      "artists": [
+        "Tourist"
+      ],
       "song": "Valentine",
       "director": "Ozzie Pullin",
       "directors": [
@@ -1940,6 +2180,9 @@
     "dua-lipa-illusion": {
       "id": "dua-lipa-illusion",
       "artist": "Dua Lipa",
+      "artists": [
+        "Dua Lipa"
+      ],
       "song": "Illusion",
       "director": "Tanu Muiño",
       "directors": [
@@ -1968,6 +2211,9 @@
     "jacques-absolve": {
       "id": "jacques-absolve",
       "artist": "Jacques",
+      "artists": [
+        "Jacques"
+      ],
       "song": "Absolve",
       "director": "Paul Trillo",
       "directors": [
@@ -1992,6 +2238,9 @@
     "sarh-u-and-i": {
       "id": "sarh-u-and-i",
       "artist": "SARH",
+      "artists": [
+        "SARH"
+      ],
       "song": "U and I",
       "director": "Paul Trillo",
       "directors": [
@@ -2018,6 +2267,9 @@
     "young-thug-wyclef-jean": {
       "id": "young-thug-wyclef-jean",
       "artist": "Young Thug",
+      "artists": [
+        "Young Thug"
+      ],
       "song": "Wyclef Jean",
       "director": "Ryan Staake & Young Thug",
       "directors": [
@@ -2043,6 +2295,9 @@
     "the-chemical-brothers-wide-open": {
       "id": "the-chemical-brothers-wide-open",
       "artist": "The Chemical Brothers",
+      "artists": [
+        "The Chemical Brothers"
+      ],
       "song": "Wide Open",
       "director": "Dom & Nic",
       "directors": [
@@ -2068,6 +2323,9 @@
     "ok-go-upside-down-inside-out": {
       "id": "ok-go-upside-down-inside-out",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "Upside Down & Inside Out",
       "director": "Trish Sie & Damian Kulash",
       "directors": [
@@ -2095,6 +2353,9 @@
     "dayglow-something": {
       "id": "dayglow-something",
       "artist": "Dayglow",
+      "artists": [
+        "Dayglow"
+      ],
       "song": "Something",
       "director": "Drew Tyndell",
       "directors": [
@@ -2119,6 +2380,9 @@
     "luc-glow": {
       "id": "luc-glow",
       "artist": "LUC",
+      "artists": [
+        "LUC"
+      ],
       "song": "Glow",
       "director": "Vincenzo Lodigiani",
       "directors": [
@@ -2142,6 +2406,9 @@
     "mitski-a-pearl": {
       "id": "mitski-a-pearl",
       "artist": "Mitski",
+      "artists": [
+        "Mitski"
+      ],
       "song": "A Pearl",
       "director": "Saad Moosajee, Danae Gosset & Art Camp",
       "directors": [
@@ -2169,6 +2436,9 @@
     "charles-x-can-you-do-it": {
       "id": "charles-x-can-you-do-it",
       "artist": "Charles X",
+      "artists": [
+        "Charles X"
+      ],
       "song": "Can You Do It?",
       "director": "Parallel",
       "directors": [
@@ -2193,6 +2463,9 @@
     "thunder-tillman-alignments": {
       "id": "thunder-tillman-alignments",
       "artist": "Thunder Tillman",
+      "artists": [
+        "Thunder Tillman"
+      ],
       "song": "Alignments",
       "director": "Hugo & Marie",
       "directors": [
@@ -2218,6 +2491,9 @@
     "washed-out-floating-by": {
       "id": "washed-out-floating-by",
       "artist": "Washed Out",
+      "artists": [
+        "Washed Out"
+      ],
       "song": "Floating By",
       "director": "Drew Tyndell",
       "directors": [
@@ -2244,6 +2520,9 @@
     "yeasayer-wait-for-the-summer": {
       "id": "yeasayer-wait-for-the-summer",
       "artist": "Yeasayer",
+      "artists": [
+        "Yeasayer"
+      ],
       "song": "Wait for the Summer",
       "director": "Mixtape Club",
       "directors": [
@@ -2272,6 +2551,9 @@
     "jmii-bailar": {
       "id": "jmii-bailar",
       "artist": "JMII",
+      "artists": [
+        "JMII"
+      ],
       "song": "Bailar",
       "director": "DEDO CIEGO",
       "directors": [
@@ -2299,6 +2581,9 @@
     "violet-sands-no-matter-what": {
       "id": "violet-sands-no-matter-what",
       "artist": "Violet Sands",
+      "artists": [
+        "Violet Sands"
+      ],
       "song": "No Matter What",
       "director": "Dress Code",
       "directors": [
@@ -2322,6 +2607,9 @@
     "de-staat-witch-doctor": {
       "id": "de-staat-witch-doctor",
       "artist": "De Staat",
+      "artists": [
+        "De Staat"
+      ],
       "song": "Witch Doctor",
       "director": "Studio Smack, Floris Kaayk & Torre Florim",
       "directors": [
@@ -2349,6 +2637,9 @@
     "panda-bear-boys-latin": {
       "id": "panda-bear-boys-latin",
       "artist": "Panda Bear",
+      "artists": [
+        "Panda Bear"
+      ],
       "song": "Boys Latin",
       "director": "Encyclopedia Pictura",
       "directors": [
@@ -2373,6 +2664,9 @@
     "ok-go-i-wont-let-you-down": {
       "id": "ok-go-i-wont-let-you-down",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "I Won't Let You Down",
       "director": "Kazuaki Seki & Damian Kulash",
       "directors": [
@@ -2404,6 +2698,9 @@
     "ok-go-the-writings-on-the-wall": {
       "id": "ok-go-the-writings-on-the-wall",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "The Writing's On the Wall",
       "director": "Damian Kulash, Aaron Duffy & Bob Partington",
       "directors": [
@@ -2430,6 +2727,9 @@
     "hundred-waters-cavity": {
       "id": "hundred-waters-cavity",
       "artist": "Hundred Waters",
+      "artists": [
+        "Hundred Waters"
+      ],
       "song": "Cavity",
       "director": "Michael Langan",
       "directors": [
@@ -2456,6 +2756,10 @@
     "dj-snake-lil-jon-turn-down-for-what": {
       "id": "dj-snake-lil-jon-turn-down-for-what",
       "artist": "DJ Snake & Lil Jon",
+      "artists": [
+        "DJ Snake",
+        "Lil Jon"
+      ],
       "song": "Turn Down for What",
       "director": "Daniels",
       "directors": [
@@ -2480,6 +2784,9 @@
     "boozoo-bajou-jan-mayen": {
       "id": "boozoo-bajou-jan-mayen",
       "artist": "Boozoo Bajou",
+      "artists": [
+        "Boozoo Bajou"
+      ],
       "song": "Jan Mayen",
       "director": "Michael Fragstein",
       "directors": [
@@ -2506,6 +2813,9 @@
     "iron-wine-joy": {
       "id": "iron-wine-joy",
       "artist": "Iron & Wine",
+      "artists": [
+        "Iron & Wine"
+      ],
       "song": "Joy",
       "director": "Hayley Morris",
       "directors": [
@@ -2531,6 +2841,9 @@
     "bonobo-cirrus": {
       "id": "bonobo-cirrus",
       "artist": "Bonobo",
+      "artists": [
+        "Bonobo"
+      ],
       "song": "Cirrus",
       "director": "Cyriak",
       "directors": [
@@ -2556,6 +2869,9 @@
     "r-yksopp-so-easy-unofficial-video": {
       "id": "r-yksopp-so-easy-unofficial-video",
       "artist": "Röyksopp",
+      "artists": [
+        "Röyksopp"
+      ],
       "song": "So Easy (unofficial video)",
       "director": "Emmanuelle Walker",
       "directors": [
@@ -2580,6 +2896,9 @@
     "the-shins-simple-song": {
       "id": "the-shins-simple-song",
       "artist": "The Shins",
+      "artists": [
+        "The Shins"
+      ],
       "song": "Simple Song",
       "director": "Daniels",
       "directors": [
@@ -2601,9 +2920,14 @@
       ],
       "embedBroken": false
     },
-    "danger-mouse-daniele-luppi-feat-jack-white-two-against-one": {
-      "id": "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-      "artist": "Danger Mouse & Daniele Luppi feat. Jack White",
+    "danger-mouse-daniele-luppi-ft-jack-white-two-against-one": {
+      "id": "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
+      "artist": "Danger Mouse & Daniele Luppi (ft. Jack White)",
+      "artists": [
+        "Danger Mouse",
+        "Daniele Luppi",
+        "Jack White"
+      ],
       "song": "Two Against One",
       "director": "A.F. Schepperd & Chris Milk",
       "directors": [
@@ -2630,6 +2954,9 @@
     "fleet-foxes-the-shrine-an-argument": {
       "id": "fleet-foxes-the-shrine-an-argument",
       "artist": "Fleet Foxes",
+      "artists": [
+        "Fleet Foxes"
+      ],
       "song": "The Shrine / An Argument",
       "director": "Sean Pecknold",
       "directors": [
@@ -2652,6 +2979,9 @@
     "friendly-fires-hurting": {
       "id": "friendly-fires-hurting",
       "artist": "Friendly Fires",
+      "artists": [
+        "Friendly Fires"
+      ],
       "song": "Hurting",
       "director": "David Lewandowski",
       "directors": [
@@ -2675,6 +3005,9 @@
     "we-cut-corners-pirates-life": {
       "id": "we-cut-corners-pirates-life",
       "artist": "We Cut Corners",
+      "artists": [
+        "We Cut Corners"
+      ],
       "song": "Pirate's Life",
       "director": "Kijek / Adamski",
       "directors": [
@@ -2699,9 +3032,13 @@
       ],
       "embedBroken": true
     },
-    "marian-ruzzi-y-sr-amable-una-pieza-mas": {
-      "id": "marian-ruzzi-y-sr-amable-una-pieza-mas",
-      "artist": "Marian Ruzzi y Sr. Amable",
+    "marian-ruzzi-sr-amable-una-pieza-mas": {
+      "id": "marian-ruzzi-sr-amable-una-pieza-mas",
+      "artist": "Marian Ruzzi & Sr. Amable",
+      "artists": [
+        "Marian Ruzzi",
+        "Sr. Amable"
+      ],
       "song": "Una pieza mas",
       "director": "Luis Safa & BASA Studio",
       "directors": [
@@ -2725,6 +3062,9 @@
     "ok-go-all-is-not-lost": {
       "id": "ok-go-all-is-not-lost",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "All Is Not Lost",
       "director": "Trish Sie & Pilobolus",
       "directors": [
@@ -2751,6 +3091,9 @@
     "hooray-for-earth-true-loves-cereal-spiller-remix": {
       "id": "hooray-for-earth-true-loves-cereal-spiller-remix",
       "artist": "Hooray For Earth",
+      "artists": [
+        "Hooray For Earth"
+      ],
       "song": "True Loves (Cereal Spiller Remix)",
       "director": "Cyriak",
       "directors": [
@@ -2775,6 +3118,9 @@
     "danger-beach-apache": {
       "id": "danger-beach-apache",
       "artist": "Danger Beach",
+      "artists": [
+        "Danger Beach"
+      ],
       "song": "Apache",
       "director": "Ned Wenlock",
       "directors": [
@@ -2798,6 +3144,9 @@
     "scissor-sisters-invisible-light": {
       "id": "scissor-sisters-invisible-light",
       "artist": "Scissor Sisters",
+      "artists": [
+        "Scissor Sisters"
+      ],
       "song": "Invisible Light",
       "director": "Nicolas Mendez",
       "directors": [
@@ -2823,6 +3172,9 @@
     "sebastien-tellier-look": {
       "id": "sebastien-tellier-look",
       "artist": "Sebastien Tellier",
+      "artists": [
+        "Sebastien Tellier"
+      ],
       "song": "Look",
       "director": "Mrzyk & Moriceau",
       "directors": [
@@ -2848,6 +3200,9 @@
     "kumisolo-cheap-pop-song": {
       "id": "kumisolo-cheap-pop-song",
       "artist": "Kumisolo",
+      "artists": [
+        "Kumisolo"
+      ],
       "song": "Cheap Pop Song",
       "director": "Rhett Dashwood",
       "directors": [
@@ -2870,6 +3225,9 @@
     "ok-go-this-too-shall-pass": {
       "id": "ok-go-this-too-shall-pass",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "This Too Shall Pass",
       "director": "Damian Kulash & Brian L. Perkins",
       "directors": [
@@ -2897,6 +3255,9 @@
     "paul-dempsey-bats": {
       "id": "paul-dempsey-bats",
       "artist": "Paul Dempsey",
+      "artists": [
+        "Paul Dempsey"
+      ],
       "song": "Bats",
       "director": "We Buy Your Kids",
       "directors": [
@@ -2922,6 +3283,9 @@
     "grizzly-bear-while-you-wait-for-the-others": {
       "id": "grizzly-bear-while-you-wait-for-the-others",
       "artist": "Grizzly Bear",
+      "artists": [
+        "Grizzly Bear"
+      ],
       "song": "While You Wait for the Others",
       "director": "Sean Pecknold",
       "directors": [
@@ -2947,6 +3311,9 @@
     "boys-noize-jeffer": {
       "id": "boys-noize-jeffer",
       "artist": "Boys Noize",
+      "artists": [
+        "Boys Noize"
+      ],
       "song": "Jeffer",
       "director": "Pomp&Clout",
       "directors": [
@@ -2970,6 +3337,9 @@
     "dominik-eulberg-sansula-oder-der-letzte-grund": {
       "id": "dominik-eulberg-sansula-oder-der-letzte-grund",
       "artist": "Dominik Eulberg",
+      "artists": [
+        "Dominik Eulberg"
+      ],
       "song": "Sansula (oder der letzte Grund)",
       "director": "Dirk Rauscher",
       "directors": [
@@ -2993,6 +3363,9 @@
     "labuat-soy-tu-aire": {
       "id": "labuat-soy-tu-aire",
       "artist": "Labuat",
+      "artists": [
+        "Labuat"
+      ],
       "song": "Soy Tu Aire",
       "director": "Herraiz&Soto",
       "directors": [
@@ -3018,6 +3391,9 @@
     "moray-mclaren-we-got-time": {
       "id": "moray-mclaren-we-got-time",
       "artist": "Moray McLaren",
+      "artists": [
+        "Moray McLaren"
+      ],
       "song": "We Got Time",
       "director": "David Wilson",
       "directors": [
@@ -3044,6 +3420,9 @@
     "chairlift-evident-utensil": {
       "id": "chairlift-evident-utensil",
       "artist": "Chairlift",
+      "artists": [
+        "Chairlift"
+      ],
       "song": "Evident Utensil",
       "director": "Ray Tintori",
       "directors": [
@@ -3059,7 +3438,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/6LG39Wp7OzQ/hqdefault.jpg",
       "tags": [
         "2000's",
-        "datamoshing",
+        "datamosh/frameblend",
         "glitch",
         "poc director",
         "psychedelic"
@@ -3069,6 +3448,9 @@
     "friendly-fires-skeleton-boy": {
       "id": "friendly-fires-skeleton-boy",
       "artist": "Friendly Fires",
+      "artists": [
+        "Friendly Fires"
+      ],
       "song": "Skeleton Boy",
       "director": "Clemens Habicht",
       "directors": [
@@ -3094,6 +3476,9 @@
     "dick-annegarn-soleil-du-soir": {
       "id": "dick-annegarn-soleil-du-soir",
       "artist": "Dick Annegarn",
+      "artists": [
+        "Dick Annegarn"
+      ],
       "song": "Soleil du soir",
       "director": "Michel Gondry",
       "directors": [
@@ -3118,6 +3503,9 @@
     "the-white-stripes-seven-nation-army": {
       "id": "the-white-stripes-seven-nation-army",
       "artist": "The White Stripes",
+      "artists": [
+        "The White Stripes"
+      ],
       "song": "Seven Nation Army",
       "director": "Alex & Martin",
       "directors": [
@@ -3143,6 +3531,9 @@
     "ok-go-this-too-shall-pass-rube-goldberg": {
       "id": "ok-go-this-too-shall-pass-rube-goldberg",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "This Too Shall Pass (Rube Goldberg)",
       "director": "James Frost, OK Go & Syyn Labs",
       "directors": [
@@ -3170,6 +3561,9 @@
     "the-peach-kings-dirty-secret": {
       "id": "the-peach-kings-dirty-secret",
       "artist": "The Peach Kings",
+      "artists": [
+        "The Peach Kings"
+      ],
       "song": "Dirty Secret",
       "director": "Paul Trillo",
       "directors": [
@@ -3194,6 +3588,9 @@
     "n-lannon-another-love": {
       "id": "n-lannon-another-love",
       "artist": "N. Lannon",
+      "artists": [
+        "N. Lannon"
+      ],
       "song": "Another Love",
       "director": "Michael Langan & Najeeb Tarazi",
       "directors": [
@@ -3222,6 +3619,9 @@
     "mette-coming-of-age": {
       "id": "mette-coming-of-age",
       "artist": "Mette",
+      "artists": [
+        "Mette"
+      ],
       "song": "COMING OF AGE",
       "director": "Helen Morales & METTE",
       "directors": [
@@ -3249,6 +3649,9 @@
     "ok-go-a-stone-only-rolls-downhill": {
       "id": "ok-go-a-stone-only-rolls-downhill",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "A Stone Only Rolls Downhill",
       "director": "Damian Kulash & Chris Buongiorno",
       "directors": [
@@ -3274,6 +3677,9 @@
     "ok-go-love": {
       "id": "ok-go-love",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "Love",
       "director": "Damian Kulash, Aaron Duffy & Miguel Espada",
       "directors": [
@@ -3303,6 +3709,9 @@
     "bonobo-me-and-you": {
       "id": "bonobo-me-and-you",
       "artist": "Bonobo",
+      "artists": [
+        "Bonobo"
+      ],
       "song": "Me And You",
       "director": "in/out",
       "directors": [
@@ -3329,6 +3738,9 @@
     "fm-belfast-underwear": {
       "id": "fm-belfast-underwear",
       "artist": "FM Belfast",
+      "artists": [
+        "FM Belfast"
+      ],
       "song": "Underwear",
       "director": "Daniels",
       "directors": [
@@ -3358,6 +3770,9 @@
     "the-hundred-in-the-hands-pigeons": {
       "id": "the-hundred-in-the-hands-pigeons",
       "artist": "The Hundred in the Hands",
+      "artists": [
+        "The Hundred in the Hands"
+      ],
       "song": "Pigeons",
       "director": "Daniels",
       "directors": [
@@ -3385,6 +3800,10 @@
     "gener8ion-yung-lean-storm": {
       "id": "gener8ion-yung-lean-storm",
       "artist": "GENER8ION & Yung Lean",
+      "artists": [
+        "GENER8ION",
+        "Yung Lean"
+      ],
       "song": "STORM",
       "director": "Romain Gavras",
       "directors": [
@@ -3411,6 +3830,9 @@
     "shugo-tokumaru-katachi": {
       "id": "shugo-tokumaru-katachi",
       "artist": "Shugo Tokumaru",
+      "artists": [
+        "Shugo Tokumaru"
+      ],
       "song": "Katachi",
       "director": "Kijek / Adamski",
       "directors": [
@@ -3438,6 +3860,9 @@
     "willow-sweater": {
       "id": "willow-sweater",
       "artist": "Willow",
+      "artists": [
+        "Willow"
+      ],
       "song": "Sweater",
       "director": "Filip Sterckx",
       "directors": [
@@ -3465,6 +3890,9 @@
     "de-jeugd-van-tegenwoordig-manon": {
       "id": "de-jeugd-van-tegenwoordig-manon",
       "artist": "De Jeugd Van Tegenwoordig",
+      "artists": [
+        "De Jeugd Van Tegenwoordig"
+      ],
       "song": "Manon",
       "director": "Lernert & Sander",
       "directors": [
@@ -3487,6 +3915,9 @@
     "hi-rophante-clich-s": {
       "id": "hi-rophante-clich-s",
       "artist": "Hiérophante",
+      "artists": [
+        "Hiérophante"
+      ],
       "song": "Clichés",
       "director": "Hiérophante",
       "directors": [
@@ -3510,6 +3941,9 @@
     "wintergatan-marble-machine": {
       "id": "wintergatan-marble-machine",
       "artist": "Wintergatan",
+      "artists": [
+        "Wintergatan"
+      ],
       "song": "Marble Machine",
       "director": "Hannes Knutsson",
       "directors": [
@@ -3534,6 +3968,10 @@
     "joep-beving-max-cooper-hanging-d-max-cooper-remix": {
       "id": "joep-beving-max-cooper-hanging-d-max-cooper-remix",
       "artist": "Joep Beving & Max Cooper",
+      "artists": [
+        "Joep Beving",
+        "Max Cooper"
+      ],
       "song": "Hanging D (Max Cooper Remix)",
       "director": "Ksawery Kirklewski",
       "directors": [
@@ -3558,6 +3996,9 @@
     "polo-pan-coeur-crois": {
       "id": "polo-pan-coeur-crois",
       "artist": "POLO & PAN",
+      "artists": [
+        "POLO & PAN"
+      ],
       "song": "Coeur Croisé",
       "director": "Pablo Maestres",
       "directors": [
@@ -3582,6 +4023,9 @@
     "jr-jr-gone": {
       "id": "jr-jr-gone",
       "artist": "JR JR",
+      "artists": [
+        "JR JR"
+      ],
       "song": "Gone",
       "director": "Los Pérez",
       "directors": [
@@ -3604,9 +4048,13 @@
       ],
       "embedBroken": false
     },
-    "hook-n-sling-feat-far-east-movement-break-yourself": {
-      "id": "hook-n-sling-feat-far-east-movement-break-yourself",
-      "artist": "Hook N Sling feat. Far East Movement",
+    "hook-n-sling-ft-far-east-movement-break-yourself": {
+      "id": "hook-n-sling-ft-far-east-movement-break-yourself",
+      "artist": "Hook N Sling (ft. Far East Movement)",
+      "artists": [
+        "Hook N Sling",
+        "Far East Movement"
+      ],
       "song": "Break Yourself",
       "director": "Nelson De Castro & Carlos López Estrada",
       "directors": [
@@ -3633,6 +4081,9 @@
     "miike-snow-genghis-khan": {
       "id": "miike-snow-genghis-khan",
       "artist": "Miike Snow",
+      "artists": [
+        "Miike Snow"
+      ],
       "song": "Genghis Khan",
       "director": "Ninian Doff",
       "directors": [
@@ -3658,6 +4109,9 @@
     "el-guincho-bombay": {
       "id": "el-guincho-bombay",
       "artist": "El Guincho",
+      "artists": [
+        "El Guincho"
+      ],
       "song": "Bombay",
       "director": "CANADA",
       "directors": [
@@ -3683,6 +4137,9 @@
     "max-cooper-waves": {
       "id": "max-cooper-waves",
       "artist": "Max Cooper",
+      "artists": [
+        "Max Cooper"
+      ],
       "song": "Waves",
       "director": "Kevin McGloughlin",
       "directors": [
@@ -3709,6 +4166,9 @@
     "stereogram-walkie-talkie-man": {
       "id": "stereogram-walkie-talkie-man",
       "artist": "Stereogram",
+      "artists": [
+        "Stereogram"
+      ],
       "song": "Walkie Talkie Man",
       "director": "Michel Gondry",
       "directors": [
@@ -3733,6 +4193,9 @@
     "jamiroquai-virtual-insanity": {
       "id": "jamiroquai-virtual-insanity",
       "artist": "Jamiroquai",
+      "artists": [
+        "Jamiroquai"
+      ],
       "song": "Virtual Insanity",
       "director": "Jonathan Glazer",
       "directors": [
@@ -3757,6 +4220,9 @@
     "casey-veggies-euphoria-ii": {
       "id": "casey-veggies-euphoria-ii",
       "artist": "Casey Veggies",
+      "artists": [
+        "Casey Veggies"
+      ],
       "song": "Euphoria II",
       "director": "John Bollozos",
       "directors": [
@@ -3780,6 +4246,9 @@
     "son-of-kick-playing-the-villain": {
       "id": "son-of-kick-playing-the-villain",
       "artist": "Son Of Kick",
+      "artists": [
+        "Son Of Kick"
+      ],
       "song": "Playing The Villain",
       "director": "Matt Devine & The Glue Society",
       "directors": [
@@ -3805,6 +4274,9 @@
     "childish-gambino-sober": {
       "id": "childish-gambino-sober",
       "artist": "Childish Gambino",
+      "artists": [
+        "Childish Gambino"
+      ],
       "song": "Sober",
       "director": "Hiro Murai",
       "directors": [
@@ -3830,6 +4302,9 @@
     "tigerilla-tulips": {
       "id": "tigerilla-tulips",
       "artist": "Tigerilla",
+      "artists": [
+        "Tigerilla"
+      ],
       "song": "TULIPS",
       "director": "Tom Noakes",
       "directors": [
@@ -3855,6 +4330,9 @@
     "massive-attack-take-it-there": {
       "id": "massive-attack-take-it-there",
       "artist": "Massive Attack",
+      "artists": [
+        "Massive Attack"
+      ],
       "song": "Take It There",
       "director": "Hiro Murai",
       "directors": [
@@ -3881,6 +4359,9 @@
     "soupcans-siamese-brutality": {
       "id": "soupcans-siamese-brutality",
       "artist": "Soupcans",
+      "artists": [
+        "Soupcans"
+      ],
       "song": "Siamese Brutality",
       "director": "Winston Hacking",
       "directors": [
@@ -3905,6 +4386,9 @@
     "green-day-bang-bang": {
       "id": "green-day-bang-bang",
       "artist": "Green Day",
+      "artists": [
+        "Green Day"
+      ],
       "song": "Bang Bang",
       "director": "Ariel Costa",
       "directors": [
@@ -3927,6 +4411,9 @@
     "milk-bone-pressure": {
       "id": "milk-bone-pressure",
       "artist": "Milk & Bone",
+      "artists": [
+        "Milk & Bone"
+      ],
       "song": "Pressure",
       "director": "Julien Vallée & Eve Duhamel",
       "directors": [
@@ -3954,6 +4441,9 @@
     "darwin-deez-the-mess-she-made": {
       "id": "darwin-deez-the-mess-she-made",
       "artist": "Darwin Deez",
+      "artists": [
+        "Darwin Deez"
+      ],
       "song": "The Mess She Made",
       "director": "Oscar Hudson",
       "directors": [
@@ -3977,6 +4467,9 @@
     "son-lux-change-is-everything": {
       "id": "son-lux-change-is-everything",
       "artist": "Son Lux",
+      "artists": [
+        "Son Lux"
+      ],
       "song": "Change Is Everything",
       "director": "Nathan Johnson",
       "directors": [
@@ -4002,6 +4495,9 @@
     "jones-melt": {
       "id": "jones-melt",
       "artist": "JONES",
+      "artists": [
+        "JONES"
+      ],
       "song": "Melt",
       "director": "Davis Silis",
       "directors": [
@@ -4026,6 +4522,10 @@
     "thao-the-get-down-stay-down-phenom": {
       "id": "thao-the-get-down-stay-down-phenom",
       "artist": "Thao & The Get Down Stay Down",
+      "artists": [
+        "Thao",
+        "The Get Down Stay Down"
+      ],
       "song": "Phenom",
       "director": "Erin S. Murray & Jeremy Schaulin-Rioux",
       "directors": [
@@ -4052,6 +4552,9 @@
     "vessels-4am": {
       "id": "vessels-4am",
       "artist": "Vessels",
+      "artists": [
+        "Vessels"
+      ],
       "song": "4AM",
       "director": "Chloe Hayward",
       "directors": [
@@ -4078,6 +4581,9 @@
     "huma-huma-hello-i-like-you": {
       "id": "huma-huma-hello-i-like-you",
       "artist": "Huma-Huma",
+      "artists": [
+        "Huma-Huma"
+      ],
       "song": "Hello, I Like You",
       "director": "Mixtape Club",
       "directors": [
@@ -4106,6 +4612,9 @@
     "yeah-yeah-yeahs-maps": {
       "id": "yeah-yeah-yeahs-maps",
       "artist": "Yeah Yeah Yeahs",
+      "artists": [
+        "Yeah Yeah Yeahs"
+      ],
       "song": "Maps",
       "director": "Patrick Daughters",
       "directors": [
@@ -4128,6 +4637,9 @@
     "matt-and-kim-lessons-learned": {
       "id": "matt-and-kim-lessons-learned",
       "artist": "Matt and Kim",
+      "artists": [
+        "Matt and Kim"
+      ],
       "song": "Lessons Learned",
       "director": "Taylor Cohen & Otto Arsenault",
       "directors": [
@@ -4154,6 +4666,9 @@
     "so-much-light-full-body-mirror": {
       "id": "so-much-light-full-body-mirror",
       "artist": "So Much Light",
+      "artists": [
+        "So Much Light"
+      ],
       "song": "Full Body Mirror",
       "director": "Jane Qian",
       "directors": [
@@ -4177,6 +4692,9 @@
     "dralms-crushed-pleats": {
       "id": "dralms-crushed-pleats",
       "artist": "Dralms",
+      "artists": [
+        "Dralms"
+      ],
       "song": "Crushed Pleats",
       "director": "Ewan Jones Morris",
       "directors": [
@@ -4192,7 +4710,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/bTiqBq5Nsoc/hqdefault.jpg",
       "tags": [
         "2010's",
-        "datamoshing",
+        "datamosh/frameblend",
         "slowmo",
         "surreal",
         "vfx"
@@ -4202,6 +4720,9 @@
     "mount-moriah-precita": {
       "id": "mount-moriah-precita",
       "artist": "Mount Moriah",
+      "artists": [
+        "Mount Moriah"
+      ],
       "song": "Precita",
       "director": "Fidel Ruiz-Healy",
       "directors": [
@@ -4229,6 +4750,9 @@
     "thunderheist-jerk-it": {
       "id": "thunderheist-jerk-it",
       "artist": "Thunderheist",
+      "artists": [
+        "Thunderheist"
+      ],
       "song": "Jerk It",
       "director": "that go",
       "directors": [
@@ -4257,6 +4781,9 @@
     "brite-futures-sophisticated-side-ponytail": {
       "id": "brite-futures-sophisticated-side-ponytail",
       "artist": "Brite Futures",
+      "artists": [
+        "Brite Futures"
+      ],
       "song": "Sophisticated Side Ponytail",
       "director": "that go",
       "directors": [
@@ -4282,6 +4809,9 @@
     "i-love-you-but-ive-chosen-darkness-the-owl": {
       "id": "i-love-you-but-ive-chosen-darkness-the-owl",
       "artist": "I Love You But I’ve Chosen Darkness",
+      "artists": [
+        "I Love You But I’ve Chosen Darkness"
+      ],
       "song": "The Owl",
       "director": "Emmanuel Ho",
       "directors": [
@@ -4307,6 +4837,9 @@
     "fleet-foxes-white-winter-hymnal": {
       "id": "fleet-foxes-white-winter-hymnal",
       "artist": "Fleet Foxes",
+      "artists": [
+        "Fleet Foxes"
+      ],
       "song": "White Winter Hymnal",
       "director": "Sean Pecknold",
       "directors": [
@@ -4333,6 +4866,9 @@
     "fleet-foxes-mykonos": {
       "id": "fleet-foxes-mykonos",
       "artist": "Fleet Foxes",
+      "artists": [
+        "Fleet Foxes"
+      ],
       "song": "Mykonos",
       "director": "Sean Pecknold",
       "directors": [
@@ -4358,6 +4894,9 @@
     "peter-bjorn-and-john-young-folks": {
       "id": "peter-bjorn-and-john-young-folks",
       "artist": "Peter Bjorn and John",
+      "artists": [
+        "Peter Bjorn and John"
+      ],
       "song": "Young Folks",
       "director": "Ted Malmros",
       "directors": [
@@ -4381,6 +4920,9 @@
     "memory-tapes-yes-i-know": {
       "id": "memory-tapes-yes-i-know",
       "artist": "Memory Tapes",
+      "artists": [
+        "Memory Tapes"
+      ],
       "song": "Yes I Know",
       "director": "Eric Epstein",
       "directors": [
@@ -4406,6 +4948,9 @@
     "paul-kalkbrenner-schwer": {
       "id": "paul-kalkbrenner-schwer",
       "artist": "Paul Kalkbrenner",
+      "artists": [
+        "Paul Kalkbrenner"
+      ],
       "song": "Schwer",
       "director": "Jovan Todorović",
       "directors": [
@@ -4434,6 +4979,9 @@
     "fulton-lights-staring-out-the-window": {
       "id": "fulton-lights-staring-out-the-window",
       "artist": "Fulton Lights",
+      "artists": [
+        "Fulton Lights"
+      ],
       "song": "Staring Out The Window",
       "director": "Ninian Doff",
       "directors": [
@@ -4459,6 +5007,9 @@
     "michael-langan-dahlia": {
       "id": "michael-langan-dahlia",
       "artist": "Michael Langan",
+      "artists": [
+        "Michael Langan"
+      ],
       "song": "Dahlia",
       "director": "Michael Langan",
       "directors": [
@@ -4482,6 +5033,10 @@
     "karl-westman-ibm-research-a-boy-and-his-atom": {
       "id": "karl-westman-ibm-research-a-boy-and-his-atom",
       "artist": "Karl Westman & IBM Research",
+      "artists": [
+        "Karl Westman",
+        "IBM Research"
+      ],
       "song": "A Boy and His Atom",
       "director": "Nico Casavecchia",
       "directors": [
@@ -4507,6 +5062,9 @@
     "no-te-va-gustar-la-puerta-de-atras": {
       "id": "no-te-va-gustar-la-puerta-de-atras",
       "artist": "No Te Va Gustar",
+      "artists": [
+        "No Te Va Gustar"
+      ],
       "song": "La Puerta De Atras",
       "director": "Pablo Marcovecchio",
       "directors": [
@@ -4529,6 +5087,9 @@
     "self-runaway": {
       "id": "self-runaway",
       "artist": "sElf",
+      "artists": [
+        "sElf"
+      ],
       "song": "Runaway",
       "director": "Ballard C. Boyd",
       "directors": [
@@ -4552,6 +5113,9 @@
     "ok-go-white-knuckles": {
       "id": "ok-go-white-knuckles",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "White Knuckles",
       "director": "Trish Sie & OK Go",
       "directors": [
@@ -4577,6 +5141,9 @@
     "the-chemical-brothers-weve-got-to-try": {
       "id": "the-chemical-brothers-weve-got-to-try",
       "artist": "The Chemical Brothers",
+      "artists": [
+        "The Chemical Brothers"
+      ],
       "song": "We’ve Got To Try",
       "director": "Ninian Doff",
       "directors": [
@@ -4602,6 +5169,9 @@
     "bob-dylan-subterranean-homesick-blues": {
       "id": "bob-dylan-subterranean-homesick-blues",
       "artist": "Bob Dylan",
+      "artists": [
+        "Bob Dylan"
+      ],
       "song": "Subterranean Homesick Blues",
       "director": "D.A. Pennebaker",
       "directors": [
@@ -4627,6 +5197,9 @@
     "y-n-richkids-my-bike": {
       "id": "y-n-richkids-my-bike",
       "artist": "Y.N.RichKids",
+      "artists": [
+        "Y.N.RichKids"
+      ],
       "song": "My Bike",
       "director": "Ben Hughes",
       "directors": [
@@ -4650,7 +5223,11 @@
     },
     "ifht-ft-micayla-gatto-ferda-girls-humble-parody": {
       "id": "ifht-ft-micayla-gatto-ferda-girls-humble-parody",
-      "artist": "IFHT ft. Micayla Gatto",
+      "artist": "IFHT (ft. Micayla Gatto)",
+      "artists": [
+        "IFHT",
+        "Micayla Gatto"
+      ],
       "song": "Ferda Girls (HUMBLE. Parody)",
       "director": "IFHT Films",
       "directors": [
@@ -4675,6 +5252,9 @@
     "the-verve-bitter-sweet-symphony": {
       "id": "the-verve-bitter-sweet-symphony",
       "artist": "The Verve",
+      "artists": [
+        "The Verve"
+      ],
       "song": "Bitter Sweet Symphony",
       "director": "Walter Stern",
       "directors": [
@@ -4697,6 +5277,9 @@
     "m-i-a-bad-girls": {
       "id": "m-i-a-bad-girls",
       "artist": "M.I.A.",
+      "artists": [
+        "M.I.A."
+      ],
       "song": "Bad Girls",
       "director": "Romain Gavras",
       "directors": [
@@ -4721,6 +5304,9 @@
     "madonna-justify-my-love": {
       "id": "madonna-justify-my-love",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Justify My Love",
       "director": "Jean-Baptiste Mondino",
       "directors": [
@@ -4744,6 +5330,9 @@
     "prince-i-wanna-be-your-lover": {
       "id": "prince-i-wanna-be-your-lover",
       "artist": "Prince",
+      "artists": [
+        "Prince"
+      ],
       "song": "I Wanna Be Your Lover",
       "director": "Peter Clarson",
       "directors": [
@@ -4764,9 +5353,13 @@
       ],
       "embedBroken": false
     },
-    "prince-and-the-revolution-kiss": {
-      "id": "prince-and-the-revolution-kiss",
-      "artist": "Prince and the Revolution",
+    "prince-the-revolution-kiss": {
+      "id": "prince-the-revolution-kiss",
+      "artist": "Prince & The Revolution",
+      "artists": [
+        "Prince",
+        "The Revolution"
+      ],
       "song": "Kiss",
       "director": "Rebecca Blake",
       "directors": [
@@ -4790,6 +5383,10 @@
     "prince-the-new-power-generation-cream": {
       "id": "prince-the-new-power-generation-cream",
       "artist": "Prince & The New Power Generation",
+      "artists": [
+        "Prince",
+        "The New Power Generation"
+      ],
       "song": "Cream",
       "director": "Rebecca Blake",
       "directors": [
@@ -4810,9 +5407,13 @@
       ],
       "embedBroken": false
     },
-    "prince-and-the-revolution-when-doves-cry": {
-      "id": "prince-and-the-revolution-when-doves-cry",
-      "artist": "Prince and the Revolution",
+    "prince-the-revolution-when-doves-cry": {
+      "id": "prince-the-revolution-when-doves-cry",
+      "artist": "Prince & The Revolution",
+      "artists": [
+        "Prince",
+        "The Revolution"
+      ],
       "song": "When Doves Cry",
       "director": "Prince",
       "directors": [
@@ -4833,9 +5434,13 @@
       ],
       "embedBroken": false
     },
-    "prince-and-the-revolution-raspberry-beret": {
-      "id": "prince-and-the-revolution-raspberry-beret",
-      "artist": "Prince and the Revolution",
+    "prince-the-revolution-raspberry-beret": {
+      "id": "prince-the-revolution-raspberry-beret",
+      "artist": "Prince & The Revolution",
+      "artists": [
+        "Prince",
+        "The Revolution"
+      ],
       "song": "Raspberry Beret",
       "director": "Drew Takahashi",
       "directors": [
@@ -4861,6 +5466,9 @@
     "prince-1999": {
       "id": "prince-1999",
       "artist": "Prince",
+      "artists": [
+        "Prince"
+      ],
       "song": "1999",
       "director": "Bruce Gowers",
       "directors": [
@@ -4883,6 +5491,9 @@
     "jay-z-99-problems": {
       "id": "jay-z-99-problems",
       "artist": "Jay-Z",
+      "artists": [
+        "Jay-Z"
+      ],
       "song": "99 Problems",
       "director": "Mark Romanek",
       "directors": [
@@ -4907,6 +5518,9 @@
     "robert-palmer-addicted-to-love": {
       "id": "robert-palmer-addicted-to-love",
       "artist": "Robert Palmer",
+      "artists": [
+        "Robert Palmer"
+      ],
       "song": "Addicted To Love",
       "director": "Terence Donovan",
       "directors": [
@@ -4930,6 +5544,9 @@
     "michael-jackson-rock-with-you": {
       "id": "michael-jackson-rock-with-you",
       "artist": "Michael Jackson",
+      "artists": [
+        "Michael Jackson"
+      ],
       "song": "Rock With You",
       "director": "Bruce Gowers",
       "directors": [
@@ -4952,6 +5569,9 @@
     "radiohead-high-and-dry": {
       "id": "radiohead-high-and-dry",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "High and Dry",
       "director": "David Mould",
       "directors": [
@@ -4975,6 +5595,9 @@
     "radiohead-no-surprises": {
       "id": "radiohead-no-surprises",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "No Surprises",
       "director": "Grant Gee",
       "directors": [
@@ -5000,6 +5623,9 @@
     "the-carters-apeshit": {
       "id": "the-carters-apeshit",
       "artist": "The Carters",
+      "artists": [
+        "The Carters"
+      ],
       "song": "APESHIT",
       "director": "Ricky Saiz",
       "directors": [
@@ -5025,6 +5651,9 @@
     "radiohead-karma-police": {
       "id": "radiohead-karma-police",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "Karma Police",
       "director": "Jonathan Glazer",
       "directors": [
@@ -5050,6 +5679,9 @@
     "jay-z-moonlight": {
       "id": "jay-z-moonlight",
       "artist": "Jay-Z",
+      "artists": [
+        "Jay-Z"
+      ],
       "song": "Moonlight",
       "director": "Alan Yang",
       "directors": [
@@ -5073,6 +5705,9 @@
     "doechii-anxiety": {
       "id": "doechii-anxiety",
       "artist": "Doechii",
+      "artists": [
+        "Doechii"
+      ],
       "song": "Anxiety",
       "director": "James Mackel",
       "directors": [
@@ -5099,6 +5734,9 @@
     "devo-whip-it": {
       "id": "devo-whip-it",
       "artist": "Devo",
+      "artists": [
+        "Devo"
+      ],
       "song": "Whip It",
       "director": "Gerald V. Casale",
       "directors": [
@@ -5123,6 +5761,9 @@
     "madonna-holiday": {
       "id": "madonna-holiday",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Holiday",
       "director": "uncredited",
       "directors": [
@@ -5145,6 +5786,9 @@
     "madonna-like-a-prayer": {
       "id": "madonna-like-a-prayer",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Like A Prayer",
       "director": "Mary Lambert",
       "directors": [
@@ -5168,6 +5812,9 @@
     "herbie-hancock-rockit": {
       "id": "herbie-hancock-rockit",
       "artist": "Herbie Hancock",
+      "artists": [
+        "Herbie Hancock"
+      ],
       "song": "Rockit",
       "director": "Godley & Creme",
       "directors": [
@@ -5191,6 +5838,9 @@
     "madonna-papa-dont-preach": {
       "id": "madonna-papa-dont-preach",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Papa Don’t Preach",
       "director": "James Foley",
       "directors": [
@@ -5214,6 +5864,9 @@
     "madonna-material-girl": {
       "id": "madonna-material-girl",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Material Girl",
       "director": "Mary Lambert",
       "directors": [
@@ -5239,6 +5892,9 @@
     "madonna-human-nature": {
       "id": "madonna-human-nature",
       "artist": "Madonna",
+      "artists": [
+        "Madonna"
+      ],
       "song": "Human Nature",
       "director": "Jean-Baptiste Mondino",
       "directors": [
@@ -5263,6 +5919,9 @@
     "janet-jackson-nasty": {
       "id": "janet-jackson-nasty",
       "artist": "Janet Jackson",
+      "artists": [
+        "Janet Jackson"
+      ],
       "song": "Nasty",
       "director": "Mary Lambert",
       "directors": [
@@ -5286,6 +5945,9 @@
     "janet-jackson-thats-the-way-love-goes": {
       "id": "janet-jackson-thats-the-way-love-goes",
       "artist": "Janet Jackson",
+      "artists": [
+        "Janet Jackson"
+      ],
       "song": "That’s The Way Love Goes",
       "director": "René Elizondo, Jr.",
       "directors": [
@@ -5310,6 +5972,9 @@
     "soundgarden-black-hole-sun": {
       "id": "soundgarden-black-hole-sun",
       "artist": "Soundgarden",
+      "artists": [
+        "Soundgarden"
+      ],
       "song": "Black Hole Sun",
       "director": "Howard Greenhalgh",
       "directors": [
@@ -5334,6 +5999,9 @@
     "flying-lotus-until-the-quiet-comes": {
       "id": "flying-lotus-until-the-quiet-comes",
       "artist": "Flying Lotus",
+      "artists": [
+        "Flying Lotus"
+      ],
       "song": "Until The Quiet Comes",
       "director": "Kahlil Joseph",
       "directors": [
@@ -5361,6 +6029,10 @@
     "n-e-r-d-rihanna-lemon": {
       "id": "n-e-r-d-rihanna-lemon",
       "artist": "N.E.R.D & Rihanna",
+      "artists": [
+        "N.E.R.D",
+        "Rihanna"
+      ],
       "song": "Lemon",
       "director": "Todd Tourso & Scott Cudmore",
       "directors": [
@@ -5384,6 +6056,9 @@
     "kendrick-lamar-humble": {
       "id": "kendrick-lamar-humble",
       "artist": "Kendrick Lamar",
+      "artists": [
+        "Kendrick Lamar"
+      ],
       "song": "HUMBLE.",
       "director": "Dave Meyers & The Little Homies",
       "directors": [
@@ -5409,6 +6084,9 @@
     "talking-heads-once-in-a-lifetime": {
       "id": "talking-heads-once-in-a-lifetime",
       "artist": "Talking Heads",
+      "artists": [
+        "Talking Heads"
+      ],
       "song": "Once in a Lifetime",
       "director": "Toni Basil & David Byrne",
       "directors": [
@@ -5437,6 +6115,9 @@
     "kendrick-lamar-squabble-up": {
       "id": "kendrick-lamar-squabble-up",
       "artist": "Kendrick Lamar",
+      "artists": [
+        "Kendrick Lamar"
+      ],
       "song": "squabble up",
       "director": "Calmatic",
       "directors": [
@@ -5463,6 +6144,9 @@
     "michael-jackson-dont-stop-til-you-get-enough": {
       "id": "michael-jackson-dont-stop-til-you-get-enough",
       "artist": "Michael Jackson",
+      "artists": [
+        "Michael Jackson"
+      ],
       "song": "Don't Stop 'Til You Get Enough",
       "director": "Nick Saxton",
       "directors": [
@@ -5488,6 +6172,9 @@
     "kendrick-lamar-not-like-us": {
       "id": "kendrick-lamar-not-like-us",
       "artist": "Kendrick Lamar",
+      "artists": [
+        "Kendrick Lamar"
+      ],
       "song": "Not Like Us",
       "director": "Dave Free & Kendrick Lamar",
       "directors": [
@@ -5512,6 +6199,9 @@
     "cibo-matto-sugar-water": {
       "id": "cibo-matto-sugar-water",
       "artist": "Cibo Matto",
+      "artists": [
+        "Cibo Matto"
+      ],
       "song": "Sugar Water",
       "director": "Michel Gondry",
       "directors": [
@@ -5536,6 +6226,9 @@
     "flight-of-the-conchords-not-crying": {
       "id": "flight-of-the-conchords-not-crying",
       "artist": "Flight of the Conchords",
+      "artists": [
+        "Flight of the Conchords"
+      ],
       "song": "Not Crying",
       "director": "James Bobin",
       "directors": [
@@ -5558,6 +6251,9 @@
     "tune-yards-bizness": {
       "id": "tune-yards-bizness",
       "artist": "tUnE-yArDs",
+      "artists": [
+        "tUnE-yArDs"
+      ],
       "song": "Bizness",
       "director": "Mimi Cave",
       "directors": [
@@ -5582,6 +6278,9 @@
     "david-bowie-space-oddity": {
       "id": "david-bowie-space-oddity",
       "artist": "David Bowie",
+      "artists": [
+        "David Bowie"
+      ],
       "song": "Space Oddity",
       "director": "Malcolm J. Thomson",
       "directors": [
@@ -5605,6 +6304,9 @@
     "tune-yards-medley-for-google-i-o": {
       "id": "tune-yards-medley-for-google-i-o",
       "artist": "tUnE-yArDs",
+      "artists": [
+        "tUnE-yArDs"
+      ],
       "song": "Medley for Google I/O",
       "director": "David Li",
       "directors": [
@@ -5630,6 +6332,9 @@
     "lorde-tennis-court": {
       "id": "lorde-tennis-court",
       "artist": "Lorde",
+      "artists": [
+        "Lorde"
+      ],
       "song": "Tennis Court",
       "director": "Joel Kefali",
       "directors": [
@@ -5656,6 +6361,9 @@
     "michael-penn-try": {
       "id": "michael-penn-try",
       "artist": "Michael Penn",
+      "artists": [
+        "Michael Penn"
+      ],
       "song": "Try",
       "director": "Paul Thomas Anderson",
       "directors": [
@@ -5681,6 +6389,9 @@
     "lisa-loeb-stay-i-missed-you": {
       "id": "lisa-loeb-stay-i-missed-you",
       "artist": "Lisa Loeb",
+      "artists": [
+        "Lisa Loeb"
+      ],
       "song": "Stay (I Missed You)",
       "director": "Ethan Hawke",
       "directors": [
@@ -5703,6 +6414,9 @@
     "daft-punk-around-the-world": {
       "id": "daft-punk-around-the-world",
       "artist": "Daft Punk",
+      "artists": [
+        "Daft Punk"
+      ],
       "song": "Around The World",
       "director": "Michel Gondry",
       "directors": [
@@ -5729,6 +6443,9 @@
     "metronomy-love-letters": {
       "id": "metronomy-love-letters",
       "artist": "Metronomy",
+      "artists": [
+        "Metronomy"
+      ],
       "song": "Love Letters",
       "director": "Michel Gondry",
       "directors": [
@@ -5751,6 +6468,9 @@
     "daft-punk-human-after-all": {
       "id": "daft-punk-human-after-all",
       "artist": "Daft Punk",
+      "artists": [
+        "Daft Punk"
+      ],
       "song": "Human After All",
       "director": "Cédric Hervet",
       "directors": [
@@ -5774,6 +6494,9 @@
     "daft-punk-one-more-time": {
       "id": "daft-punk-one-more-time",
       "artist": "Daft Punk",
+      "artists": [
+        "Daft Punk"
+      ],
       "song": "One More Time",
       "director": "Leiji Matsumoto & Kazuhisa Takenouchi",
       "directors": [
@@ -5798,6 +6521,9 @@
     "natalie-imbruglia-torn": {
       "id": "natalie-imbruglia-torn",
       "artist": "Natalie Imbruglia",
+      "artists": [
+        "Natalie Imbruglia"
+      ],
       "song": "Torn",
       "director": "Alison Maclean",
       "directors": [
@@ -5819,9 +6545,13 @@
       ],
       "embedBroken": false
     },
-    "christine-and-the-queens-tilted": {
-      "id": "christine-and-the-queens-tilted",
-      "artist": "Christine and the Queens",
+    "christine-the-queens-tilted": {
+      "id": "christine-the-queens-tilted",
+      "artist": "Christine & The Queens",
+      "artists": [
+        "Christine",
+        "The Queens"
+      ],
       "song": "Tilted",
       "director": "J.A.C.K.",
       "directors": [
@@ -5846,6 +6576,9 @@
     "rome-3-dreams-of-black": {
       "id": "rome-3-dreams-of-black",
       "artist": "ROME",
+      "artists": [
+        "ROME"
+      ],
       "song": "3 Dreams Of Black",
       "director": "Chris Milk",
       "directors": [
@@ -5872,6 +6605,9 @@
     "johnny-cash-aint-no-grave": {
       "id": "johnny-cash-aint-no-grave",
       "artist": "Johnny Cash",
+      "artists": [
+        "Johnny Cash"
+      ],
       "song": "Ain’t No Grave",
       "director": "Chris Milk",
       "directors": [
@@ -5898,6 +6634,9 @@
     "oneohtrix-point-never-d-i-s": {
       "id": "oneohtrix-point-never-d-i-s",
       "artist": "Oneohtrix Point Never",
+      "artists": [
+        "Oneohtrix Point Never"
+      ],
       "song": "D.I.S.",
       "director": "Elliott Elder",
       "directors": [
@@ -5921,6 +6660,9 @@
     "paula-abdul-cold-hearted": {
       "id": "paula-abdul-cold-hearted",
       "artist": "Paula Abdul",
+      "artists": [
+        "Paula Abdul"
+      ],
       "song": "Cold Hearted",
       "director": "David Fincher",
       "directors": [
@@ -5944,6 +6686,9 @@
     "justice-d-a-n-c-e": {
       "id": "justice-d-a-n-c-e",
       "artist": "Justice",
+      "artists": [
+        "Justice"
+      ],
       "song": "D.A.N.C.E.",
       "director": "Jonas & François",
       "directors": [
@@ -5968,6 +6713,9 @@
     "moby-honey": {
       "id": "moby-honey",
       "artist": "Moby",
+      "artists": [
+        "Moby"
+      ],
       "song": "Honey",
       "director": "Roman Coppola",
       "directors": [
@@ -5992,6 +6740,9 @@
     "the-chemical-brothers-let-forever-be": {
       "id": "the-chemical-brothers-let-forever-be",
       "artist": "The Chemical Brothers",
+      "artists": [
+        "The Chemical Brothers"
+      ],
       "song": "Let Forever Be",
       "director": "Michel Gondry",
       "directors": [
@@ -6021,6 +6772,9 @@
     "marilyn-manson-the-beautiful-people": {
       "id": "marilyn-manson-the-beautiful-people",
       "artist": "Marilyn Manson",
+      "artists": [
+        "Marilyn Manson"
+      ],
       "song": "The Beautiful People",
       "director": "Floria Sigismondi",
       "directors": [
@@ -6044,6 +6798,9 @@
     "depeche-mode-policy-of-truth": {
       "id": "depeche-mode-policy-of-truth",
       "artist": "Depeche Mode",
+      "artists": [
+        "Depeche Mode"
+      ],
       "song": "Policy of Truth",
       "director": "Anton Corbijn",
       "directors": [
@@ -6067,6 +6824,9 @@
     "depeche-mode-personal-jesus": {
       "id": "depeche-mode-personal-jesus",
       "artist": "Depeche Mode",
+      "artists": [
+        "Depeche Mode"
+      ],
       "song": "Personal Jesus",
       "director": "Anton Corbijn",
       "directors": [
@@ -6090,6 +6850,9 @@
     "depeche-mode-walking-in-my-shoes": {
       "id": "depeche-mode-walking-in-my-shoes",
       "artist": "Depeche Mode",
+      "artists": [
+        "Depeche Mode"
+      ],
       "song": "Walking in My Shoes",
       "director": "Anton Corbijn",
       "directors": [
@@ -6116,6 +6879,9 @@
     "fiona-apple-criminal": {
       "id": "fiona-apple-criminal",
       "artist": "Fiona Apple",
+      "artists": [
+        "Fiona Apple"
+      ],
       "song": "Criminal",
       "director": "Mark Romanek",
       "directors": [
@@ -6139,6 +6905,9 @@
     "bonobo-no-reason": {
       "id": "bonobo-no-reason",
       "artist": "Bonobo",
+      "artists": [
+        "Bonobo"
+      ],
       "song": "No Reason",
       "director": "Oscar Hudson",
       "directors": [
@@ -6166,6 +6935,9 @@
     "ok-go-needing-getting": {
       "id": "ok-go-needing-getting",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "Needing/Getting",
       "director": "Damian Kulash & Brian L. Perkins",
       "directors": [
@@ -6193,6 +6965,9 @@
     "massive-attack-protection": {
       "id": "massive-attack-protection",
       "artist": "Massive Attack",
+      "artists": [
+        "Massive Attack"
+      ],
       "song": "Protection",
       "director": "Michel Gondry",
       "directors": [
@@ -6217,6 +6992,9 @@
     "fever-ray-when-i-grow-up": {
       "id": "fever-ray-when-i-grow-up",
       "artist": "Fever Ray",
+      "artists": [
+        "Fever Ray"
+      ],
       "song": "When I Grow Up",
       "director": "Martin de Thurah",
       "directors": [
@@ -6241,6 +7019,9 @@
     "ok-go-obsession": {
       "id": "ok-go-obsession",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "Obsession",
       "director": "Damian Kulash & Yusuke Tanaka",
       "directors": [
@@ -6267,6 +7048,9 @@
     "ok-go-the-one-moment": {
       "id": "ok-go-the-one-moment",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "The One Moment",
       "director": "Damian Kulash",
       "directors": [
@@ -6292,6 +7076,9 @@
     "ok-go-end-love": {
       "id": "ok-go-end-love",
       "artist": "OK Go",
+      "artists": [
+        "OK Go"
+      ],
       "song": "End Love",
       "director": "OK Go, Eric Gunther & Jeff Lieberman",
       "directors": [
@@ -6319,6 +7106,9 @@
     "four-tet-baby": {
       "id": "four-tet-baby",
       "artist": "Four Tet",
+      "artists": [
+        "Four Tet"
+      ],
       "song": "Baby",
       "director": "Joanna Nordahl",
       "directors": [
@@ -6342,6 +7132,9 @@
     "the-pains-of-being-pure-at-heart-say-no-to-love": {
       "id": "the-pains-of-being-pure-at-heart-say-no-to-love",
       "artist": "The Pains of Being Pure at Heart",
+      "artists": [
+        "The Pains of Being Pure at Heart"
+      ],
       "song": "Say No To Love",
       "director": "Mixtape Club",
       "directors": [
@@ -6367,6 +7160,9 @@
     "nigel-stanford-cymatics": {
       "id": "nigel-stanford-cymatics",
       "artist": "Nigel Stanford",
+      "artists": [
+        "Nigel Stanford"
+      ],
       "song": "Cymatics",
       "director": "Shahir Daud",
       "directors": [
@@ -6393,6 +7189,9 @@
     "bonobo-kerala": {
       "id": "bonobo-kerala",
       "artist": "Bonobo",
+      "artists": [
+        "Bonobo"
+      ],
       "song": "Kerala",
       "director": "Bison",
       "directors": [
@@ -6418,6 +7217,9 @@
     "clark-peak-magnetic": {
       "id": "clark-peak-magnetic",
       "artist": "Clark",
+      "artists": [
+        "Clark"
+      ],
       "song": "Peak Magnetic",
       "director": "Sander Houtkruijer",
       "directors": [
@@ -6442,6 +7244,9 @@
     "squarepusher-terminal-slam": {
       "id": "squarepusher-terminal-slam",
       "artist": "Squarepusher",
+      "artists": [
+        "Squarepusher"
+      ],
       "song": "Terminal Slam",
       "director": "Daito Manabe",
       "directors": [
@@ -6468,6 +7273,9 @@
     "reeps-one-does-not-exist": {
       "id": "reeps-one-does-not-exist",
       "artist": "Reeps One",
+      "artists": [
+        "Reeps One"
+      ],
       "song": "Does Not Exist",
       "director": "John Hendicott",
       "directors": [
@@ -6493,6 +7301,9 @@
     "max-cooper-repetition": {
       "id": "max-cooper-repetition",
       "artist": "Max Cooper",
+      "artists": [
+        "Max Cooper"
+      ],
       "song": "Repetition",
       "director": "Kevin McGloughlin",
       "directors": [
@@ -6519,6 +7330,9 @@
     "sour-hibi-no-neiro": {
       "id": "sour-hibi-no-neiro",
       "artist": "SOUR",
+      "artists": [
+        "SOUR"
+      ],
       "song": "日々の音色 (Hibi no neiro)",
       "director": "Masashi Kawamura, Hal Kirkland, Magico Nakamura & Masayoshi Nakamura",
       "directors": [
@@ -6549,6 +7363,9 @@
     "lauryn-hill-doo-wop-that-thing": {
       "id": "lauryn-hill-doo-wop-that-thing",
       "artist": "Lauryn Hill",
+      "artists": [
+        "Lauryn Hill"
+      ],
       "song": "Doo Wop (That Thing)",
       "director": "Big TV!",
       "directors": [
@@ -6575,6 +7392,9 @@
     "kid-cudi-make-her-say": {
       "id": "kid-cudi-make-her-say",
       "artist": "Kid Cudi",
+      "artists": [
+        "Kid Cudi"
+      ],
       "song": "Make Her Say",
       "director": "Nez Khammal",
       "directors": [
@@ -6598,6 +7418,9 @@
     "missy-elliott-work-it": {
       "id": "missy-elliott-work-it",
       "artist": "Missy Elliott",
+      "artists": [
+        "Missy Elliott"
+      ],
       "song": "Work It",
       "director": "Missy Elliott & Dave Meyers",
       "directors": [
@@ -6625,6 +7448,10 @@
     "missy-elliott-da-brat-sock-it-2-me": {
       "id": "missy-elliott-da-brat-sock-it-2-me",
       "artist": "Missy Elliott & Da Brat",
+      "artists": [
+        "Missy Elliott",
+        "Da Brat"
+      ],
       "song": "Sock It 2 Me",
       "director": "Hype Williams",
       "directors": [
@@ -6650,6 +7477,9 @@
     "missy-elliott-get-ur-freak-on": {
       "id": "missy-elliott-get-ur-freak-on",
       "artist": "Missy Elliott",
+      "artists": [
+        "Missy Elliott"
+      ],
       "song": "Get Ur Freak On",
       "director": "Dave Meyers",
       "directors": [
@@ -6666,7 +7496,7 @@
       "tags": [
         "2000's",
         "dance",
-        "datamoshing",
+        "datamosh/frameblend",
         "surreal"
       ],
       "embedBroken": false
@@ -6674,6 +7504,9 @@
     "chappell-roan-super-graphic-ultra-modern-girl": {
       "id": "chappell-roan-super-graphic-ultra-modern-girl",
       "artist": "Chappell Roan",
+      "artists": [
+        "Chappell Roan"
+      ],
       "song": "Super Graphic Ultra Modern Girl",
       "director": "Jackie! Zhou",
       "directors": [
@@ -6703,6 +7536,9 @@
     "chappell-roan-the-subway": {
       "id": "chappell-roan-the-subway",
       "artist": "Chappell Roan",
+      "artists": [
+        "Chappell Roan"
+      ],
       "song": "The Subway",
       "director": "Amber Grace Johnson",
       "directors": [
@@ -6727,6 +7563,9 @@
     "pinkpantheress-girl-like-me": {
       "id": "pinkpantheress-girl-like-me",
       "artist": "PinkPantheress",
+      "artists": [
+        "PinkPantheress"
+      ],
       "song": "Girl Like Me",
       "director": "Laurie Lotus",
       "directors": [
@@ -6751,6 +7590,9 @@
     "lady-gaga-abracadabra": {
       "id": "lady-gaga-abracadabra",
       "artist": "Lady Gaga",
+      "artists": [
+        "Lady Gaga"
+      ],
       "song": "Abracadabra",
       "director": "Lady Gaga, Parris Goebel & Bethany Vargas",
       "directors": [
@@ -6778,6 +7620,9 @@
     "thom-yorke-anima": {
       "id": "thom-yorke-anima",
       "artist": "Thom Yorke",
+      "artists": [
+        "Thom Yorke"
+      ],
       "song": "ANIMA",
       "director": "Paul Thomas Anderson",
       "directors": [
@@ -6802,6 +7647,9 @@
     "radiohead-weird-fishes-arpeggi": {
       "id": "radiohead-weird-fishes-arpeggi",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "Weird Fishes / Arpeggi",
       "director": "Robert Hodgin",
       "directors": [
@@ -6827,6 +7675,9 @@
     "weval-someday": {
       "id": "weval-someday",
       "artist": "Weval",
+      "artists": [
+        "Weval"
+      ],
       "song": "Someday",
       "director": "Páraic McGloughlin",
       "directors": [
@@ -6851,6 +7702,9 @@
     "max-cooper-circular": {
       "id": "max-cooper-circular",
       "artist": "Max Cooper",
+      "artists": [
+        "Max Cooper"
+      ],
       "song": "Circular",
       "director": "Páraic McGloughlin",
       "directors": [
@@ -6877,6 +7731,9 @@
     "dear-lament-coffee": {
       "id": "dear-lament-coffee",
       "artist": "Dear Lament",
+      "artists": [
+        "Dear Lament"
+      ],
       "song": "Coffee",
       "director": "Felix Kasiske & Robert Goesch",
       "directors": [
@@ -6900,6 +7757,9 @@
     "the-american-dollar-anything-you-synthesize": {
       "id": "the-american-dollar-anything-you-synthesize",
       "artist": "The American Dollar",
+      "artists": [
+        "The American Dollar"
+      ],
       "song": "Anything You Synthesize",
       "director": "Onesize",
       "directors": [
@@ -6923,6 +7783,9 @@
     "plurabelle-our-fires": {
       "id": "plurabelle-our-fires",
       "artist": "Plurabelle",
+      "artists": [
+        "Plurabelle"
+      ],
       "song": "Our Fires",
       "director": "Mattis Dovier",
       "directors": [
@@ -6949,6 +7812,9 @@
     "gaz-coombes-walk-the-walk": {
       "id": "gaz-coombes-walk-the-walk",
       "artist": "Gaz Coombes",
+      "artists": [
+        "Gaz Coombes"
+      ],
       "song": "Walk The Walk",
       "director": "Najeeb Tarazi",
       "directors": [
@@ -6973,6 +7839,9 @@
     "mild-minds-walls": {
       "id": "mild-minds-walls",
       "artist": "Mild Minds",
+      "artists": [
+        "Mild Minds"
+      ],
       "song": "WALLS",
       "director": "Colin Read",
       "directors": [
@@ -6997,6 +7866,9 @@
     "champagne-valentine-black-material": {
       "id": "champagne-valentine-black-material",
       "artist": "Champagne Valentine",
+      "artists": [
+        "Champagne Valentine"
+      ],
       "song": "Black Material",
       "director": "Lucy McRae",
       "directors": [
@@ -7023,6 +7895,9 @@
     "gilligan-moss-choreograph": {
       "id": "gilligan-moss-choreograph",
       "artist": "Gilligan Moss",
+      "artists": [
+        "Gilligan Moss"
+      ],
       "song": "Choreograph",
       "director": "Oscar Hudson",
       "directors": [
@@ -7048,6 +7923,9 @@
     "foster-the-people-houdini": {
       "id": "foster-the-people-houdini",
       "artist": "Foster The People",
+      "artists": [
+        "Foster The People"
+      ],
       "song": "Houdini",
       "director": "Daniels",
       "directors": [
@@ -7073,6 +7951,9 @@
     "duck-sauce-big-bad-wolf": {
       "id": "duck-sauce-big-bad-wolf",
       "artist": "Duck Sauce",
+      "artists": [
+        "Duck Sauce"
+      ],
       "song": "Big Bad Wolf",
       "director": "Keith Schofield",
       "directors": [
@@ -7099,6 +7980,9 @@
     "woodkid-iron": {
       "id": "woodkid-iron",
       "artist": "Woodkid",
+      "artists": [
+        "Woodkid"
+      ],
       "song": "Iron",
       "director": "Yoann Lemoine",
       "directors": [
@@ -7127,6 +8011,9 @@
     "vince-staples-fun": {
       "id": "vince-staples-fun",
       "artist": "Vince Staples",
+      "artists": [
+        "Vince Staples"
+      ],
       "song": "FUN!",
       "director": "Calmatic",
       "directors": [
@@ -7152,6 +8039,9 @@
     "kiesza-hideaway": {
       "id": "kiesza-hideaway",
       "artist": "Kiesza",
+      "artists": [
+        "Kiesza"
+      ],
       "song": "Hideaway",
       "director": "Kiesza, Ljuba Castot & Rami Samir Afuni",
       "directors": [
@@ -7180,6 +8070,9 @@
     "kwes-rollerblades": {
       "id": "kwes-rollerblades",
       "artist": "kwes.",
+      "artists": [
+        "kwes."
+      ],
       "song": "rollerblades",
       "director": "Ian Pons Jewell",
       "directors": [
@@ -7203,6 +8096,9 @@
     "gerard-way-millions": {
       "id": "gerard-way-millions",
       "artist": "Gerard Way",
+      "artists": [
+        "Gerard Way"
+      ],
       "song": "Millions",
       "director": "Jennifer Juniper Stratford",
       "directors": [
@@ -7229,6 +8125,9 @@
     "gesaffelstein-pursuit": {
       "id": "gesaffelstein-pursuit",
       "artist": "Gesaffelstein",
+      "artists": [
+        "Gesaffelstein"
+      ],
       "song": "Pursuit",
       "director": "",
       "directors": [],
@@ -7250,6 +8149,9 @@
     "wolf-alice-bloom-baby-bloom": {
       "id": "wolf-alice-bloom-baby-bloom",
       "artist": "Wolf Alice",
+      "artists": [
+        "Wolf Alice"
+      ],
       "song": "Bloom Baby Bloom",
       "director": "Colin Solal Cardo",
       "directors": [
@@ -7273,6 +8175,9 @@
     "goose-british-mode": {
       "id": "goose-british-mode",
       "artist": "Goose",
+      "artists": [
+        "Goose"
+      ],
       "song": "British Mode",
       "director": "Keith Schofield",
       "directors": [
@@ -7296,6 +8201,9 @@
     "sia-chandelier": {
       "id": "sia-chandelier",
       "artist": "Sia",
+      "artists": [
+        "Sia"
+      ],
       "song": "Chandelier",
       "director": "Sia, Daniel Askill",
       "directors": [
@@ -7322,6 +8230,9 @@
     "the-shoes-drifted": {
       "id": "the-shoes-drifted",
       "artist": "The Shoes",
+      "artists": [
+        "The Shoes"
+      ],
       "song": "Drifted",
       "director": "Dent de Cuir",
       "directors": [
@@ -7348,6 +8259,10 @@
     "donnie-trumpet-the-social-experiment-sunday-candy": {
       "id": "donnie-trumpet-the-social-experiment-sunday-candy",
       "artist": "Donnie Trumpet & The Social Experiment",
+      "artists": [
+        "Donnie Trumpet",
+        "The Social Experiment"
+      ],
       "song": "Sunday Candy",
       "director": "Austin Vesely",
       "directors": [
@@ -7374,6 +8289,9 @@
     "michael-kiwanuka-black-man-in-a-white-world": {
       "id": "michael-kiwanuka-black-man-in-a-white-world",
       "artist": "Michael Kiwanuka",
+      "artists": [
+        "Michael Kiwanuka"
+      ],
       "song": "Black Man In A White World",
       "director": "Hiro Murai",
       "directors": [
@@ -7399,6 +8317,9 @@
     "leon-bridges-river": {
       "id": "leon-bridges-river",
       "artist": "Leon Bridges",
+      "artists": [
+        "Leon Bridges"
+      ],
       "song": "River",
       "director": "Miles Jay",
       "directors": [
@@ -7421,6 +8342,9 @@
     "vince-staples-lift-me-up": {
       "id": "vince-staples-lift-me-up",
       "artist": "Vince Staples",
+      "artists": [
+        "Vince Staples"
+      ],
       "song": "Lift Me Up",
       "director": "David M. Helman",
       "directors": [
@@ -7447,6 +8371,9 @@
     "lany-thick-and-thin": {
       "id": "lany-thick-and-thin",
       "artist": "LANY",
+      "artists": [
+        "LANY"
+      ],
       "song": "Thick And Thin",
       "director": "Isaac Ravishankara",
       "directors": [
@@ -7473,6 +8400,9 @@
     "mashrou-leila-roman": {
       "id": "mashrou-leila-roman",
       "artist": "Mashrou Leila",
+      "artists": [
+        "Mashrou Leila"
+      ],
       "song": "Roman",
       "director": "Jessy Mousallem",
       "directors": [
@@ -7501,6 +8431,9 @@
     "sylvan-esso-kick-jump-twist": {
       "id": "sylvan-esso-kick-jump-twist",
       "artist": "Sylvan Esso",
+      "artists": [
+        "Sylvan Esso"
+      ],
       "song": "Kick Jump Twist",
       "director": "Mimi Cave",
       "directors": [
@@ -7526,6 +8459,10 @@
     "serge-gainsbourg-brigitte-bardot-comic-strip": {
       "id": "serge-gainsbourg-brigitte-bardot-comic-strip",
       "artist": "Serge Gainsbourg & Brigitte Bardot",
+      "artists": [
+        "Serge Gainsbourg",
+        "Brigitte Bardot"
+      ],
       "song": "Comic Strip",
       "director": "François Reichenbach",
       "directors": [
@@ -7552,6 +8489,9 @@
     "the-pointer-sisters-pinball-animation-countdown": {
       "id": "the-pointer-sisters-pinball-animation-countdown",
       "artist": "The Pointer Sisters",
+      "artists": [
+        "The Pointer Sisters"
+      ],
       "song": "Pinball Animation Countdown",
       "director": "Jeff Hale",
       "directors": [
@@ -7577,6 +8517,9 @@
     "david-bowie-im-afraid-of-americans": {
       "id": "david-bowie-im-afraid-of-americans",
       "artist": "David Bowie",
+      "artists": [
+        "David Bowie"
+      ],
       "song": "I'm Afraid of Americans",
       "director": "Dom & Nic",
       "directors": [
@@ -7602,6 +8545,9 @@
     "kate-bush-hammer-horror": {
       "id": "kate-bush-hammer-horror",
       "artist": "Kate Bush",
+      "artists": [
+        "Kate Bush"
+      ],
       "song": "Hammer Horror",
       "director": "Keith MacMillan",
       "directors": [
@@ -7627,6 +8573,10 @@
     "elvis-costello-the-attractions-pump-it-up": {
       "id": "elvis-costello-the-attractions-pump-it-up",
       "artist": "Elvis Costello & The Attractions",
+      "artists": [
+        "Elvis Costello",
+        "The Attractions"
+      ],
       "song": "Pump It Up",
       "director": "Paul Flattery",
       "directors": [
@@ -7649,6 +8599,9 @@
     "pink-floyd-money": {
       "id": "pink-floyd-money",
       "artist": "Pink Floyd",
+      "artists": [
+        "Pink Floyd"
+      ],
       "song": "Money",
       "director": "Wayne Isham",
       "directors": [
@@ -7671,6 +8624,9 @@
     "pink-floyd-welcome-to-the-machine": {
       "id": "pink-floyd-welcome-to-the-machine",
       "artist": "Pink Floyd",
+      "artists": [
+        "Pink Floyd"
+      ],
       "song": "Welcome to the Machine",
       "director": "Justin Daashuur Hopkins",
       "directors": [
@@ -7693,6 +8649,9 @@
     "pink-floyd-another-brick-in-the-wall-part-two": {
       "id": "pink-floyd-another-brick-in-the-wall-part-two",
       "artist": "Pink Floyd",
+      "artists": [
+        "Pink Floyd"
+      ],
       "song": "Another Brick In The Wall, Part Two",
       "director": "Sir Alan Parker",
       "directors": [
@@ -7716,6 +8675,9 @@
     "gary-numan-cars": {
       "id": "gary-numan-cars",
       "artist": "Gary Numan",
+      "artists": [
+        "Gary Numan"
+      ],
       "song": "Cars",
       "director": "Derek Burbidge",
       "directors": [
@@ -7739,6 +8701,9 @@
     "meat-loaf-id-do-anything-for-love-but-i-wont-do-that": {
       "id": "meat-loaf-id-do-anything-for-love-but-i-wont-do-that",
       "artist": "Meat Loaf",
+      "artists": [
+        "Meat Loaf"
+      ],
       "song": "I'd Do Anything for Love (But I Won't Do That)",
       "director": "Michael Bay",
       "directors": [
@@ -7765,6 +8730,9 @@
     "orchestral-manoeuvres-in-the-dark-enola-gay": {
       "id": "orchestral-manoeuvres-in-the-dark-enola-gay",
       "artist": "Orchestral Manoeuvres In The Dark",
+      "artists": [
+        "Orchestral Manoeuvres In The Dark"
+      ],
       "song": "Enola Gay",
       "director": "Steve Barron",
       "directors": [
@@ -7788,6 +8756,9 @@
     "olivia-newton-john-physical": {
       "id": "olivia-newton-john-physical",
       "artist": "Olivia Newton-John",
+      "artists": [
+        "Olivia Newton-John"
+      ],
       "song": "Physical",
       "director": "Brian Grant",
       "directors": [
@@ -7812,6 +8783,9 @@
     "irene-cara-flashdance-what-a-feeling": {
       "id": "irene-cara-flashdance-what-a-feeling",
       "artist": "Irene Cara",
+      "artists": [
+        "Irene Cara"
+      ],
       "song": "Flashdance (What A Feeling)",
       "director": "Adrian Lyne",
       "directors": [
@@ -7834,6 +8808,9 @@
     "selena-bidi-bidi-bom-bom": {
       "id": "selena-bidi-bidi-bom-bom",
       "artist": "Selena",
+      "artists": [
+        "Selena"
+      ],
       "song": "Bidi Bidi Bom Bom",
       "director": "Cecilia Miniucchi",
       "directors": [
@@ -7858,6 +8835,9 @@
     "the-cure-boys-dont-cry": {
       "id": "the-cure-boys-dont-cry",
       "artist": "The Cure",
+      "artists": [
+        "The Cure"
+      ],
       "song": "Boys Don't Cry",
       "director": "Tim Pope",
       "directors": [
@@ -7883,6 +8863,9 @@
     "when-in-rome-the-promise": {
       "id": "when-in-rome-the-promise",
       "artist": "When In Rome",
+      "artists": [
+        "When In Rome"
+      ],
       "song": "The Promise",
       "director": "uncredited",
       "directors": [
@@ -7905,6 +8888,9 @@
     "j-dilla-nothing-like-this": {
       "id": "j-dilla-nothing-like-this",
       "artist": "J Dilla",
+      "artists": [
+        "J Dilla"
+      ],
       "song": "Nothing Like This",
       "director": "Mixtape Club & Daniel Garcia",
       "directors": [
@@ -7929,9 +8915,13 @@
       ],
       "embedBroken": false
     },
-    "el-p-feat-trent-reznor-flyentology": {
-      "id": "el-p-feat-trent-reznor-flyentology",
-      "artist": "EL-P feat. Trent Reznor",
+    "el-p-ft-trent-reznor-flyentology": {
+      "id": "el-p-ft-trent-reznor-flyentology",
+      "artist": "EL-P (ft. Trent Reznor)",
+      "artists": [
+        "EL-P",
+        "Trent Reznor"
+      ],
       "song": "Flyentology",
       "director": "Daniel Garcia & Nathan Love",
       "directors": [
@@ -7955,6 +8945,9 @@
     "lcd-soundsystem-drunk-girls-holy-ghost-remix": {
       "id": "lcd-soundsystem-drunk-girls-holy-ghost-remix",
       "artist": "LCD Soundsystem",
+      "artists": [
+        "LCD Soundsystem"
+      ],
       "song": "Drunk Girls (Holy Ghost! Remix)",
       "director": "Daniel Garcia",
       "directors": [
@@ -7980,6 +8973,9 @@
     "flying-lotus-infinitum": {
       "id": "flying-lotus-infinitum",
       "artist": "Flying Lotus",
+      "artists": [
+        "Flying Lotus"
+      ],
       "song": "Infinitum",
       "director": "Daniel Garcia",
       "directors": [
@@ -8003,6 +8999,9 @@
     "tv-on-the-radio-me-i": {
       "id": "tv-on-the-radio-me-i",
       "artist": "TV on the Radio",
+      "artists": [
+        "TV on the Radio"
+      ],
       "song": "Me-I",
       "director": "Mixtape Club & Daniel Garcia",
       "directors": [
@@ -8032,6 +9031,9 @@
     "passion-pit-take-a-walk": {
       "id": "passion-pit-take-a-walk",
       "artist": "Passion Pit",
+      "artists": [
+        "Passion Pit"
+      ],
       "song": "Take a Walk",
       "director": "David Wilson",
       "directors": [
@@ -8054,6 +9056,9 @@
     "my-morning-jacket-touch-me-im-going-to-scream-part-2": {
       "id": "my-morning-jacket-touch-me-im-going-to-scream-part-2",
       "artist": "My Morning Jacket",
+      "artists": [
+        "My Morning Jacket"
+      ],
       "song": "Touch Me I’m Going To Scream, Part 2",
       "director": "Mixtape Club",
       "directors": [
@@ -8079,6 +9084,9 @@
     "passion-pit-sleepyhead": {
       "id": "passion-pit-sleepyhead",
       "artist": "Passion Pit",
+      "artists": [
+        "Passion Pit"
+      ],
       "song": "Sleepyhead",
       "director": "The Wilderness",
       "directors": [
@@ -8102,6 +9110,9 @@
     "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone": {
       "id": "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
       "artist": "UAF Nanook Hockey Open ‘07-’08",
+      "artists": [
+        "UAF Nanook Hockey Open ‘07-’08"
+      ],
       "song": "Highway to the Danger Zone",
       "director": "Michael Martinez",
       "directors": [
@@ -8130,6 +9141,9 @@
     "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone": {
       "id": "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
       "artist": "UAF Nanook Hockey Open ‘09-’10",
+      "artists": [
+        "UAF Nanook Hockey Open ‘09-’10"
+      ],
       "song": "Highway to the Danger Zone",
       "director": "Michael Martinez, Jon Dorfman & Szymon Weglarski",
       "directors": [
@@ -8161,6 +9175,9 @@
     "the-rolling-stones-like-a-rolling-stone": {
       "id": "the-rolling-stones-like-a-rolling-stone",
       "artist": "The Rolling Stones",
+      "artists": [
+        "The Rolling Stones"
+      ],
       "song": "Like a Rolling Stone",
       "director": "Michel Gondry",
       "directors": [
@@ -8176,7 +9193,7 @@
       "thumbnailUrl": "https://img.youtube.com/vi/aRYokc3VBC4/hqdefault.jpg",
       "tags": [
         "1990's",
-        "datamoshing",
+        "datamosh/frameblend",
         "timeslice",
         "vfx"
       ],
@@ -8185,6 +9202,9 @@
     "bad-bunny-yo-perreo-sola": {
       "id": "bad-bunny-yo-perreo-sola",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "Yo Perreo Sola",
       "director": "STILLZ",
       "directors": [
@@ -8208,6 +9228,9 @@
     "bad-bunny-vete": {
       "id": "bad-bunny-vete",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "Vete",
       "director": "STILLZ",
       "directors": [
@@ -8232,6 +9255,9 @@
     "bad-bunny-si-veo-a-tu-mam": {
       "id": "bad-bunny-si-veo-a-tu-mam",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "Si Veo a Tu Mamá",
       "director": "STILLZ",
       "directors": [
@@ -8258,6 +9284,9 @@
     "bad-bunny-la-dif-cil": {
       "id": "bad-bunny-la-dif-cil",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "La Difícil",
       "director": "STILLZ",
       "directors": [
@@ -8283,6 +9312,9 @@
     "bad-bunny-pero-ya-no": {
       "id": "bad-bunny-pero-ya-no",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "Pero Ya No",
       "director": "STILLZ",
       "directors": [
@@ -8306,6 +9338,9 @@
     "bad-bunny-x-rosal-a-la-noche-de-anoche": {
       "id": "bad-bunny-x-rosal-a-la-noche-de-anoche",
       "artist": "Bad Bunny x Rosalía",
+      "artists": [
+        "Bad Bunny x Rosalía"
+      ],
       "song": "La Noche de Anoche",
       "director": "STILLZ",
       "directors": [
@@ -8330,6 +9365,9 @@
     "bad-bunny-yo-visto-as": {
       "id": "bad-bunny-yo-visto-as",
       "artist": "Bad Bunny",
+      "artists": [
+        "Bad Bunny"
+      ],
       "song": "Yo Visto Así",
       "director": "STILLZ",
       "directors": [
@@ -8355,6 +9393,9 @@
     "vanessa-carlton-a-thousand-miles": {
       "id": "vanessa-carlton-a-thousand-miles",
       "artist": "Vanessa Carlton",
+      "artists": [
+        "Vanessa Carlton"
+      ],
       "song": "A Thousand Miles",
       "director": "Marc Klasfeld",
       "directors": [
@@ -8380,6 +9421,9 @@
     "the-smashing-pumpkins-1979": {
       "id": "the-smashing-pumpkins-1979",
       "artist": "The Smashing Pumpkins",
+      "artists": [
+        "The Smashing Pumpkins"
+      ],
       "song": "1979",
       "director": "Jonathan Dayton & Valerie Faris",
       "directors": [
@@ -8405,6 +9449,9 @@
     "radiohead-jigsaw-falling-into-place": {
       "id": "radiohead-jigsaw-falling-into-place",
       "artist": "Radiohead",
+      "artists": [
+        "Radiohead"
+      ],
       "song": "Jigsaw Falling Into Place",
       "director": "Garth Jennings & Adam Buxton",
       "directors": [
@@ -8430,6 +9477,9 @@
     "kid-cudi-pursuit-of-happiness": {
       "id": "kid-cudi-pursuit-of-happiness",
       "artist": "Kid Cudi",
+      "artists": [
+        "Kid Cudi"
+      ],
       "song": "Pursuit Of Happiness",
       "director": "Megaforce",
       "directors": [
@@ -8452,6 +9502,10 @@
     "alessandro-bavari-suno-solid-light-from-space": {
       "id": "alessandro-bavari-suno-solid-light-from-space",
       "artist": "Alessandro Bavari & Suno",
+      "artists": [
+        "Alessandro Bavari",
+        "Suno"
+      ],
       "song": "Solid Light From Space",
       "director": "Alessandro Bavari",
       "directors": [
@@ -8475,6 +9529,9 @@
     "lenny-kravitz-let-love-rule-justice-remix": {
       "id": "lenny-kravitz-let-love-rule-justice-remix",
       "artist": "Lenny Kravitz",
+      "artists": [
+        "Lenny Kravitz"
+      ],
       "song": "Let Love Rule (Justice Remix)",
       "director": "Keith Schofield",
       "directors": [
@@ -8497,6 +9554,9 @@
     "bell-chase-no-face": {
       "id": "bell-chase-no-face",
       "artist": "BELL",
+      "artists": [
+        "BELL"
+      ],
       "song": "Chase No Face",
       "director": "Zach Lieberman, Francisco Zamorano, Andy Wallace & Michelle Calabro",
       "directors": [
@@ -8523,6 +9583,10 @@
     "kottarashky-the-rain-dogs-demoni": {
       "id": "kottarashky-the-rain-dogs-demoni",
       "artist": "Kottarashky & The Rain Dogs",
+      "artists": [
+        "Kottarashky",
+        "The Rain Dogs"
+      ],
       "song": "Demoni",
       "director": "Theodore Ushev",
       "directors": [
@@ -8547,6 +9611,9 @@
     "rone-bye-bye-macadam": {
       "id": "rone-bye-bye-macadam",
       "artist": "Rone",
+      "artists": [
+        "Rone"
+      ],
       "song": "Bye Bye Macadam",
       "director": "Dimitri Stankowicz",
       "directors": [
@@ -8571,6 +9638,10 @@
     "chris-lake-armand-van-helden-the-answer": {
       "id": "chris-lake-armand-van-helden-the-answer",
       "artist": "Chris Lake & Armand Van Helden",
+      "artists": [
+        "Chris Lake",
+        "Armand Van Helden"
+      ],
       "song": "The Answer",
       "director": "Adrian Villagomez",
       "directors": [
@@ -8595,6 +9666,9 @@
     "possible-metrics-sonar": {
       "id": "possible-metrics-sonar",
       "artist": "Possible Metrics",
+      "artists": [
+        "Possible Metrics"
+      ],
       "song": "Sonar",
       "director": "Renaud Hallée",
       "directors": [
@@ -8620,6 +9694,9 @@
     "queens-of-the-stone-age-smooth-sailing": {
       "id": "queens-of-the-stone-age-smooth-sailing",
       "artist": "Queens Of The Stone Age",
+      "artists": [
+        "Queens Of The Stone Age"
+      ],
       "song": "Smooth Sailing",
       "director": "Hiro Murai",
       "directors": [
@@ -8644,6 +9721,9 @@
     "supergrass-bad-blood": {
       "id": "supergrass-bad-blood",
       "artist": "Supergrass",
+      "artists": [
+        "Supergrass"
+      ],
       "song": "Bad Blood",
       "director": "Keith Schofield",
       "directors": [
@@ -8666,6 +9746,9 @@
     "brite-futures-too-young-to-kill": {
       "id": "brite-futures-too-young-to-kill",
       "artist": "Brite Futures",
+      "artists": [
+        "Brite Futures"
+      ],
       "song": "Too Young to Kill",
       "director": "that go",
       "directors": [
@@ -8692,6 +9775,9 @@
     "gotye-easy-way-out": {
       "id": "gotye-easy-way-out",
       "artist": "Gotye",
+      "artists": [
+        "Gotye"
+      ],
       "song": "Easy Way Out",
       "director": "Darcy Prendergast",
       "directors": [
@@ -8719,6 +9805,9 @@
     "savages-marshal-dear": {
       "id": "savages-marshal-dear",
       "artist": "Savages",
+      "artists": [
+        "Savages"
+      ],
       "song": "Marshal Dear",
       "director": "Gergely Wootsch, Gemma Thompson",
       "directors": [
@@ -8745,6 +9834,9 @@
     "pistol-youth-in-my-eyes": {
       "id": "pistol-youth-in-my-eyes",
       "artist": "Pistol Youth",
+      "artists": [
+        "Pistol Youth"
+      ],
       "song": "In My Eyes",
       "director": "Isaac Rentz",
       "directors": [
@@ -8768,6 +9860,9 @@
     "travis-moving": {
       "id": "travis-moving",
       "artist": "Travis",
+      "artists": [
+        "Travis"
+      ],
       "song": "Moving",
       "director": "Tom & Matt",
       "directors": [
@@ -8793,6 +9888,9 @@
     "monogrenade-ce-soir": {
       "id": "monogrenade-ce-soir",
       "artist": "Monogrenade",
+      "artists": [
+        "Monogrenade"
+      ],
       "song": "Ce soir",
       "director": "Christophe Collette",
       "directors": [
@@ -8817,6 +9915,9 @@
     "bloc-party-ratchet": {
       "id": "bloc-party-ratchet",
       "artist": "Bloc Party",
+      "artists": [
+        "Bloc Party"
+      ],
       "song": "Ratchet",
       "director": "Cyriak",
       "directors": [
@@ -8841,6 +9942,9 @@
     "stuck-in-the-sound-lets-go": {
       "id": "stuck-in-the-sound-lets-go",
       "artist": "Stuck in the Sound",
+      "artists": [
+        "Stuck in the Sound"
+      ],
       "song": "Let's Go",
       "director": "Alexis Beaumont & Rémi Godin",
       "directors": [
@@ -8866,6 +9970,9 @@
     "tv-on-the-radio-second-song": {
       "id": "tv-on-the-radio-second-song",
       "artist": "TV on the Radio",
+      "artists": [
+        "TV on the Radio"
+      ],
       "song": "Second Song",
       "director": "Mikey Please",
       "directors": [
@@ -8890,6 +9997,9 @@
     "jemapur-aanaatt": {
       "id": "jemapur-aanaatt",
       "artist": "Jemapur",
+      "artists": [
+        "Jemapur"
+      ],
       "song": "AANAATT",
       "director": "Max Hattler",
       "directors": [
@@ -8915,6 +10025,9 @@
     "panda-bear-alsatian-darn": {
       "id": "panda-bear-alsatian-darn",
       "artist": "Panda Bear",
+      "artists": [
+        "Panda Bear"
+      ],
       "song": "Alsatian Darn",
       "director": "Ori Toor",
       "directors": [
@@ -8942,6 +10055,9 @@
     "madeon-pop-culture": {
       "id": "madeon-pop-culture",
       "artist": "Madeon",
+      "artists": [
+        "Madeon"
+      ],
       "song": "Pop Culture",
       "director": "Nathan Barnatt",
       "directors": [
@@ -8966,6 +10082,9 @@
     "yelle-que-veux-tu-madeon-remix": {
       "id": "yelle-que-veux-tu-madeon-remix",
       "artist": "Yelle",
+      "artists": [
+        "Yelle"
+      ],
       "song": "Que Veux-tu (Madeon Remix)",
       "director": "Nathan Barnatt",
       "directors": [
@@ -8990,6 +10109,9 @@
     "dana-williams-one-more": {
       "id": "dana-williams-one-more",
       "artist": "Dana Williams",
+      "artists": [
+        "Dana Williams"
+      ],
       "song": "One More",
       "director": "Caleb Wood",
       "directors": [
@@ -9015,6 +10137,9 @@
     "valentino-khan-deep-down-low": {
       "id": "valentino-khan-deep-down-low",
       "artist": "Valentino Khan",
+      "artists": [
+        "Valentino Khan"
+      ],
       "song": "Deep Down Low",
       "director": "Ian Pons Jewell",
       "directors": [
@@ -9041,6 +10166,9 @@
     "pillar-point-dreamin": {
       "id": "pillar-point-dreamin",
       "artist": "Pillar Point",
+      "artists": [
+        "Pillar Point"
+      ],
       "song": "Dreamin'",
       "director": "Wild Combination",
       "directors": [
@@ -9066,6 +10194,9 @@
     "jarbas-agnelli-birds-on-the-wires": {
       "id": "jarbas-agnelli-birds-on-the-wires",
       "artist": "Jarbas Agnelli",
+      "artists": [
+        "Jarbas Agnelli"
+      ],
       "song": "Birds on the Wires",
       "director": "Jarbas Agnelli",
       "directors": [
@@ -9091,6 +10222,9 @@
     "siska-unconditional-rebel": {
       "id": "siska-unconditional-rebel",
       "artist": "Siska",
+      "artists": [
+        "Siska"
+      ],
       "song": "Unconditional Rebel",
       "director": "Guillaume Panariello",
       "directors": [
@@ -9116,6 +10250,9 @@
     "lyrical-school-run-and-run": {
       "id": "lyrical-school-run-and-run",
       "artist": "lyrical school",
+      "artists": [
+        "lyrical school"
+      ],
       "song": "RUN and RUN",
       "director": "TBWAHAKUHODO",
       "directors": [
@@ -9139,6 +10276,9 @@
     "woodkid-run-boy-run": {
       "id": "woodkid-run-boy-run",
       "artist": "Woodkid",
+      "artists": [
+        "Woodkid"
+      ],
       "song": "Run Boy Run",
       "director": "Yoann Lemoine",
       "directors": [
@@ -9166,6 +10306,9 @@
     "blockhead-the-music-scene": {
       "id": "blockhead-the-music-scene",
       "artist": "Blockhead",
+      "artists": [
+        "Blockhead"
+      ],
       "song": "The Music Scene",
       "director": "A.F. Schepperd",
       "directors": [
@@ -9190,6 +10333,9 @@
     "nyle-let-the-beat-build": {
       "id": "nyle-let-the-beat-build",
       "artist": "Nyle",
+      "artists": [
+        "Nyle"
+      ],
       "song": "Let The Beat Build",
       "director": "Chadd Harbold",
       "directors": [
@@ -9216,6 +10362,9 @@
     "the-vein-magma": {
       "id": "the-vein-magma",
       "artist": "The Vein",
+      "artists": [
+        "The Vein"
+      ],
       "song": "Magma",
       "director": "Dvein",
       "directors": [
@@ -9243,6 +10392,9 @@
     "johnny-neon-hearts": {
       "id": "johnny-neon-hearts",
       "artist": "Johnny Neon",
+      "artists": [
+        "Johnny Neon"
+      ],
       "song": "Hearts",
       "director": "Dave Meinert",
       "directors": [
@@ -9269,6 +10421,9 @@
     "lorn-acid-rain": {
       "id": "lorn-acid-rain",
       "artist": "Lorn",
+      "artists": [
+        "Lorn"
+      ],
       "song": "Acid Rain",
       "director": "Pavel Brenner, Julian Flores & Sherif Alabede",
       "directors": [
@@ -9299,6 +10454,9 @@
     "lorn-anvil": {
       "id": "lorn-anvil",
       "artist": "Lorn",
+      "artists": [
+        "Lorn"
+      ],
       "song": "Anvil",
       "director": "GERIKO",
       "directors": [
@@ -9325,6 +10483,9 @@
     "20syl-kodama": {
       "id": "20syl-kodama",
       "artist": "20syl",
+      "artists": [
+        "20syl"
+      ],
       "song": "Kodama",
       "director": "Mathieu Le Dude & 20syl",
       "directors": [
@@ -9350,6 +10511,9 @@
     "data-blood-theme": {
       "id": "data-blood-theme",
       "artist": "Data",
+      "artists": [
+        "Data"
+      ],
       "song": "Blood Theme",
       "director": "Dave Mossop & Eric Crosland",
       "directors": [
@@ -9375,6 +10539,9 @@
     "ariane-roy-ta-main": {
       "id": "ariane-roy-ta-main",
       "artist": "Ariane Roy",
+      "artists": [
+        "Ariane Roy"
+      ],
       "song": "Ta main",
       "director": "Adrian Villagomez",
       "directors": [
@@ -9399,6 +10566,9 @@
     "mormor-here-it-goes-again": {
       "id": "mormor-here-it-goes-again",
       "artist": "MorMor",
+      "artists": [
+        "MorMor"
+      ],
       "song": "Here It Goes Again",
       "director": "Adrian Villagomez",
       "directors": [
@@ -9423,6 +10593,9 @@
     "phoenix-trying-to-be-cool": {
       "id": "phoenix-trying-to-be-cool",
       "artist": "Phoenix",
+      "artists": [
+        "Phoenix"
+      ],
       "song": "Trying To Be Cool",
       "director": "CANADA",
       "directors": [
@@ -9447,6 +10620,9 @@
     "apashe-human": {
       "id": "apashe-human",
       "artist": "Apashe",
+      "artists": [
+        "Apashe"
+      ],
       "song": "Human",
       "director": "Adrian Villagomez",
       "directors": [
@@ -9473,6 +10649,10 @@
     "apashe-vladimir-cauchemar-bellatores": {
       "id": "apashe-vladimir-cauchemar-bellatores",
       "artist": "Apashe & Vladimir Cauchemar",
+      "artists": [
+        "Apashe",
+        "Vladimir Cauchemar"
+      ],
       "song": "Bellatores",
       "director": "Adrian Villagomez",
       "directors": [
@@ -9497,6 +10677,9 @@
     "bellx1-rocky-took-a-lover": {
       "id": "bellx1-rocky-took-a-lover",
       "artist": "BellX1",
+      "artists": [
+        "BellX1"
+      ],
       "song": "Rocky Took A Lover",
       "director": "SSSR",
       "directors": [
@@ -9525,6 +10708,9 @@
     "blur-coffee-tv": {
       "id": "blur-coffee-tv",
       "artist": "Blur",
+      "artists": [
+        "Blur"
+      ],
       "song": "Coffee & TV",
       "director": "Garth Jennings",
       "directors": [
@@ -9550,6 +10736,9 @@
     "bj-rk-bachelorette": {
       "id": "bj-rk-bachelorette",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "Bachelorette",
       "director": "Michel Gondry",
       "directors": [
@@ -9575,6 +10764,9 @@
     "autechre-gantz-graf": {
       "id": "autechre-gantz-graf",
       "artist": "Autechre",
+      "artists": [
+        "Autechre"
+      ],
       "song": "Gantz Graf",
       "director": "Alex Rutterford",
       "directors": [
@@ -9598,6 +10790,9 @@
     "air-kelly-watch-the-stars": {
       "id": "air-kelly-watch-the-stars",
       "artist": "Air",
+      "artists": [
+        "Air"
+      ],
       "song": "Kelly Watch the Stars",
       "director": "Mike Mills",
       "directors": [
@@ -9622,6 +10817,9 @@
     "battles-atlas": {
       "id": "battles-atlas",
       "artist": "Battles",
+      "artists": [
+        "Battles"
+      ],
       "song": "Atlas",
       "director": "Timothy Saccenti",
       "directors": [
@@ -9644,6 +10842,9 @@
     "bj-rk-wanderlust": {
       "id": "bj-rk-wanderlust",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "Wanderlust",
       "director": "Encyclopedia Pictura",
       "directors": [
@@ -9673,6 +10874,9 @@
     "beyonc-single-ladies-put-a-ring-on-it": {
       "id": "beyonc-single-ladies-put-a-ring-on-it",
       "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
       "song": "Single Ladies (Put a Ring on It)",
       "director": "Jake Nava",
       "directors": [
@@ -9697,6 +10901,9 @@
     "bat-for-lashes-whats-a-girl-to-do": {
       "id": "bat-for-lashes-whats-a-girl-to-do",
       "artist": "Bat for Lashes",
+      "artists": [
+        "Bat for Lashes"
+      ],
       "song": "What’s A Girl To Do",
       "director": "Dougal Wilson",
       "directors": [
@@ -9724,6 +10931,9 @@
     "bj-rk-its-oh-so-quiet": {
       "id": "bj-rk-its-oh-so-quiet",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "It’s Oh So Quiet",
       "director": "Spike Jonze",
       "directors": [
@@ -9750,6 +10960,9 @@
     "beyonc-formation": {
       "id": "beyonc-formation",
       "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
       "song": "Formation",
       "director": "Melina Matsoukas",
       "directors": [
@@ -9779,6 +10992,10 @@
     "bas-ft-correy-c-fragrance": {
       "id": "bas-ft-correy-c-fragrance",
       "artist": "Bas (ft. Correy C)",
+      "artists": [
+        "Bas",
+        "Correy C"
+      ],
       "song": "Fragrance",
       "director": "Paul Trillo",
       "directors": [
@@ -9804,6 +11021,9 @@
     "balming-tiger-oui": {
       "id": "balming-tiger-oui",
       "artist": "Balming Tiger",
+      "artists": [
+        "Balming Tiger"
+      ],
       "song": "Oui",
       "director": "Lee Suho",
       "directors": [
@@ -9828,6 +11048,9 @@
     "battles-ice-cream": {
       "id": "battles-ice-cream",
       "artist": "Battles",
+      "artists": [
+        "Battles"
+      ],
       "song": "Ice Cream",
       "director": "Luis Cerveró",
       "directors": [
@@ -9852,6 +11075,9 @@
     "blonde-redhead-golden-light": {
       "id": "blonde-redhead-golden-light",
       "artist": "Blonde Redhead",
+      "artists": [
+        "Blonde Redhead"
+      ],
       "song": "Golden Light",
       "director": "Virgilio Villoresi",
       "directors": [
@@ -9877,6 +11103,9 @@
     "bj-rk-mutual-core": {
       "id": "bj-rk-mutual-core",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "Mutual Core",
       "director": "Andrew Thomas Huang",
       "directors": [
@@ -9905,6 +11134,9 @@
     "battles-my-machines": {
       "id": "battles-my-machines",
       "artist": "Battles",
+      "artists": [
+        "Battles"
+      ],
       "song": "My Machines",
       "director": "Daniels",
       "directors": [
@@ -9930,6 +11162,9 @@
     "a-love-like-pi-jack-and-the-giant": {
       "id": "a-love-like-pi-jack-and-the-giant",
       "artist": "A Love Like Pi",
+      "artists": [
+        "A Love Like Pi"
+      ],
       "song": "Jack and the Giant",
       "director": "Kim Pimmel",
       "directors": [
@@ -9954,6 +11189,9 @@
     "beatsofreen-slowly-rising": {
       "id": "beatsofreen-slowly-rising",
       "artist": "BEATSOFREEN",
+      "artists": [
+        "BEATSOFREEN"
+      ],
       "song": "Slowly Rising",
       "director": "Hideki Inaba",
       "directors": [
@@ -9981,6 +11219,9 @@
     "alb-the-road": {
       "id": "alb-the-road",
       "artist": "ALB",
+      "artists": [
+        "ALB"
+      ],
       "song": "The Road",
       "director": "Julien Lassort",
       "directors": [
@@ -10009,6 +11250,9 @@
     "20syl-back-forth": {
       "id": "20syl-back-forth",
       "artist": "20syl",
+      "artists": [
+        "20syl"
+      ],
       "song": "Back & Forth",
       "director": "Thomas Porthé",
       "directors": [
@@ -10036,6 +11280,9 @@
     "benjamin-booker-believe": {
       "id": "benjamin-booker-believe",
       "artist": "Benjamin Booker",
+      "artists": [
+        "Benjamin Booker"
+      ],
       "song": "Believe",
       "director": "James Lees",
       "directors": [
@@ -10061,6 +11308,9 @@
     "battles-the-yabba": {
       "id": "battles-the-yabba",
       "artist": "Battles",
+      "artists": [
+        "Battles"
+      ],
       "song": "The Yabba",
       "director": "Roger Guàrdia",
       "directors": [
@@ -10087,6 +11337,9 @@
     "apparat-granular-bastard": {
       "id": "apparat-granular-bastard",
       "artist": "Apparat",
+      "artists": [
+        "Apparat"
+      ],
       "song": "Granular Bastard",
       "director": "Céline Desrumaux",
       "directors": [
@@ -10112,6 +11365,9 @@
     "andy-shauf-the-worst-in-you": {
       "id": "andy-shauf-the-worst-in-you",
       "artist": "Andy Shauf",
+      "artists": [
+        "Andy Shauf"
+      ],
       "song": "The Worst In You",
       "director": "Winston Hacking",
       "directors": [
@@ -10135,6 +11391,9 @@
     "5nizza-samoliot": {
       "id": "5nizza-samoliot",
       "artist": "5’Nizza",
+      "artists": [
+        "5’Nizza"
+      ],
       "song": "Samoliot",
       "director": "Max Ksjonda",
       "directors": [
@@ -10162,6 +11421,9 @@
     "arcade-fire-we-used-to-wait": {
       "id": "arcade-fire-we-used-to-wait",
       "artist": "Arcade Fire",
+      "artists": [
+        "Arcade Fire"
+      ],
       "song": "We Used to Wait",
       "director": "Chris Milk",
       "directors": [
@@ -10186,6 +11448,9 @@
     "bj-rk-triumph-of-a-heart": {
       "id": "bj-rk-triumph-of-a-heart",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "Triumph of a Heart",
       "director": "Spike Jonze",
       "directors": [
@@ -10212,6 +11477,10 @@
     "2pac-ft-dr-dre-california-love": {
       "id": "2pac-ft-dr-dre-california-love",
       "artist": "2Pac ft. Dr. Dre",
+      "artists": [
+        "2Pac",
+        "Dr. Dre"
+      ],
       "song": "California Love",
       "director": "Hype Williams",
       "directors": [
@@ -10237,6 +11506,9 @@
     "beck-black-tambourine": {
       "id": "beck-black-tambourine",
       "artist": "Beck",
+      "artists": [
+        "Beck"
+      ],
       "song": "Black Tambourine",
       "director": "Adam Levite",
       "directors": [
@@ -10260,6 +11532,9 @@
     "beck-uneventful-days-jimmy-kimmel-performance": {
       "id": "beck-uneventful-days-jimmy-kimmel-performance",
       "artist": "Beck",
+      "artists": [
+        "Beck"
+      ],
       "song": "Uneventful Days (Jimmy Kimmel Performance)",
       "director": "Andy Fisher",
       "directors": [
@@ -10284,6 +11559,9 @@
     "arcade-fire-reflektor": {
       "id": "arcade-fire-reflektor",
       "artist": "Arcade Fire",
+      "artists": [
+        "Arcade Fire"
+      ],
       "song": "Reflektor",
       "director": "Anton Corbijn",
       "directors": [
@@ -10308,6 +11586,9 @@
     "alt-j-hard-drive-gold": {
       "id": "alt-j-hard-drive-gold",
       "artist": "alt-J",
+      "artists": [
+        "alt-J"
+      ],
       "song": "Hard Drive Gold",
       "director": "Joe Newman & Darcy Wallace",
       "directors": [
@@ -10333,6 +11614,9 @@
     "alt-j-pusher": {
       "id": "alt-j-pusher",
       "artist": "alt-J",
+      "artists": [
+        "alt-J"
+      ],
       "song": "Pusher",
       "director": "Thomas Rhazi",
       "directors": [
@@ -10357,6 +11641,9 @@
     "beyonc-countdown": {
       "id": "beyonc-countdown",
       "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
       "song": "Countdown",
       "director": "Adria Petty, Beyoncé",
       "directors": [
@@ -10387,6 +11674,9 @@
     "a-flock-of-seagulls-i-ran": {
       "id": "a-flock-of-seagulls-i-ran",
       "artist": "A Flock Of Seagulls",
+      "artists": [
+        "A Flock Of Seagulls"
+      ],
       "song": "I Ran",
       "director": "Tony van den Ende",
       "directors": [
@@ -10413,6 +11703,9 @@
     "bj-rk-army-of-me": {
       "id": "bj-rk-army-of-me",
       "artist": "Björk",
+      "artists": [
+        "Björk"
+      ],
       "song": "Army of Me",
       "director": "Michel Gondry",
       "directors": [
@@ -10436,6 +11729,9 @@
     "animusic-pipe-dream": {
       "id": "animusic-pipe-dream",
       "artist": "Animusic",
+      "artists": [
+        "Animusic"
+      ],
       "song": "Pipe Dream",
       "director": "Wayne Lytle",
       "directors": [
@@ -10462,6 +11758,9 @@
     "ryan-barger-dreams-are-real": {
       "id": "ryan-barger-dreams-are-real",
       "artist": "Ryan Barger",
+      "artists": [
+        "Ryan Barger"
+      ],
       "song": "Dreams Are Real",
       "director": "Ryan Barger & Katie Akana",
       "directors": [
@@ -10488,6 +11787,9 @@
     "lushlife-magnolia": {
       "id": "lushlife-magnolia",
       "artist": "Lushlife",
+      "artists": [
+        "Lushlife"
+      ],
       "song": "Magnolia",
       "director": "LAMAR+NIK",
       "directors": [
@@ -10513,7 +11815,11 @@
     },
     "leon-bridges-lucky-daye-all-about-you": {
       "id": "leon-bridges-lucky-daye-all-about-you",
-      "artist": "Leon Bridges, Lucky Daye",
+      "artist": "Leon Bridges & Lucky Daye",
+      "artists": [
+        "Leon Bridges",
+        "Lucky Daye"
+      ],
       "song": "All About You",
       "director": "LAMAR+NIK",
       "directors": [
@@ -10537,6 +11843,9 @@
     "taylor-bennett-dont-wait-up": {
       "id": "taylor-bennett-dont-wait-up",
       "artist": "Taylor Bennett",
+      "artists": [
+        "Taylor Bennett"
+      ],
       "song": "Don't Wait Up",
       "director": "LAMAR+NIK",
       "directors": [
@@ -10561,6 +11870,9 @@
     "la-chica-be-able": {
       "id": "la-chica-be-able",
       "artist": "La Chica",
+      "artists": [
+        "La Chica"
+      ],
       "song": "Be Able",
       "director": "Ma-Ké",
       "directors": [
@@ -10581,9 +11893,13 @@
       ],
       "embedBroken": false
     },
-    "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix": {
-      "id": "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix",
-      "artist": "Codebreaker feat. Kathy Diamond",
+    "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix": {
+      "id": "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix",
+      "artist": "Codebreaker (ft. Kathy Diamond)",
+      "artists": [
+        "Codebreaker",
+        "Kathy Diamond"
+      ],
       "song": "Fire (Jimmy Edgar Remix)",
       "director": "Erik West",
       "directors": [
@@ -10608,6 +11924,9 @@
     "jeffrey-brodsky-ill-be-strong": {
       "id": "jeffrey-brodsky-ill-be-strong",
       "artist": "Jeffrey Brodsky",
+      "artists": [
+        "Jeffrey Brodsky"
+      ],
       "song": "I'll Be Strong",
       "director": "Universal Everything",
       "directors": [
@@ -10633,6 +11952,9 @@
     "rendezvous-the-murf": {
       "id": "rendezvous-the-murf",
       "artist": "Rendezvous",
+      "artists": [
+        "Rendezvous"
+      ],
       "song": "The Murf",
       "director": "Scott Benson",
       "directors": [
@@ -10656,6 +11978,9 @@
     "eskmo-we-got-more": {
       "id": "eskmo-we-got-more",
       "artist": "Eskmo",
+      "artists": [
+        "Eskmo"
+      ],
       "song": "We Got More",
       "director": "Cyriak",
       "directors": [
@@ -10683,6 +12008,9 @@
     "husbands-dream": {
       "id": "husbands-dream",
       "artist": "Husbands",
+      "artists": [
+        "Husbands"
+      ],
       "song": "Dream",
       "director": "Cauboyz",
       "directors": [
@@ -10707,6 +12035,9 @@
     "st-vincent-cheerleader": {
       "id": "st-vincent-cheerleader",
       "artist": "St. Vincent",
+      "artists": [
+        "St. Vincent"
+      ],
       "song": "Cheerleader",
       "director": "Hiro Murai",
       "directors": [
@@ -10732,6 +12063,9 @@
     "low-cut-connie-shake-it-little-tina": {
       "id": "low-cut-connie-shake-it-little-tina",
       "artist": "Low Cut Connie",
+      "artists": [
+        "Low Cut Connie"
+      ],
       "song": "Shake It Little Tina",
       "director": "Adam Carpenter",
       "directors": [
@@ -10755,6 +12089,9 @@
     "fjaak-snow": {
       "id": "fjaak-snow",
       "artist": "FJAAK",
+      "artists": [
+        "FJAAK"
+      ],
       "song": "Snow",
       "director": "Raman Djafari",
       "directors": [
@@ -10776,9 +12113,13 @@
       ],
       "embedBroken": false
     },
-    "rudimental-feat-john-newman-feel-the-love": {
-      "id": "rudimental-feat-john-newman-feel-the-love",
-      "artist": "Rudimental feat. John Newman",
+    "rudimental-ft-john-newman-feel-the-love": {
+      "id": "rudimental-ft-john-newman-feel-the-love",
+      "artist": "Rudimental (ft. John Newman)",
+      "artists": [
+        "Rudimental",
+        "John Newman"
+      ],
       "song": "Feel The Love",
       "director": "Bob Harlow",
       "directors": [
@@ -10804,6 +12145,9 @@
     "russ-chimes-turn-me-out": {
       "id": "russ-chimes-turn-me-out",
       "artist": "Russ Chimes",
+      "artists": [
+        "Russ Chimes"
+      ],
       "song": "Turn Me Out",
       "director": "Mathy & Fran",
       "directors": [
@@ -10832,6 +12176,9 @@
     "kuricorder-quartet-southpaw": {
       "id": "kuricorder-quartet-southpaw",
       "artist": "Kuricorder Quartet",
+      "artists": [
+        "Kuricorder Quartet"
+      ],
       "song": "SOUTHPAW",
       "director": "Sawako Kabuki",
       "directors": [
@@ -10858,6 +12205,9 @@
     "slow-magic-corvette-cassette": {
       "id": "slow-magic-corvette-cassette",
       "artist": "Slow Magic",
+      "artists": [
+        "Slow Magic"
+      ],
       "song": "Corvette Cassette",
       "director": "Brendan Canty",
       "directors": [
@@ -10884,6 +12234,9 @@
     "duke-dumont-wont-look-back": {
       "id": "duke-dumont-wont-look-back",
       "artist": "Duke Dumont",
+      "artists": [
+        "Duke Dumont"
+      ],
       "song": "Won't Look Back",
       "director": "Tim & Joe",
       "directors": [
@@ -10908,6 +12261,9 @@
     "kingdom-crumbs-evoking-spirits": {
       "id": "kingdom-crumbs-evoking-spirits",
       "artist": "Kingdom Crumbs",
+      "artists": [
+        "Kingdom Crumbs"
+      ],
       "song": "Evoking Spirits",
       "director": "Ori Toor",
       "directors": [
@@ -10932,6 +12288,9 @@
     "yello-out-of-sight": {
       "id": "yello-out-of-sight",
       "artist": "Yello",
+      "artists": [
+        "Yello"
+      ],
       "song": "Out Of Sight",
       "director": "Dirk Koy",
       "directors": [
@@ -10958,6 +12317,9 @@
     "shitdisco-ok": {
       "id": "shitdisco-ok",
       "artist": "Shitdisco",
+      "artists": [
+        "Shitdisco"
+      ],
       "song": "OK",
       "director": "Price James",
       "directors": [
@@ -10982,6 +12344,9 @@
     "young-marco-trippy-isolator": {
       "id": "young-marco-trippy-isolator",
       "artist": "Young Marco",
+      "artists": [
+        "Young Marco"
+      ],
       "song": "Trippy Isolator",
       "director": "Rop van Mierlo",
       "directors": [
@@ -11006,6 +12371,9 @@
     "dolche-big-man": {
       "id": "dolche-big-man",
       "artist": "Dolche",
+      "artists": [
+        "Dolche"
+      ],
       "song": "Big Man",
       "director": "Chris Shimojima",
       "directors": [
@@ -11033,6 +12401,9 @@
     "primary-1-princess": {
       "id": "primary-1-princess",
       "artist": "Primary 1",
+      "artists": [
+        "Primary 1"
+      ],
       "song": "Princess",
       "director": "Radical Friend",
       "directors": [
@@ -11056,6 +12427,9 @@
     "raleigh-ritchie-stronger-than-ever": {
       "id": "raleigh-ritchie-stronger-than-ever",
       "artist": "Raleigh Ritchie",
+      "artists": [
+        "Raleigh Ritchie"
+      ],
       "song": "Stronger Than Ever",
       "director": "Ninian Doff",
       "directors": [
@@ -11077,6 +12451,9 @@
     "dye-shes-bad": {
       "id": "dye-shes-bad",
       "artist": "DyE",
+      "artists": [
+        "DyE"
+      ],
       "song": "She's Bad",
       "director": "Dent de Cuir",
       "directors": [
@@ -11097,9 +12474,13 @@
       ],
       "embedBroken": false
     },
-    "modeselektor-feat-otto-von-schirach-evil-twin": {
-      "id": "modeselektor-feat-otto-von-schirach-evil-twin",
-      "artist": "Modeselektor feat. Otto von Schirach",
+    "modeselektor-f-otto-von-schirach-evil-twin": {
+      "id": "modeselektor-f-otto-von-schirach-evil-twin",
+      "artist": "Modeselektor (f. Otto von Schirach)",
+      "artists": [
+        "Modeselektor",
+        "Otto von Schirach"
+      ],
       "song": "Evil Twin",
       "director": "Dent de Cuir",
       "directors": [
@@ -11122,6 +12503,9 @@
     "cults-oh-my-god": {
       "id": "cults-oh-my-god",
       "artist": "Cults",
+      "artists": [
+        "Cults"
+      ],
       "song": "Oh My God",
       "director": "Daniel Garcia",
       "directors": [
@@ -11144,6 +12528,9 @@
     "cults-gilded-lily": {
       "id": "cults-gilded-lily",
       "artist": "Cults",
+      "artists": [
+        "Cults"
+      ],
       "song": "Gilded Lily",
       "director": "Eliott Sellers",
       "directors": [
@@ -11168,6 +12555,9 @@
     "needle-points-corazon": {
       "id": "needle-points-corazon",
       "artist": "Needle Points",
+      "artists": [
+        "Needle Points"
+      ],
       "song": "Corazon",
       "director": "Don Vincent Ortega, Raymo Ventura & Jen Vance",
       "directors": [
@@ -11197,6 +12587,9 @@
     "reptile-youth-be-my-yoko-ono": {
       "id": "reptile-youth-be-my-yoko-ono",
       "artist": "Reptile Youth",
+      "artists": [
+        "Reptile Youth"
+      ],
       "song": "Be My Yoko Ono",
       "director": "Lucy McRae & Hyper Island Motion Graphics",
       "directors": [
@@ -11222,6 +12615,9 @@
     "the-peach-kings-thieves-and-kings": {
       "id": "the-peach-kings-thieves-and-kings",
       "artist": "The Peach Kings",
+      "artists": [
+        "The Peach Kings"
+      ],
       "song": "Thieves and Kings",
       "director": "Paul Trillo",
       "directors": [
@@ -11237,8 +12633,116 @@
       "thumbnailUrl": "https://img.youtube.com/vi/8GVvG_T_xe4/hqdefault.jpg",
       "tags": [
         "2010's",
-        "datamoshing",
+        "datamosh/frameblend",
         "narrative"
+      ],
+      "embedBroken": false
+    },
+    "beyonc-hold-up": {
+      "id": "beyonc-hold-up",
+      "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
+      "song": "Hold Up",
+      "director": "Jonas Åkerlund",
+      "directors": [
+        "Jonas Åkerlund"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "April 2016",
+      "sortDate": "2016-04-23",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "PeonBmeFR8o",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/PeonBmeFR8o/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "water"
+      ],
+      "embedBroken": false
+    },
+    "beyonc-ft-drake-mine": {
+      "id": "beyonc-ft-drake-mine",
+      "artist": "Beyoncé (ft. Drake)",
+      "artists": [
+        "Beyoncé",
+        "Drake"
+      ],
+      "song": "Mine",
+      "director": "Pierre Debusschere",
+      "directors": [
+        "Pierre Debusschere"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "December 2013",
+      "sortDate": "2013-12-13",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "IDvu1ehPq0g",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/IDvu1ehPq0g/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "slowmo"
+      ],
+      "embedBroken": false
+    },
+    "beyonc-sorry": {
+      "id": "beyonc-sorry",
+      "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
+      "song": "Sorry",
+      "director": "Kahlil Joseph & Beyoncé",
+      "directors": [
+        "Kahlil Joseph",
+        "Beyoncé"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2016",
+      "sortDate": "2016-06-22",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "QxsmWxxouIM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/QxsmWxxouIM/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "bus",
+        "monochrome"
+      ],
+      "embedBroken": false
+    },
+    "beyonc-7-11": {
+      "id": "beyonc-7-11",
+      "artist": "Beyoncé",
+      "artists": [
+        "Beyoncé"
+      ],
+      "song": "7/11",
+      "director": "Beyoncé & Todd Tourso",
+      "directors": [
+        "Beyoncé",
+        "Todd Tourso"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "November 2014",
+      "sortDate": "2014-11-21",
+      "year": 2014,
+      "provider": "youtube",
+      "youtubeId": "k4YRWT_Aldo",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/k4YRWT_Aldo/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "match cut",
+        "poc director",
+        "snorri/stabilize",
+        "woc director",
+        "womxn director"
       ],
       "embedBroken": false
     }
@@ -11269,13 +12773,13 @@
       "herbie-hancock-rockit",
       "madonna-holiday",
       "michael-jackson-thriller",
-      "prince-and-the-revolution-when-doves-cry",
+      "prince-the-revolution-when-doves-cry",
       "madonna-material-girl",
-      "prince-and-the-revolution-raspberry-beret",
+      "prince-the-revolution-raspberry-beret",
       "robert-palmer-addicted-to-love",
       "talking-heads-and-she-was",
       "the-cure-boys-dont-cry",
-      "prince-and-the-revolution-kiss",
+      "prince-the-revolution-kiss",
       "harold-faltermeyer-steve-stevens-top-gun-anthem",
       "janet-jackson-nasty",
       "peter-gabriel-sledgehammer",
@@ -11375,7 +12879,7 @@
       "i-love-you-but-ive-chosen-darkness-the-owl",
       "regina-spektor-samson",
       "j-dilla-nothing-like-this",
-      "el-p-feat-trent-reznor-flyentology",
+      "el-p-ft-trent-reznor-flyentology",
       "modest-mouse-dashboard",
       "battles-atlas",
       "feist-1234",
@@ -11408,7 +12912,7 @@
       "pistol-youth-in-my-eyes",
       "possible-metrics-sonar",
       "friendly-fires-skeleton-boy",
-      "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix",
+      "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix",
       "fleet-foxes-mykonos",
       "chairlift-evident-utensil",
       "fever-ray-when-i-grow-up",
@@ -11480,12 +12984,12 @@
       "duck-sauce-big-bad-wolf",
       "brite-futures-too-young-to-kill",
       "friendly-fires-hurting",
-      "marian-ruzzi-y-sr-amable-una-pieza-mas",
+      "marian-ruzzi-sr-amable-una-pieza-mas",
       "fleet-foxes-the-shrine-an-argument",
       "dear-lament-coffee",
       "stuck-in-the-sound-lets-go",
-      "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-      "modeselektor-feat-otto-von-schirach-evil-twin",
+      "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
+      "modeselektor-f-otto-von-schirach-evil-twin",
       "m-i-a-bad-girls",
       "gotye-easy-way-out",
       "johnny-neon-hearts",
@@ -11493,7 +12997,7 @@
       "st-vincent-cheerleader",
       "the-shins-simple-song",
       "kottarashky-the-rain-dogs-demoni",
-      "rudimental-feat-john-newman-feel-the-love",
+      "rudimental-ft-john-newman-feel-the-love",
       "foster-the-people-houdini",
       "r-yksopp-so-easy-unofficial-video",
       "woodkid-run-boy-run",
@@ -11526,6 +13030,7 @@
       "arcade-fire-reflektor",
       "savages-marshal-dear",
       "boozoo-bajou-jan-mayen",
+      "beyonc-ft-drake-mine",
       "de-staat-witch-doctor",
       "raleigh-ritchie-stronger-than-ever",
       "kwes-rollerblades",
@@ -11548,6 +13053,7 @@
       "gerard-way-millions",
       "ok-go-i-wont-let-you-down",
       "nigel-stanford-cymatics",
+      "beyonc-7-11",
       "panda-bear-boys-latin",
       "childish-gambino-sober",
       "dralms-crushed-pleats",
@@ -11559,7 +13065,7 @@
       "20syl-back-forth",
       "alb-the-road",
       "donnie-trumpet-the-social-experiment-sunday-candy",
-      "hook-n-sling-feat-far-east-movement-break-yourself",
+      "hook-n-sling-ft-far-east-movement-break-yourself",
       "son-lux-change-is-everything",
       "gilligan-moss-choreograph",
       "lorn-acid-rain",
@@ -11570,7 +13076,7 @@
       "drake-hotline-bling",
       "beatsofreen-slowly-rising",
       "darwin-deez-the-mess-she-made",
-      "christine-and-the-queens-tilted",
+      "christine-the-queens-tilted",
       "soupcans-siamese-brutality",
       "n-lannon-another-love",
       "ok-go-upside-down-inside-out",
@@ -11588,9 +13094,11 @@
       "wintergatan-marble-machine",
       "charles-x-can-you-do-it",
       "michael-kiwanuka-black-man-in-a-white-world",
+      "beyonc-hold-up",
       "lyrical-school-run-and-run",
       "andy-shauf-the-worst-in-you",
       "reeps-one-does-not-exist",
+      "beyonc-sorry",
       "no-te-va-gustar-la-puerta-de-atras",
       "jones-melt",
       "green-day-bang-bang",
@@ -11675,7 +13183,7 @@
       "apashe-human",
       "jacques-absolve",
       "the-smile-friend-of-a-friend",
-      "fred-again-lil-yachty-and-overmono-stayinit",
+      "fred-again-lil-yachty-overmono-stayinit",
       "dua-lipa-illusion",
       "mette-bet",
       "kings-of-leon-mustang",
@@ -11756,7 +13264,7 @@
         "lany-thick-and-thin",
         "beck-uneventful-days-jimmy-kimmel-performance",
         "tune-yards-medley-for-google-i-o",
-        "fred-again-lil-yachty-and-overmono-stayinit",
+        "fred-again-lil-yachty-overmono-stayinit",
         "ok-go-a-stone-only-rolls-downhill",
         "ok-go-love"
       ],
@@ -11792,7 +13300,7 @@
         "siska-unconditional-rebel",
         "alt-j-pusher",
         "donnie-trumpet-the-social-experiment-sunday-candy",
-        "hook-n-sling-feat-far-east-movement-break-yourself",
+        "hook-n-sling-ft-far-east-movement-break-yourself",
         "gilligan-moss-choreograph",
         "ok-go-upside-down-inside-out",
         "the-chemical-brothers-wide-open",
@@ -11845,7 +13353,7 @@
         "prince-i-wanna-be-your-lover",
         "prince-1999",
         "robert-palmer-addicted-to-love",
-        "prince-and-the-revolution-kiss",
+        "prince-the-revolution-kiss",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "george-michael-freedom-90",
         "prince-the-new-power-generation-cream",
@@ -11887,9 +13395,9 @@
         "danger-beach-apache",
         "apparat-granular-bastard",
         "rendezvous-the-murf",
-        "marian-ruzzi-y-sr-amable-una-pieza-mas",
+        "marian-ruzzi-sr-amable-una-pieza-mas",
         "stuck-in-the-sound-lets-go",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
         "r-yksopp-so-easy-unofficial-video",
         "rone-bye-bye-macadam",
         "savages-marshal-dear",
@@ -12004,7 +13512,7 @@
       "cel animation": [
         "the-pointer-sisters-pinball-animation-countdown",
         "pink-floyd-another-brick-in-the-wall-part-two",
-        "prince-and-the-revolution-raspberry-beret",
+        "prince-the-revolution-raspberry-beret",
         "daft-punk-one-more-time",
         "the-rapture-whoo-alright-yeah-uh-huh",
         "bellx1-rocky-took-a-lover",
@@ -12014,7 +13522,7 @@
         "panda-bear-alsatian-darn",
         "we-cut-corners-pirates-life",
         "stuck-in-the-sound-lets-go",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
         "r-yksopp-so-easy-unofficial-video",
         "kingdom-crumbs-evoking-spirits",
         "iron-wine-joy",
@@ -12088,7 +13596,7 @@
         "donnie-trumpet-the-social-experiment-sunday-candy",
         "lorn-acid-rain",
         "jr-jr-gone",
-        "christine-and-the-queens-tilted",
+        "christine-the-queens-tilted",
         "n-lannon-another-love",
         "the-chemical-brothers-wide-open",
         "violet-sands-no-matter-what",
@@ -12186,7 +13694,7 @@
         "childish-gambino-sober",
         "dralms-crushed-pleats",
         "alt-j-pusher",
-        "hook-n-sling-feat-far-east-movement-break-yourself",
+        "hook-n-sling-ft-far-east-movement-break-yourself",
         "lorn-acid-rain",
         "jr-jr-gone",
         "battles-the-yabba",
@@ -12233,7 +13741,7 @@
         "michael-jackson-dont-stop-til-you-get-enough",
         "orchestral-manoeuvres-in-the-dark-enola-gay",
         "talking-heads-once-in-a-lifetime",
-        "prince-and-the-revolution-raspberry-beret"
+        "prince-the-revolution-raspberry-beret"
       ],
       "joy": [
         "michael-jackson-dont-stop-til-you-get-enough",
@@ -12246,7 +13754,7 @@
         "janelle-mon-e-tightrope",
         "huma-huma-hello-i-like-you",
         "johnny-neon-hearts",
-        "rudimental-feat-john-newman-feel-the-love",
+        "rudimental-ft-john-newman-feel-the-love",
         "y-n-richkids-my-bike",
         "ariane-roy-ta-main",
         "mette-mamas-eyes",
@@ -12273,7 +13781,7 @@
         "the-darkness-i-believe-in-a-thing-called-love",
         "vitalic-poney-part-1-birds",
         "psy-gangnam-style",
-        "fred-again-lil-yachty-and-overmono-stayinit"
+        "fred-again-lil-yachty-overmono-stayinit"
       ],
       "kids": [
         "pink-floyd-another-brick-in-the-wall-part-two",
@@ -12308,13 +13816,13 @@
         "herbie-hancock-rockit",
         "madonna-holiday",
         "michael-jackson-thriller",
-        "prince-and-the-revolution-when-doves-cry",
+        "prince-the-revolution-when-doves-cry",
         "madonna-material-girl",
-        "prince-and-the-revolution-raspberry-beret",
+        "prince-the-revolution-raspberry-beret",
         "robert-palmer-addicted-to-love",
         "talking-heads-and-she-was",
         "the-cure-boys-dont-cry",
-        "prince-and-the-revolution-kiss",
+        "prince-the-revolution-kiss",
         "harold-faltermeyer-steve-stevens-top-gun-anthem",
         "janet-jackson-nasty",
         "peter-gabriel-sledgehammer",
@@ -12339,7 +13847,7 @@
       "womxn director": [
         "talking-heads-once-in-a-lifetime",
         "madonna-material-girl",
-        "prince-and-the-revolution-kiss",
+        "prince-the-revolution-kiss",
         "janet-jackson-nasty",
         "madonna-like-a-prayer",
         "prince-the-new-power-generation-cream",
@@ -12370,6 +13878,7 @@
         "iron-wine-joy",
         "sia-chandelier",
         "gerard-way-millions",
+        "beyonc-7-11",
         "ok-go-upside-down-inside-out",
         "beyonc-formation",
         "vessels-4am",
@@ -12456,7 +13965,7 @@
         "miike-snow-genghis-khan"
       ],
       "birds": [
-        "prince-and-the-revolution-when-doves-cry",
+        "prince-the-revolution-when-doves-cry",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "tv-on-the-radio-me-i",
         "thunderheist-jerk-it",
@@ -12467,7 +13976,7 @@
         "janelle-mon-e-i-like-that"
       ],
       "motorcycle": [
-        "prince-and-the-revolution-when-doves-cry",
+        "prince-the-revolution-when-doves-cry",
         "bad-bunny-yo-visto-as"
       ],
       "meta": [
@@ -12491,7 +14000,7 @@
         "doechii-anxiety"
       ],
       "collage": [
-        "prince-and-the-revolution-raspberry-beret",
+        "prince-the-revolution-raspberry-beret",
         "talking-heads-and-she-was",
         "brite-futures-sophisticated-side-ponytail",
         "yeasayer-wait-for-the-summer",
@@ -12509,7 +14018,7 @@
         "dayglow-something"
       ],
       "poc director": [
-        "prince-and-the-revolution-raspberry-beret",
+        "prince-the-revolution-raspberry-beret",
         "r-e-m-losing-my-religion",
         "2pac-ft-dr-dre-california-love",
         "missy-elliott-da-brat-sock-it-2-me",
@@ -12544,6 +14053,7 @@
         "queens-of-the-stone-age-smooth-sailing",
         "ok-go-i-wont-let-you-down",
         "nigel-stanford-cymatics",
+        "beyonc-7-11",
         "childish-gambino-sober",
         "lorn-acid-rain",
         "drake-hotline-bling",
@@ -12588,7 +14098,7 @@
         "bellx1-rocky-took-a-lover",
         "el-guincho-bombay",
         "fulton-lights-staring-out-the-window",
-        "rudimental-feat-john-newman-feel-the-love",
+        "rudimental-ft-john-newman-feel-the-love",
         "light-light-kilo-do-not-touch",
         "bomba-est-reo-soy-yo",
         "bonobo-no-reason",
@@ -12701,7 +14211,7 @@
         "woodkid-run-boy-run",
         "siska-unconditional-rebel",
         "alb-the-road",
-        "hook-n-sling-feat-far-east-movement-break-yourself",
+        "hook-n-sling-ft-far-east-movement-break-yourself",
         "mount-moriah-precita",
         "bonobo-no-reason",
         "mild-minds-walls",
@@ -12711,7 +14221,7 @@
         "depeche-mode-personal-jesus",
         "muse-knights-of-cydonia",
         "woodkid-iron",
-        "rudimental-feat-john-newman-feel-the-love",
+        "rudimental-ft-john-newman-feel-the-love",
         "jeffrey-brodsky-ill-be-strong",
         "charles-x-can-you-do-it",
         "mashrou-leila-roman",
@@ -12742,7 +14252,7 @@
         "panda-bear-alsatian-darn",
         "we-cut-corners-pirates-life",
         "brite-futures-too-young-to-kill",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
         "woodkid-run-boy-run",
         "rone-bye-bye-macadam",
         "husbands-dream",
@@ -12754,8 +14264,9 @@
         "20syl-back-forth",
         "alb-the-road",
         "son-lux-change-is-everything",
-        "christine-and-the-queens-tilted",
+        "christine-the-queens-tilted",
         "michael-kiwanuka-black-man-in-a-white-world",
+        "beyonc-sorry",
         "max-cooper-waves",
         "lorn-anvil",
         "blonde-redhead-golden-light",
@@ -12994,6 +14505,7 @@
         "kid-cudi-pursuit-of-happiness",
         "johnny-neon-hearts",
         "queens-of-the-stone-age-smooth-sailing",
+        "beyonc-7-11",
         "vince-staples-lift-me-up"
       ],
       "surveillance": [
@@ -13005,7 +14517,7 @@
         "paul-kalkbrenner-schwer",
         "kings-of-leon-mustang"
       ],
-      "datamoshing": [
+      "datamosh/frameblend": [
         "the-rolling-stones-like-a-rolling-stone",
         "missy-elliott-get-ur-freak-on",
         "chairlift-evident-utensil",
@@ -13073,6 +14585,7 @@
         "thunderheist-jerk-it",
         "fm-belfast-underwear",
         "woodkid-iron",
+        "beyonc-ft-drake-mine",
         "kwes-rollerblades",
         "pillar-point-dreamin",
         "self-runaway",
@@ -13106,7 +14619,7 @@
         "autechre-gantz-graf",
         "twerk-from-brown-to-green",
         "mickey-3d-respire",
-        "el-p-feat-trent-reznor-flyentology",
+        "el-p-ft-trent-reznor-flyentology",
         "tv-on-the-radio-me-i",
         "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "radiohead-weird-fishes-arpeggi",
@@ -13131,6 +14644,7 @@
         "willow-sweater",
         "n-lannon-another-love",
         "beyonc-formation",
+        "beyonc-hold-up",
         "dua-lipa-illusion",
         "tourist-valentine"
       ],
@@ -13288,7 +14802,7 @@
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "regina-spektor-samson",
         "j-dilla-nothing-like-this",
-        "el-p-feat-trent-reznor-flyentology",
+        "el-p-ft-trent-reznor-flyentology",
         "modest-mouse-dashboard",
         "battles-atlas",
         "feist-1234",
@@ -13321,7 +14835,7 @@
         "pistol-youth-in-my-eyes",
         "possible-metrics-sonar",
         "friendly-fires-skeleton-boy",
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix",
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix",
         "fleet-foxes-mykonos",
         "chairlift-evident-utensil",
         "fever-ray-when-i-grow-up",
@@ -13386,6 +14900,7 @@
         "the-pains-of-being-pure-at-heart-say-no-to-love",
         "huma-huma-hello-i-like-you",
         "beyonc-countdown",
+        "beyonc-7-11",
         "beyonc-formation",
         "needle-points-corazon",
         "mashrou-leila-roman",
@@ -13519,7 +15034,7 @@
         "thunderheist-jerk-it",
         "fleet-foxes-white-winter-hymnal",
         "brite-futures-sophisticated-side-ponytail",
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix",
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix",
         "fleet-foxes-mykonos",
         "nyle-let-the-beat-build",
         "yeasayer-wait-for-the-summer",
@@ -13538,11 +15053,11 @@
         "casey-veggies-euphoria-ii",
         "we-cut-corners-pirates-life",
         "brite-futures-too-young-to-kill",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
         "gotye-easy-way-out",
         "johnny-neon-hearts",
         "st-vincent-cheerleader",
-        "rudimental-feat-john-newman-feel-the-love",
+        "rudimental-ft-john-newman-feel-the-love",
         "woodkid-run-boy-run",
         "kingdom-crumbs-evoking-spirits",
         "data-blood-theme",
@@ -13671,10 +15186,10 @@
         "ok-go-upside-down-inside-out"
       ],
       "miniatures": [
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix"
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
       ],
       "tilt shift": [
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix"
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
       ],
       "glitch": [
         "chairlift-evident-utensil",
@@ -13703,7 +15218,7 @@
         "sour-hibi-no-neiro",
         "jarbas-agnelli-birds-on-the-wires",
         "arcade-fire-we-used-to-wait",
-        "modeselektor-feat-otto-von-schirach-evil-twin",
+        "modeselektor-f-otto-von-schirach-evil-twin",
         "light-light-kilo-do-not-touch",
         "the-shoes-drifted",
         "lyrical-school-run-and-run",
@@ -13767,12 +15282,12 @@
         "duck-sauce-big-bad-wolf",
         "brite-futures-too-young-to-kill",
         "friendly-fires-hurting",
-        "marian-ruzzi-y-sr-amable-una-pieza-mas",
+        "marian-ruzzi-sr-amable-una-pieza-mas",
         "fleet-foxes-the-shrine-an-argument",
         "dear-lament-coffee",
         "stuck-in-the-sound-lets-go",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one",
-        "modeselektor-feat-otto-von-schirach-evil-twin",
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one",
+        "modeselektor-f-otto-von-schirach-evil-twin",
         "m-i-a-bad-girls",
         "gotye-easy-way-out",
         "johnny-neon-hearts",
@@ -13780,7 +15295,7 @@
         "st-vincent-cheerleader",
         "the-shins-simple-song",
         "kottarashky-the-rain-dogs-demoni",
-        "rudimental-feat-john-newman-feel-the-love",
+        "rudimental-ft-john-newman-feel-the-love",
         "foster-the-people-houdini",
         "r-yksopp-so-easy-unofficial-video",
         "woodkid-run-boy-run",
@@ -13813,6 +15328,7 @@
         "arcade-fire-reflektor",
         "savages-marshal-dear",
         "boozoo-bajou-jan-mayen",
+        "beyonc-ft-drake-mine",
         "de-staat-witch-doctor",
         "raleigh-ritchie-stronger-than-ever",
         "kwes-rollerblades",
@@ -13835,6 +15351,7 @@
         "gerard-way-millions",
         "ok-go-i-wont-let-you-down",
         "nigel-stanford-cymatics",
+        "beyonc-7-11",
         "panda-bear-boys-latin",
         "childish-gambino-sober",
         "dralms-crushed-pleats",
@@ -13846,7 +15363,7 @@
         "20syl-back-forth",
         "alb-the-road",
         "donnie-trumpet-the-social-experiment-sunday-candy",
-        "hook-n-sling-feat-far-east-movement-break-yourself",
+        "hook-n-sling-ft-far-east-movement-break-yourself",
         "son-lux-change-is-everything",
         "gilligan-moss-choreograph",
         "lorn-acid-rain",
@@ -13857,7 +15374,7 @@
         "drake-hotline-bling",
         "beatsofreen-slowly-rising",
         "darwin-deez-the-mess-she-made",
-        "christine-and-the-queens-tilted",
+        "christine-the-queens-tilted",
         "soupcans-siamese-brutality",
         "n-lannon-another-love",
         "ok-go-upside-down-inside-out",
@@ -13875,9 +15392,11 @@
         "wintergatan-marble-machine",
         "charles-x-can-you-do-it",
         "michael-kiwanuka-black-man-in-a-white-world",
+        "beyonc-hold-up",
         "lyrical-school-run-and-run",
         "andy-shauf-the-worst-in-you",
         "reeps-one-does-not-exist",
+        "beyonc-sorry",
         "no-te-va-gustar-la-puerta-de-atras",
         "jones-melt",
         "green-day-bang-bang",
@@ -13938,7 +15457,7 @@
         "blonde-redhead-golden-light",
         "janelle-mon-e-make-me-feel",
         "bad-bunny-vete",
-        "fred-again-lil-yachty-and-overmono-stayinit"
+        "fred-again-lil-yachty-overmono-stayinit"
       ],
       "marching band": [
         "ok-go-this-too-shall-pass",
@@ -13951,6 +15470,7 @@
         "yelle-que-veux-tu-madeon-remix",
         "madeon-pop-culture",
         "lushlife-magnolia",
+        "beyonc-7-11",
         "hi-rophante-clich-s",
         "weval-someday",
         "max-cooper-circular",
@@ -13993,7 +15513,7 @@
       ],
       "platform": [
         "gerard-way-millions",
-        "christine-and-the-queens-tilted"
+        "christine-the-queens-tilted"
       ],
       "drone": [
         "ok-go-i-wont-let-you-down",
@@ -14009,7 +15529,8 @@
         "beatsofreen-slowly-rising"
       ],
       "bus": [
-        "hook-n-sling-feat-far-east-movement-break-yourself"
+        "hook-n-sling-ft-far-east-movement-break-yourself",
+        "beyonc-sorry"
       ],
       "zbig rybczynski": [
         "gilligan-moss-choreograph",
@@ -14075,7 +15596,7 @@
         "apashe-human",
         "jacques-absolve",
         "the-smile-friend-of-a-friend",
-        "fred-again-lil-yachty-and-overmono-stayinit",
+        "fred-again-lil-yachty-overmono-stayinit",
         "dua-lipa-illusion",
         "mette-bet",
         "kings-of-leon-mustang",
@@ -14111,7 +15632,10 @@
       "Bob Dylan": [
         "bob-dylan-subterranean-homesick-blues"
       ],
-      "Serge Gainsbourg & Brigitte Bardot": [
+      "Serge Gainsbourg": [
+        "serge-gainsbourg-brigitte-bardot-comic-strip"
+      ],
+      "Brigitte Bardot": [
         "serge-gainsbourg-brigitte-bardot-comic-strip"
       ],
       "David Bowie": [
@@ -14132,7 +15656,10 @@
       "Kate Bush": [
         "kate-bush-hammer-horror"
       ],
-      "Elvis Costello & The Attractions": [
+      "Elvis Costello": [
+        "elvis-costello-the-attractions-pump-it-up"
+      ],
+      "The Attractions": [
         "elvis-costello-the-attractions-pump-it-up"
       ],
       "Gary Numan": [
@@ -14140,7 +15667,11 @@
       ],
       "Prince": [
         "prince-i-wanna-be-your-lover",
-        "prince-1999"
+        "prince-1999",
+        "prince-the-revolution-when-doves-cry",
+        "prince-the-revolution-raspberry-beret",
+        "prince-the-revolution-kiss",
+        "prince-the-new-power-generation-cream"
       ],
       "Michael Jackson": [
         "michael-jackson-dont-stop-til-you-get-enough",
@@ -14180,10 +15711,10 @@
         "madonna-justify-my-love",
         "madonna-human-nature"
       ],
-      "Prince and the Revolution": [
-        "prince-and-the-revolution-when-doves-cry",
-        "prince-and-the-revolution-raspberry-beret",
-        "prince-and-the-revolution-kiss"
+      "The Revolution": [
+        "prince-the-revolution-when-doves-cry",
+        "prince-the-revolution-raspberry-beret",
+        "prince-the-revolution-kiss"
       ],
       "Robert Palmer": [
         "robert-palmer-addicted-to-love"
@@ -14191,7 +15722,10 @@
       "The Cure": [
         "the-cure-boys-dont-cry"
       ],
-      "Harold Faltermeyer & Steve Stevens": [
+      "Harold Faltermeyer": [
+        "harold-faltermeyer-steve-stevens-top-gun-anthem"
+      ],
+      "Steve Stevens": [
         "harold-faltermeyer-steve-stevens-top-gun-anthem"
       ],
       "Janet Jackson": [
@@ -14216,7 +15750,7 @@
       "George Michael": [
         "george-michael-freedom-90"
       ],
-      "Prince & The New Power Generation": [
+      "The New Power Generation": [
         "prince-the-new-power-generation-cream"
       ],
       "R.E.M.": [
@@ -14237,7 +15771,10 @@
       "Lisa Loeb": [
         "lisa-loeb-stay-i-missed-you"
       ],
-      "2Pac ft. Dr. Dre": [
+      "2Pac": [
+        "2pac-ft-dr-dre-california-love"
+      ],
+      "Dr. Dre": [
         "2pac-ft-dr-dre-california-love"
       ],
       "Björk": [
@@ -14285,7 +15822,13 @@
       "Marilyn Manson": [
         "marilyn-manson-the-beautiful-people"
       ],
-      "Missy Elliott & Da Brat": [
+      "Missy Elliott": [
+        "missy-elliott-da-brat-sock-it-2-me",
+        "missy-elliott-the-rain-supa-dupa-fly",
+        "missy-elliott-get-ur-freak-on",
+        "missy-elliott-work-it"
+      ],
+      "Da Brat": [
         "missy-elliott-da-brat-sock-it-2-me"
       ],
       "Daft Punk": [
@@ -14298,11 +15841,6 @@
       ],
       "Fiona Apple": [
         "fiona-apple-criminal"
-      ],
-      "Missy Elliott": [
-        "missy-elliott-the-rain-supa-dupa-fly",
-        "missy-elliott-get-ur-freak-on",
-        "missy-elliott-work-it"
       ],
       "The Verve": [
         "the-verve-bitter-sweet-symphony"
@@ -14446,8 +15984,11 @@
       "J Dilla": [
         "j-dilla-nothing-like-this"
       ],
-      "EL-P feat. Trent Reznor": [
-        "el-p-feat-trent-reznor-flyentology"
+      "EL-P": [
+        "el-p-ft-trent-reznor-flyentology"
+      ],
+      "Trent Reznor": [
+        "el-p-ft-trent-reznor-flyentology"
       ],
       "Modest Mouse": [
         "modest-mouse-dashboard"
@@ -14526,7 +16067,11 @@
       "Beyoncé": [
         "beyonc-single-ladies-put-a-ring-on-it",
         "beyonc-countdown",
-        "beyonc-formation"
+        "beyonc-ft-drake-mine",
+        "beyonc-7-11",
+        "beyonc-formation",
+        "beyonc-hold-up",
+        "beyonc-sorry"
       ],
       "Passion Pit": [
         "passion-pit-sleepyhead",
@@ -14548,8 +16093,11 @@
         "friendly-fires-skeleton-boy",
         "friendly-fires-hurting"
       ],
-      "Codebreaker feat. Kathy Diamond": [
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix"
+      "Codebreaker": [
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
+      ],
+      "Kathy Diamond": [
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
       ],
       "Chairlift": [
         "chairlift-evident-utensil"
@@ -14733,8 +16281,11 @@
         "duck-sauce-big-bad-wolf",
         "duck-sauce-mesmerize"
       ],
-      "Marian Ruzzi y Sr. Amable": [
-        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+      "Marian Ruzzi": [
+        "marian-ruzzi-sr-amable-una-pieza-mas"
+      ],
+      "Sr. Amable": [
+        "marian-ruzzi-sr-amable-una-pieza-mas"
       ],
       "Dear Lament": [
         "dear-lament-coffee"
@@ -14742,11 +16293,20 @@
       "Stuck in the Sound": [
         "stuck-in-the-sound-lets-go"
       ],
-      "Danger Mouse & Daniele Luppi feat. Jack White": [
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+      "Danger Mouse": [
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one"
       ],
-      "Modeselektor feat. Otto von Schirach": [
-        "modeselektor-feat-otto-von-schirach-evil-twin"
+      "Daniele Luppi": [
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one"
+      ],
+      "Jack White": [
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one"
+      ],
+      "Modeselektor": [
+        "modeselektor-f-otto-von-schirach-evil-twin"
+      ],
+      "Otto von Schirach": [
+        "modeselektor-f-otto-von-schirach-evil-twin"
       ],
       "M.I.A.": [
         "m-i-a-bad-girls"
@@ -14763,11 +16323,17 @@
       "The Shins": [
         "the-shins-simple-song"
       ],
-      "Kottarashky & The Rain Dogs": [
+      "Kottarashky": [
         "kottarashky-the-rain-dogs-demoni"
       ],
-      "Rudimental feat. John Newman": [
-        "rudimental-feat-john-newman-feel-the-love"
+      "The Rain Dogs": [
+        "kottarashky-the-rain-dogs-demoni"
+      ],
+      "Rudimental": [
+        "rudimental-ft-john-newman-feel-the-love"
+      ],
+      "John Newman": [
+        "rudimental-ft-john-newman-feel-the-love"
       ],
       "Foster The People": [
         "foster-the-people-houdini"
@@ -14817,7 +16383,10 @@
       "Russ Chimes": [
         "russ-chimes-turn-me-out"
       ],
-      "Karl Westman & IBM Research": [
+      "Karl Westman": [
+        "karl-westman-ibm-research-a-boy-and-his-atom"
+      ],
+      "IBM Research": [
         "karl-westman-ibm-research-a-boy-and-his-atom"
       ],
       "The Vein": [
@@ -14850,6 +16419,10 @@
       "Boozoo Bajou": [
         "boozoo-bajou-jan-mayen"
       ],
+      "Drake": [
+        "beyonc-ft-drake-mine",
+        "drake-hotline-bling"
+      ],
       "De Staat": [
         "de-staat-witch-doctor"
       ],
@@ -14868,7 +16441,10 @@
       "Pillar Point": [
         "pillar-point-dreamin"
       ],
-      "DJ Snake & Lil Jon": [
+      "DJ Snake": [
+        "dj-snake-lil-jon-turn-down-for-what"
+      ],
+      "Lil Jon": [
         "dj-snake-lil-jon-turn-down-for-what"
       ],
       "Queens Of The Stone Age": [
@@ -14937,11 +16513,17 @@
       "ALB": [
         "alb-the-road"
       ],
-      "Donnie Trumpet & The Social Experiment": [
+      "Donnie Trumpet": [
         "donnie-trumpet-the-social-experiment-sunday-candy"
       ],
-      "Hook N Sling feat. Far East Movement": [
-        "hook-n-sling-feat-far-east-movement-break-yourself"
+      "The Social Experiment": [
+        "donnie-trumpet-the-social-experiment-sunday-candy"
+      ],
+      "Hook N Sling": [
+        "hook-n-sling-ft-far-east-movement-break-yourself"
+      ],
+      "Far East Movement": [
+        "hook-n-sling-ft-far-east-movement-break-yourself"
       ],
       "Son Lux": [
         "son-lux-change-is-everything"
@@ -14962,17 +16544,17 @@
       "De Jeugd Van Tegenwoordig": [
         "de-jeugd-van-tegenwoordig-manon"
       ],
-      "Drake": [
-        "drake-hotline-bling"
-      ],
       "BEATSOFREEN": [
         "beatsofreen-slowly-rising"
       ],
       "Darwin Deez": [
         "darwin-deez-the-mess-she-made"
       ],
-      "Christine and the Queens": [
-        "christine-and-the-queens-tilted"
+      "Christine": [
+        "christine-the-queens-tilted"
+      ],
+      "The Queens": [
+        "christine-the-queens-tilted"
       ],
       "Soupcans": [
         "soupcans-siamese-brutality"
@@ -14997,7 +16579,8 @@
         "vince-staples-fun"
       ],
       "Leon Bridges": [
-        "leon-bridges-river"
+        "leon-bridges-river",
+        "leon-bridges-lucky-daye-all-about-you"
       ],
       "Mount Moriah": [
         "mount-moriah-precita"
@@ -15035,7 +16618,8 @@
       "Max Cooper": [
         "max-cooper-waves",
         "max-cooper-repetition",
-        "max-cooper-circular"
+        "max-cooper-circular",
+        "joep-beving-max-cooper-hanging-d-max-cooper-remix"
       ],
       "Tigerilla": [
         "tigerilla-tulips"
@@ -15084,7 +16668,10 @@
       "Mashrou Leila": [
         "mashrou-leila-roman"
       ],
-      "IFHT ft. Micayla Gatto": [
+      "IFHT": [
+        "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
+      ],
+      "Micayla Gatto": [
         "ifht-ft-micayla-gatto-ferda-girls-humble-parody"
       ],
       "5’Nizza": [
@@ -15096,7 +16683,10 @@
       "Thunder Tillman": [
         "thunder-tillman-alignments"
       ],
-      "N.E.R.D & Rihanna": [
+      "N.E.R.D": [
+        "n-e-r-d-rihanna-lemon"
+      ],
+      "Rihanna": [
         "n-e-r-d-rihanna-lemon"
       ],
       "Benjamin Booker": [
@@ -15111,7 +16701,10 @@
       "The Carters": [
         "the-carters-apeshit"
       ],
-      "Bas (ft. Correy C)": [
+      "Bas": [
+        "bas-ft-correy-c-fragrance"
+      ],
+      "Correy C": [
         "bas-ft-correy-c-fragrance"
       ],
       "Kuricorder Quartet": [
@@ -15146,7 +16739,10 @@
       "Mild Minds": [
         "mild-minds-walls"
       ],
-      "Thao & The Get Down Stay Down": [
+      "Thao": [
+        "thao-the-get-down-stay-down-phenom"
+      ],
+      "The Get Down Stay Down": [
         "thao-the-get-down-stay-down-phenom"
       ],
       "Dolche": [
@@ -15158,10 +16754,13 @@
       "Ariane Roy": [
         "ariane-roy-ta-main"
       ],
-      "Leon Bridges, Lucky Daye": [
+      "Lucky Daye": [
         "leon-bridges-lucky-daye-all-about-you"
       ],
-      "Chris Lake & Armand Van Helden": [
+      "Chris Lake": [
+        "chris-lake-armand-van-helden-the-answer"
+      ],
+      "Armand Van Helden": [
         "chris-lake-armand-van-helden-the-answer"
       ],
       "Taylor Bennett": [
@@ -15173,10 +16772,19 @@
       "Bad Bunny x Rosalía": [
         "bad-bunny-x-rosal-a-la-noche-de-anoche"
       ],
-      "Joep Beving & Max Cooper": [
+      "Joep Beving": [
         "joep-beving-max-cooper-hanging-d-max-cooper-remix"
       ],
-      "Pharrell Williams ft. 21 Savage, Tyler, The Creator": [
+      "Pharrell Williams": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "21 Savage": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "Tyler": [
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+      ],
+      "The Creator": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "MorMor": [
@@ -15199,7 +16807,8 @@
         "chappell-roan-the-subway"
       ],
       "Apashe": [
-        "apashe-human"
+        "apashe-human",
+        "apashe-vladimir-cauchemar-bellatores"
       ],
       "Jacques": [
         "jacques-absolve"
@@ -15207,8 +16816,14 @@
       "The Smile": [
         "the-smile-friend-of-a-friend"
       ],
-      "Fred Again, Lil Yachty, and Overmono": [
-        "fred-again-lil-yachty-and-overmono-stayinit"
+      "Fred Again": [
+        "fred-again-lil-yachty-overmono-stayinit"
+      ],
+      "Lil Yachty": [
+        "fred-again-lil-yachty-overmono-stayinit"
+      ],
+      "Overmono": [
+        "fred-again-lil-yachty-overmono-stayinit"
       ],
       "Dua Lipa": [
         "dua-lipa-illusion"
@@ -15219,7 +16834,7 @@
       "Tourist": [
         "tourist-valentine"
       ],
-      "Apashe & Vladimir Cauchemar": [
+      "Vladimir Cauchemar": [
         "apashe-vladimir-cauchemar-bellatores"
       ],
       "Doechii": [
@@ -15231,10 +16846,16 @@
       "Oneohtrix Point Never": [
         "oneohtrix-point-never-d-i-s"
       ],
-      "Alessandro Bavari & Suno": [
+      "Alessandro Bavari": [
         "alessandro-bavari-suno-solid-light-from-space"
       ],
-      "GENER8ION & Yung Lean": [
+      "Suno": [
+        "alessandro-bavari-suno-solid-light-from-space"
+      ],
+      "GENER8ION": [
+        "gener8ion-yung-lean-storm"
+      ],
+      "Yung Lean": [
         "gener8ion-yung-lean-storm"
       ],
       "PinkPantheress": [
@@ -15316,7 +16937,7 @@
         "michael-jackson-thriller"
       ],
       "Prince": [
-        "prince-and-the-revolution-when-doves-cry"
+        "prince-the-revolution-when-doves-cry"
       ],
       "Mary Lambert": [
         "madonna-material-girl",
@@ -15324,7 +16945,7 @@
         "madonna-like-a-prayer"
       ],
       "Drew Takahashi": [
-        "prince-and-the-revolution-raspberry-beret"
+        "prince-the-revolution-raspberry-beret"
       ],
       "Terence Donovan": [
         "robert-palmer-addicted-to-love"
@@ -15336,7 +16957,7 @@
         "the-cure-boys-dont-cry"
       ],
       "Rebecca Blake": [
-        "prince-and-the-revolution-kiss",
+        "prince-the-revolution-kiss",
         "prince-the-new-power-generation-cream"
       ],
       "Dominic Sena": [
@@ -15604,14 +17225,14 @@
       ],
       "Daniel Garcia": [
         "j-dilla-nothing-like-this",
-        "el-p-feat-trent-reznor-flyentology",
+        "el-p-ft-trent-reznor-flyentology",
         "tv-on-the-radio-me-i",
         "flying-lotus-infinitum",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
         "cults-oh-my-god"
       ],
       "Nathan Love": [
-        "el-p-feat-trent-reznor-flyentology"
+        "el-p-ft-trent-reznor-flyentology"
       ],
       "Matthew Cullen": [
         "modest-mouse-dashboard"
@@ -15690,7 +17311,7 @@
         "friendly-fires-skeleton-boy"
       ],
       "Erik West": [
-        "codebreaker-feat-kathy-diamond-fire-jimmy-edgar-remix"
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
       ],
       "Ray Tintori": [
         "chairlift-evident-utensil"
@@ -15818,7 +17439,7 @@
         "johnny-cash-aint-no-grave",
         "arcade-fire-we-used-to-wait",
         "rome-3-dreams-of-black",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one"
       ],
       "Eric Gunther": [
         "ok-go-end-love"
@@ -15828,7 +17449,7 @@
       ],
       "A.F. Schepperd": [
         "blockhead-the-music-scene",
-        "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
+        "danger-mouse-daniele-luppi-ft-jack-white-two-against-one"
       ],
       "Lucy McRae": [
         "champagne-valentine-black-material",
@@ -15933,7 +17554,9 @@
         "beyonc-countdown"
       ],
       "Beyoncé": [
-        "beyonc-countdown"
+        "beyonc-countdown",
+        "beyonc-7-11",
+        "beyonc-sorry"
       ],
       "John Bollozos": [
         "casey-veggies-euphoria-ii"
@@ -15946,10 +17569,10 @@
         "friendly-fires-hurting"
       ],
       "Luis Safa": [
-        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+        "marian-ruzzi-sr-amable-una-pieza-mas"
       ],
       "BASA Studio": [
-        "marian-ruzzi-y-sr-amable-una-pieza-mas"
+        "marian-ruzzi-sr-amable-una-pieza-mas"
       ],
       "Felix Kasiske": [
         "dear-lament-coffee"
@@ -15964,7 +17587,7 @@
         "stuck-in-the-sound-lets-go"
       ],
       "Dent de Cuir": [
-        "modeselektor-feat-otto-von-schirach-evil-twin",
+        "modeselektor-f-otto-von-schirach-evil-twin",
         "dye-shes-bad",
         "the-shoes-drifted"
       ],
@@ -15990,7 +17613,7 @@
         "kottarashky-the-rain-dogs-demoni"
       ],
       "Bob Harlow": [
-        "rudimental-feat-john-newman-feel-the-love"
+        "rudimental-ft-john-newman-feel-the-love"
       ],
       "Emmanuelle Walker": [
         "r-yksopp-so-easy-unofficial-video"
@@ -16002,7 +17625,8 @@
         "psy-gangnam-style"
       ],
       "Kahlil Joseph": [
-        "flying-lotus-until-the-quiet-comes"
+        "flying-lotus-until-the-quiet-comes",
+        "beyonc-sorry"
       ],
       "Dave Mossop": [
         "data-blood-theme"
@@ -16068,6 +17692,9 @@
       ],
       "Michael Fragstein": [
         "boozoo-bajou-jan-mayen"
+      ],
+      "Pierre Debusschere": [
+        "beyonc-ft-drake-mine"
       ],
       "Studio Smack": [
         "de-staat-witch-doctor"
@@ -16137,6 +17764,10 @@
       "Shahir Daud": [
         "nigel-stanford-cymatics"
       ],
+      "Todd Tourso": [
+        "beyonc-7-11",
+        "n-e-r-d-rihanna-lemon"
+      ],
       "Ewan Jones Morris": [
         "dralms-crushed-pleats"
       ],
@@ -16165,10 +17796,10 @@
         "donnie-trumpet-the-social-experiment-sunday-candy"
       ],
       "Nelson De Castro": [
-        "hook-n-sling-feat-far-east-movement-break-yourself"
+        "hook-n-sling-ft-far-east-movement-break-yourself"
       ],
       "Carlos López Estrada": [
-        "hook-n-sling-feat-far-east-movement-break-yourself"
+        "hook-n-sling-ft-far-east-movement-break-yourself"
       ],
       "Nathan Johnson": [
         "son-lux-change-is-everything"
@@ -16203,7 +17834,7 @@
         "beatsofreen-slowly-rising"
       ],
       "J.A.C.K.": [
-        "christine-and-the-queens-tilted"
+        "christine-the-queens-tilted"
       ],
       "Winston Hacking": [
         "soupcans-siamese-brutality",
@@ -16236,6 +17867,9 @@
       ],
       "Parallel": [
         "charles-x-can-you-do-it"
+      ],
+      "Jonas Åkerlund": [
+        "beyonc-hold-up"
       ],
       "TBWAHAKUHODO": [
         "lyrical-school-run-and-run"
@@ -16334,9 +17968,6 @@
       ],
       "Hugo & Marie": [
         "thunder-tillman-alignments"
-      ],
-      "Todd Tourso": [
-        "n-e-r-d-rihanna-lemon"
       ],
       "Scott Cudmore": [
         "n-e-r-d-rihanna-lemon"
@@ -16467,7 +18098,7 @@
         "chappell-roan-super-graphic-ultra-modern-girl"
       ],
       "LOOSE & UNCANNY": [
-        "fred-again-lil-yachty-and-overmono-stayinit"
+        "fred-again-lil-yachty-overmono-stayinit"
       ],
       "Tanu Muiño": [
         "dua-lipa-illusion"
@@ -16572,7 +18203,7 @@
       "kids": 19,
       "1980's": 28,
       "body-ody": 8,
-      "womxn director": 55,
+      "womxn director": 56,
       "wut": 20,
       "orbiting": 14,
       "legs": 2,
@@ -16582,7 +18213,7 @@
       "motorcycle": 2,
       "meta": 18,
       "collage": 16,
-      "poc director": 69,
+      "poc director": 70,
       "my sweet 16": 16,
       "paper": 5,
       "stop motion": 26,
@@ -16593,7 +18224,7 @@
       "new york": 21,
       "tracking shot": 13,
       "horses": 8,
-      "monochrome": 46,
+      "monochrome": 47,
       "1990's": 48,
       "potential nsfw": 20,
       "vfx": 48,
@@ -16604,19 +18235,19 @@
       "desert": 9,
       "busby berkeley": 9,
       "crowd": 16,
-      "snorri/stabilize": 11,
+      "snorri/stabilize": 12,
       "surveillance": 7,
-      "datamoshing": 5,
+      "datamosh/frameblend": 5,
       "timeslice": 6,
       "architecture": 8,
       "mixed media": 8,
       "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
-      "slowmo": 17,
+      "slowmo": 18,
       "walk/run": 13,
       "3D animation": 18,
-      "water": 12,
+      "water": 13,
       "fire": 3,
       "skeleton": 2,
       "explosions": 6,
@@ -16632,7 +18263,7 @@
       "2000's": 94,
       "soundsync": 24,
       "rube goldberg": 3,
-      "woc director": 20,
+      "woc director": 21,
       "lego": 1,
       "pixel": 8,
       "piano": 1,
@@ -16667,10 +18298,10 @@
       "crowdsource": 4,
       "user interface": 9,
       "ascii": 2,
-      "2010's": 214,
+      "2010's": 218,
       "lighting": 8,
       "marching band": 2,
-      "match cut": 10,
+      "match cut": 11,
       "timelapse": 2,
       "whip pan": 5,
       "balloon": 1,
@@ -16683,7 +18314,7 @@
       "drone": 4,
       "umbrella": 1,
       "flowers": 2,
-      "bus": 1,
+      "bus": 2,
       "zbig rybczynski": 3,
       "vr": 2,
       "crime": 2,
@@ -16697,15 +18328,17 @@
     },
     "artists": {
       "Bob Dylan": 1,
-      "Serge Gainsbourg & Brigitte Bardot": 1,
+      "Serge Gainsbourg": 1,
+      "Brigitte Bardot": 1,
       "David Bowie": 2,
       "Pink Floyd": 3,
       "Queen": 1,
       "The Pointer Sisters": 1,
       "Kate Bush": 1,
-      "Elvis Costello & The Attractions": 1,
+      "Elvis Costello": 1,
+      "The Attractions": 1,
       "Gary Numan": 1,
-      "Prince": 2,
+      "Prince": 6,
       "Michael Jackson": 5,
       "Devo": 1,
       "Orchestral Manoeuvres In The Dark": 1,
@@ -16715,24 +18348,26 @@
       "Irene Cara": 1,
       "Herbie Hancock": 1,
       "Madonna": 7,
-      "Prince and the Revolution": 3,
+      "The Revolution": 3,
       "Robert Palmer": 1,
       "The Cure": 1,
-      "Harold Faltermeyer & Steve Stevens": 1,
+      "Harold Faltermeyer": 1,
+      "Steve Stevens": 1,
       "Janet Jackson": 3,
       "Peter Gabriel": 1,
       "When In Rome": 1,
       "Paula Abdul": 1,
       "Depeche Mode": 3,
       "George Michael": 1,
-      "Prince & The New Power Generation": 1,
+      "The New Power Generation": 1,
       "R.E.M.": 1,
       "Meat Loaf": 1,
       "Selena": 1,
       "Nine Inch Nails": 1,
       "Soundgarden": 1,
       "Lisa Loeb": 1,
-      "2Pac ft. Dr. Dre": 1,
+      "2Pac": 1,
+      "Dr. Dre": 1,
       "Björk": 6,
       "Radiohead": 6,
       "The Rolling Stones": 1,
@@ -16743,11 +18378,11 @@
       "The Smashing Pumpkins": 2,
       "Jamiroquai": 1,
       "Marilyn Manson": 1,
-      "Missy Elliott & Da Brat": 1,
+      "Missy Elliott": 4,
+      "Da Brat": 1,
       "Daft Punk": 3,
       "Michael Penn": 1,
       "Fiona Apple": 1,
-      "Missy Elliott": 3,
       "The Verve": 1,
       "Natalie Imbruglia": 1,
       "Lauryn Hill": 1,
@@ -16788,7 +18423,8 @@
       "I Love You But I’ve Chosen Darkness": 1,
       "Regina Spektor": 1,
       "J Dilla": 1,
-      "EL-P feat. Trent Reznor": 1,
+      "EL-P": 1,
+      "Trent Reznor": 1,
       "Modest Mouse": 1,
       "Battles": 4,
       "Feist": 3,
@@ -16810,14 +18446,15 @@
       "Thunderheist": 1,
       "Fleet Foxes": 3,
       "Brite Futures": 2,
-      "Beyoncé": 3,
+      "Beyoncé": 7,
       "Passion Pit": 2,
       "Dick Annegarn": 1,
       "The American Dollar": 1,
       "Pistol Youth": 1,
       "Possible Metrics": 1,
       "Friendly Fires": 2,
-      "Codebreaker feat. Kathy Diamond": 1,
+      "Codebreaker": 1,
+      "Kathy Diamond": 1,
       "Chairlift": 1,
       "Fever Ray": 1,
       "Nyle": 1,
@@ -16874,18 +18511,24 @@
       "Casey Veggies": 1,
       "We Cut Corners": 1,
       "Duck Sauce": 2,
-      "Marian Ruzzi y Sr. Amable": 1,
+      "Marian Ruzzi": 1,
+      "Sr. Amable": 1,
       "Dear Lament": 1,
       "Stuck in the Sound": 1,
-      "Danger Mouse & Daniele Luppi feat. Jack White": 1,
-      "Modeselektor feat. Otto von Schirach": 1,
+      "Danger Mouse": 1,
+      "Daniele Luppi": 1,
+      "Jack White": 1,
+      "Modeselektor": 1,
+      "Otto von Schirach": 1,
       "M.I.A.": 1,
       "Gotye": 1,
       "Johnny Neon": 1,
       "St. Vincent": 1,
       "The Shins": 1,
-      "Kottarashky & The Rain Dogs": 1,
-      "Rudimental feat. John Newman": 1,
+      "Kottarashky": 1,
+      "The Rain Dogs": 1,
+      "Rudimental": 1,
+      "John Newman": 1,
       "Foster The People": 1,
       "Willow": 1,
       "PSY": 1,
@@ -16901,7 +18544,8 @@
       "Iron & Wine": 1,
       "Light Light": 1,
       "Russ Chimes": 1,
-      "Karl Westman & IBM Research": 1,
+      "Karl Westman": 1,
+      "IBM Research": 1,
       "The Vein": 1,
       "Y.N.RichKids": 1,
       "Gesaffelstein": 1,
@@ -16912,13 +18556,15 @@
       "Travis": 1,
       "Savages": 1,
       "Boozoo Bajou": 1,
+      "Drake": 2,
       "De Staat": 1,
       "Raleigh Ritchie": 1,
       "kwes.": 1,
       "Metronomy": 1,
       "Kiesza": 1,
       "Pillar Point": 1,
-      "DJ Snake & Lil Jon": 1,
+      "DJ Snake": 1,
+      "Lil Jon": 1,
       "Queens Of The Stone Age": 1,
       "Sia": 1,
       "Hundred Waters": 1,
@@ -16940,18 +18586,20 @@
       "A Love Like Pi": 1,
       "Dana Williams": 1,
       "ALB": 1,
-      "Donnie Trumpet & The Social Experiment": 1,
-      "Hook N Sling feat. Far East Movement": 1,
+      "Donnie Trumpet": 1,
+      "The Social Experiment": 1,
+      "Hook N Sling": 1,
+      "Far East Movement": 1,
       "Son Lux": 1,
       "Gilligan Moss": 1,
       "Lorn": 2,
       "JR JR": 1,
       "The Shoes": 1,
       "De Jeugd Van Tegenwoordig": 1,
-      "Drake": 1,
       "BEATSOFREEN": 1,
       "Darwin Deez": 1,
-      "Christine and the Queens": 1,
+      "Christine": 1,
+      "The Queens": 1,
       "Soupcans": 1,
       "N. Lannon": 1,
       "Violet Sands": 1,
@@ -16959,7 +18607,7 @@
       "Miike Snow": 1,
       "Valentino Khan": 1,
       "Vince Staples": 2,
-      "Leon Bridges": 1,
+      "Leon Bridges": 2,
       "Mount Moriah": 1,
       "Vessels": 1,
       "Wintergatan": 1,
@@ -16971,7 +18619,7 @@
       "No Te Va Gustar": 1,
       "JONES": 1,
       "Green Day": 1,
-      "Max Cooper": 3,
+      "Max Cooper": 4,
       "Tigerilla": 1,
       "Bomba Estéreo": 1,
       "Needle Points": 1,
@@ -16987,16 +18635,19 @@
       "Milk & Bone": 1,
       "Washed Out": 1,
       "Mashrou Leila": 1,
-      "IFHT ft. Micayla Gatto": 1,
+      "IFHT": 1,
+      "Micayla Gatto": 1,
       "5’Nizza": 1,
       "So Much Light": 1,
       "Thunder Tillman": 1,
-      "N.E.R.D & Rihanna": 1,
+      "N.E.R.D": 1,
+      "Rihanna": 1,
       "Benjamin Booker": 1,
       "Gaz Coombes": 1,
       "LUC": 1,
       "The Carters": 1,
-      "Bas (ft. Correy C)": 1,
+      "Bas": 1,
+      "Correy C": 1,
       "Kuricorder Quartet": 1,
       "Mitski": 1,
       "LANY": 1,
@@ -17006,35 +18657,44 @@
       "Squarepusher": 1,
       "Four Tet": 1,
       "Mild Minds": 1,
-      "Thao & The Get Down Stay Down": 1,
+      "Thao": 1,
+      "The Get Down Stay Down": 1,
       "Dolche": 1,
       "Yello": 1,
       "Ariane Roy": 1,
-      "Leon Bridges, Lucky Daye": 1,
-      "Chris Lake & Armand Van Helden": 1,
+      "Lucky Daye": 1,
+      "Chris Lake": 1,
+      "Armand Van Helden": 1,
       "Taylor Bennett": 1,
       "Dayglow": 1,
       "Bad Bunny x Rosalía": 1,
-      "Joep Beving & Max Cooper": 1,
-      "Pharrell Williams ft. 21 Savage, Tyler, The Creator": 1,
+      "Joep Beving": 1,
+      "Pharrell Williams": 1,
+      "21 Savage": 1,
+      "Tyler": 1,
+      "The Creator": 1,
       "MorMor": 1,
       "Mette": 4,
       "Paul Kalkbrenner": 1,
       "Jungle": 1,
       "Chappell Roan": 2,
-      "Apashe": 1,
+      "Apashe": 2,
       "Jacques": 1,
       "The Smile": 1,
-      "Fred Again, Lil Yachty, and Overmono": 1,
+      "Fred Again": 1,
+      "Lil Yachty": 1,
+      "Overmono": 1,
       "Dua Lipa": 1,
       "Kings Of Leon": 1,
       "Tourist": 1,
-      "Apashe & Vladimir Cauchemar": 1,
+      "Vladimir Cauchemar": 1,
       "Doechii": 1,
       "Wolf Alice": 1,
       "Oneohtrix Point Never": 1,
-      "Alessandro Bavari & Suno": 1,
-      "GENER8ION & Yung Lean": 1,
+      "Alessandro Bavari": 1,
+      "Suno": 1,
+      "GENER8ION": 1,
+      "Yung Lean": 1,
       "PinkPantheress": 1,
       "Balming Tiger": 1
     },
@@ -17228,7 +18888,7 @@
       "Céline Desrumaux": 1,
       "Scott Benson": 1,
       "Adria Petty": 1,
-      "Beyoncé": 1,
+      "Beyoncé": 3,
       "John Bollozos": 1,
       "Kijek / Adamski": 2,
       "David Lewandowski": 1,
@@ -17248,7 +18908,7 @@
       "Emmanuelle Walker": 1,
       "Filip Sterckx": 1,
       "Cho Soo-hyun": 1,
-      "Kahlil Joseph": 1,
+      "Kahlil Joseph": 2,
       "Dave Mossop": 1,
       "Eric Crosland": 1,
       "Andrew Thomas Huang": 1,
@@ -17270,6 +18930,7 @@
       "Gergely Wootsch": 1,
       "Gemma Thompson": 1,
       "Michael Fragstein": 1,
+      "Pierre Debusschere": 1,
       "Studio Smack": 1,
       "Floris Kaayk": 1,
       "Torre Florim": 1,
@@ -17292,6 +18953,7 @@
       "Jennifer Juniper Stratford": 1,
       "Kazuaki Seki": 1,
       "Shahir Daud": 1,
+      "Todd Tourso": 2,
       "Ewan Jones Morris": 1,
       "Guillaume Panariello": 1,
       "Thomas Rhazi": 1,
@@ -17324,6 +18986,7 @@
       "Chloe Hayward": 1,
       "Hannes Knutsson": 1,
       "Parallel": 1,
+      "Jonas Åkerlund": 1,
       "TBWAHAKUHODO": 1,
       "John Hendicott": 1,
       "Pablo Marcovecchio": 1,
@@ -17356,7 +19019,6 @@
       "Max Ksjonda": 1,
       "Jane Qian": 1,
       "Hugo & Marie": 1,
-      "Todd Tourso": 1,
       "Scott Cudmore": 1,
       "James Lees": 1,
       "Yusuke Tanaka": 1,

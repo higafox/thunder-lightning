@@ -386,6 +386,7 @@ a {
   align-items: center;
   justify-content: center;
   padding: 24px;
+  overscroll-behavior: contain;
 }
 .card {
   max-width: 440px;
@@ -435,26 +436,30 @@ a {
 }
 .rosterTabs {
   display: flex;
+  align-items: flex-end;
   gap: 8px;
   margin-bottom: 12px;
 }
+/* a border-bottom rather than text-decoration -- the tab mixes two font
+   sizes (its label and the smaller .rosterTabCount), and an underline's
+   thickness gets recalculated per differently-sized inline run, rendering
+   visibly thinner under the count than under the label. A border on the
+   button box itself is one uniform weight across the whole tab. */
 .rosterTab {
   font-family: var(--serif);
   font-weight: 400;
   font-size: 22px;
   color: var(--dimmer);
-  transition: color 0.18s, text-decoration-color 0.18s;
-  text-decoration: underline;
-  text-decoration-color: transparent;
-  text-underline-offset: 6px;
-  text-decoration-thickness: 1.5px;
+  padding-bottom: 4px;
+  border-bottom: 1.5px solid transparent;
+  transition: color 0.18s, border-color 0.18s;
 }
 .rosterTab:hover {
   color: var(--dim);
 }
 .rosterTab.sel {
   color: var(--ink);
-  text-decoration-color: var(--active);
+  border-bottom-color: var(--active);
 }
 /* the (count) mirrors the sans-serif treatment of the counts in the list
    below it, rather than inheriting the tab's serif heading font -- also
@@ -506,6 +511,7 @@ a {
   flex: 1;
   min-height: 0;
   overflow-y: auto;
+  overscroll-behavior: contain;
   display: flex;
   flex-direction: column;
 }
