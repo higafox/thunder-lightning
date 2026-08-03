@@ -1006,7 +1006,6 @@
       "thumbnailUrl": "https://img.youtube.com/vi/qZEi2fpl1bs/hqdefault.jpg",
       "tags": [
         "2000's",
-        "birds",
         "in camera",
         "poc director",
         "repeat",
@@ -7936,7 +7935,8 @@
       "song": "Flyentology",
       "director": "Daniel Garcia & Nathan Love",
       "directors": [
-        "Daniel Garcia & Nathan Love"
+        "Daniel Garcia",
+        "Nathan Love"
       ],
       "directorAffiliate": null,
       "dateDisplay": "January 2007",
@@ -12326,7 +12326,6 @@
       ],
       "birds": [
         "prince-and-the-revolution-when-doves-cry",
-        "yuki-sentimental-journey",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "tv-on-the-radio-me-i",
         "thunderheist-jerk-it",
@@ -15452,11 +15451,12 @@
       ],
       "Daniel Garcia": [
         "j-dilla-nothing-like-this",
+        "el-p-feat-trent-reznor-flyentology",
         "tv-on-the-radio-me-i",
         "flying-lotus-infinitum",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix"
       ],
-      "Daniel Garcia & Nathan Love": [
+      "Nathan Love": [
         "el-p-feat-trent-reznor-flyentology"
       ],
       "Matthew Cullen": [
@@ -16411,7 +16411,7 @@
       "legs": 2,
       "machine": 11,
       "prosthetics": 5,
-      "birds": 10,
+      "birds": 9,
       "motorcycle": 2,
       "meta": 18,
       "collage": 16,
@@ -16970,8 +16970,8 @@
       "Emmanuel Ho": 1,
       "Peter Sluzka": 1,
       "Mixtape Club": 6,
-      "Daniel Garcia": 4,
-      "Daniel Garcia & Nathan Love": 1,
+      "Daniel Garcia": 5,
+      "Nathan Love": 1,
       "Matthew Cullen": 1,
       "Grady Hall": 1,
       "Timothy Saccenti": 1,

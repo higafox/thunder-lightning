@@ -443,13 +443,23 @@ a {
   font-weight: 400;
   font-size: 22px;
   color: var(--dimmer);
-  transition: color 0.18s;
+  transition: color 0.18s, text-decoration-color 0.18s;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 6px;
+  text-decoration-thickness: 1.5px;
 }
 .rosterTab:hover {
   color: var(--dim);
 }
 .rosterTab.sel {
   color: var(--ink);
+  text-decoration-color: var(--active);
+}
+/* the (count) mirrors the sans-serif treatment of the counts in the list
+   below it, rather than inheriting the tab's serif heading font. */
+.rosterTabCount {
+  font-family: var(--sans);
 }
 .rosterTabSep {
   font-family: var(--serif);

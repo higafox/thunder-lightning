@@ -361,6 +361,30 @@ function RosterModal({
     return () => document.removeEventListener("keydown", onKey);
   }, [onClose]);
 
+  // wheel-scrolling this list moves rows under a stationary cursor, which
+  // still fires mouseenter/mouseleave on each row that passes underneath --
+  // that's the "flash" (every row's hover color strobing as it scrolls by).
+  // Disabling pointer-events for the duration of the scroll stops hover from
+  // registering at all until motion settles.
+  const listRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    const el = listRef.current;
+    if (!el) return;
+    let timer: ReturnType<typeof setTimeout>;
+    const onScroll = () => {
+      el.style.pointerEvents = "none";
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        el.style.pointerEvents = "";
+      }, 120);
+    };
+    el.addEventListener("scroll", onScroll);
+    return () => {
+      el.removeEventListener("scroll", onScroll);
+      clearTimeout(timer);
+    };
+  }, []);
+
   const alphaLabel = `A–Z ${alphaDir === "asc" ? "↓" : "↑"}`;
   const countLabel = `Count ${countDir === "desc" ? "↓" : "↑"}`;
 
@@ -377,11 +401,11 @@ function RosterModal({
         </button>
         <div className="rosterTabs">
           <button className={`rosterTab${kind === "artists" ? " sel" : ""}`} onClick={() => onSwitchKind("artists")}>
-            Artists ({totalArtists})
+            Artists <span className="rosterTabCount">({totalArtists})</span>
           </button>
           <span className="rosterTabSep">/</span>
           <button className={`rosterTab${kind === "directors" ? " sel" : ""}`} onClick={() => onSwitchKind("directors")}>
-            Directors ({totalDirectors})
+            Directors <span className="rosterTabCount">({totalDirectors})</span>
           </button>
         </div>
         <div className="rosterSortRow">
@@ -392,7 +416,7 @@ function RosterModal({
             {countLabel}
           </button>
         </div>
-        <div className="rosterList">
+        <div className="rosterList" ref={listRef}>
           {names.map(({ name, count }) => (
             <button key={name} className="rosterItem" onClick={() => onPick(name)}>
               {name} <span className="c">({count})</span>
