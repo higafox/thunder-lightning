@@ -258,13 +258,13 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           >
             {chrono === true ? "Chronological ↓" : chrono === false ? "Chronological ↑" : "Chronological"}
           </button>
+          {personFilter && (
+            <div className="personFilter">
+              {personFilter.kind === "artists" ? "Artist" : "Director"}: {personFilter.name}
+              <button onClick={() => setPersonFilter(null)}>✕</button>
+            </div>
+          )}
         </div>
-        {personFilter && (
-          <div className="personFilter">
-            {personFilter.kind === "artists" ? "Artist" : "Director"}: {personFilter.name}
-            <button onClick={() => setPersonFilter(null)}>✕</button>
-          </div>
-        )}
         <div className="tagbar">
           <button className={`tg${selTag === null ? " sel" : ""}`} onClick={() => setSelTag(null)}>
             All

@@ -457,9 +457,15 @@ a {
   text-decoration-color: var(--active);
 }
 /* the (count) mirrors the sans-serif treatment of the counts in the list
-   below it, rather than inheriting the tab's serif heading font. */
+   below it, rather than inheriting the tab's serif heading font -- also
+   smaller and dimmer than its label, echoing the same name/(count)
+   hierarchy the list rows use. opacity (not a fixed color) so it stays
+   dimmer than its own label whether the tab is active, inactive, or
+   hovered, rather than just matching one specific state. */
 .rosterTabCount {
   font-family: var(--sans);
+  font-size: 12px;
+  opacity: 0.6;
 }
 .rosterTabSep {
   font-family: var(--serif);
@@ -621,12 +627,9 @@ a {
   color: #141208;
 }
 .personFilter {
-  max-width: 1400px;
-  margin: 16px auto 0;
   display: flex;
   align-items: center;
   gap: 8px;
-  width: fit-content;
   padding: 7px 8px 7px 14px;
   border-radius: var(--radius);
   background: var(--active);

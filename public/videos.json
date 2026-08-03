@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 448,
-    "totalArtists": 340,
-    "totalDirectors": 379,
-    "totalTags": 151
+    "totalVideos": 453,
+    "totalArtists": 341,
+    "totalDirectors": 380,
+    "totalTags": 152
   },
   "videos": {
     "mette-van-gogh": {
@@ -1065,9 +1065,9 @@
       "id": "snoop-dogg-sensual-seduction",
       "artist": "Snoop Dogg",
       "song": "Sensual Seduction",
-      "director": "Melina",
+      "director": "Melina Matsoukas",
       "directors": [
-        "Melina"
+        "Melina Matsoukas"
       ],
       "directorAffiliate": null,
       "dateDisplay": "November 2007",
@@ -1560,9 +1560,9 @@
       "id": "the-white-stripes-the-hardest-button-to-button",
       "artist": "The White Stripes",
       "song": "The Hardest Button To Button",
-      "director": "Michel Gondy",
+      "director": "Michel Gondry",
       "directors": [
-        "Michel Gondy"
+        "Michel Gondry"
       ],
       "directorAffiliate": null,
       "dateDisplay": "September 2003",
@@ -5049,7 +5049,7 @@
     },
     "jay-z-moonlight": {
       "id": "jay-z-moonlight",
-      "artist": "JAY-Z",
+      "artist": "Jay-Z",
       "song": "Moonlight",
       "director": "Alan Yang",
       "directors": [
@@ -5124,9 +5124,9 @@
       "id": "madonna-holiday",
       "artist": "Madonna",
       "song": "Holiday",
-      "director": "Uncredited",
+      "director": "uncredited",
       "directors": [
-        "Uncredited"
+        "uncredited"
       ],
       "directorAffiliate": null,
       "dateDisplay": "September 1983",
@@ -5604,7 +5604,7 @@
     },
     "tune-yards-medley-for-google-i-o": {
       "id": "tune-yards-medley-for-google-i-o",
-      "artist": "Tune-Yards",
+      "artist": "tUnE-yArDs",
       "song": "Medley for Google I/O",
       "director": "David Li",
       "directors": [
@@ -10657,9 +10657,9 @@
       "id": "eskmo-we-got-more",
       "artist": "Eskmo",
       "song": "We Got More",
-      "director": "Cyriak Harris",
+      "director": "Cyriak",
       "directors": [
-        "Cyriak Harris"
+        "Cyriak"
       ],
       "directorAffiliate": null,
       "dateDisplay": "December 2010",
@@ -11118,6 +11118,129 @@
         "user interface"
       ],
       "embedBroken": false
+    },
+    "cults-oh-my-god": {
+      "id": "cults-oh-my-god",
+      "artist": "Cults",
+      "song": "Oh My God",
+      "director": "Daniel Garcia",
+      "directors": [
+        "Daniel Garcia"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2010",
+      "sortDate": "2010-08-27",
+      "year": 2010,
+      "provider": "youtube",
+      "youtubeId": "2kMd3PDpopw",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/2kMd3PDpopw/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "balloon"
+      ],
+      "embedBroken": false
+    },
+    "cults-gilded-lily": {
+      "id": "cults-gilded-lily",
+      "artist": "Cults",
+      "song": "Gilded Lily",
+      "director": "Eliott Sellers",
+      "directors": [
+        "Eliott Sellers"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "May 2023",
+      "sortDate": "2023-05-11",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "X8NOGvc84xc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/X8NOGvc84xc/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "california",
+        "surreal",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "needle-points-corazon": {
+      "id": "needle-points-corazon",
+      "artist": "Needle Points",
+      "song": "Corazon",
+      "director": "Don Vincent Ortega, Raymo Ventura & Jen Vance",
+      "directors": [
+        "Don Vincent Ortega",
+        "Raymo Ventura",
+        "Jen Vance"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "September 2016",
+      "sortDate": "2016-09-23",
+      "year": 2016,
+      "provider": "youtube",
+      "youtubeId": "rhmHllvOkdQ",
+      "vimeoId": "188158064",
+      "thumbnailUrl": "https://img.youtube.com/vi/rhmHllvOkdQ/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "fireworks",
+        "new york",
+        "poc director",
+        "surreal",
+        "woc director",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "reptile-youth-be-my-yoko-ono": {
+      "id": "reptile-youth-be-my-yoko-ono",
+      "artist": "Reptile Youth",
+      "song": "Be My Yoko Ono",
+      "director": "Lucy McRae & Hyper Island Motion Graphics",
+      "directors": [
+        "Lucy McRae",
+        "Hyper Island Motion Graphics"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "December 2012",
+      "sortDate": "2012-12-14",
+      "year": 2012,
+      "provider": "youtube",
+      "youtubeId": "u4A8fXoKDrM",
+      "vimeoId": "55292988",
+      "thumbnailUrl": "https://img.youtube.com/vi/u4A8fXoKDrM/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "optical illusion",
+        "paper",
+        "vimeo staff pick"
+      ],
+      "embedBroken": false
+    },
+    "the-peach-kings-thieves-and-kings": {
+      "id": "the-peach-kings-thieves-and-kings",
+      "artist": "The Peach Kings",
+      "song": "Thieves and Kings",
+      "director": "Paul Trillo",
+      "directors": [
+        "Paul Trillo"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2011",
+      "sortDate": "2011-01-01",
+      "year": 2011,
+      "provider": "youtube",
+      "youtubeId": "8GVvG_T_xe4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/8GVvG_T_xe4/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "datamoshing",
+        "narrative"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -11321,6 +11444,7 @@
       "blockhead-the-music-scene",
       "champagne-valentine-black-material",
       "the-hundred-in-the-hands-pigeons",
+      "cults-oh-my-god",
       "arcade-fire-we-used-to-wait",
       "ok-go-white-knuckles",
       "el-guincho-bombay",
@@ -11329,6 +11453,7 @@
       "scissor-sisters-invisible-light",
       "michael-langan-dahlia",
       "memory-tapes-yes-i-know",
+      "the-peach-kings-thieves-and-kings",
       "tv-on-the-radio-second-song",
       "tune-yards-bizness",
       "woodkid-iron",
@@ -11380,6 +11505,7 @@
       "data-blood-theme",
       "bj-rk-mutual-core",
       "lushlife-magnolia",
+      "reptile-youth-be-my-yoko-ono",
       "rone-bye-bye-macadam",
       "ryan-barger-dreams-are-real",
       "shugo-tokumaru-katachi",
@@ -11472,6 +11598,7 @@
       "tigerilla-tulips",
       "lorn-anvil",
       "bomba-est-reo-soy-yo",
+      "needle-points-corazon",
       "bonobo-kerala",
       "ok-go-the-one-moment",
       "blonde-redhead-golden-light",
@@ -11539,6 +11666,7 @@
       "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
       "mormor-here-it-goes-again",
       "mette-mamas-eyes",
+      "cults-gilded-lily",
       "janelle-mon-e-lipstick-lover",
       "paul-kalkbrenner-schwer",
       "mette-van-gogh",
@@ -12067,6 +12195,7 @@
         "massive-attack-take-it-there",
         "vince-staples-lift-me-up",
         "michael-kiwanuka-black-man-in-a-white-world",
+        "needle-points-corazon",
         "blonde-redhead-golden-light",
         "bonobo-no-reason",
         "clark-peak-magnetic",
@@ -12077,6 +12206,7 @@
         "bad-bunny-vete",
         "yello-out-of-sight",
         "alt-j-hard-drive-gold",
+        "cults-gilded-lily",
         "jacques-absolve",
         "mette-bet",
         "daft-punk-human-after-all",
@@ -12244,6 +12374,7 @@
         "beyonc-formation",
         "vessels-4am",
         "lorn-anvil",
+        "needle-points-corazon",
         "jmii-bailar",
         "sylvan-esso-kick-jump-twist",
         "mashrou-leila-roman",
@@ -12420,6 +12551,7 @@
         "massive-attack-take-it-there",
         "beyonc-formation",
         "michael-kiwanuka-black-man-in-a-white-world",
+        "needle-points-corazon",
         "jay-z-moonlight",
         "jmii-bailar",
         "young-thug-wyclef-jean",
@@ -12469,6 +12601,7 @@
         "talking-heads-and-she-was",
         "regina-spektor-samson",
         "shitdisco-ok",
+        "reptile-youth-be-my-yoko-ono",
         "ok-go-obsession"
       ],
       "stop motion": [
@@ -12522,6 +12655,7 @@
         "r-kelly-trapped-in-the-closet",
         "modest-mouse-dashboard",
         "my-morning-jacket-touch-me-im-going-to-scream-part-2",
+        "the-peach-kings-thieves-and-kings",
         "son-of-kick-playing-the-villain",
         "the-shins-simple-song",
         "flying-lotus-until-the-quiet-comes",
@@ -12553,6 +12687,7 @@
         "kiesza-hideaway",
         "pillar-point-dreamin",
         "bomba-est-reo-soy-yo",
+        "needle-points-corazon",
         "the-peach-kings-dirty-secret",
         "dolche-big-man",
         "chappell-roan-the-subway"
@@ -12745,6 +12880,7 @@
         "mild-minds-walls",
         "dolche-big-man",
         "yello-out-of-sight",
+        "cults-gilded-lily",
         "paul-kalkbrenner-schwer",
         "apashe-human",
         "mette-bet",
@@ -12766,6 +12902,7 @@
         "duke-dumont-wont-look-back",
         "vince-staples-lift-me-up",
         "lany-thick-and-thin",
+        "cults-gilded-lily",
         "chappell-roan-super-graphic-ultra-modern-girl",
         "kendrick-lamar-not-like-us"
       ],
@@ -12872,6 +13009,7 @@
         "the-rolling-stones-like-a-rolling-stone",
         "missy-elliott-get-ur-freak-on",
         "chairlift-evident-utensil",
+        "the-peach-kings-thieves-and-kings",
         "dralms-crushed-pleats"
       ],
       "timeslice": [
@@ -13249,6 +13387,7 @@
         "huma-huma-hello-i-like-you",
         "beyonc-countdown",
         "beyonc-formation",
+        "needle-points-corazon",
         "mashrou-leila-roman",
         "janelle-mon-e-i-like-that",
         "janelle-mon-e-lipstick-lover",
@@ -13353,6 +13492,7 @@
       "optical illusion": [
         "goose-british-mode",
         "passion-pit-sleepyhead",
+        "reptile-youth-be-my-yoko-ono",
         "ok-go-the-writings-on-the-wall",
         "ok-go-love"
       ],
@@ -13407,6 +13547,7 @@
         "kingdom-crumbs-evoking-spirits",
         "data-blood-theme",
         "lushlife-magnolia",
+        "reptile-youth-be-my-yoko-ono",
         "ryan-barger-dreams-are-real",
         "shugo-tokumaru-katachi",
         "husbands-dream",
@@ -13455,6 +13596,7 @@
       "fireworks": [
         "feist-i-feel-it-all",
         "the-hundred-in-the-hands-pigeons",
+        "needle-points-corazon",
         "bad-bunny-si-veo-a-tu-mam",
         "bad-bunny-yo-visto-as"
       ],
@@ -13589,6 +13731,7 @@
         "blockhead-the-music-scene",
         "champagne-valentine-black-material",
         "the-hundred-in-the-hands-pigeons",
+        "cults-oh-my-god",
         "arcade-fire-we-used-to-wait",
         "ok-go-white-knuckles",
         "el-guincho-bombay",
@@ -13597,6 +13740,7 @@
         "scissor-sisters-invisible-light",
         "michael-langan-dahlia",
         "memory-tapes-yes-i-know",
+        "the-peach-kings-thieves-and-kings",
         "tv-on-the-radio-second-song",
         "tune-yards-bizness",
         "woodkid-iron",
@@ -13648,6 +13792,7 @@
         "data-blood-theme",
         "bj-rk-mutual-core",
         "lushlife-magnolia",
+        "reptile-youth-be-my-yoko-ono",
         "rone-bye-bye-macadam",
         "ryan-barger-dreams-are-real",
         "shugo-tokumaru-katachi",
@@ -13740,6 +13885,7 @@
         "tigerilla-tulips",
         "lorn-anvil",
         "bomba-est-reo-soy-yo",
+        "needle-points-corazon",
         "bonobo-kerala",
         "ok-go-the-one-moment",
         "blonde-redhead-golden-light",
@@ -13820,6 +13966,9 @@
         "clark-peak-magnetic",
         "kings-of-leon-mustang",
         "lady-gaga-abracadabra"
+      ],
+      "balloon": [
+        "cults-oh-my-god"
       ],
       "rotoscoping": [
         "we-cut-corners-pirates-life",
@@ -13917,6 +14066,7 @@
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "mormor-here-it-goes-again",
         "mette-mamas-eyes",
+        "cults-gilded-lily",
         "janelle-mon-e-lipstick-lover",
         "paul-kalkbrenner-schwer",
         "mette-van-gogh",
@@ -14232,7 +14382,8 @@
         "outkast-hey-ya"
       ],
       "Jay-Z": [
-        "jay-z-99-problems"
+        "jay-z-99-problems",
+        "jay-z-moonlight"
       ],
       "Stereogram": [
         "stereogram-walkie-talkie-man"
@@ -14491,6 +14642,10 @@
       "The Hundred in the Hands": [
         "the-hundred-in-the-hands-pigeons"
       ],
+      "Cults": [
+        "cults-oh-my-god",
+        "cults-gilded-lily"
+      ],
       "Arcade Fire": [
         "arcade-fire-we-used-to-wait",
         "arcade-fire-reflektor"
@@ -14513,8 +14668,13 @@
       "Memory Tapes": [
         "memory-tapes-yes-i-know"
       ],
+      "The Peach Kings": [
+        "the-peach-kings-thieves-and-kings",
+        "the-peach-kings-dirty-secret"
+      ],
       "tUnE-yArDs": [
-        "tune-yards-bizness"
+        "tune-yards-bizness",
+        "tune-yards-medley-for-google-i-o"
       ],
       "Woodkid": [
         "woodkid-iron",
@@ -14626,6 +14786,9 @@
       ],
       "Lushlife": [
         "lushlife-magnolia"
+      ],
+      "Reptile Youth": [
+        "reptile-youth-be-my-yoko-ono"
       ],
       "Rone": [
         "rone-bye-bye-macadam"
@@ -14880,11 +15043,11 @@
       "Bomba Estéreo": [
         "bomba-est-reo-soy-yo"
       ],
+      "Needle Points": [
+        "needle-points-corazon"
+      ],
       "Blonde Redhead": [
         "blonde-redhead-golden-light"
-      ],
-      "JAY-Z": [
-        "jay-z-moonlight"
       ],
       "JMII": [
         "jmii-bailar"
@@ -14944,9 +15107,6 @@
       ],
       "LUC": [
         "luc-glow"
-      ],
-      "The Peach Kings": [
-        "the-peach-kings-dirty-secret"
       ],
       "The Carters": [
         "the-carters-apeshit"
@@ -15012,9 +15172,6 @@
       ],
       "Bad Bunny x Rosalía": [
         "bad-bunny-x-rosal-a-la-noche-de-anoche"
-      ],
-      "Tune-Yards": [
-        "tune-yards-medley-for-google-i-o"
       ],
       "Joep Beving & Max Cooper": [
         "joep-beving-max-cooper-hanging-d-max-cooper-remix"
@@ -15151,8 +15308,9 @@
       "Godley & Creme": [
         "herbie-hancock-rockit"
       ],
-      "Uncredited": [
-        "madonna-holiday"
+      "uncredited": [
+        "madonna-holiday",
+        "when-in-rome-the-promise"
       ],
       "John Landis": [
         "michael-jackson-thriller"
@@ -15190,9 +15348,6 @@
       ],
       "James Foley": [
         "madonna-papa-dont-preach"
-      ],
-      "uncredited": [
-        "when-in-rome-the-promise"
       ],
       "Colin Chilvers": [
         "michael-jackson-smooth-criminal"
@@ -15262,6 +15417,7 @@
         "the-white-stripes-fell-in-love-with-a-girl",
         "the-white-stripes-dead-leaves-and-the-dirty-ground",
         "kylie-minogue-come-into-my-world",
+        "the-white-stripes-the-hardest-button-to-button",
         "stereogram-walkie-talkie-man",
         "devendra-banhart-a-ribbon",
         "dick-annegarn-soleil-du-soir",
@@ -15386,9 +15542,6 @@
         "feist-my-moon-my-man",
         "feist-i-feel-it-all"
       ],
-      "Michel Gondy": [
-        "the-white-stripes-the-hardest-button-to-button"
-      ],
       "Alex Smith": [
         "the-darkness-i-believe-in-a-thing-called-love"
       ],
@@ -15454,7 +15607,8 @@
         "el-p-feat-trent-reznor-flyentology",
         "tv-on-the-radio-me-i",
         "flying-lotus-infinitum",
-        "lcd-soundsystem-drunk-girls-holy-ghost-remix"
+        "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "cults-oh-my-god"
       ],
       "Nathan Love": [
         "el-p-feat-trent-reznor-flyentology"
@@ -15486,8 +15640,9 @@
       "Joey Garfield": [
         "r2j2-work-it-out"
       ],
-      "Melina": [
-        "snoop-dogg-sensual-seduction"
+      "Melina Matsoukas": [
+        "snoop-dogg-sensual-seduction",
+        "beyonc-formation"
       ],
       "Max Hattler": [
         "jemapur-aanaatt"
@@ -15676,7 +15831,8 @@
         "danger-mouse-daniele-luppi-feat-jack-white-two-against-one"
       ],
       "Lucy McRae": [
-        "champagne-valentine-black-material"
+        "champagne-valentine-black-material",
+        "reptile-youth-be-my-yoko-ono"
       ],
       "CANADA": [
         "el-guincho-bombay",
@@ -15687,8 +15843,11 @@
       "Radical Friend": [
         "primary-1-princess"
       ],
-      "Cyriak Harris": [
-        "eskmo-we-got-more"
+      "Cyriak": [
+        "eskmo-we-got-more",
+        "hooray-for-earth-true-loves-cereal-spiller-remix",
+        "bonobo-cirrus",
+        "bloc-party-ratchet"
       ],
       "Nicolas Mendez": [
         "scissor-sisters-invisible-light"
@@ -15700,6 +15859,13 @@
       ],
       "Eric Epstein": [
         "memory-tapes-yes-i-know"
+      ],
+      "Paul Trillo": [
+        "the-peach-kings-thieves-and-kings",
+        "sarh-u-and-i",
+        "the-peach-kings-dirty-secret",
+        "bas-ft-correy-c-fragrance",
+        "jacques-absolve"
       ],
       "Mikey Please": [
         "tv-on-the-radio-second-song"
@@ -15727,11 +15893,6 @@
       ],
       "Luis Cerveró": [
         "battles-ice-cream"
-      ],
-      "Cyriak": [
-        "hooray-for-earth-true-loves-cereal-spiller-remix",
-        "bonobo-cirrus",
-        "bloc-party-ratchet"
       ],
       "Ninian Doff": [
         "fulton-lights-staring-out-the-window",
@@ -15857,6 +16018,9 @@
         "leon-bridges-lucky-daye-all-about-you",
         "taylor-bennett-dont-wait-up"
       ],
+      "Hyper Island Motion Graphics": [
+        "reptile-youth-be-my-yoko-ono"
+      ],
       "Dimitri Stankowicz": [
         "rone-bye-bye-macadam"
       ],
@@ -15964,12 +16128,6 @@
       "Tim & Joe": [
         "duke-dumont-wont-look-back"
       ],
-      "Paul Trillo": [
-        "sarh-u-and-i",
-        "the-peach-kings-dirty-secret",
-        "bas-ft-correy-c-fragrance",
-        "jacques-absolve"
-      ],
       "Jennifer Juniper Stratford": [
         "gerard-way-millions"
       ],
@@ -16067,9 +16225,6 @@
       "Miles Jay": [
         "leon-bridges-river"
       ],
-      "Melina Matsoukas": [
-        "beyonc-formation"
-      ],
       "Fidel Ruiz-Healy": [
         "mount-moriah-precita"
       ],
@@ -16112,6 +16267,15 @@
       ],
       "Torben Kjelstrup": [
         "bomba-est-reo-soy-yo"
+      ],
+      "Don Vincent Ortega": [
+        "needle-points-corazon"
+      ],
+      "Raymo Ventura": [
+        "needle-points-corazon"
+      ],
+      "Jen Vance": [
+        "needle-points-corazon"
       ],
       "Bison": [
         "bonobo-kerala"
@@ -16284,6 +16448,9 @@
         "mette-mamas-eyes",
         "mette-van-gogh"
       ],
+      "Eliott Sellers": [
+        "cults-gilded-lily"
+      ],
       "Janelle Monáe": [
         "janelle-mon-e-lipstick-lover"
       ],
@@ -16395,7 +16562,7 @@
       "chronophotography": 6,
       "dance": 81,
       "gothy": 20,
-      "surreal": 63,
+      "surreal": 65,
       "kaleidoscope": 8,
       "hair": 5,
       "greenscreen": 4,
@@ -16405,7 +16572,7 @@
       "kids": 19,
       "1980's": 28,
       "body-ody": 8,
-      "womxn director": 54,
+      "womxn director": 55,
       "wut": 20,
       "orbiting": 14,
       "legs": 2,
@@ -16415,22 +16582,22 @@
       "motorcycle": 2,
       "meta": 18,
       "collage": 16,
-      "poc director": 68,
+      "poc director": 69,
       "my sweet 16": 16,
-      "paper": 4,
+      "paper": 5,
       "stop motion": 26,
       "lip sync": 3,
       "shadows": 1,
       "plane": 3,
-      "narrative": 21,
-      "new york": 20,
+      "narrative": 22,
+      "new york": 21,
       "tracking shot": 13,
       "horses": 8,
       "monochrome": 46,
       "1990's": 48,
       "potential nsfw": 20,
-      "vfx": 47,
-      "california": 16,
+      "vfx": 48,
+      "california": 17,
       "psychedelic": 22,
       "skates": 2,
       "cars": 7,
@@ -16439,7 +16606,7 @@
       "crowd": 16,
       "snorri/stabilize": 11,
       "surveillance": 7,
-      "datamoshing": 4,
+      "datamoshing": 5,
       "timeslice": 6,
       "architecture": 8,
       "mixed media": 8,
@@ -16465,7 +16632,7 @@
       "2000's": 94,
       "soundsync": 24,
       "rube goldberg": 3,
-      "woc director": 19,
+      "woc director": 20,
       "lego": 1,
       "pixel": 8,
       "piano": 1,
@@ -16479,12 +16646,12 @@
       "matchmove": 6,
       "dogs": 5,
       "jump": 4,
-      "optical illusion": 4,
+      "optical illusion": 5,
       "slitscan": 5,
       "bike": 5,
       "keytar": 1,
-      "vimeo staff pick": 77,
-      "fireworks": 4,
+      "vimeo staff pick": 78,
+      "fireworks": 5,
       "d&ad": 4,
       "ukmva": 12,
       "lightning": 4,
@@ -16500,12 +16667,13 @@
       "crowdsource": 4,
       "user interface": 9,
       "ascii": 2,
-      "2010's": 210,
+      "2010's": 214,
       "lighting": 8,
       "marching band": 2,
       "match cut": 10,
       "timelapse": 2,
       "whip pan": 5,
+      "balloon": 1,
       "rotoscoping": 2,
       "macro": 3,
       "hockney": 4,
@@ -16523,7 +16691,7 @@
       "flute": 1,
       "sapphic": 4,
       "louvre": 2,
-      "2020's": 55,
+      "2020's": 56,
       "skateboard": 1,
       "ai": 2
     },
@@ -16603,7 +16771,7 @@
       "Yeah Yeah Yeahs": 1,
       "The Darkness": 1,
       "Outkast": 1,
-      "Jay-Z": 1,
+      "Jay-Z": 2,
       "Stereogram": 1,
       "Devendra Banhart": 1,
       "R. Kelly": 1,
@@ -16678,6 +16846,7 @@
       "Blockhead": 1,
       "Champagne Valentine": 1,
       "The Hundred in the Hands": 1,
+      "Cults": 2,
       "Arcade Fire": 2,
       "El Guincho": 1,
       "Primary 1": 1,
@@ -16685,7 +16854,8 @@
       "Scissor Sisters": 1,
       "Michael Langan": 1,
       "Memory Tapes": 1,
-      "tUnE-yArDs": 1,
+      "The Peach Kings": 2,
+      "tUnE-yArDs": 2,
       "Woodkid": 2,
       "Yelle": 1,
       "Huma-Huma": 1,
@@ -16722,6 +16892,7 @@
       "Kingdom Crumbs": 1,
       "Data": 1,
       "Lushlife": 1,
+      "Reptile Youth": 1,
       "Rone": 1,
       "Ryan Barger": 1,
       "Shugo Tokumaru": 1,
@@ -16803,8 +16974,8 @@
       "Max Cooper": 3,
       "Tigerilla": 1,
       "Bomba Estéreo": 1,
+      "Needle Points": 1,
       "Blonde Redhead": 1,
-      "JAY-Z": 1,
       "JMII": 1,
       "Young Thug": 1,
       "Sylvan Esso": 1,
@@ -16824,7 +16995,6 @@
       "Benjamin Booker": 1,
       "Gaz Coombes": 1,
       "LUC": 1,
-      "The Peach Kings": 1,
       "The Carters": 1,
       "Bas (ft. Correy C)": 1,
       "Kuricorder Quartet": 1,
@@ -16845,7 +17015,6 @@
       "Taylor Bennett": 1,
       "Dayglow": 1,
       "Bad Bunny x Rosalía": 1,
-      "Tune-Yards": 1,
       "Joep Beving & Max Cooper": 1,
       "Pharrell Williams ft. 21 Savage, Tyler, The Creator": 1,
       "MorMor": 1,
@@ -16890,7 +17059,7 @@
       "Tony van den Ende": 1,
       "Adrian Lyne": 1,
       "Godley & Creme": 1,
-      "Uncredited": 1,
+      "uncredited": 2,
       "John Landis": 1,
       "Prince": 1,
       "Mary Lambert": 3,
@@ -16902,7 +17071,6 @@
       "Dominic Sena": 2,
       "Stephen R. Johnson": 1,
       "James Foley": 1,
-      "uncredited": 1,
       "Colin Chilvers": 1,
       "David Fincher": 3,
       "Anton Corbijn": 4,
@@ -16917,7 +17085,7 @@
       "Hype Williams": 3,
       "Spike Jonze": 5,
       "David Mould": 1,
-      "Michel Gondry": 15,
+      "Michel Gondry": 16,
       "Jamie Thraves": 1,
       "Jonathan Glazer": 3,
       "Jonathan Dayton": 2,
@@ -16953,7 +17121,6 @@
       "Bessy & Combe": 1,
       "Monkmus": 1,
       "Patrick Daughters": 4,
-      "Michel Gondy": 1,
       "Alex Smith": 1,
       "Bryan Barber": 1,
       "R. Kelly": 1,
@@ -16970,7 +17137,7 @@
       "Emmanuel Ho": 1,
       "Peter Sluzka": 1,
       "Mixtape Club": 6,
-      "Daniel Garcia": 5,
+      "Daniel Garcia": 6,
       "Nathan Love": 1,
       "Matthew Cullen": 1,
       "Grady Hall": 1,
@@ -16980,7 +17147,7 @@
       "James Bobin": 1,
       "Dougal Wilson": 2,
       "Joey Garfield": 1,
-      "Melina": 1,
+      "Melina Matsoukas": 2,
       "Max Hattler": 1,
       "Adam Buxton": 1,
       "SSSR": 1,
@@ -17034,13 +17201,14 @@
       "Eric Gunther": 1,
       "Jeff Lieberman": 1,
       "A.F. Schepperd": 2,
-      "Lucy McRae": 1,
+      "Lucy McRae": 2,
       "CANADA": 4,
       "Radical Friend": 1,
-      "Cyriak Harris": 1,
+      "Cyriak": 4,
       "Nicolas Mendez": 1,
       "Michael Langan": 3,
       "Eric Epstein": 1,
+      "Paul Trillo": 5,
       "Mikey Please": 1,
       "Mimi Cave": 2,
       "Yoann Lemoine": 2,
@@ -17049,7 +17217,6 @@
       "The Glue Society": 1,
       "Ned Wenlock": 1,
       "Luis Cerveró": 1,
-      "Cyriak": 3,
       "Ninian Doff": 4,
       "Zach Lieberman": 1,
       "Francisco Zamorano": 1,
@@ -17086,6 +17253,7 @@
       "Eric Crosland": 1,
       "Andrew Thomas Huang": 1,
       "LAMAR+NIK": 3,
+      "Hyper Island Motion Graphics": 1,
       "Dimitri Stankowicz": 1,
       "Ryan Barger": 1,
       "Katie Akana": 1,
@@ -17121,7 +17289,6 @@
       "Bob Partington": 1,
       "Ballard C. Boyd": 1,
       "Tim & Joe": 1,
-      "Paul Trillo": 4,
       "Jennifer Juniper Stratford": 1,
       "Kazuaki Seki": 1,
       "Shahir Daud": 1,
@@ -17153,7 +17320,6 @@
       "Hiérophante": 1,
       "David M. Helman": 1,
       "Miles Jay": 1,
-      "Melina Matsoukas": 1,
       "Fidel Ruiz-Healy": 1,
       "Chloe Hayward": 1,
       "Hannes Knutsson": 1,
@@ -17168,6 +17334,9 @@
       "Tom Noakes": 1,
       "GERIKO": 1,
       "Torben Kjelstrup": 1,
+      "Don Vincent Ortega": 1,
+      "Raymo Ventura": 1,
+      "Jen Vance": 1,
       "Bison": 1,
       "Virgilio Villoresi": 1,
       "Alan Yang": 1,
@@ -17220,6 +17389,7 @@
       "Darcy Wallace": 1,
       "François Rousselet": 1,
       "Camille Summers-Valli": 2,
+      "Eliott Sellers": 1,
       "Janelle Monáe": 1,
       "Jovan Todorović": 1,
       "J Lloyd": 1,
