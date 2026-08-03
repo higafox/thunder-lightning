@@ -30,7 +30,7 @@ export function Constellation({
       counts,
       stream,
       seedKey: cur,
-      frameRect: { left: rect.left, right: rect.right, top: rect.top },
+      frameRect: { left: rect.left, right: rect.right, top: rect.top, bottom: rect.bottom },
       viewport: { width: window.innerWidth, height: window.innerHeight },
     });
     setLayout(next);

@@ -251,6 +251,7 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
         <div className="arcTools">
           <input
             id="arcSearch"
+            className={search.trim() ? "active" : undefined}
             placeholder="Search artist, song, director, tag"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
@@ -286,6 +287,17 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
               onClick={() => setSelTag((prev) => (prev === t ? null : t))}
             >
               {t}
+              {selTag === t && (
+                <span
+                  className="tgClear"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setSelTag(null);
+                  }}
+                >
+                  ✕
+                </span>
+              )}
             </button>
           ))}
           <button className="tgSort" onClick={cycleTagSort} title="Change tag order">

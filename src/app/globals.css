@@ -610,6 +610,14 @@ a {
 .arcTools input::placeholder {
   color: var(--dimmer);
 }
+/* a non-empty search is another active filter stacked on top of any
+   selected tag, but it's easy to forget it's still narrowing the grid --
+   the same gold accent used for an active tag/pill nudges it back into view. */
+.arcTools input.active {
+  background: #211f19;
+  border-color: var(--active);
+  box-shadow: 0 0 0 1px rgba(232, 210, 106, 0.25);
+}
 .arcShuffle {
   font-size: 10.5px;
   letter-spacing: 0.14em;
@@ -673,6 +681,13 @@ a {
 .tagbar .tg.sel {
   background: var(--active);
   color: #141208;
+}
+.tagbar .tg .tgClear {
+  margin-left: 6px;
+  opacity: 0.7;
+}
+.tagbar .tg .tgClear:hover {
+  opacity: 1;
 }
 .tagbar .tgSort {
   font-size: 10.5px;

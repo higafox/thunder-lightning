@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 457,
+    "totalVideos": 458,
     "totalArtists": 370,
-    "totalDirectors": 382,
+    "totalDirectors": 383,
     "totalTags": 152
   },
   "videos": {
@@ -343,12 +343,11 @@
     },
     "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas": {
       "id": "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
-      "artist": "Pharrell Williams (ft. 21 Savage, Tyler, The Creator)",
+      "artist": "Pharrell Williams (ft. 21 Savage, Tyler The Creator)",
       "artists": [
         "Pharrell Williams",
         "21 Savage",
-        "Tyler",
-        "The Creator"
+        "Tyler The Creator"
       ],
       "song": "Cash In Cash Out",
       "director": "François Rousselet",
@@ -9793,7 +9792,6 @@
       "thumbnailUrl": "https://img.youtube.com/vi/mEpfyBOdKxU/hqdefault.jpg",
       "tags": [
         "2010's",
-        "360",
         "in camera",
         "loops",
         "pixilation",
@@ -12685,7 +12683,12 @@
       "thumbnailUrl": "https://img.youtube.com/vi/IDvu1ehPq0g/hqdefault.jpg",
       "tags": [
         "2010's",
-        "slowmo"
+        "desert",
+        "explosions",
+        "fire",
+        "slowmo",
+        "tableau",
+        "water"
       ],
       "embedBroken": false
     },
@@ -12712,6 +12715,7 @@
       "tags": [
         "2010's",
         "bus",
+        "dance",
         "monochrome"
       ],
       "embedBroken": false
@@ -12743,6 +12747,33 @@
         "snorri/stabilize",
         "woc director",
         "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "opale-sparkles-and-wine": {
+      "id": "opale-sparkles-and-wine",
+      "artist": "Opale",
+      "artists": [
+        "Opale"
+      ],
+      "song": "Sparkles and Wine",
+      "director": "Nacho Guzman",
+      "directors": [
+        "Nacho Guzman"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2013",
+      "sortDate": "2013-06-10",
+      "year": 2013,
+      "provider": "youtube",
+      "youtubeId": "AdsYpi_1Zc4",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/AdsYpi_1Zc4/hqdefault.jpg",
+      "tags": [
+        "2010's",
+        "in camera",
+        "lighting",
+        "poc director"
       ],
       "embedBroken": false
     }
@@ -13021,6 +13052,7 @@
       "karl-westman-ibm-research-a-boy-and-his-atom",
       "the-vein-magma",
       "y-n-richkids-my-bike",
+      "opale-sparkles-and-wine",
       "gesaffelstein-pursuit",
       "vial-of-sound-a-lifetime-passed",
       "lorde-tennis-court",
@@ -13209,7 +13241,6 @@
     ],
     "tags": {
       "360": [
-        "gotye-easy-way-out",
         "chappell-roan-super-graphic-ultra-modern-girl"
       ],
       "1960's": [
@@ -13252,6 +13283,7 @@
         "kottarashky-the-rain-dogs-demoni",
         "willow-sweater",
         "lushlife-magnolia",
+        "opale-sparkles-and-wine",
         "phoenix-trying-to-be-cool",
         "travis-moving",
         "ok-go-the-writings-on-the-wall",
@@ -13433,6 +13465,7 @@
         "scissor-sisters-invisible-light",
         "woodkid-iron",
         "russ-chimes-turn-me-out",
+        "beyonc-ft-drake-mine",
         "gilligan-moss-choreograph",
         "beyonc-formation",
         "blonde-redhead-golden-light",
@@ -13604,6 +13637,7 @@
         "massive-attack-take-it-there",
         "beyonc-formation",
         "michael-kiwanuka-black-man-in-a-white-world",
+        "beyonc-sorry",
         "jones-melt",
         "tigerilla-tulips",
         "bomba-est-reo-soy-yo",
@@ -14049,6 +14083,7 @@
         "psy-gangnam-style",
         "flying-lotus-until-the-quiet-comes",
         "bj-rk-mutual-core",
+        "opale-sparkles-and-wine",
         "dj-snake-lil-jon-turn-down-for-what",
         "queens-of-the-stone-age-smooth-sailing",
         "ok-go-i-wont-let-you-down",
@@ -14461,6 +14496,7 @@
         "primary-1-princess",
         "rome-3-dreams-of-black",
         "m-i-a-bad-girls",
+        "beyonc-ft-drake-mine",
         "chris-lake-armand-van-helden-the-answer",
         "apashe-human",
         "daft-punk-human-after-all"
@@ -14642,6 +14678,7 @@
         "fever-ray-when-i-grow-up",
         "slow-magic-corvette-cassette",
         "willow-sweater",
+        "beyonc-ft-drake-mine",
         "n-lannon-another-love",
         "beyonc-formation",
         "beyonc-hold-up",
@@ -14651,6 +14688,7 @@
       "fire": [
         "radiohead-karma-police",
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "beyonc-ft-drake-mine",
         "bad-bunny-x-rosal-a-la-noche-de-anoche"
       ],
       "skeleton": [
@@ -14663,6 +14701,7 @@
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
         "woodkid-iron",
         "psy-gangnam-style",
+        "beyonc-ft-drake-mine",
         "ok-go-the-one-moment"
       ],
       "fisheye": [
@@ -15319,6 +15358,7 @@
         "karl-westman-ibm-research-a-boy-and-his-atom",
         "the-vein-magma",
         "y-n-richkids-my-bike",
+        "opale-sparkles-and-wine",
         "gesaffelstein-pursuit",
         "vial-of-sound-a-lifetime-passed",
         "lorde-tennis-court",
@@ -15451,6 +15491,7 @@
       ],
       "lighting": [
         "lcd-soundsystem-drunk-girls-holy-ghost-remix",
+        "opale-sparkles-and-wine",
         "lorde-tennis-court",
         "travis-moving",
         "drake-hotline-bling",
@@ -16395,6 +16436,9 @@
       "Y.N.RichKids": [
         "y-n-richkids-my-bike"
       ],
+      "Opale": [
+        "opale-sparkles-and-wine"
+      ],
       "Gesaffelstein": [
         "gesaffelstein-pursuit"
       ],
@@ -16781,10 +16825,7 @@
       "21 Savage": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
-      "Tyler": [
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
-      ],
-      "The Creator": [
+      "Tyler The Creator": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "MorMor": [
@@ -17678,6 +17719,9 @@
       "Ben Hughes": [
         "y-n-richkids-my-bike"
       ],
+      "Nacho Guzman": [
+        "opale-sparkles-and-wine"
+      ],
       "Joel Kefali": [
         "lorde-tennis-court"
       ],
@@ -18173,16 +18217,16 @@
   },
   "counts": {
     "tags": {
-      "360": 2,
+      "360": 1,
       "1960's": 3,
-      "in camera": 49,
+      "in camera": 50,
       "long take": 43,
       "lyrics": 5,
       "retro": 23,
       "confidence": 32,
       "illustration": 26,
       "pixilation": 11,
-      "tableau": 31,
+      "tableau": 32,
       "mirrors": 6,
       "space": 15,
       "1970's": 10,
@@ -18191,7 +18235,7 @@
       "cel animation": 24,
       "marbles": 3,
       "chronophotography": 6,
-      "dance": 81,
+      "dance": 82,
       "gothy": 20,
       "surreal": 65,
       "kaleidoscope": 8,
@@ -18213,7 +18257,7 @@
       "motorcycle": 2,
       "meta": 18,
       "collage": 16,
-      "poc director": 70,
+      "poc director": 71,
       "my sweet 16": 16,
       "paper": 5,
       "stop motion": 26,
@@ -18232,7 +18276,7 @@
       "psychedelic": 22,
       "skates": 2,
       "cars": 7,
-      "desert": 9,
+      "desert": 10,
       "busby berkeley": 9,
       "crowd": 16,
       "snorri/stabilize": 12,
@@ -18247,10 +18291,10 @@
       "slowmo": 18,
       "walk/run": 13,
       "3D animation": 18,
-      "water": 13,
-      "fire": 3,
+      "water": 14,
+      "fire": 4,
       "skeleton": 2,
-      "explosions": 6,
+      "explosions": 7,
       "fisheye": 1,
       "loops": 23,
       "ping pong": 1,
@@ -18298,8 +18342,8 @@
       "crowdsource": 4,
       "user interface": 9,
       "ascii": 2,
-      "2010's": 218,
-      "lighting": 8,
+      "2010's": 219,
+      "lighting": 9,
       "marching band": 2,
       "match cut": 11,
       "timelapse": 2,
@@ -18548,6 +18592,7 @@
       "IBM Research": 1,
       "The Vein": 1,
       "Y.N.RichKids": 1,
+      "Opale": 1,
       "Gesaffelstein": 1,
       "Vial of Sound": 1,
       "Lorde": 1,
@@ -18671,8 +18716,7 @@
       "Joep Beving": 1,
       "Pharrell Williams": 1,
       "21 Savage": 1,
-      "Tyler": 1,
-      "The Creator": 1,
+      "Tyler The Creator": 1,
       "MorMor": 1,
       "Mette": 4,
       "Paul Kalkbrenner": 1,
@@ -18925,6 +18969,7 @@
       "Nico Casavecchia": 1,
       "Dvein": 1,
       "Ben Hughes": 1,
+      "Nacho Guzman": 1,
       "Joel Kefali": 1,
       "Tom & Matt": 1,
       "Gergely Wootsch": 1,

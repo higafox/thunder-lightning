@@ -78,7 +78,7 @@ export function buildConstellation(params: {
   counts: Counts;
   stream: StreamState;
   seedKey: string;
-  frameRect: { left: number; right: number; top: number };
+  frameRect: { left: number; right: number; top: number; bottom: number };
   viewport: { width: number; height: number };
 }): ConstellationLayout {
   const { video: v, counts: CT, stream: s, seedKey, frameRect, viewport } = params;
@@ -205,6 +205,12 @@ export function buildConstellation(params: {
   const frameLeft = (frameRect.left / vw2) * 100;
   const frameRight = (frameRect.right / vw2) * 100;
   const frameTop = (frameRect.top / vh2) * 100;
+  // a dense rail's last pill previously stopped at a fixed 68 (lining up
+  // with the YouTube playbar, short of the frame's real bottom edge). Biased
+  // most of the way toward the frame's actual measured bottom -- a plain
+  // 50/50 split still read as too high.
+  const measuredFrameBottom = Math.min(82, Math.max(60, (frameRect.bottom / vh2) * 100));
+  const frameBottom = 68 + (measuredFrameBottom - 68) * 0.7;
   // frame moved down 1.5pts (padding-top 5vh -> 8vh) to open up breathing room
   // below the controls; subtract that back out so Earlier/Later/Shuffle stay
   // put while the frame drops further below them.
@@ -247,7 +253,7 @@ export function buildConstellation(params: {
   const FLAT_EPS = 0.11; // ~6.3deg off exactly horizontal
   const layRail = (arr: ConstNode[], side: "L" | "R") => {
     const n = arr.length;
-    const top = 24, bottom = 68;
+    const top = 24, bottom = frameBottom;
     // x/cxPill only depend on index + label, not y, so compute them up front
     // -- the clearance math below needs each pill's ACTUAL horizontal
     // distance from center, not an approximate stand-in.
