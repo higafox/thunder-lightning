@@ -249,14 +249,21 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           · {META.totalTags} connections
         </div>
         <div className="arcTools">
-          <input
-            id="arcSearch"
-            className={search.trim() ? "active" : undefined}
-            placeholder="Search artist, song, director, tag"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            autoFocus
-          />
+          <div className="arcSearchWrap">
+            <input
+              id="arcSearch"
+              className={search.trim() ? "active" : undefined}
+              placeholder="Search artist, song, director, tag"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              autoFocus
+            />
+            {search && (
+              <button className="arcSearchClear" onClick={() => setSearch("")} aria-label="Clear search">
+                ✕
+              </button>
+            )}
+          </div>
           <button className="arcShuffle" onClick={() => setShuffled(shuffleArray(PL.timeline))}>
             Shuffle
           </button>
@@ -277,6 +284,9 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
           )}
         </div>
         <div className="tagbar">
+          <button className="tgSort" onClick={cycleTagSort} title="Change tag order">
+            {tagSortLabel}
+          </button>
           <button className={`tg${selTag === null ? " sel" : ""}`} onClick={() => setSelTag(null)}>
             All
           </button>
@@ -300,9 +310,6 @@ function ArchiveGridReady({ data }: { data: VideoData }) {
               )}
             </button>
           ))}
-          <button className="tgSort" onClick={cycleTagSort} title="Change tag order">
-            {tagSortLabel}
-          </button>
         </div>
       </div>
       {list.length === 0 ? (

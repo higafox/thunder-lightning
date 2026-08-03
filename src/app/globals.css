@@ -594,15 +594,31 @@ a {
   margin-top: 20px;
   flex-wrap: wrap;
 }
+.arcSearchWrap {
+  position: relative;
+  width: 340px;
+}
 .arcTools input {
   background: var(--pill);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 9px 16px;
+  padding: 9px 34px 9px 16px;
   color: var(--ink);
   font-size: 13px;
-  width: 340px;
+  width: 100%;
   outline: none;
+}
+.arcSearchClear {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 11px;
+  color: var(--dim);
+  padding: 6px 8px;
+}
+.arcSearchClear:hover {
+  color: var(--ink);
 }
 .arcTools input:focus {
   border-color: var(--dim);
