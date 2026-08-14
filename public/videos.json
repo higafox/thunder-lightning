@@ -2,9 +2,9 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 458,
+    "totalVideos": 459,
     "totalArtists": 370,
-    "totalDirectors": 383,
+    "totalDirectors": 384,
     "totalTags": 152
   },
   "videos": {
@@ -7040,7 +7040,8 @@
         "in camera",
         "paper",
         "pixel",
-        "pixilation"
+        "pixilation",
+        "poc director"
       ],
       "embedBroken": false
     },
@@ -10666,8 +10667,10 @@
       "thumbnailUrl": "https://img.youtube.com/vi/-GIdk_0wJ84/hqdefault.jpg",
       "tags": [
         "2020's",
+        "architecture",
         "gothy",
         "monochrome",
+        "skeleton",
         "vfx"
       ],
       "embedBroken": false
@@ -12776,6 +12779,36 @@
         "poc director"
       ],
       "embedBroken": false
+    },
+    "balming-tiger-janjan": {
+      "id": "balming-tiger-janjan",
+      "artist": "Balming Tiger",
+      "artists": [
+        "Balming Tiger"
+      ],
+      "song": "Janjan",
+      "director": "Riku Takahashi",
+      "directors": [
+        "Riku Takahashi"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2026",
+      "sortDate": "2026-07-16",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "XyQ45IQqtCY",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/XyQ45IQqtCY/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "confidence",
+        "mixed media",
+        "paper",
+        "poc director",
+        "stop motion",
+        "surreal"
+      ],
+      "embedBroken": false
     }
   },
   "playlists": {
@@ -13237,7 +13270,8 @@
       "gener8ion-yung-lean-storm",
       "pinkpantheress-girl-like-me",
       "bonobo-me-and-you",
-      "balming-tiger-oui"
+      "balming-tiger-oui",
+      "balming-tiger-janjan"
     ],
     "tags": {
       "360": [
@@ -13409,7 +13443,8 @@
         "mette-mamas-eyes",
         "mette-van-gogh",
         "jungle-back-on-74",
-        "chappell-roan-super-graphic-ultra-modern-girl"
+        "chappell-roan-super-graphic-ultra-modern-girl",
+        "balming-tiger-janjan"
       ],
       "illustration": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
@@ -13752,7 +13787,8 @@
         "jacques-absolve",
         "mette-bet",
         "daft-punk-human-after-all",
-        "balming-tiger-oui"
+        "balming-tiger-oui",
+        "balming-tiger-janjan"
       ],
       "kaleidoscope": [
         "gary-numan-cars",
@@ -14102,6 +14138,7 @@
         "young-thug-wyclef-jean",
         "kendrick-lamar-humble",
         "mashrou-leila-roman",
+        "ok-go-obsession",
         "janelle-mon-e-make-me-feel",
         "janelle-mon-e-i-like-that",
         "childish-gambino-this-is-america",
@@ -14122,7 +14159,8 @@
         "dua-lipa-illusion",
         "kendrick-lamar-squabble-up",
         "mette-coming-of-age",
-        "balming-tiger-oui"
+        "balming-tiger-oui",
+        "balming-tiger-janjan"
       ],
       "my sweet 16": [
         "talking-heads-and-she-was",
@@ -14147,7 +14185,8 @@
         "regina-spektor-samson",
         "shitdisco-ok",
         "reptile-youth-be-my-yoko-ono",
-        "ok-go-obsession"
+        "ok-go-obsession",
+        "balming-tiger-janjan"
       ],
       "stop motion": [
         "talking-heads-and-she-was",
@@ -14175,7 +14214,8 @@
         "son-lux-change-is-everything",
         "soupcans-siamese-brutality",
         "leon-bridges-lucky-daye-all-about-you",
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "balming-tiger-janjan"
       ],
       "lip sync": [
         "the-cure-boys-dont-cry",
@@ -14576,7 +14616,8 @@
         "weval-someday",
         "max-cooper-repetition",
         "max-cooper-circular",
-        "dua-lipa-illusion"
+        "dua-lipa-illusion",
+        "apashe-vladimir-cauchemar-bellatores"
       ],
       "mixed media": [
         "bj-rk-army-of-me",
@@ -14586,7 +14627,8 @@
         "bellx1-rocky-took-a-lover",
         "bj-rk-wanderlust",
         "huma-huma-hello-i-like-you",
-        "bj-rk-mutual-core"
+        "bj-rk-mutual-core",
+        "balming-tiger-janjan"
       ],
       "reverse": [
         "the-pharcyde-drop",
@@ -14693,7 +14735,8 @@
       ],
       "skeleton": [
         "daft-punk-around-the-world",
-        "friendly-fires-skeleton-boy"
+        "friendly-fires-skeleton-boy",
+        "apashe-vladimir-cauchemar-bellatores"
       ],
       "explosions": [
         "blur-song-2",
@@ -15659,7 +15702,8 @@
         "gener8ion-yung-lean-storm",
         "pinkpantheress-girl-like-me",
         "bonobo-me-and-you",
-        "balming-tiger-oui"
+        "balming-tiger-oui",
+        "balming-tiger-janjan"
       ],
       "skateboard": [
         "bad-bunny-yo-visto-as"
@@ -16903,7 +16947,8 @@
         "pinkpantheress-girl-like-me"
       ],
       "Balming Tiger": [
-        "balming-tiger-oui"
+        "balming-tiger-oui",
+        "balming-tiger-janjan"
       ]
     },
     "directors": {
@@ -18212,6 +18257,9 @@
       ],
       "Lee Suho": [
         "balming-tiger-oui"
+      ],
+      "Riku Takahashi": [
+        "balming-tiger-janjan"
       ]
     }
   },
@@ -18223,7 +18271,7 @@
       "long take": 43,
       "lyrics": 5,
       "retro": 23,
-      "confidence": 32,
+      "confidence": 33,
       "illustration": 26,
       "pixilation": 11,
       "tableau": 32,
@@ -18237,7 +18285,7 @@
       "chronophotography": 6,
       "dance": 82,
       "gothy": 20,
-      "surreal": 65,
+      "surreal": 66,
       "kaleidoscope": 8,
       "hair": 5,
       "greenscreen": 4,
@@ -18257,10 +18305,10 @@
       "motorcycle": 2,
       "meta": 18,
       "collage": 16,
-      "poc director": 71,
+      "poc director": 73,
       "my sweet 16": 16,
-      "paper": 5,
-      "stop motion": 26,
+      "paper": 6,
+      "stop motion": 27,
       "lip sync": 3,
       "shadows": 1,
       "plane": 3,
@@ -18283,8 +18331,8 @@
       "surveillance": 7,
       "datamosh/frameblend": 5,
       "timeslice": 6,
-      "architecture": 8,
-      "mixed media": 8,
+      "architecture": 9,
+      "mixed media": 9,
       "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
@@ -18293,7 +18341,7 @@
       "3D animation": 18,
       "water": 14,
       "fire": 4,
-      "skeleton": 2,
+      "skeleton": 3,
       "explosions": 7,
       "fisheye": 1,
       "loops": 23,
@@ -18366,7 +18414,7 @@
       "flute": 1,
       "sapphic": 4,
       "louvre": 2,
-      "2020's": 56,
+      "2020's": 57,
       "skateboard": 1,
       "ai": 2
     },
@@ -18740,7 +18788,7 @@
       "GENER8ION": 1,
       "Yung Lean": 1,
       "PinkPantheress": 1,
-      "Balming Tiger": 1
+      "Balming Tiger": 2
     },
     "directors": {
       "D.A. Pennebaker": 1,
@@ -19125,7 +19173,8 @@
       "Alessandro Bavari": 1,
       "Laurie Lotus": 1,
       "in/out": 1,
-      "Lee Suho": 1
+      "Lee Suho": 1,
+      "Riku Takahashi": 1
     }
   }
 }
