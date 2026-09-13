@@ -3,8 +3,8 @@
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
     "totalVideos": 470,
-    "totalArtists": 380,
-    "totalDirectors": 395,
+    "totalArtists": 378,
+    "totalDirectors": 394,
     "totalTags": 153
   },
   "videos": {
@@ -12957,16 +12957,14 @@
     },
     "tyler-the-creator-sorry-not-sorry": {
       "id": "tyler-the-creator-sorry-not-sorry",
-      "artist": "Tyler, The Creator",
+      "artist": "Tyler The Creator",
       "artists": [
-        "Tyler",
-        "The Creator"
+        "Tyler The Creator"
       ],
       "song": "SORRY NOT SORRY",
-      "director": "Tyler, The Creator",
+      "director": "Tyler The Creator",
       "directors": [
-        "Tyler",
-        "The Creator"
+        "Tyler The Creator"
       ],
       "directorAffiliate": null,
       "dateDisplay": "March 2023",
@@ -17243,19 +17241,14 @@
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
       "Tyler The Creator": [
-        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
+        "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "tyler-the-creator-sorry-not-sorry"
       ],
       "MorMor": [
         "mormor-here-it-goes-again"
       ],
       "AntsLive": [
         "antslive-number-one-candidate"
-      ],
-      "Tyler": [
-        "tyler-the-creator-sorry-not-sorry"
-      ],
-      "The Creator": [
-        "tyler-the-creator-sorry-not-sorry"
       ],
       "Mette": [
         "mette-mamas-eyes",
@@ -18572,10 +18565,7 @@
       "Tom Emmerson": [
         "antslive-number-one-candidate"
       ],
-      "Tyler": [
-        "tyler-the-creator-sorry-not-sorry"
-      ],
-      "The Creator": [
+      "Tyler The Creator": [
         "tyler-the-creator-sorry-not-sorry"
       ],
       "Camille Summers-Valli": [
@@ -19200,11 +19190,9 @@
       "Joep Beving": 1,
       "Pharrell Williams": 1,
       "21 Savage": 1,
-      "Tyler The Creator": 1,
+      "Tyler The Creator": 2,
       "MorMor": 1,
       "AntsLive": 1,
-      "Tyler": 1,
-      "The Creator": 1,
       "Mette": 4,
       "Slowdive": 1,
       "Paul Kalkbrenner": 1,
@@ -19590,8 +19578,7 @@
       "Darcy Wallace": 1,
       "François Rousselet": 1,
       "Tom Emmerson": 1,
-      "Tyler": 1,
-      "The Creator": 1,
+      "Tyler The Creator": 1,
       "Camille Summers-Valli": 2,
       "Eliott Sellers": 1,
       "Janelle Monáe": 1,
