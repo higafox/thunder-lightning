@@ -2,10 +2,10 @@
   "meta": {
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
-    "totalVideos": 459,
-    "totalArtists": 370,
-    "totalDirectors": 384,
-    "totalTags": 152
+    "totalVideos": 470,
+    "totalArtists": 380,
+    "totalDirectors": 395,
+    "totalTags": 153
   },
   "videos": {
     "mette-van-gogh": {
@@ -5429,7 +5429,7 @@
       "tags": [
         "1980's",
         "birds",
-        "motorcycle"
+        "motorcycle/moped"
       ],
       "embedBroken": false
     },
@@ -7125,7 +7125,8 @@
       "tags": [
         "2020's",
         "drone",
-        "landscape"
+        "landscape",
+        "womxn director"
       ],
       "embedBroken": false
     },
@@ -9384,7 +9385,7 @@
       "tags": [
         "2020's",
         "fireworks",
-        "motorcycle",
+        "motorcycle/moped",
         "poc director",
         "skateboard"
       ],
@@ -12445,7 +12446,9 @@
       "vimeoId": null,
       "thumbnailUrl": "https://img.youtube.com/vi/QoyMvE5g7f8/hqdefault.jpg",
       "tags": [
-        "2010's"
+        "2010's",
+        "slowmo",
+        "vfx"
       ],
       "embedBroken": false
     },
@@ -12801,12 +12804,313 @@
       "thumbnailUrl": "https://img.youtube.com/vi/XyQ45IQqtCY/hqdefault.jpg",
       "tags": [
         "2020's",
+        "cel animation",
         "confidence",
+        "lightning",
+        "miniatures",
         "mixed media",
         "paper",
         "poc director",
+        "psychedelic",
         "stop motion",
-        "surreal"
+        "water"
+      ],
+      "embedBroken": false
+    },
+    "pinback-fortress": {
+      "id": "pinback-fortress",
+      "artist": "Pinback",
+      "artists": [
+        "Pinback"
+      ],
+      "song": "Fortress",
+      "director": "Elliot Jokelson",
+      "directors": [
+        "Elliot Jokelson"
+      ],
+      "directorAffiliate": "loyalkaspar",
+      "dateDisplay": "September 2019",
+      "sortDate": "2019-09-05",
+      "year": 2019,
+      "provider": "youtube",
+      "youtubeId": "tIbUb_w900g",
+      "vimeoId": "21623240",
+      "thumbnailUrl": "https://img.youtube.com/vi/tIbUb_w900g/hqdefault.jpg",
+      "tags": [
+        "2000's",
+        "illustration",
+        "mixed media"
+      ],
+      "embedBroken": false
+    },
+    "mette-small-world": {
+      "id": "mette-small-world",
+      "artist": "METTE",
+      "artists": [
+        "METTE"
+      ],
+      "song": "SMALL WORLD",
+      "director": "Jan Luca Hellwich",
+      "directors": [
+        "Jan Luca Hellwich"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2026",
+      "sortDate": "2026-08-26",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "UVrZjPaX7DU",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/UVrZjPaX7DU/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "dance",
+        "explosions"
+      ],
+      "embedBroken": false
+    },
+    "logic1000-the-only-one-ft-christine-and-the-queens": {
+      "id": "logic1000-the-only-one-ft-christine-and-the-queens",
+      "artist": "Logic1000",
+      "artists": [
+        "Logic1000"
+      ],
+      "song": "The Only One (ft. Christine and the Queens)",
+      "director": "Dora Paphides",
+      "directors": [
+        "Dora Paphides"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "September 2026",
+      "sortDate": "2026-09-02",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "50qtfr6lFu8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/50qtfr6lFu8/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "dance",
+        "kids",
+        "twinsies",
+        "womxn director"
+      ],
+      "embedBroken": false
+    },
+    "fka-twigs-sad-day": {
+      "id": "fka-twigs-sad-day",
+      "artist": "FKA twigs",
+      "artists": [
+        "FKA twigs"
+      ],
+      "song": "sad day",
+      "director": "Hiro Murai",
+      "directors": [
+        "Hiro Murai"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2020",
+      "sortDate": "2020-08-28",
+      "year": 2020,
+      "provider": "youtube",
+      "youtubeId": "IxGDNRE-2c0",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/IxGDNRE-2c0/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "dance",
+        "fight",
+        "poc director",
+        "surreal",
+        "tableau",
+        "vfx"
+      ],
+      "embedBroken": false
+    },
+    "oneohtrix-point-never-measuring-ruins": {
+      "id": "oneohtrix-point-never-measuring-ruins",
+      "artist": "Oneohtrix Point Never",
+      "artists": [
+        "Oneohtrix Point Never"
+      ],
+      "song": "Measuring Ruins",
+      "director": "Yoshi Sodeoka",
+      "directors": [
+        "Yoshi Sodeoka"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2025",
+      "sortDate": "2025-10-27",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "fzC-RV1h0gc",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/fzC-RV1h0gc/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "3D animation",
+        "drone",
+        "mixed media",
+        "poc director"
+      ],
+      "embedBroken": false
+    },
+    "tyler-the-creator-sorry-not-sorry": {
+      "id": "tyler-the-creator-sorry-not-sorry",
+      "artist": "Tyler, The Creator",
+      "artists": [
+        "Tyler",
+        "The Creator"
+      ],
+      "song": "SORRY NOT SORRY",
+      "director": "Tyler, The Creator",
+      "directors": [
+        "Tyler",
+        "The Creator"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "March 2023",
+      "sortDate": "2023-03-29",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "LSIOcCcEVaE",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/LSIOcCcEVaE/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "poc director",
+        "tableau",
+        "twinsies"
+      ],
+      "embedBroken": false
+    },
+    "good-neighbours-mary-jane": {
+      "id": "good-neighbours-mary-jane",
+      "artist": "Good Neighbours",
+      "artists": [
+        "Good Neighbours"
+      ],
+      "song": "Mary Jane",
+      "director": "Harv Pearson",
+      "directors": [
+        "Harv Pearson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "August 2026",
+      "sortDate": "2026-08-28",
+      "year": 2026,
+      "provider": "youtube",
+      "youtubeId": "VDrgQo0-P6U",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/VDrgQo0-P6U/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "dance"
+      ],
+      "embedBroken": false
+    },
+    "mitski-bug-like-an-angel": {
+      "id": "mitski-bug-like-an-angel",
+      "artist": "Mitski",
+      "artists": [
+        "Mitski"
+      ],
+      "song": "Bug Like an Angel",
+      "director": "Noel Paul",
+      "directors": [
+        "Noel Paul"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2023",
+      "sortDate": "2023-07-26",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "5WW7cuAm-7Y",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/5WW7cuAm-7Y/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "gothy",
+        "long take"
+      ],
+      "embedBroken": false
+    },
+    "taylor-swift-the-fate-of-ophelia": {
+      "id": "taylor-swift-the-fate-of-ophelia",
+      "artist": "Taylor Swift",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "song": "The Fate of Ophelia",
+      "director": "Taylor Swift",
+      "directors": [
+        "Taylor Swift"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "October 2025",
+      "sortDate": "2025-10-05",
+      "year": 2025,
+      "provider": "youtube",
+      "youtubeId": "ko70cExuzZM",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/ko70cExuzZM/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "busby berkeley",
+        "meta",
+        "tableau"
+      ],
+      "embedBroken": false
+    },
+    "antslive-number-one-candidate": {
+      "id": "antslive-number-one-candidate",
+      "artist": "AntsLive",
+      "artists": [
+        "AntsLive"
+      ],
+      "song": "Number One Candidate",
+      "director": "Tom Emmerson",
+      "directors": [
+        "Tom Emmerson"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "January 2023",
+      "sortDate": "2023-01-12",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "w8QPV9_KVbk",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/w8QPV9_KVbk/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "horses",
+        "tableau"
+      ],
+      "embedBroken": false
+    },
+    "slowdive-kisses": {
+      "id": "slowdive-kisses",
+      "artist": "Slowdive",
+      "artists": [
+        "Slowdive"
+      ],
+      "song": "kisses",
+      "director": "Noel Paul",
+      "directors": [
+        "Noel Paul"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "June 2023",
+      "sortDate": "2023-06-20",
+      "year": 2023,
+      "provider": "youtube",
+      "youtubeId": "G9RpHfPyEx8",
+      "vimeoId": null,
+      "thumbnailUrl": "https://img.youtube.com/vi/G9RpHfPyEx8/hqdefault.jpg",
+      "tags": [
+        "2020's",
+        "motorcycle/moped",
+        "snorri/stabilize"
       ],
       "embedBroken": false
     }
@@ -13211,6 +13515,7 @@
       "the-chemical-brothers-weve-got-to-try",
       "weval-someday",
       "thom-yorke-anima",
+      "pinback-fortress",
       "max-cooper-repetition",
       "bad-bunny-vete",
       "max-cooper-circular",
@@ -13225,6 +13530,7 @@
       "thao-the-get-down-stay-down-phenom",
       "dolche-big-man",
       "yello-out-of-sight",
+      "fka-twigs-sad-day",
       "ariane-roy-ta-main",
       "duck-sauce-mesmerize",
       "leon-bridges-lucky-daye-all-about-you",
@@ -13238,10 +13544,14 @@
       "alt-j-hard-drive-gold",
       "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
       "mormor-here-it-goes-again",
+      "antslive-number-one-candidate",
+      "tyler-the-creator-sorry-not-sorry",
       "mette-mamas-eyes",
       "cults-gilded-lily",
       "janelle-mon-e-lipstick-lover",
+      "slowdive-kisses",
       "paul-kalkbrenner-schwer",
+      "mitski-bug-like-an-angel",
       "mette-van-gogh",
       "jungle-back-on-74",
       "chappell-roan-super-graphic-ultra-modern-girl",
@@ -13262,6 +13572,8 @@
       "ok-go-love",
       "wolf-alice-bloom-baby-bloom",
       "chappell-roan-the-subway",
+      "taylor-swift-the-fate-of-ophelia",
+      "oneohtrix-point-never-measuring-ruins",
       "oneohtrix-point-never-d-i-s",
       "pink-floyd-welcome-to-the-machine",
       "daft-punk-human-after-all",
@@ -13271,7 +13583,10 @@
       "pinkpantheress-girl-like-me",
       "bonobo-me-and-you",
       "balming-tiger-oui",
-      "balming-tiger-janjan"
+      "balming-tiger-janjan",
+      "mette-small-world",
+      "good-neighbours-mary-jane",
+      "logic1000-the-only-one-ft-christine-and-the-queens"
     ],
     "tags": {
       "360": [
@@ -13375,6 +13690,7 @@
         "bonobo-no-reason",
         "childish-gambino-this-is-america",
         "lany-thick-and-thin",
+        "mitski-bug-like-an-angel",
         "jungle-back-on-74",
         "mette-bet",
         "ok-go-love"
@@ -13472,7 +13788,8 @@
         "panda-bear-boys-latin",
         "dana-williams-one-more",
         "charles-x-can-you-do-it",
-        "lorn-anvil"
+        "lorn-anvil",
+        "pinback-fortress"
       ],
       "pixilation": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
@@ -13514,11 +13831,15 @@
         "janelle-mon-e-i-like-that",
         "the-carters-apeshit",
         "bad-bunny-yo-perreo-sola",
+        "fka-twigs-sad-day",
         "bad-bunny-x-rosal-a-la-noche-de-anoche",
         "mormor-here-it-goes-again",
+        "antslive-number-one-candidate",
+        "tyler-the-creator-sorry-not-sorry",
         "paul-kalkbrenner-schwer",
         "kendrick-lamar-squabble-up",
         "doechii-anxiety",
+        "taylor-swift-the-fate-of-ophelia",
         "balming-tiger-oui"
       ],
       "mirrors": [
@@ -13601,7 +13922,8 @@
         "fjaak-snow",
         "washed-out-floating-by",
         "kuricorder-quartet-southpaw",
-        "dayglow-something"
+        "dayglow-something",
+        "balming-tiger-janjan"
       ],
       "marbles": [
         "the-pointer-sisters-pinball-animation-countdown",
@@ -13687,6 +14009,7 @@
         "kuricorder-quartet-southpaw",
         "thom-yorke-anima",
         "dolche-big-man",
+        "fka-twigs-sad-day",
         "chris-lake-armand-van-helden-the-answer",
         "mette-mamas-eyes",
         "mette-van-gogh",
@@ -13698,7 +14021,10 @@
         "doechii-anxiety",
         "wolf-alice-bloom-baby-bloom",
         "mette-coming-of-age",
-        "gener8ion-yung-lean-storm"
+        "gener8ion-yung-lean-storm",
+        "mette-small-world",
+        "good-neighbours-mary-jane",
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ],
       "gothy": [
         "kate-bush-hammer-horror",
@@ -13719,6 +14045,7 @@
         "lorde-tennis-court",
         "plurabelle-our-fires",
         "massive-attack-take-it-there",
+        "mitski-bug-like-an-angel",
         "apashe-vladimir-cauchemar-bellatores",
         "lady-gaga-abracadabra"
       ],
@@ -13782,13 +14109,13 @@
         "the-peach-kings-dirty-secret",
         "bad-bunny-vete",
         "yello-out-of-sight",
+        "fka-twigs-sad-day",
         "alt-j-hard-drive-gold",
         "cults-gilded-lily",
         "jacques-absolve",
         "mette-bet",
         "daft-punk-human-after-all",
-        "balming-tiger-oui",
-        "balming-tiger-janjan"
+        "balming-tiger-oui"
       ],
       "kaleidoscope": [
         "gary-numan-cars",
@@ -13843,8 +14170,10 @@
         "beyonc-countdown",
         "reeps-one-does-not-exist",
         "janelle-mon-e-i-like-that",
+        "tyler-the-creator-sorry-not-sorry",
         "paul-kalkbrenner-schwer",
-        "mette-bet"
+        "mette-bet",
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ],
       "lasers": [
         "michael-jackson-rock-with-you",
@@ -13872,7 +14201,8 @@
         "bad-bunny-si-veo-a-tu-mam",
         "bad-bunny-pero-ya-no",
         "the-smile-friend-of-a-friend",
-        "gener8ion-yung-lean-storm"
+        "gener8ion-yung-lean-storm",
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ],
       "1980's": [
         "devo-whip-it",
@@ -13961,6 +14291,7 @@
         "janelle-mon-e-pynk",
         "janelle-mon-e-i-like-that",
         "mitski-a-pearl",
+        "four-tet-baby",
         "thao-the-get-down-stay-down-phenom",
         "mette-mamas-eyes",
         "janelle-mon-e-lipstick-lover",
@@ -13970,7 +14301,8 @@
         "mette-bet",
         "chappell-roan-the-subway",
         "mette-coming-of-age",
-        "pinkpantheress-girl-like-me"
+        "pinkpantheress-girl-like-me",
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ],
       "wut": [
         "talking-heads-once-in-a-lifetime",
@@ -14045,9 +14377,10 @@
         "alb-the-road",
         "janelle-mon-e-i-like-that"
       ],
-      "motorcycle": [
+      "motorcycle/moped": [
         "prince-the-revolution-when-doves-cry",
-        "bad-bunny-yo-visto-as"
+        "bad-bunny-yo-visto-as",
+        "slowdive-kisses"
       ],
       "meta": [
         "madonna-material-girl",
@@ -14067,7 +14400,8 @@
         "taylor-bennett-dont-wait-up",
         "chappell-roan-super-graphic-ultra-modern-girl",
         "the-smile-friend-of-a-friend",
-        "doechii-anxiety"
+        "doechii-anxiety",
+        "taylor-swift-the-fate-of-ophelia"
       ],
       "collage": [
         "prince-the-revolution-raspberry-beret",
@@ -14152,12 +14486,15 @@
         "bad-bunny-pero-ya-no",
         "bad-bunny-yo-perreo-sola",
         "dolche-big-man",
+        "fka-twigs-sad-day",
         "bad-bunny-yo-visto-as",
         "bad-bunny-x-rosal-a-la-noche-de-anoche",
+        "tyler-the-creator-sorry-not-sorry",
         "janelle-mon-e-lipstick-lover",
         "chappell-roan-super-graphic-ultra-modern-girl",
         "dua-lipa-illusion",
         "kendrick-lamar-squabble-up",
+        "oneohtrix-point-never-measuring-ruins",
         "mette-coming-of-age",
         "balming-tiger-oui",
         "balming-tiger-janjan"
@@ -14300,6 +14637,7 @@
         "jeffrey-brodsky-ill-be-strong",
         "charles-x-can-you-do-it",
         "mashrou-leila-roman",
+        "antslive-number-one-candidate",
         "apashe-human"
       ],
       "monochrome": [
@@ -14450,6 +14788,7 @@
         "ryan-barger-dreams-are-real",
         "the-vein-magma",
         "de-staat-witch-doctor",
+        "raleigh-ritchie-stronger-than-ever",
         "dralms-crushed-pleats",
         "jr-jr-gone",
         "the-chemical-brothers-wide-open",
@@ -14466,6 +14805,7 @@
         "mild-minds-walls",
         "dolche-big-man",
         "yello-out-of-sight",
+        "fka-twigs-sad-day",
         "cults-gilded-lily",
         "paul-kalkbrenner-schwer",
         "apashe-human",
@@ -14514,7 +14854,8 @@
         "beatsofreen-slowly-rising",
         "lorn-anvil",
         "fjaak-snow",
-        "washed-out-floating-by"
+        "washed-out-floating-by",
+        "balming-tiger-janjan"
       ],
       "skates": [
         "depeche-mode-walking-in-my-shoes",
@@ -14550,7 +14891,8 @@
         "ok-go-i-wont-let-you-down",
         "donnie-trumpet-the-social-experiment-sunday-candy",
         "tourist-valentine",
-        "doechii-anxiety"
+        "doechii-anxiety",
+        "taylor-swift-the-fate-of-ophelia"
       ],
       "crowd": [
         "bj-rk-its-oh-so-quiet",
@@ -14582,7 +14924,8 @@
         "johnny-neon-hearts",
         "queens-of-the-stone-age-smooth-sailing",
         "beyonc-7-11",
-        "vince-staples-lift-me-up"
+        "vince-staples-lift-me-up",
+        "slowdive-kisses"
       ],
       "surveillance": [
         "radiohead-high-and-dry",
@@ -14628,6 +14971,8 @@
         "bj-rk-wanderlust",
         "huma-huma-hello-i-like-you",
         "bj-rk-mutual-core",
+        "pinback-fortress",
+        "oneohtrix-point-never-measuring-ruins",
         "balming-tiger-janjan"
       ],
       "reverse": [
@@ -14664,6 +15009,7 @@
         "fm-belfast-underwear",
         "woodkid-iron",
         "beyonc-ft-drake-mine",
+        "raleigh-ritchie-stronger-than-ever",
         "kwes-rollerblades",
         "pillar-point-dreamin",
         "self-runaway",
@@ -14709,6 +15055,7 @@
         "jeffrey-brodsky-ill-be-strong",
         "panda-bear-boys-latin",
         "n-lannon-another-love",
+        "oneohtrix-point-never-measuring-ruins",
         "bonobo-me-and-you"
       ],
       "water": [
@@ -14725,7 +15072,8 @@
         "beyonc-formation",
         "beyonc-hold-up",
         "dua-lipa-illusion",
-        "tourist-valentine"
+        "tourist-valentine",
+        "balming-tiger-janjan"
       ],
       "fire": [
         "radiohead-karma-police",
@@ -14745,7 +15093,8 @@
         "woodkid-iron",
         "psy-gangnam-style",
         "beyonc-ft-drake-mine",
-        "ok-go-the-one-moment"
+        "ok-go-the-one-moment",
+        "mette-small-world"
       ],
       "fisheye": [
         "missy-elliott-the-rain-supa-dupa-fly"
@@ -14936,7 +15285,8 @@
         "grizzly-bear-while-you-wait-for-the-others",
         "beck-black-tambourine",
         "lady-gaga-bad-romance",
-        "the-presets-girl-and-the-sea"
+        "the-presets-girl-and-the-sea",
+        "pinback-fortress"
       ],
       "soundsync": [
         "the-avalanches-frontier-psychiatrist",
@@ -15221,7 +15571,8 @@
         "uaf-nanook-hockey-open-07-08-highway-to-the-danger-zone",
         "thunderheist-jerk-it",
         "uaf-nanook-hockey-open-09-10-highway-to-the-danger-zone",
-        "nigel-stanford-cymatics"
+        "nigel-stanford-cymatics",
+        "balming-tiger-janjan"
       ],
       "yuri norstein-esque": [
         "fleet-foxes-white-winter-hymnal",
@@ -15268,7 +15619,8 @@
         "ok-go-upside-down-inside-out"
       ],
       "miniatures": [
-        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
+        "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix",
+        "balming-tiger-janjan"
       ],
       "tilt shift": [
         "codebreaker-ft-kathy-diamond-fire-jimmy-edgar-remix"
@@ -15603,7 +15955,8 @@
         "ok-go-i-wont-let-you-down",
         "vessels-4am",
         "max-cooper-repetition",
-        "four-tet-baby"
+        "four-tet-baby",
+        "oneohtrix-point-never-measuring-ruins"
       ],
       "umbrella": [
         "ok-go-i-wont-let-you-down"
@@ -15657,6 +16010,7 @@
         "thao-the-get-down-stay-down-phenom",
         "dolche-big-man",
         "yello-out-of-sight",
+        "fka-twigs-sad-day",
         "ariane-roy-ta-main",
         "duck-sauce-mesmerize",
         "leon-bridges-lucky-daye-all-about-you",
@@ -15670,10 +16024,14 @@
         "alt-j-hard-drive-gold",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "mormor-here-it-goes-again",
+        "antslive-number-one-candidate",
+        "tyler-the-creator-sorry-not-sorry",
         "mette-mamas-eyes",
         "cults-gilded-lily",
         "janelle-mon-e-lipstick-lover",
+        "slowdive-kisses",
         "paul-kalkbrenner-schwer",
+        "mitski-bug-like-an-angel",
         "mette-van-gogh",
         "jungle-back-on-74",
         "chappell-roan-super-graphic-ultra-modern-girl",
@@ -15694,6 +16052,8 @@
         "ok-go-love",
         "wolf-alice-bloom-baby-bloom",
         "chappell-roan-the-subway",
+        "taylor-swift-the-fate-of-ophelia",
+        "oneohtrix-point-never-measuring-ruins",
         "oneohtrix-point-never-d-i-s",
         "pink-floyd-welcome-to-the-machine",
         "daft-punk-human-after-all",
@@ -15703,7 +16063,13 @@
         "pinkpantheress-girl-like-me",
         "bonobo-me-and-you",
         "balming-tiger-oui",
-        "balming-tiger-janjan"
+        "balming-tiger-janjan",
+        "mette-small-world",
+        "good-neighbours-mary-jane",
+        "logic1000-the-only-one-ft-christine-and-the-queens"
+      ],
+      "fight": [
+        "fka-twigs-sad-day"
       ],
       "skateboard": [
         "bad-bunny-yo-visto-as"
@@ -16799,7 +17165,8 @@
         "kuricorder-quartet-southpaw"
       ],
       "Mitski": [
-        "mitski-a-pearl"
+        "mitski-a-pearl",
+        "mitski-bug-like-an-angel"
       ],
       "LANY": [
         "lany-thick-and-thin"
@@ -16809,6 +17176,9 @@
       ],
       "Thom Yorke": [
         "thom-yorke-anima"
+      ],
+      "Pinback": [
+        "pinback-fortress"
       ],
       "Bad Bunny": [
         "bad-bunny-vete",
@@ -16838,6 +17208,9 @@
       ],
       "Yello": [
         "yello-out-of-sight"
+      ],
+      "FKA twigs": [
+        "fka-twigs-sad-day"
       ],
       "Ariane Roy": [
         "ariane-roy-ta-main"
@@ -16875,11 +17248,23 @@
       "MorMor": [
         "mormor-here-it-goes-again"
       ],
+      "AntsLive": [
+        "antslive-number-one-candidate"
+      ],
+      "Tyler": [
+        "tyler-the-creator-sorry-not-sorry"
+      ],
+      "The Creator": [
+        "tyler-the-creator-sorry-not-sorry"
+      ],
       "Mette": [
         "mette-mamas-eyes",
         "mette-van-gogh",
         "mette-bet",
         "mette-coming-of-age"
+      ],
+      "Slowdive": [
+        "slowdive-kisses"
       ],
       "Paul Kalkbrenner": [
         "paul-kalkbrenner-schwer"
@@ -16928,7 +17313,11 @@
       "Wolf Alice": [
         "wolf-alice-bloom-baby-bloom"
       ],
+      "Taylor Swift": [
+        "taylor-swift-the-fate-of-ophelia"
+      ],
       "Oneohtrix Point Never": [
+        "oneohtrix-point-never-measuring-ruins",
         "oneohtrix-point-never-d-i-s"
       ],
       "Alessandro Bavari": [
@@ -16949,6 +17338,15 @@
       "Balming Tiger": [
         "balming-tiger-oui",
         "balming-tiger-janjan"
+      ],
+      "METTE": [
+        "mette-small-world"
+      ],
+      "Good Neighbours": [
+        "good-neighbours-mary-jane"
+      ],
+      "Logic1000": [
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ]
     },
     "directors": {
@@ -17693,7 +18091,8 @@
         "childish-gambino-sober",
         "massive-attack-take-it-there",
         "michael-kiwanuka-black-man-in-a-white-world",
-        "childish-gambino-this-is-america"
+        "childish-gambino-this-is-america",
+        "fka-twigs-sad-day"
       ],
       "Theodore Ushev": [
         "kottarashky-the-rain-dogs-demoni"
@@ -18106,6 +18505,12 @@
         "weval-someday",
         "max-cooper-circular"
       ],
+      "Elliot Jokelson": [
+        "pinback-fortress"
+      ],
+      "loyalkaspar": [
+        "pinback-fortress"
+      ],
       "STILLZ": [
         "bad-bunny-vete",
         "bad-bunny-la-dif-cil",
@@ -18164,6 +18569,15 @@
       "François Rousselet": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
+      "Tom Emmerson": [
+        "antslive-number-one-candidate"
+      ],
+      "Tyler": [
+        "tyler-the-creator-sorry-not-sorry"
+      ],
+      "The Creator": [
+        "tyler-the-creator-sorry-not-sorry"
+      ],
       "Camille Summers-Valli": [
         "mette-mamas-eyes",
         "mette-van-gogh"
@@ -18173,6 +18587,10 @@
       ],
       "Janelle Monáe": [
         "janelle-mon-e-lipstick-lover"
+      ],
+      "Noel Paul": [
+        "slowdive-kisses",
+        "mitski-bug-like-an-angel"
       ],
       "Jovan Todorović": [
         "paul-kalkbrenner-schwer"
@@ -18231,6 +18649,12 @@
       "Amber Grace Johnson": [
         "chappell-roan-the-subway"
       ],
+      "Taylor Swift": [
+        "taylor-swift-the-fate-of-ophelia"
+      ],
+      "Yoshi Sodeoka": [
+        "oneohtrix-point-never-measuring-ruins"
+      ],
       "Elliott Elder": [
         "oneohtrix-point-never-d-i-s"
       ],
@@ -18260,6 +18684,15 @@
       ],
       "Riku Takahashi": [
         "balming-tiger-janjan"
+      ],
+      "Jan Luca Hellwich": [
+        "mette-small-world"
+      ],
+      "Harv Pearson": [
+        "good-neighbours-mary-jane"
+      ],
+      "Dora Paphides": [
+        "logic1000-the-only-one-ft-christine-and-the-queens"
       ]
     }
   },
@@ -18268,44 +18701,44 @@
       "360": 1,
       "1960's": 3,
       "in camera": 50,
-      "long take": 43,
+      "long take": 44,
       "lyrics": 5,
       "retro": 23,
       "confidence": 33,
-      "illustration": 26,
+      "illustration": 27,
       "pixilation": 11,
-      "tableau": 32,
+      "tableau": 36,
       "mirrors": 6,
       "space": 15,
       "1970's": 10,
       "editing": 12,
       "guitar solo": 3,
-      "cel animation": 24,
+      "cel animation": 25,
       "marbles": 3,
       "chronophotography": 6,
-      "dance": 82,
-      "gothy": 20,
+      "dance": 86,
+      "gothy": 21,
       "surreal": 66,
       "kaleidoscope": 8,
       "hair": 5,
       "greenscreen": 4,
       "joy": 15,
-      "twinsies": 14,
+      "twinsies": 16,
       "lasers": 5,
-      "kids": 19,
+      "kids": 20,
       "1980's": 28,
       "body-ody": 8,
-      "womxn director": 56,
+      "womxn director": 58,
       "wut": 20,
       "orbiting": 14,
       "legs": 2,
       "machine": 11,
       "prosthetics": 5,
       "birds": 9,
-      "motorcycle": 2,
-      "meta": 18,
+      "motorcycle/moped": 3,
+      "meta": 19,
       "collage": 16,
-      "poc director": 73,
+      "poc director": 76,
       "my sweet 16": 16,
       "paper": 6,
       "stop motion": 27,
@@ -18315,34 +18748,34 @@
       "narrative": 22,
       "new york": 21,
       "tracking shot": 13,
-      "horses": 8,
+      "horses": 9,
       "monochrome": 47,
       "1990's": 48,
       "potential nsfw": 20,
-      "vfx": 48,
+      "vfx": 50,
       "california": 17,
-      "psychedelic": 22,
+      "psychedelic": 23,
       "skates": 2,
       "cars": 7,
       "desert": 10,
-      "busby berkeley": 9,
+      "busby berkeley": 10,
       "crowd": 16,
-      "snorri/stabilize": 12,
+      "snorri/stabilize": 13,
       "surveillance": 7,
       "datamosh/frameblend": 5,
       "timeslice": 6,
       "architecture": 9,
-      "mixed media": 9,
+      "mixed media": 11,
       "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
-      "slowmo": 18,
+      "slowmo": 19,
       "walk/run": 13,
-      "3D animation": 18,
-      "water": 14,
+      "3D animation": 19,
+      "water": 15,
       "fire": 4,
       "skeleton": 3,
-      "explosions": 7,
+      "explosions": 8,
       "fisheye": 1,
       "loops": 23,
       "ping pong": 1,
@@ -18352,7 +18785,7 @@
       "my top 5": 5,
       "puppets": 5,
       "night vision": 1,
-      "2000's": 94,
+      "2000's": 95,
       "soundsync": 24,
       "rube goldberg": 3,
       "woc director": 21,
@@ -18377,13 +18810,13 @@
       "fireworks": 5,
       "d&ad": 4,
       "ukmva": 12,
-      "lightning": 4,
+      "lightning": 5,
       "yuri norstein-esque": 2,
       "zoetrope": 5,
       "landscape": 9,
       "shapes": 8,
       "fluid dynamics": 10,
-      "miniatures": 1,
+      "miniatures": 2,
       "tilt shift": 1,
       "glitch": 7,
       "interactive": 6,
@@ -18403,7 +18836,7 @@
       "dither": 1,
       "long exposure": 1,
       "platform": 2,
-      "drone": 4,
+      "drone": 5,
       "umbrella": 1,
       "flowers": 2,
       "bus": 2,
@@ -18414,7 +18847,8 @@
       "flute": 1,
       "sapphic": 4,
       "louvre": 2,
-      "2020's": 57,
+      "2020's": 67,
+      "fight": 1,
       "skateboard": 1,
       "ai": 2
     },
@@ -18742,10 +19176,11 @@
       "Bas": 1,
       "Correy C": 1,
       "Kuricorder Quartet": 1,
-      "Mitski": 1,
+      "Mitski": 2,
       "LANY": 1,
       "Weval": 1,
       "Thom Yorke": 1,
+      "Pinback": 1,
       "Bad Bunny": 6,
       "Squarepusher": 1,
       "Four Tet": 1,
@@ -18754,6 +19189,7 @@
       "The Get Down Stay Down": 1,
       "Dolche": 1,
       "Yello": 1,
+      "FKA twigs": 1,
       "Ariane Roy": 1,
       "Lucky Daye": 1,
       "Chris Lake": 1,
@@ -18766,7 +19202,11 @@
       "21 Savage": 1,
       "Tyler The Creator": 1,
       "MorMor": 1,
+      "AntsLive": 1,
+      "Tyler": 1,
+      "The Creator": 1,
       "Mette": 4,
+      "Slowdive": 1,
       "Paul Kalkbrenner": 1,
       "Jungle": 1,
       "Chappell Roan": 2,
@@ -18782,13 +19222,17 @@
       "Vladimir Cauchemar": 1,
       "Doechii": 1,
       "Wolf Alice": 1,
-      "Oneohtrix Point Never": 1,
+      "Taylor Swift": 1,
+      "Oneohtrix Point Never": 2,
       "Alessandro Bavari": 1,
       "Suno": 1,
       "GENER8ION": 1,
       "Yung Lean": 1,
       "PinkPantheress": 1,
-      "Balming Tiger": 2
+      "Balming Tiger": 2,
+      "METTE": 1,
+      "Good Neighbours": 1,
+      "Logic1000": 1
     },
     "directors": {
       "D.A. Pennebaker": 1,
@@ -18994,7 +19438,7 @@
       "Romain Gavras": 2,
       "Darcy Prendergast": 1,
       "Dave Meinert": 1,
-      "Hiro Murai": 6,
+      "Hiro Murai": 7,
       "Theodore Ushev": 1,
       "Bob Harlow": 1,
       "Emmanuelle Walker": 1,
@@ -19127,6 +19571,8 @@
       "Art Camp": 1,
       "Isaac Ravishankara": 1,
       "Páraic McGloughlin": 2,
+      "Elliot Jokelson": 1,
+      "loyalkaspar": 1,
       "STILLZ": 7,
       "Andy Fisher": 1,
       "Daito Manabe": 1,
@@ -19143,9 +19589,13 @@
       "Joe Newman": 1,
       "Darcy Wallace": 1,
       "François Rousselet": 1,
+      "Tom Emmerson": 1,
+      "Tyler": 1,
+      "The Creator": 1,
       "Camille Summers-Valli": 2,
       "Eliott Sellers": 1,
       "Janelle Monáe": 1,
+      "Noel Paul": 2,
       "Jovan Todorović": 1,
       "J Lloyd": 1,
       "Charlie Di Placido": 1,
@@ -19165,6 +19615,8 @@
       "Miguel Espada": 1,
       "Colin Solal Cardo": 1,
       "Amber Grace Johnson": 1,
+      "Taylor Swift": 1,
+      "Yoshi Sodeoka": 1,
       "Elliott Elder": 1,
       "Justin Daashuur Hopkins": 1,
       "Cédric Hervet": 1,
@@ -19174,7 +19626,10 @@
       "Laurie Lotus": 1,
       "in/out": 1,
       "Lee Suho": 1,
-      "Riku Takahashi": 1
+      "Riku Takahashi": 1,
+      "Jan Luca Hellwich": 1,
+      "Harv Pearson": 1,
+      "Dora Paphides": 1
     }
   }
 }
