@@ -3,7 +3,7 @@
     "title": "Thunder/Lightning",
     "subtitle": "A Love Letter to Music Videos",
     "totalVideos": 470,
-    "totalArtists": 378,
+    "totalArtists": 377,
     "totalDirectors": 394,
     "totalTags": 153
   },
@@ -2880,8 +2880,8 @@
       "dateDisplay": "April 2012",
       "sortDate": "2012-04-27",
       "year": 2012,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "kbInCY1RddI",
       "vimeoId": "39152971",
       "thumbnailUrl": "https://vumbnail.com/39152971.jpg",
       "tags": [
@@ -4341,8 +4341,8 @@
       "dateDisplay": "January 2016",
       "sortDate": "2016-01-28",
       "year": 2016,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "hWSt_q7M3zI",
       "vimeoId": "153562171",
       "thumbnailUrl": "https://vumbnail.com/153562171.jpg",
       "tags": [
@@ -6652,6 +6652,7 @@
       "tags": [
         "2020's",
         "ascii",
+        "glitch",
         "pixel"
       ],
       "embedBroken": false
@@ -11118,9 +11119,9 @@
       "sortDate": "2012-11-13",
       "year": 2012,
       "provider": "youtube",
-      "youtubeId": "ZM80F_J-QHE",
+      "youtubeId": "-WnzRqCK6Fs",
       "vimeoId": "1068988624",
-      "thumbnailUrl": "https://img.youtube.com/vi/ZM80F_J-QHE/hqdefault.jpg",
+      "thumbnailUrl": "https://img.youtube.com/vi/-WnzRqCK6Fs/hqdefault.jpg",
       "tags": [
         "2010's",
         "3D animation",
@@ -11351,8 +11352,8 @@
       "dateDisplay": "September 2011",
       "sortDate": "2011-09-01",
       "year": 2011,
-      "provider": "vimeo",
-      "youtubeId": null,
+      "provider": "youtube",
+      "youtubeId": "Cv-0XbW8YX0",
       "vimeoId": "28760604",
       "thumbnailUrl": "https://vumbnail.com/28760604.jpg",
       "tags": [
@@ -11812,33 +11813,6 @@
         "match cut",
         "ukmva",
         "vimeo staff pick"
-      ],
-      "embedBroken": false
-    },
-    "leon-bridges-lucky-daye-all-about-you": {
-      "id": "leon-bridges-lucky-daye-all-about-you",
-      "artist": "Leon Bridges & Lucky Daye",
-      "artists": [
-        "Leon Bridges",
-        "Lucky Daye"
-      ],
-      "song": "All About You",
-      "director": "LAMAR+NIK",
-      "directors": [
-        "LAMAR+NIK"
-      ],
-      "directorAffiliate": null,
-      "dateDisplay": "October 2020",
-      "sortDate": "2020-10-16",
-      "year": 2020,
-      "provider": "youtube",
-      "youtubeId": "Vh777eklDyg",
-      "vimeoId": "473914836",
-      "thumbnailUrl": "https://img.youtube.com/vi/Vh777eklDyg/hqdefault.jpg",
-      "tags": [
-        "2020's",
-        "stop motion",
-        "timeslice"
       ],
       "embedBroken": false
     },
@@ -12829,9 +12803,9 @@
         "Elliot Jokelson"
       ],
       "directorAffiliate": "loyalkaspar",
-      "dateDisplay": "September 2019",
-      "sortDate": "2019-09-05",
-      "year": 2019,
+      "dateDisplay": "October 2005",
+      "sortDate": "2005-10-01",
+      "year": 2005,
       "provider": "youtube",
       "youtubeId": "tIbUb_w900g",
       "vimeoId": "21623240",
@@ -12860,7 +12834,7 @@
       "year": 2026,
       "provider": "youtube",
       "youtubeId": "UVrZjPaX7DU",
-      "vimeoId": null,
+      "vimeoId": "1222463493",
       "thumbnailUrl": "https://img.youtube.com/vi/UVrZjPaX7DU/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -12914,7 +12888,7 @@
       "year": 2020,
       "provider": "youtube",
       "youtubeId": "IxGDNRE-2c0",
-      "vimeoId": null,
+      "vimeoId": "454905362",
       "thumbnailUrl": "https://img.youtube.com/vi/IxGDNRE-2c0/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -12950,7 +12924,7 @@
         "2020's",
         "3D animation",
         "drone",
-        "mixed media",
+        "glitch",
         "poc director"
       ],
       "embedBroken": false
@@ -12972,7 +12946,7 @@
       "year": 2023,
       "provider": "youtube",
       "youtubeId": "LSIOcCcEVaE",
-      "vimeoId": null,
+      "vimeoId": "851438064",
       "thumbnailUrl": "https://img.youtube.com/vi/LSIOcCcEVaE/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -12999,7 +12973,7 @@
       "year": 2026,
       "provider": "youtube",
       "youtubeId": "VDrgQo0-P6U",
-      "vimeoId": null,
+      "vimeoId": "1221728877",
       "thumbnailUrl": "https://img.youtube.com/vi/VDrgQo0-P6U/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -13024,7 +12998,7 @@
       "year": 2023,
       "provider": "youtube",
       "youtubeId": "5WW7cuAm-7Y",
-      "vimeoId": null,
+      "vimeoId": "842421772",
       "thumbnailUrl": "https://img.youtube.com/vi/5WW7cuAm-7Y/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -13050,7 +13024,7 @@
       "year": 2025,
       "provider": "youtube",
       "youtubeId": "ko70cExuzZM",
-      "vimeoId": null,
+      "vimeoId": "1125605616",
       "thumbnailUrl": "https://img.youtube.com/vi/ko70cExuzZM/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -13077,7 +13051,7 @@
       "year": 2023,
       "provider": "youtube",
       "youtubeId": "w8QPV9_KVbk",
-      "vimeoId": null,
+      "vimeoId": "983033115",
       "thumbnailUrl": "https://img.youtube.com/vi/w8QPV9_KVbk/hqdefault.jpg",
       "tags": [
         "2020's",
@@ -13103,12 +13077,36 @@
       "year": 2023,
       "provider": "youtube",
       "youtubeId": "G9RpHfPyEx8",
-      "vimeoId": null,
+      "vimeoId": "833019200",
       "thumbnailUrl": "https://img.youtube.com/vi/G9RpHfPyEx8/hqdefault.jpg",
       "tags": [
         "2020's",
         "motorcycle/moped",
         "snorri/stabilize"
+      ],
+      "embedBroken": false
+    },
+    "mormor-far-apart": {
+      "id": "mormor-far-apart",
+      "artist": "MorMor",
+      "artists": [
+        "MorMor"
+      ],
+      "song": "Far Apart",
+      "director": "Camille Summers-Valli",
+      "directors": [
+        "Camille Summers-Valli"
+      ],
+      "directorAffiliate": null,
+      "dateDisplay": "July 2022",
+      "sortDate": "2022-07-19",
+      "year": 2022,
+      "provider": "youtube",
+      "youtubeId": "1EPHbkE_YRw",
+      "vimeoId": "731327242",
+      "thumbnailUrl": "https://img.youtube.com/vi/1EPHbkE_YRw/maxresdefault.jpg",
+      "tags": [
+        "2020's"
       ],
       "embedBroken": false
     }
@@ -13231,6 +13229,7 @@
       "stereogram-walkie-talkie-man",
       "devendra-banhart-a-ribbon",
       "bj-rk-triumph-of-a-heart",
+      "pinback-fortress",
       "r-kelly-trapped-in-the-closet",
       "cornelius-fit-song",
       "peter-bjorn-and-john-young-folks",
@@ -13513,7 +13512,6 @@
       "the-chemical-brothers-weve-got-to-try",
       "weval-someday",
       "thom-yorke-anima",
-      "pinback-fortress",
       "max-cooper-repetition",
       "bad-bunny-vete",
       "max-cooper-circular",
@@ -13531,7 +13529,6 @@
       "fka-twigs-sad-day",
       "ariane-roy-ta-main",
       "duck-sauce-mesmerize",
-      "leon-bridges-lucky-daye-all-about-you",
       "chris-lake-armand-van-helden-the-answer",
       "bad-bunny-yo-visto-as",
       "taylor-bennett-dont-wait-up",
@@ -13541,6 +13538,7 @@
       "joep-beving-max-cooper-hanging-d-max-cooper-remix",
       "alt-j-hard-drive-gold",
       "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+      "mormor-far-apart",
       "mormor-here-it-goes-again",
       "antslive-number-one-candidate",
       "tyler-the-creator-sorry-not-sorry",
@@ -13766,6 +13764,7 @@
         "r-yksopp-remind-me",
         "junior-senior-move-your-feet",
         "kid-koala-basin-street-blues",
+        "pinback-fortress",
         "peter-bjorn-and-john-young-folks",
         "i-love-you-but-ive-chosen-darkness-the-owl",
         "justice-d-a-n-c-e",
@@ -13786,8 +13785,7 @@
         "panda-bear-boys-latin",
         "dana-williams-one-more",
         "charles-x-can-you-do-it",
-        "lorn-anvil",
-        "pinback-fortress"
+        "lorn-anvil"
       ],
       "pixilation": [
         "serge-gainsbourg-brigitte-bardot-comic-strip",
@@ -14548,7 +14546,6 @@
         "karl-westman-ibm-research-a-boy-and-his-atom",
         "son-lux-change-is-everything",
         "soupcans-siamese-brutality",
-        "leon-bridges-lucky-daye-all-about-you",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
         "balming-tiger-janjan"
       ],
@@ -14946,8 +14943,7 @@
         "champagne-valentine-black-material",
         "shugo-tokumaru-katachi",
         "boozoo-bajou-jan-mayen",
-        "jones-melt",
-        "leon-bridges-lucky-daye-all-about-you"
+        "jones-melt"
       ],
       "architecture": [
         "massive-attack-protection",
@@ -14963,14 +14959,13 @@
       "mixed media": [
         "bj-rk-army-of-me",
         "the-smashing-pumpkins-tonight-tonight",
+        "pinback-fortress",
         "modest-mouse-dashboard",
         "grizzly-bear-knife",
         "bellx1-rocky-took-a-lover",
         "bj-rk-wanderlust",
         "huma-huma-hello-i-like-you",
         "bj-rk-mutual-core",
-        "pinback-fortress",
-        "oneohtrix-point-never-measuring-ruins",
         "balming-tiger-janjan"
       ],
       "reverse": [
@@ -15217,6 +15212,7 @@
         "stereogram-walkie-talkie-man",
         "devendra-banhart-a-ribbon",
         "bj-rk-triumph-of-a-heart",
+        "pinback-fortress",
         "r-kelly-trapped-in-the-closet",
         "cornelius-fit-song",
         "peter-bjorn-and-john-young-folks",
@@ -15283,8 +15279,7 @@
         "grizzly-bear-while-you-wait-for-the-others",
         "beck-black-tambourine",
         "lady-gaga-bad-romance",
-        "the-presets-girl-and-the-sea",
-        "pinback-fortress"
+        "the-presets-girl-and-the-sea"
       ],
       "soundsync": [
         "the-avalanches-frontier-psychiatrist",
@@ -15630,6 +15625,8 @@
         "thom-yorke-anima",
         "squarepusher-terminal-slam",
         "yello-out-of-sight",
+        "oneohtrix-point-never-measuring-ruins",
+        "oneohtrix-point-never-d-i-s",
         "bonobo-me-and-you"
       ],
       "interactive": [
@@ -16011,7 +16008,6 @@
         "fka-twigs-sad-day",
         "ariane-roy-ta-main",
         "duck-sauce-mesmerize",
-        "leon-bridges-lucky-daye-all-about-you",
         "chris-lake-armand-van-helden-the-answer",
         "bad-bunny-yo-visto-as",
         "taylor-bennett-dont-wait-up",
@@ -16021,6 +16017,7 @@
         "joep-beving-max-cooper-hanging-d-max-cooper-remix",
         "alt-j-hard-drive-gold",
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas",
+        "mormor-far-apart",
         "mormor-here-it-goes-again",
         "antslive-number-one-candidate",
         "tyler-the-creator-sorry-not-sorry",
@@ -16377,6 +16374,9 @@
       ],
       "Devendra Banhart": [
         "devendra-banhart-a-ribbon"
+      ],
+      "Pinback": [
+        "pinback-fortress"
       ],
       "R. Kelly": [
         "r-kelly-trapped-in-the-closet"
@@ -17031,8 +17031,7 @@
         "vince-staples-fun"
       ],
       "Leon Bridges": [
-        "leon-bridges-river",
-        "leon-bridges-lucky-daye-all-about-you"
+        "leon-bridges-river"
       ],
       "Mount Moriah": [
         "mount-moriah-precita"
@@ -17175,9 +17174,6 @@
       "Thom Yorke": [
         "thom-yorke-anima"
       ],
-      "Pinback": [
-        "pinback-fortress"
-      ],
       "Bad Bunny": [
         "bad-bunny-vete",
         "bad-bunny-la-dif-cil",
@@ -17213,9 +17209,6 @@
       "Ariane Roy": [
         "ariane-roy-ta-main"
       ],
-      "Lucky Daye": [
-        "leon-bridges-lucky-daye-all-about-you"
-      ],
       "Chris Lake": [
         "chris-lake-armand-van-helden-the-answer"
       ],
@@ -17245,6 +17238,7 @@
         "tyler-the-creator-sorry-not-sorry"
       ],
       "MorMor": [
+        "mormor-far-apart",
         "mormor-here-it-goes-again"
       ],
       "AntsLive": [
@@ -17645,6 +17639,12 @@
       ],
       "Bryan Barber": [
         "outkast-hey-ya"
+      ],
+      "Elliot Jokelson": [
+        "pinback-fortress"
+      ],
+      "loyalkaspar": [
+        "pinback-fortress"
       ],
       "R. Kelly": [
         "r-kelly-trapped-in-the-closet"
@@ -18117,7 +18117,6 @@
       ],
       "LAMAR+NIK": [
         "lushlife-magnolia",
-        "leon-bridges-lucky-daye-all-about-you",
         "taylor-bennett-dont-wait-up"
       ],
       "Hyper Island Motion Graphics": [
@@ -18498,12 +18497,6 @@
         "weval-someday",
         "max-cooper-circular"
       ],
-      "Elliot Jokelson": [
-        "pinback-fortress"
-      ],
-      "loyalkaspar": [
-        "pinback-fortress"
-      ],
       "STILLZ": [
         "bad-bunny-vete",
         "bad-bunny-la-dif-cil",
@@ -18562,15 +18555,16 @@
       "François Rousselet": [
         "pharrell-williams-ft-21-savage-tyler-the-creator-cash-in-cas"
       ],
+      "Camille Summers-Valli": [
+        "mormor-far-apart",
+        "mette-mamas-eyes",
+        "mette-van-gogh"
+      ],
       "Tom Emmerson": [
         "antslive-number-one-candidate"
       ],
       "Tyler The Creator": [
         "tyler-the-creator-sorry-not-sorry"
-      ],
-      "Camille Summers-Valli": [
-        "mette-mamas-eyes",
-        "mette-van-gogh"
       ],
       "Eliott Sellers": [
         "cults-gilded-lily"
@@ -18731,7 +18725,7 @@
       "poc director": 76,
       "my sweet 16": 16,
       "paper": 6,
-      "stop motion": 27,
+      "stop motion": 26,
       "lip sync": 3,
       "shadows": 1,
       "plane": 3,
@@ -18753,9 +18747,9 @@
       "snorri/stabilize": 13,
       "surveillance": 7,
       "datamosh/frameblend": 5,
-      "timeslice": 6,
+      "timeslice": 5,
       "architecture": 9,
-      "mixed media": 11,
+      "mixed media": 10,
       "reverse": 5,
       "splitscreen": 9,
       "treadmill/escalator": 6,
@@ -18808,7 +18802,7 @@
       "fluid dynamics": 10,
       "miniatures": 2,
       "tilt shift": 1,
-      "glitch": 7,
+      "glitch": 9,
       "interactive": 6,
       "crowdsource": 4,
       "user interface": 9,
@@ -18925,6 +18919,7 @@
       "Jay-Z": 2,
       "Stereogram": 1,
       "Devendra Banhart": 1,
+      "Pinback": 1,
       "R. Kelly": 1,
       "Cornelius": 1,
       "Peter Bjorn and John": 1,
@@ -19124,7 +19119,7 @@
       "Miike Snow": 1,
       "Valentino Khan": 1,
       "Vince Staples": 2,
-      "Leon Bridges": 2,
+      "Leon Bridges": 1,
       "Mount Moriah": 1,
       "Vessels": 1,
       "Wintergatan": 1,
@@ -19170,7 +19165,6 @@
       "LANY": 1,
       "Weval": 1,
       "Thom Yorke": 1,
-      "Pinback": 1,
       "Bad Bunny": 6,
       "Squarepusher": 1,
       "Four Tet": 1,
@@ -19181,7 +19175,6 @@
       "Yello": 1,
       "FKA twigs": 1,
       "Ariane Roy": 1,
-      "Lucky Daye": 1,
       "Chris Lake": 1,
       "Armand Van Helden": 1,
       "Taylor Bennett": 1,
@@ -19191,7 +19184,7 @@
       "Pharrell Williams": 1,
       "21 Savage": 1,
       "Tyler The Creator": 2,
-      "MorMor": 1,
+      "MorMor": 2,
       "AntsLive": 1,
       "Mette": 4,
       "Slowdive": 1,
@@ -19307,6 +19300,8 @@
       "Patrick Daughters": 4,
       "Alex Smith": 1,
       "Bryan Barber": 1,
+      "Elliot Jokelson": 1,
+      "loyalkaspar": 1,
       "R. Kelly": 1,
       "Jim Swaffield": 1,
       "Koichiro Tsujikawa": 1,
@@ -19436,7 +19431,7 @@
       "Dave Mossop": 1,
       "Eric Crosland": 1,
       "Andrew Thomas Huang": 1,
-      "LAMAR+NIK": 3,
+      "LAMAR+NIK": 2,
       "Hyper Island Motion Graphics": 1,
       "Dimitri Stankowicz": 1,
       "Ryan Barger": 1,
@@ -19559,8 +19554,6 @@
       "Art Camp": 1,
       "Isaac Ravishankara": 1,
       "Páraic McGloughlin": 2,
-      "Elliot Jokelson": 1,
-      "loyalkaspar": 1,
       "STILLZ": 7,
       "Andy Fisher": 1,
       "Daito Manabe": 1,
@@ -19577,9 +19570,9 @@
       "Joe Newman": 1,
       "Darcy Wallace": 1,
       "François Rousselet": 1,
+      "Camille Summers-Valli": 3,
       "Tom Emmerson": 1,
       "Tyler The Creator": 1,
-      "Camille Summers-Valli": 2,
       "Eliott Sellers": 1,
       "Janelle Monáe": 1,
       "Noel Paul": 2,
